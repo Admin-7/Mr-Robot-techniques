@@ -1,5 +1,7 @@
 > [[Wiki|Home]] ▸ **Activities and events**
 
+There is a near-constant buzz of organizing activity in New York City. In addition to the day-to-day hum of socializing, planning, and learning that happens among AnarchoTechNYC members, we also often organize recurring or one-off events. These include workshops, documentary screenings, and a bunch of other things you may not think of immediately! Some of these activities become traditions and are continued by multiple organizers.
+
 > 📝 Editor's note: These sub-sections may be most useful alphabetically sorted?
 
 # Activities
