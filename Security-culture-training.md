@@ -1,4 +1,8 @@
-> [[Wiki|Home]] ▸ [[Training guides]] ▸ **Security culture training**
+> [[Wiki|Home]] ▸ [[Guides and advice]] ▸ **Security culture training**
+
+# Movement building
+
+* [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators.
 
 # Digital security
 
