@@ -1,5 +1,10 @@
 > [[Wiki|Home]] ▸ **Accomplices and allies**
 
-The AnarchoTechNYC collective is but one of a number of affinity groups organizing against fascism. This page lists other groups we're aware of; none of these links are endorsements.
+The AnarchoTechNYC collective is but one of a number of affinity groups organizing against fascism. This page lists other groups with whom we have some collaboration. None of these links are endorsements; ask a comrade about the specific work being done if you're interested in learning more about our work.
 
+> 📝 Editor's note: Please keep this list alphabetized for ease of reference, and focus on groups who have shown an interest in actual collaboration, not just a link-dump of groups we know exist. (Thank you!)
+
+* [A World Without Police](http://aworldwithoutpolice.org) - an online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
 * [Better Angels Collective](https://betterangels.github.io/) - a wholly virtual "anarchist collective creating liberatory software."
+* [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
+* [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - an Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
