@@ -13,3 +13,9 @@ The AnarchoTechNYC wiki is a collection of thoughts, guides, and links, with a f
 One of the best parts of AnarchoTechNYC are the regular activities and traditions that tech antifa folks have created over the years. Some are ongoing [[activities and events]] while others are one-offs, but any can be revived and new ones created by *you* at any time!
 
 * [[Mr. Robot's Netflix 'n' Hack]] - Let Mr. Robot teach you how to hack.
+
+# [[Accomplices and allies]]
+
+In addition to the AnarchoTechNYC group, there are a lot of affinity groups with whom we collaborate. Check some of them out!
+
+* [Better Angels Collective](https://github.com/betterangels/better-angels/wiki)
