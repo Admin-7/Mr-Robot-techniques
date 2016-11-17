@@ -75,13 +75,17 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 # For defenders
 
-* [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+* [PrivacyTools.io](https://privacytools.io)
 
-  A brief and attractive zine written by ABC Dresden that introduces activist laypeople to various components of infosec.  There is also an [imposed version](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-IMPOSED.pdf) for printing and distributing in meatspace.
+  Simply start at the top and read down the page. This is as guided an introduction to privacy issues and what to do about them as it gets.
 
 * [Surveillance Self-Defense](https://ssd.eff.org/)
 
   The Electronic Frontier Foundation's thorough guide to defending yourself and your friends from surveillance by using secure technology and developing careful practices.
+
+* [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+
+  A brief and attractive zine written by ABC Dresden that introduces activist laypeople to various components of infosec.  There is also an [imposed version](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-IMPOSED.pdf) for printing and distributing in meatspace.
 
 ***
 
