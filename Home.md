@@ -4,6 +4,8 @@ The AnarchoTechNYC wiki is **a collection of thoughts, guides, and links, with a
 
 # [[Training guides]]
 
+> 📝 Editor's note: Do we really have responsibility for all these guides, or just the "security culture" stuff and, within that, just the "digital security" piece? We may need to scope this down further and/or prune the pieces we are not actually bottom lining.
+
 Self-directed education is a critical first step to empowering yourself, your loved ones, and your community. Our [[training guides]] are living documents offering you a place to *start* learning and exploring, rather than a one-stop shop or one size fits all knowledge dump. Our guides are organized into three broad categories:
 
 * [[Self-defense training]] - guide to preparing yourself to fight, physically if necessary.
