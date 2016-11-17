@@ -2,8 +2,6 @@
 
 * Tagline: Let Mr. Robot teach you how to hack.
 * Description: Watch an episode of "[Mr. Robot](http://www.imdb.com/title/tt4158110/)," a TV show dramatizing the lives of rogue hackers in NYC with unparalleled technical accuracy, and then get an introduction to how the tools, techniques, and procedures shown in the episode work in real life. After we watch an episode of the show, we'll discuss the tools used, get them installed on our laptops, and try them out. Then we'll meet again next week to show one another what we've learned, and continue with the next episode. By the end of the 10-week season, you'll have gotten a hands-on tour of various tools in the Kali Linux penetration testing distro, and a better sense of how to separate fiction from reality in contemporary hacking dramas in pop culture.
-* [Zulip RSVP stream](https://recurse.zulipchat.com/#narrow/stream/RSVPs/topic/Mr.2E.20Robot%27s.20Netflix.20%27n%27.20Hack).
-* [Community thread](https://community.recurse.com/t/mr-robot-s-netflix-n-hack/2119).
 * See also [[InfoSec]].
 
 Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see if this is a show you might enjoy watching and learning from:
