@@ -2,15 +2,15 @@
 
 The AnarchoTechNYC wiki is **a collection of thoughts, guides, and links, with a focus on building anti-fascist tools, and supporting our communities** against authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
 
-* [Training guides](#training-guides)
+* [Guides and advice](#guides-and-advice)
 * [Activities and events](#activities-and-events)
 * [Accomplices and allies](#accomplices-and-allies)
 
-# [[Training guides]]
+# [[Guides and advice]]
 
 > 📝 Editor's note: Do we really have responsibility for all these guides, or just the "security culture" stuff and, within that, just the "digital security" piece? We may need to scope this down further and/or prune the pieces we are not actually bottom lining.
 
-Self-directed education is a critical first step to empowering yourself, your loved ones, and your community. Our [[training guides]] are living documents offering you a place to *start* learning and exploring, rather than a one-stop shop or one size fits all knowledge dump. Our guides are organized into three broad categories:
+Self-directed education, personal initiative, and respect for others are all critical first steps to empowering yourself, your loved ones, and your community. We've composed a set of living documents offering you a place to *start* learning and exploring. These are not a one-stop shop or one size fits all knowledge dump; try stuff out, ask questions, nurture relationships with your comrades.
 
 * [[New member orientation guide]] - a self-paced walkthrough to familiarize yourself with how we organize.
 * [[Self-defense training]] - guide to preparing yourself to fight, physically if necessary.
