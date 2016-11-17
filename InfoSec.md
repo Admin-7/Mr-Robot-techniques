@@ -4,7 +4,7 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 # At AnarchoTechNYC
 
-* [[Mr. Robot's Netflix 'n' Hack|Activities and events#mr-robots-netflix-n-hack]], a weekly guided tour of hacking tools in pop culture
+* [[Mr. Robot's Netflix 'n' Hack]], a weekly guided tour of hacking tools in pop culture
 
 # CTFs and Hacking Games
 
