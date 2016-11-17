@@ -6,7 +6,7 @@
 
 * "[A gentle introduction to threats and how to defend against them](https://maymay.net/blog/2015/07/28/cryptoparty-albuquerque-a-gentle-introduction-to-threats-and-how-to-defend-against-them/)" - This is a video and a heavily-hyperlinked transcript of a presentation I first put together for CryptoParty Albuquerque in 2015, published on my personal blog.
 * "[Know Your (Digital) Rights](https://maymay.net/blog/2015/08/08/cryptoparty-albuquerque-know-your-digital-rights/)" - my co-organizer from CryptoParty Albuquerque put together a legal primer, which we also have a video recording and heavily-hyperlinked transcript for posted on my personal blog.
-  * Another resource, especially useful for Recursers, is the [Privacy Rights Clearinghouse's Consumer Guide on Workplace Privacy and Employee Monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring), which gives an overview (and more links) on the legalities of asserting your privacy rights as an employee of a company.
+  * Another resource, especially useful for employed people, is the [Privacy Rights Clearinghouse's Consumer Guide on Workplace Privacy and Employee Monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring), which gives an overview (and more links) on the legalities of asserting your privacy rights as an employee of a company.
 
 In addition to these primers and the links included in them, additional useful resources are:
 
