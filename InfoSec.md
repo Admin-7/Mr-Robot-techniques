@@ -63,9 +63,17 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 # Lesson plans and guidance
 
+* [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+
+  A brief and attractive zine written by ABC Dresden that introduces activist laypeople to various components of infosec.  There is also an [imposed version](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-IMPOSED.pdf) for printing and distributing in meatspace.
+
 * [HackerHigherschool.org](http://hackerhighschool.org/)
 
   Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics.
+
+* [Surveillance Self-Defense](https://ssd.eff.org/)
+
+  The Electronic Frontier Foundation's thorough guide to defending yourself and your friends from surveillance by using secure technology and developing careful practices.
 
 ***
 
