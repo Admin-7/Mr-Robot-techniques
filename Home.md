@@ -7,3 +7,9 @@ The AnarchoTechNYC wiki is a collection of thoughts, guides, and links, with a f
 * [[Self-defense training]] - guide to preparing yourself to fight, physically if necessary.
 * [[Anti-fascist training]] - guide to understanding the political landscape.
 * [[Security culture training]] - guide to computer, information, and cybersecurity practices.
+
+# [[Activities and events]]
+
+One of the best parts of AnarchoTechNYC are the regular activities and traditions that tech antifa folks have created over the years. Some are ongoing [[activities and events]] while others are one-offs, but any can be revived and new ones created by *you* at any time!
+
+* [[Mr. Robot's Netflix 'n' Hack]] - Let Mr. Robot teach you how to hack.
