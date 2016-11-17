@@ -2,6 +2,10 @@
 
 The AnarchoTechNYC wiki is **a collection of thoughts, guides, and links, with a focus on building anti-fascist tools, and supporting our communities** against authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
 
+* [Training guides](#training-guides)
+* [Activities and events](#activities-and-events)
+* [Accomplices and allies](#accomplices-and-allies)
+
 # [[Training guides]]
 
 > 📝 Editor's note: Do we really have responsibility for all these guides, or just the "security culture" stuff and, within that, just the "digital security" piece? We may need to scope this down further and/or prune the pieces we are not actually bottom lining.
