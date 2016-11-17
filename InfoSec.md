@@ -2,6 +2,12 @@
 
 Cool stuff for "The Cyber" that tech antifa folks have played around with/contributed to/enjoyed pentesting in the past.
 
+1. [At AnarchoTechNYC](#at-anarchotechnyc)
+1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
+1. [Labs and practice VMs](#labs-and-practice-vms)
+1. [Lesson plans and guidance](#lesson-plans-and-guidance)
+1. [For defenders](#for-defenders)
+
 # At AnarchoTechNYC
 
 * [[Mr. Robot's Netflix 'n' Hack]], a weekly guided tour of hacking tools in pop culture
@@ -63,13 +69,15 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 # Lesson plans and guidance
 
-* [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
-
-  A brief and attractive zine written by ABC Dresden that introduces activist laypeople to various components of infosec.  There is also an [imposed version](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-IMPOSED.pdf) for printing and distributing in meatspace.
-
 * [HackerHigherschool.org](http://hackerhighschool.org/)
 
   Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics.
+
+# For defenders
+
+* [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+
+  A brief and attractive zine written by ABC Dresden that introduces activist laypeople to various components of infosec.  There is also an [imposed version](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-IMPOSED.pdf) for printing and distributing in meatspace.
 
 * [Surveillance Self-Defense](https://ssd.eff.org/)
 
