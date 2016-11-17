@@ -4,6 +4,6 @@ The AnarchoTechNYC wiki is a collection of thoughts, guides, and links, with a f
 
 # Training guides
 
-* [[Self-defense training]]
-* [[Anti-fascist training]]
-* [[Security culture training]]
+* [[Self-defense training]] - guide to preparing yourself to fight, physically if necessary.
+* [[Anti-fascist training]] - guide to understanding the political landscape.
+* [[Security culture training]] - guide to computer, information, and cybersecurity practices.
