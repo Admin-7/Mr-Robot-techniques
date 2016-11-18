@@ -10,7 +10,7 @@ The following pages hope to familiarize you with these tools and provide a self-
 
 # GitHub
 
-If you're reading this, you're already here! GitHub is a Web-based collaboration tool useful for documenting incomplete knowledge (this wiki), having discussions (our [issues tracker](https://github.com/AnarchoTechNYC/meta/issues)), organizing our various projects ([organization repositories](https://github.com/AnarchoTechNYC)), and more. Everything that happens on GitHub is public, and easily downloadable. Accounts are free. Creating an account on GitHub allows you to edit these wiki pages and contribute to our community in other ways.
+If you're reading this, you're already here! GitHub is a Web-based collaboration tool useful for documenting incomplete knowledge (this wiki), having discussions (our [issues tracker](https://github.com/AnarchoTechNYC/meta/issues)), organizing various software development efforts ([organization repositories](https://github.com/AnarchoTechNYC)), visualizing an overview of our projects ([our `meta` repo's Projects](https://github.com/AnarchoTechNYC/meta/projects)), and more. Everything that happens on GitHub is public, and easily downloadable. Accounts are free. Creating an account on GitHub allows you to edit these wiki pages and contribute to our community in other ways.
 
 **Do this:**
 
