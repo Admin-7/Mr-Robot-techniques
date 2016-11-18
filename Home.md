@@ -22,6 +22,7 @@ Self-directed education, personal initiative, and respect for others are all cri
 One of the best parts of AnarchoTechNYC are the regular activities and traditions that tech antifa folks have created over the years. Some are ongoing activities while others are one-offs, but any can be revived and new ones created by *you* at any time! Some of our more consistent and exciting activities are listed below, but be sure to check out the [[Activities and events]] portal page for a full list.
 
 * [[Mr. Robot's Netflix 'n' Hack]] - Let Mr. Robot teach you how to hack.
+* [[Defense Against the Dark Arts]] - Go deep regarding existing cybersecurity threats and how to defend against them.
 
 # [[Accomplices and allies]]
 
