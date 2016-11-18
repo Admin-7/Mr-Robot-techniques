@@ -1,0 +1,6 @@
+> [[Wiki|Home]] ▸ [[Activities and events]] ▸ **Defense Against the Dark Arts**
+
+* Tagline: Digital fight training where we set up network perimeters and devices, and practice both breaching and hardening them.
+* Description: Practice defending against and executing a specific real-world threat in a live (but simulated) duel against your classmates. In each session, we'll go deep with a narrow focus on a specific threat (network monitoring, physical surveillance, web app compromise, etc). After an overview, we'll split into two groups: "attackers" and "defenders." Defenders will be tasked with defending one or more services, devices, or networks, while attackers will be tasked with infiltrating them and/or exfiltrating data from them. After a short time limit, attackers become defenders and defenders become attackers, and the duel repeats. This is not about winning or losing, it's about sparring in a digital arena to better understand the terrain and expand your capabilities in it.
+
+> 🚧 TK-TODO
