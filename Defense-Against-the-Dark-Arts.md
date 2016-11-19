@@ -6,7 +6,7 @@
 > 🚧 TK-WORK IN PROGRESS: I'm not certain how this format should go, yet. There are many [[CTFs|InfoSec#ctfs-and-hacking-games]] that we could join, but those don't typically require us to *set up* our own infrastructure. The point of *defense* against the dark arts is to do exactly that: learn how to harden and protect our own communities, not just how to go on the offense. So, I'm of two minds. Either:
 > 
 > * we have somewhat longer classes for one group to set up and the other group to prepare attacks, or
-> * we split into groups and *only* set up some infrastructure, then "attack" the other team's infrastructure in the time between the session and the next session
+> * have "defenders" *paired directly with* "attackers." Defenders follow a (not too detailed) guide to set up infrastructure (a web app, a database service, a new SSH account on a server, maybe even just a browser pointing to a page with an example form available over both HTTP and HTTPS), and then "attackers" (possibly even their partner) follow a similar (not too detailed) guide for breaking into the defender's service/sniffing the defender's traffic, etc.
 
 # Exercise ideas
 
