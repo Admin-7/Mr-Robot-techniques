@@ -1,10 +1,73 @@
 > [[Wiki|Home]] ▸ [[Guides and advice]] ▸ **Security culture training**
 
-# Movement building
+# [[Digital security]]
 
-* [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators.
+It's good to have lots of questions about "security." This section is designed to point you in the right direction towards existing resources based on your concerns, fill in the gaps where they exist, and equip you with enough Internet street smarts for you to feel safer online. Use the following table to find the best resources for your situation.
 
-# Digital security
+> 👍 Many thanks to [CommunityRED](http://communityred.org/) for inspiring the foundational structure of much of this guide.
+> 
+> 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Please contribute, but perhaps do so by [opening issues](https://github.com/AnarchoTechNYC/meta/issues/new) instead?
+
+<table>
+<thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th colspan="3">DEFENDER</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th></th>
+        <th>Individual</th>
+        <th>Vocal community member</th>
+        <th>Targeted activist</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>
+            <img src="https://github.com/mcMMO-Dev/mcMMO/wiki/images/player-64x.png" alt="" align="left" />
+            I'm just an ordinary person, but I've been harassed online and off for being Muslim/LGBT/queer/a woman/not a citizen/etc. What can I do to protect myself?
+        </td>
+        <td>
+            I've been vocal about my political beliefs online/at school/at work, and I'm now I'm worried about a backlash. I may or may not have been involved in some community organizing and advocacy groups.
+        </td>
+        <td>
+            <img src="https://github.com/mcMMO-Dev/mcMMO/wiki/images/admin-64x.png" alt="" align="left" />
+            I've been personally targeted for my activism and for speaking out about issues important to me already, and I want to do everything I can to protect myself from sophisticated, dedicated, frightening attackers.
+        </td>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <th rowspan="3">ATTACKERS</th>
+        <th>Harassers</th>
+        <td>
+            <!-- Individuals being targeted by lone harassers or a group (of other individuals). -->
+            <ul>
+                <li>Scrub your personal data from the Internet, i.e., see <a href="https://medium.com/@CommunityRED/feeling-scared-me-too-6ff2300e6836">this guide</a></li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>Corporations</th>
+        <td>
+            <!-- Individuals' data being collected by corporate interests. -->
+            <a href="Minimizing-corporate-data-collection">Minimizing corporate data collection</a>
+        </td>
+    </tr>
+    <tr>
+        <th>Governments (sophisticated and dedicated attackers targeting you, personally)</th>
+        <td>
+            <!-- Individuals being targeted by sophisticated attackers. -->
+            🚧 TK-TODO
+            <ul>
+                <li>Defending against/evading ICE raids</li>
+            </ul>
+        </td>
+    </tr>
+</tbody>
+</table>
 
 > 📝 Editor's note: This is a braindump following up from a recent commsec training; please feel free to organize.
 
@@ -21,3 +84,7 @@ In addition to these primers and the links included in them, additional useful r
 * [Security in a Box](https://securityinabox.org/) - A slightly dated, but still generally solid, resource website featuring much of the same content as the EFF's Surveillance Self-Defense guide, but with a regularly updated blog. Created and maintained by the [TacticalTech.org](https://tacticaltech.org/) collective.
 
 There's a ton of stuff in there, and learning about how to defend yourself from governments, corporations, or malicious individuals on the Internet is more involved than simply picking up one or two tools. But a few well-chosen tools does give you a really, really good start. Taking some time to familiarize yourself with the above guides will hopefully help you become even more capable.
+
+# Movement building
+
+* [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators.
