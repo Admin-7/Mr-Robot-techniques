@@ -7,6 +7,8 @@ It's good to have lots of questions about "security." This section is designed t
 > 👍 Many thanks to [CommunityRED](http://communityred.org/) for inspiring the foundational structure of much of this guide.
 > 
 > 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Please contribute, but perhaps do so by [opening issues](https://github.com/AnarchoTechNYC/meta/issues/new) instead?
+> 
+> 💡 **How to use this table:** TK-TODO: TL;DR: The cells to the left of "your cell" are also relevant to you!
 
 <table>
 <thead>
@@ -48,22 +50,57 @@ It's good to have lots of questions about "security." This section is designed t
                 <li>Scrub your personal data from the Internet, i.e., see <a href="https://medium.com/@CommunityRED/feeling-scared-me-too-6ff2300e6836">this guide</a></li>
             </ul>
         </td>
-    </tr>
-    <tr>
-        <th>Corporations</th>
         <td>
-            <!-- Individuals' data being collected by corporate interests. -->
-            <a href="Minimizing-corporate-data-collection">Minimizing corporate data collection</a>
+            <!-- Vocal community member being targeted by "enemy" groups. -->
+            🚧 TK-TODO
+        </td>
+        <td>
+            <!-- Prominent activist being targeted by hate groups. -->
+            🚧 TK-TODO
         </td>
     </tr>
     <tr>
-        <th>Governments (sophisticated and dedicated attackers targeting you, personally)</th>
+        <th>Corporations/small institutions</th>
+        <td>
+            <!-- Individuals' data being collected by corporate interests. -->
+            <ul>
+                <li>
+                    <a href="https://lifehacker.com/5887140/everyones-trying-to-track-what-you-do-on-the-web-heres-how-to-stop-them">Lifehacker: Everyone's trying to track what you do on the Web. Here's how to stop them</a>
+                </li>
+                <li>
+                    <a href="https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring">Privacy Rights Clearinghouse's Consumer Guide on Workplace Privacy and Employee Monitoring</a> - an overview (and more links) on the legalities of asserting your privacy rights as an employee of a company
+                </li>
+            </ul>
+        </td>
+        <td>
+            <!-- Vocal community member being monitored by a company. -->
+            🚧 TK-TODO
+        </td>
+        <td>
+            <!-- Prominent activist being targeted by multinational. -->
+            🚧 TK-TODO
+        </td>
+    </tr>
+    <tr>
+        <th>Governments/State actors</th>
         <td>
             <!-- Individuals being targeted by sophisticated attackers. -->
-            🚧 TK-TODO
             <ul>
-                <li>Defending against/evading ICE raids</li>
+                <li>
+                    [[Defending against ICE raids]] (like <a href="http://jlovelaw.com/updates/latest-news/157-how-to-protect-yourself-against-ice-raids">this guide</a>?)
+                </li>
+                <li>
+                    <a href="http://online.stanford.edu/course/surveillance-law">Surveillance law</a> - a free Stanford course
+                </li>
             </ul>
+        </td>
+        <td>
+            <!-- Community members/advocates being targeted by sophisticated attackers. -->
+            🚧 TK-TODO
+        </td>
+        <td>
+            <!-- Prominent activists being targeted by sophisticated attackers for their activism. -->
+            🚧 TK-TODO
         </td>
     </tr>
 </tbody>
