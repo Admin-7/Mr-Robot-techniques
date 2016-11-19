@@ -8,7 +8,7 @@ It's good to have lots of questions about "security." This section is designed t
 > 
 > 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Please contribute, but perhaps do so by [opening issues](https://github.com/AnarchoTechNYC/meta/issues/new) instead?
 > 
-> 💡 **How to use this table:** TK-TODO: TL;DR: The cells to the left of "your cell" are also relevant to you!
+> 💡 **How to use this table:** TK-TODO: TL;DR: The cells to the left and above of "your cell" are also relevant to you!
 
 <table>
 <thead>
