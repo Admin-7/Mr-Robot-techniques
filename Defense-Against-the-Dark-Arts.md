@@ -7,6 +7,7 @@
 > 
 > * we have somewhat longer classes for one group to set up and the other group to prepare attacks, or
 > * have "defenders" *paired directly with* "attackers." Defenders follow a (not too detailed) guide to set up infrastructure (a web app, a database service, a new SSH account on a server, maybe even just a browser pointing to a page with an example form available over both HTTP and HTTPS), and then "attackers" (possibly even their partner) follow a similar (not too detailed) guide for breaking into the defender's service/sniffing the defender's traffic, etc.
+> * Another idea is to maybe split into only two groups and have a "mob coding" style round-table where each group works together to set up a service with a time limit, then at some predefined time each group goes into attack mode and tries to compromise the other.
 
 # Exercise ideas
 
