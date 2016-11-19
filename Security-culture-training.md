@@ -6,7 +6,7 @@ It's good to have lots of questions about "security." This section is designed t
 
 > 👍 Many thanks to [CommunityRED](http://communityred.org/) for inspiring the foundational structure of much of this guide.
 > 
-> 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Please contribute, but perhaps do so by [opening issues](https://github.com/AnarchoTechNYC/meta/issues/new) instead?
+> 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Feel free to tweak / add resources. For substantive discussion, [open an issue](https://github.com/AnarchoTechNYC/meta/issues/new).
 > 
 > 💡 **How to use this table:** TK-TODO: TL;DR: The cells to the left and above of "your cell" are also relevant to you!
 
