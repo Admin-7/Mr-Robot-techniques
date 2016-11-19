@@ -30,5 +30,13 @@ This is a scratchpad of exercise ideas. Specific exercises/classes/sessions shou
   * Possible tools:
     * Using Hydra to brute-force logins
     * CMS scanners such as `wpscan` to quickly scan for vulnerabilities on a group website
-
+* Phishing emails:
+  * Answers questions like:
+    * "Why should I be careful when I click links in email?"
+    * "Why are email attachments dangerous?"
+    * "If I just use webmail instead of an app, am I safe?"
+    * "How can I tell if email is real, and not a fake?"
+  * Possible tools:
+    * `recon-ng`, Maltego, etc.
+    * SET for sending spoofed email (or SMS, etc.)
 * …?
