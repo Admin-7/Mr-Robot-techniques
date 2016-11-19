@@ -29,7 +29,6 @@ This is a scratchpad of exercise ideas. Specific exercises/classes/sessions shou
     * "What happens if an account is 'compromised' and what impact could this have on other users?"
   * Possible tools:
     * Using Hydra to brute-force logins
-    * CMS scanners such as `wpscan` to quickly scan for vulnerabilities on a group website
 * Phishing emails:
   * Answers questions like:
     * "Why should I be careful when I click links in email?"
@@ -39,4 +38,9 @@ This is a scratchpad of exercise ideas. Specific exercises/classes/sessions shou
   * Possible tools:
     * `recon-ng`, Maltego, etc.
     * SET for sending spoofed email (or SMS, etc.)
+* Compromising a simple group website
+  * Answers questions like:
+    * "How do I stop my my group's site from getting hacked?"
+  * Possible tools:
+    * CMS scanners such as `wpscan` to quickly scan for vulnerabilities on a group website
 * …?
