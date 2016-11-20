@@ -67,7 +67,7 @@ During post-show discussion, we brought up:
 
 # Week 2 (S01E02)
 
-* [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug)), a severe and pervasive vulnerability patched in 2014. Try it yourself:
+* [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug)), a severe and pervasive vulnerability patched in 2014. ("Evil Corp's corporate mail server hadn't been updated since the days of Shellshock.") Try it yourself:
   * [PentesterLab practice VM for CVE-2014-6271](https://pentesterlab.com/exercises/cve-2014-6271)
   * [VulnHub practice VM for CVE-2014-6271](https://www.vulnhub.com/entry/pentester-lab-cve-2014-6271-shellshock,104/)
 * "Doesn't even use two-step verification" also known as (2FA) - [Wikipedia page](https://en.wikipedia.org/wiki/Multi-factor_authentication)
@@ -75,7 +75,12 @@ During post-show discussion, we brought up:
     1. Something you know (knowledge; e.g., password)
     1. Something you have (posession)
     1. Something you are (biometrics)
-* "Who knows how long these data dumps will go on?"
+* Microwaving electronics:
+  * debatable way of destroying info on a hard drive;
+  * microwaving can destroy transistors on chips;
+  * effective for [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) chips inside credit cards, passports, etc.
+* [`john` password cracker](http://www.openwall.com/john/)
+* "Who knows how deep these data dumps will get?"
   * "Data dump" is data acquired from a breach; read [Troy Hunt on how he verifies data breaches](https://www.troyhunt.com/heres-how-i-verify-data-breaches/)
   * Also sign up for https://HaveIBeenPwned.org
   * DO. NOT. RE. USE. PASSWORDS. Password managers like [LastPass](http://lastpass.com/), [KeePass](http://keepass.info/), 1Password, etc.
