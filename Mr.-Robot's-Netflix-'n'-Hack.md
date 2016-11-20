@@ -91,6 +91,11 @@ During post-show discussion, we brought up:
   * a "PLC" is a [Programmable Logic Controller](https://en.wikipedia.org/wiki/Programmable_logic_controller), embedded devices that are typically used as sensors or controllers for [SCADA](https://en.wikipedia.org/wiki/SCADA) devices (industrial control systems, see also "critical infrastructure," dams, power plants, heating and ventilation [HVAC](https://en.wikipedia.org/wiki/HVAC) and so on)
   * Read: [Target Hackers Broke in Via HVAC Company](http://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/).
 * ["Worm"](https://en.wikipedia.org/wiki/Computer_worm): an autonomously propagating malware (distinct from "virus")
+* Fernando Vera (a drug dealer) "conducts all his transactions via IMs, emails, and text messages."
+  * Use [Signal](https://whispersystems.org/) to protect IM/txt-style communications.
+  * Use PGP (aka GPG) to encrypt email communications.
+    * [Windows GPG guide](https://ssd.eff.org/en/module/how-use-pgp-windows)
+    * [macOS GPG guide](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
 * "timing his tweets to recent news articles" -> Google Dorking -> see also [Exploit-DB's Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
   * Using advanced search terms to filter search engine results to far more relevant pieces of information based on time, metadata (title, publisher, outbound and inbound links, etc.)
   * [Wired: Use These Secret NSA Google Search Tips to Become Your Own Spy Agency](https://www.wired.com/2013/05/nsa-manual-on-hacking-internet/)
