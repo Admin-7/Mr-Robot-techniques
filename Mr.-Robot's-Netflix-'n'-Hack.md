@@ -77,7 +77,7 @@ During post-show discussion, we brought up:
     1. Something you are (biometrics)
 * [`john` password cracker](http://www.openwall.com/john/)
 * Microwaving electronics:
-  * debatable way of destroying info on a hard drive;
+  * debatable way of destroying info on a hard drive (use a drill instead);
   * microwaving can destroy transistors on chips;
   * effective for [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) chips inside credit cards, passports, etc.
 * "Who knows how deep these data dumps will get?"
