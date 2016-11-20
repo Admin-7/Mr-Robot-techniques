@@ -75,11 +75,11 @@ During post-show discussion, we brought up:
     1. Something you know (knowledge; e.g., password)
     1. Something you have (posession)
     1. Something you are (biometrics)
+* [`john` password cracker](http://www.openwall.com/john/)
 * Microwaving electronics:
   * debatable way of destroying info on a hard drive;
   * microwaving can destroy transistors on chips;
   * effective for [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) chips inside credit cards, passports, etc.
-* [`john` password cracker](http://www.openwall.com/john/)
 * "Who knows how deep these data dumps will get?"
   * "Data dump" is data acquired from a breach; read [Troy Hunt on how he verifies data breaches](https://www.troyhunt.com/heres-how-i-verify-data-breaches/)
   * Also sign up for https://HaveIBeenPwned.org
