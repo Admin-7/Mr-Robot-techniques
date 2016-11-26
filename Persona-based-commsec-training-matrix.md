@@ -38,6 +38,7 @@ Defenders (columns):
 
 # Small organizations vs. organizers & journalists
 
+* On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
 * Use Tor to hide your physical-world location
 
 
