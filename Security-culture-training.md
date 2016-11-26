@@ -20,22 +20,26 @@ It's good to have lots of questions about "security." This section is designed t
     <tr>
         <th></th>
         <th></th>
-        <th>Individual</th>
+        <th>
+            <img src="https://github.com/mcMMO-Dev/mcMMO/wiki/images/player-64x.png" alt="" align="left" />
+            Individual
+        </th>
         <th>Vocal community member</th>
-        <th>Targeted activist</th>
+        <th>
+            <img src="https://github.com/mcMMO-Dev/mcMMO/wiki/images/admin-64x.png" alt="" align="left" />
+            Targeted activist
+        </th>
     </tr>
     <tr>
         <td></td>
         <td></td>
         <td>
-            <img src="https://github.com/mcMMO-Dev/mcMMO/wiki/images/player-64x.png" alt="" align="left" />
             I'm just an ordinary person, but I've been harassed online and off for being Muslim/LGBT/queer/a woman/not a citizen/etc. What can I do to protect myself?
         </td>
         <td>
             I've been vocal about my political beliefs online/at school/at work, and I'm now I'm worried about a backlash. I may or may not have been involved in some community organizing and advocacy groups.
         </td>
         <td>
-            <img src="https://github.com/mcMMO-Dev/mcMMO/wiki/images/admin-64x.png" alt="" align="left" />
             I've been personally targeted for my activism and for speaking out about issues important to me already, and I want to do everything I can to protect myself from sophisticated, dedicated, frightening attackers.
         </td>
     </tr>
