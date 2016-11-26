@@ -9,6 +9,10 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 
 [![Mr. Robot Season 1, extended trailer](http://img.youtube.com/vi/U94litUpZuc/0.jpg)](http://www.youtube.com/watch?v=U94litUpZuc)
 
+* [Week 1 (S01E01)](#week-1-s01e01)
+* [Week 2 (S01E02)](#week-2-s01e02)
+* [Week 3 (S01E03)](#week-3-s01e03)
+
 # Week 1 (S01E01)
 
 * [Tor](https://torproject.org/)
@@ -111,7 +115,15 @@ During post-show discussion, we brought up:
   * A (simplistic) overview of [Remote Access Tools](http://resources.infosecinstitute.com/remote-access-tool/)
   * [cover your webcam with tape](https://www.theguardian.com/world/2016/jun/06/surveillance-camera-laptop-smartphone-cover-tape) (or a cam-cover) as an easy mitigation
 
-
 # Week 3 (S01E03)
 
-* 🚧 TK-TODO
+* Understaffed/overworked IT departments:
+  * [Security Intelligence: Why Overworked Employees Are Security Risks](https://securityintelligence.com/security-risk-staffing-it-teams-overworked-employees/)
+* Security risks of old software, read "[Malware Infection Vectors: Past, Present, and Future](https://www.symantec.com/connect/articles/malware-infection-vectors-past-present-and-future)"
+  * Windows 98
+  * Microsoft Outlook, a common infection vector
+* Virus scanners, e.g., [Norton Security Scan](https://security.symantec.com/nss/getnss.aspx?langid=ie&venid=sym)
+* [Voice changer](https://en.wikipedia.org/wiki/Voice_changer) (voice disguising software)
+* Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"
+* Gideon quote: "Pastebin, IRC, and set up scripts to monitor round the clock"
+  * (Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
