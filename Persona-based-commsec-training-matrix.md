@@ -14,10 +14,11 @@ Attackers:
 
 * Scrub personal data from Spokeo/PeopleSearch/Pipl.com, etc.
 * Use a password manager (and all that that entails!)
-* Don't check in to Foursquare
+* Don't check in to Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
 * Audit/improve your social network privacy settings
+* turn off "auto-pay" (and use Password Manager fill-in instead)
 * …?
 
 # Individuals vs. Small organizations
@@ -27,6 +28,7 @@ Attackers:
 * …?
 * Signal (because of authentication, not just for privacy)
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
+* Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 
 # Individuals vs. Multinationals/Government
 
