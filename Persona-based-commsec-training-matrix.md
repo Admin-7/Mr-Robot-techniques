@@ -34,7 +34,7 @@ Attackers:
 * Use passphrases, not biometric unlock features such as fingerprints
 * Use cash whenever possible, not a credit card or electronic payment system
 * Switch your default search provider to a Google-alternative
-* Uninstall the Facebook app and use the mobile web version
+* Uninstall the Facebook/Twitter/etc. apps and use the mobile web versions of these sites
 
 # Organizers & journalists vs. Random Assholes
 
