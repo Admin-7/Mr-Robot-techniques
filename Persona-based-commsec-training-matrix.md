@@ -7,6 +7,7 @@
 > 1. Add any/all security practices that fit the persona's risk level as line items in this list
 > 1. Search for and link to appropriate existing guides/educational materials for the line item
 > 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
+>   * "What to do if I run a website?" different from "What to do if I use a website."
 > 1. Tabularize the information and copy to the [[Security culture training#digital-security]] section, for now.
 
 Defenders (columns):
@@ -62,6 +63,8 @@ Attackers (rows):
 * On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
 * Use Tor to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
+* Audit your webserver for information disclosure vulns:
+  * Turn off "directory listings" on your webserver
 
 # Organizers & journalists vs. multinationals/government
 
