@@ -30,6 +30,7 @@ Attackers:
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
 * Use passphrases, not biometric unlock features such as fingerprints
+* Use cash whenever possible, not a credit card or electronic payment system
 
 # Organizers & journalists vs. Random Assholes
 
