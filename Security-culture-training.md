@@ -86,6 +86,9 @@ It's good to have lots of questions about "security." This section is designed t
         <td>
             <!-- Prominent activist being targeted by multinational. -->
             🚧 TK-TODO
+            <ul>
+                <li><a href="https://torproject.org/>Use Tor</a>?</li>
+            </ul>
         </td>
     </tr>
     <tr>
