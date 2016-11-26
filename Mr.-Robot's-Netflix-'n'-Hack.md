@@ -126,7 +126,7 @@ During post-show discussion, we brought up:
 * [Voice changer](https://en.wikipedia.org/wiki/Voice_changer) (voice disguising software)
 * Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"
 * Gideon quote: "Pastebin, IRC, and set up scripts to monitor round the clock"
-  * (Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
+  * [Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
 * Facebook location check-ins, also Foursquare, Yelp, any location-based service - Tyrel following Anwar to the Kiss and Fly club
   * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
 * "With a simple [phishing](https://en.wikipedia.org/wiki/Phishing) scam I owned her password pretty easy."
