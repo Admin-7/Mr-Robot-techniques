@@ -1,3 +1,14 @@
+> 📝 Editor's note: This is a **work in progress**.
+>
+> The goal is to create a digital security training material that focuses on filling in the gaps of other guides and highlighting appropriate practices at certain levels of concern. There are three broad categories of "defenders" (you) and "attackers" (them) in increasing sophistication/resource requirements, creating a 3-by-3 matrix. This matrix is linearized below.
+> 
+> The process we're using to create this material:
+> 
+> 1. Add any/all security practices that fit the persona's risk level as line items in this list
+> 1. Search for and link to appropriate existing guides/educational materials for the line item
+> 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
+> 1. Tabularize the information and copy to the [[Security culture training#digital-security]] section, for now.
+
 Defenders (columns):
 
 * Individuals - people responsible for themselves
