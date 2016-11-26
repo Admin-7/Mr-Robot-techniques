@@ -17,6 +17,7 @@ Attackers:
 * Don't check in to Foursquare
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
+* Audit/improve your social network privacy settings
 * …?
 
 # Individuals vs. Small organizations
@@ -25,12 +26,15 @@ Attackers:
 * Clear cookies (cookie-clearing/whitelisting plugins)
 * …?
 * Signal (because of authentication, not just for privacy)
+* Audit/revoke your social network account "Connected Apps" settings for apps you don't use
 
 # Individuals vs. Multinationals/Government
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
 * Use passphrases, not biometric unlock features such as fingerprints
 * Use cash whenever possible, not a credit card or electronic payment system
+* Switch your default search provider to a Google-alternative
+* Uninstall the Facebook app and use the mobile web version
 
 # Organizers & journalists vs. Random Assholes
 
