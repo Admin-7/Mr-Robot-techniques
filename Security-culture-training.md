@@ -6,7 +6,7 @@ It's good to have lots of questions about "security." This section is designed t
 
 > 👍 Many thanks to [CommunityRED](http://communityred.org/) for inspiring the foundational structure of much of this guide.
 > 
-> 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Feel free to tweak / add resources. For substantive discussion, [use the issues section](https://github.com/AnarchoTechNYC/meta/issues/6).
+> 🚧 TK-WORK IN PROGRESS: This guide is a work in progress. Feel free to tweak / add resources. See also [[Persona-based commsec training matrix]] in-progress notes. For substantive discussion, [use the issues section](https://github.com/AnarchoTechNYC/meta/issues/6).
 
 > 💡 **How to use this table:** TK-TODO: TL;DR: The cells to the left and above of "your cell" are also relevant to you!
 
