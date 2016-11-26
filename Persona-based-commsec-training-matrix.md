@@ -7,8 +7,12 @@ Defenders (columns):
 Attackers (rows):
 
 * Random Assholes - malicious individuals, harassers or unsophisticated mobs
-* Assholes with resources - organized hate groups, more sophisticated / technical Random Assholes, more dedicated assholes ("jilted lovers" with resources), rogue cops
+* Small organizations (e.g., Assholes with resources) - organized hate groups, more sophisticated / technical Random Assholes, more dedicated assholes ("jilted lovers" with resources), rogue cops
 * Governments / Multinational corporations - The Orange One, surveillance apparatus, Wal-Mart, tech companies like Apple+Google+Facebook, etc.
+
+"Z-axis" aspects:
+
+* "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 
 # Individuals vs. Random Assholes
 
@@ -40,6 +44,7 @@ Attackers (rows):
 
 * 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
 * Use OnionShare/TorBrowser to share files rather than public Dropbox/Google Docs, etc.
+* Consider placing your own domain behind CloudFlare
 
 # Organizers & journalists vs. small organizations
 
@@ -50,6 +55,7 @@ Attackers (rows):
 
 * Use Tor!!!!!11!
 * Host sites somewhere safe (privacytools.io)
+* Consider setting up an `.onion` service to access your site/domain
 * Don't use gmail
 
 # Targeted activists vs. Random Assholes
