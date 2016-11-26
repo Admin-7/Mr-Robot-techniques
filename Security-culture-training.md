@@ -57,6 +57,9 @@ It's good to have lots of questions about "security." This section is designed t
         <td>
             <!-- Vocal community member being targeted by "enemy" groups. -->
             🚧 TK-TODO
+            <ul>
+                <li><a href="https://support.google.com/accounts/answer/1066447?hl=en">Install Google Authenticator for your accounts</a></li>
+            </ul>
         </td>
         <td>
             <!-- Prominent activist being targeted by hate groups. -->
