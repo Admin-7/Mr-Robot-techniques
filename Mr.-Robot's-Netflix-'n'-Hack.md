@@ -131,3 +131,12 @@ During post-show discussion, we brought up:
 * Facebook location check-ins, also Foursquare, Yelp, any location-based service - Tyrel following Anwar to the Kiss and Fly club
   * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
 * "With a simple [phishing](https://en.wikipedia.org/wiki/Phishing) scam I owned her password pretty easy."
+* Mobile phone spyware, [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone):
+  * "RooterFrame" is not real, but [Framaroot](http://framaroot.net/?scn=2) is!
+  * [FlexiSPY](https://www.flexispy.com/) - a commercial mobile phone malware/spyware software as a service
+  * [TrackIMEI](http://www.trackimei.com/) Using a SIM card/IMEI number to track the location of a mobile phone
+  * [SuperSU](http://www.supersu.com/) - Android app to manage `sudo`-like access to installed apps
+* Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market)
+  * Apply a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) to your personal credit line
+  * [Krebs On Security: Peek Inside a Professional Carding Shop](https://krebsonsecurity.com/2014/06/peek-inside-a-professional-carding-shop/)
+  * [IdentityTheft.gov](https://www.identitytheft.gov/) - US government recommendations/resources to "recover from identity theft"
