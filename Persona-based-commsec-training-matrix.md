@@ -44,12 +44,13 @@ Attackers (rows):
 
 * 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
 * Use OnionShare/TorBrowser to share files rather than public Dropbox/Google Docs, etc.
-* Consider placing your own domain behind CloudFlare
+* Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
 
 # Organizers & journalists vs. small organizations
 
 * On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
 * Use Tor to hide your physical-world location
+* Consider placing your own domain behind CloudFlare to hide your server's origin
 
 # Organizers & journalists vs. multinationals/government
 
