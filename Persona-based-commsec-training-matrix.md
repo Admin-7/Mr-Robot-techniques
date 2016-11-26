@@ -4,11 +4,11 @@ Defenders (columns):
 * Organizers & journalists - people responsible for other people as well
 * Targeted activists - you know who you are
 
-Attackers:
+Attackers (rows):
 
-* Random Assholes! - malicious individuals, Random Assholes, or unsophisticated mobs
-* Small organizations / dedicated Random Assholes - organized hate groups, more sophisticated Random Assholes ("jilted lovers" with resources), rogue cops
-* Governments / Multinationals - The Orange One, surveillance apparatus, Wal-Mart, tech companies like Apple+Google+Facebook, etc.
+* Random Assholes - malicious individuals, harassers or unsophisticated mobs
+* Assholes with resources - organized hate groups, more sophisticated / technical Random Assholes, more dedicated assholes ("jilted lovers" with resources), rogue cops
+* Governments / Multinational corporations - The Orange One, surveillance apparatus, Wal-Mart, tech companies like Apple+Google+Facebook, etc.
 
 # Individuals vs. Random Assholes
 
@@ -19,14 +19,12 @@ Attackers:
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
 * Audit/improve your social network privacy settings
 * turn off "auto-pay" (and use Password Manager fill-in instead)
-* …?
 
 # Individuals vs. Small organizations
 
 * Adblockers (uBlock Origin, etc.)
 * Clear cookies (cookie-clearing/whitelisting plugins)
-* …?
-* Signal (because of authentication, not just for privacy)
+* Signal (because of authentication, not just for encryption)
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 
@@ -42,7 +40,6 @@ Attackers:
 
 * 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
 * Use OnionShare/TorBrowser to share files rather than public Dropbox/Google Docs, etc.
-* 
 
 # Organizers & journalists vs. small organizations
 
