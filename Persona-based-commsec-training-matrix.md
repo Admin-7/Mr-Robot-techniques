@@ -7,7 +7,6 @@
 > 1. Add any/all security practices that fit the persona's risk level as line items in this list
 > 1. Search for and link to appropriate existing guides/educational materials for the line item
 > 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
->   * "What to do if I run a website?" different from "What to do if I use a website."
 > 1. Tabularize the information and copy to the [[Security culture training#digital-security]] section, for now.
 
 Defenders (columns):
@@ -24,13 +23,14 @@ Attackers (rows):
 
 "Z-axis" aspects:
 
-* "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
+* Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
+* Behavior/habitual: "Don't click on links in email" and similar
 
 # Individuals vs. Random Assholes
 
 * Scrub personal data from Spokeo/PeopleSearch/Pipl.com, etc.
 * Use a password manager (and all that that entails!)
-* Don't check in to Foursquare/Yelp/etc publicly
+* Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
 * Audit/improve your social network privacy settings
@@ -43,6 +43,7 @@ Attackers (rows):
 * Signal (because of authentication, not just for encryption)
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
+* Turn on "automatic updates" for software you use.
 
 # Individuals vs. Multinationals/Government
 
