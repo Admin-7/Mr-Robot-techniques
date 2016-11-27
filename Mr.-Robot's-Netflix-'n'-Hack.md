@@ -129,7 +129,7 @@ During post-show discussion, we brought up:
 * "Look at Pastebin, IRC, and set up scripts to monitor round the clock" - places where data dumps often first appear
   * [Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
   * [The Next Web: Pastebin: How a popular code-sharing site became the ultimate hacker hangout](http://thenextweb.com/socialmedia/2011/06/05/pastebin-how-a-popular-code-sharing-site-became-the-ultimate-hacker-hangout/)
-* Facebook location check-ins (also Foursquare, Yelp, any location-based service) - Tyrel following Anwar to the Kiss and Fly club, learn about "EXIF data" (metadata in some file formats, like images)
+* Facebook location check-ins (also Foursquare, Yelp, any location-based service) - Tyrel following Anwar to the Kiss and Fly club, [learn about "EXIF data"](http://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/) (metadata in some file formats, like images)
   * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
   * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
   * [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi)
