@@ -150,3 +150,7 @@ During post-show discussion, we brought up:
   * Apply a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) to your personal credit line
   * [Krebs On Security: Peek Inside a Professional Carding Shop](https://krebsonsecurity.com/2014/06/peek-inside-a-professional-carding-shop/)
   * [IdentityTheft.gov](https://www.identitytheft.gov/) - US government recommendations/resources to "recover from identity theft"
+
+# Week 4 (S01E04)
+
+> 🚧 TK-TODO
