@@ -135,7 +135,10 @@ During post-show discussion, we brought up:
   * Historical example: [AOHell](https://en.wikipedia.org/wiki/AOHell)
 * Mobile phone spyware, [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone):
   * "RooterFrame" is not real, but [Framaroot](http://framaroot.net/?scn=2) is!
-  * [FlexiSPY](https://www.flexispy.com/) - a commercial mobile phone malware/spyware software as a service
+  * Commercial mobile phone malware/spyware software as a service vendors:
+    * [FlexiSPY](https://www.flexispy.com/)
+    * [Highster Mobile](http://highstermobile.com/)
+    * [Spyera](https://spyera.com/)
   * [SuperSU](http://www.supersu.com/) - Android app to manage `sudo`-like access to installed apps
   * [TrackIMEI](http://www.trackimei.com/) Using a SIM card/IMEI number to track the location of a mobile phone
   * Read: [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
