@@ -126,10 +126,10 @@ During post-show discussion, we brought up:
 * Virus scanners, e.g., [Norton Security Scan](https://security.symantec.com/nss/getnss.aspx?langid=ie&venid=sym)
 * [Voice changer](https://en.wikipedia.org/wiki/Voice_changer) (voice disguising software)
 * Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"
-* Gideon quote: "Pastebin, IRC, and set up scripts to monitor round the clock"
+* "Look at Pastebin, IRC, and set up scripts to monitor round the clock" - places where data dumps often first appear
   * [Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
   * [The Next Web: Pastebin: How a popular code-sharing site became the ultimate hacker hangout](http://thenextweb.com/socialmedia/2011/06/05/pastebin-how-a-popular-code-sharing-site-became-the-ultimate-hacker-hangout/)
-* Facebook location check-ins, also Foursquare, Yelp, any location-based service - Tyrel following Anwar to the Kiss and Fly club, learn about "EXIF data" (metadata in some file formats, like images)
+* Facebook location check-ins (also Foursquare, Yelp, any location-based service) - Tyrel following Anwar to the Kiss and Fly club, learn about "EXIF data" (metadata in some file formats, like images)
   * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
   * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
   * [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi)
@@ -144,12 +144,17 @@ During post-show discussion, we brought up:
     * [Highster Mobile](http://highstermobile.com/)
     * [Spyera](https://spyera.com/)
   * [SuperSU](http://www.supersu.com/) - Android app to manage `sudo`-like access to installed apps
-  * [TrackIMEI](http://www.trackimei.com/) Using a SIM card/IMEI number to track the location of a mobile phone
   * Read: [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
 * Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market)
   * Apply a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) to your personal credit line
   * [Krebs On Security: Peek Inside a Professional Carding Shop](https://krebsonsecurity.com/2014/06/peek-inside-a-professional-carding-shop/)
   * [IdentityTheft.gov](https://www.identitytheft.gov/) - US government recommendations/resources to "recover from identity theft"
+
+During post-show discussion, we brought up:
+
+* [Cree.py](http://www.geocreepy.com/) - geolocation OSINT tool
+* [TrackIMEI](http://www.trackimei.com/) Using a SIM card/IMEI number to track the location of a mobile phone
+
 
 # Week 4 (S01E04)
 
