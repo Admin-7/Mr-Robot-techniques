@@ -111,6 +111,7 @@ During post-show discussion, we brought up:
 * DeepSound (again)
 * "My album just dropped. … Check track 2 out!" - > social engineering to get Windows malware via autorun on CD
   * [Prevent viruses from using AutoRun to spread](https://support.symantec.com/en_US/article.TECH104447.html)
+  * Real-life example: [Sony Rootkit](https://archive.wired.com/politics/security/news/2005/11/69573?currentPage=all)
 * Webcam spying! Read about "RATs" (remote access tools/trojans)
   * A (simplistic) overview of [Remote Access Tools](http://resources.infosecinstitute.com/remote-access-tool/)
   * [cover your webcam with tape](https://www.theguardian.com/world/2016/jun/06/surveillance-camera-laptop-smartphone-cover-tape) (or a cam-cover) as an easy mitigation
