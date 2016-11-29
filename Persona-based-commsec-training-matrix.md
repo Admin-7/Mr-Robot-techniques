@@ -5,26 +5,42 @@
 > The process we're using to create this material:
 > 
 > 1. Add any/all security practices that fit the persona's risk level as line items in this list
-> 1. Search for and link to appropriate existing guides/educational materials for the line item
-> 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
-> 1. Tabularize the information and copy to the [[Security culture training#digital-security]] section, for now.
+> 2. Search for and link to appropriate existing guides/educational materials for the line item
+> 3. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
+> 4. ~~Tabularize the information~~
+> 5. Copy to the [[Security culture training#digital-security]] section, for now.
+
+> "Z-axis" aspects of the table (for 3 above):
+
+> * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
+> * Behavior/habitual: "Don't click on links in email" and similar
+
+
+
+## Defenders (columns):
+
+* <b>Individuals:</b> people responsible for themselves
+* <b>Organizers & journalists:</b> people responsible for other people as well
+* <b>Targeted activists:</b> you know who you are
+
+## Attackers (rows):
+
+* <b>Random Assholes:</b> malicious individuals, harassers or unsophisticated mobs
+* <b>Assholes with Resources:</b> organized hate groups, more sophisticated /
+  technical Random Assholes, more dedicated assholes ("jilted lovers" with resources),
+  rogue cops
+* <b>Assholes in Power:</b> Governments, surveillance apparatus & multinational
+  corporations (Wal-Mart, Apple+Google+Facebook, etc.)
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <th></th>
-    <th><b>Random Assholes:</b><br />
-      malicious individuals, harassers or unsophisticated mobs</th>
-    <th><b>Assholes with Resources:</b><br />
-      organized hate groups, more sophisticated / technical Random Assholes, more
-      dedicated assholes ("jilted lovers" with resources), rogue cops
-    </th>
-    <th><b>Assholes in Power:</b><br />
-      Governments, surveillance apparatus & multinational corporations (Wal-Mart,
-      Apple+Google+Facebook, etc.)
-    </th>
+    <th><b>Random Assholes</b></th>
+    <th><b>Assholes with Resources</b></th>
+    <th><b>Assholes in Power</b></th>
   </tr>
   <tr>
-    <td><b>Individuals:</b><br />people responsible for themselves</td>
+    <td><b>Individuals</b></td>
     <td>
       <a href="#individuals-vs-random-assholes">
         Individuals vs Random Assholes</a>
@@ -39,8 +55,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Organizers &amp; journalists:</b><br />people responsible for other
-      people as well</td>
+    <td><b>Organizers &amp; journalists</b></td>
     <td>
       <a href="#organizers--journalists-vs-random-assholes">
         Organizers &amp; journalists vs Random Assholes</a>
@@ -55,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Targeted Activists:</b><br />you know who you are</td>
+    <td><b>Targeted Activists</b></td>
     <td>
       <a href="#targeted-activists-vs-random-assholes">
         Targeted Activists vs Random Assholes</a>
@@ -70,24 +85,6 @@
     </td>
   </tr>
 </table>
-
-
-Defenders (columns):
-
-* Individuals - people responsible for themselves
-* Organizers & journalists - people responsible for other people as well
-* Targeted activists - you know who you are
-
-Attackers (rows):
-
-* Random Assholes - malicious individuals, harassers or unsophisticated mobs
-* Assholes with Resources - organized hate groups, more sophisticated / technical Random Assholes, more dedicated assholes ("jilted lovers" with resources), rogue cops
-* Assholes in Power - Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
-
-"Z-axis" aspects:
-
-* Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
-* Behavior/habitual: "Don't click on links in email" and similar
 
 # Individuals vs. Random Assholes
 
