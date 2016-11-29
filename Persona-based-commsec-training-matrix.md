@@ -112,7 +112,7 @@
 # Organizers & journalists vs. Random Assholes
 
 * 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
-* Use OnionShare/TorBrowser to share files rather than public Dropbox/Google Docs, etc.
+* Use OnionShare/TorBrowser or share.RiseUp.net to share files rather than public Dropbox/Google Docs, etc.
 * Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
 
 # Organizers & journalists vs. Assholes with Resources
