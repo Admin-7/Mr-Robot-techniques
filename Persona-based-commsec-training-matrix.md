@@ -82,6 +82,7 @@
 
 * Scrub personal data from Spokeo/PeopleSearch/Pipl.com, etc.
 * Use a password manager (and all that that entails!)
+  * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
 * Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
