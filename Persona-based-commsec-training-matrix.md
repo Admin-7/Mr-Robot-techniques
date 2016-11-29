@@ -80,7 +80,7 @@
 
 # Individuals vs. Random Assholes
 
-## Personal data management
+## Data management
 
 * Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
 
