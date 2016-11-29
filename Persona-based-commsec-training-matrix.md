@@ -98,6 +98,8 @@
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
+* Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
+* turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
 
 # Individuals vs. The State
 
