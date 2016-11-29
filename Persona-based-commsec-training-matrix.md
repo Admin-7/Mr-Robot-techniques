@@ -9,6 +9,69 @@
 > 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
 > 1. Tabularize the information and copy to the [[Security culture training#digital-security]] section, for now.
 
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th></th>
+    <th><b>Random Assholes:</b><br />
+      malicious individuals, harassers or unsophisticated mobs</th>
+    <th><b>Assholes with Resources:</b><br />
+      organized hate groups, more sophisticated / technical Random Assholes, more
+      dedicated assholes ("jilted lovers" with resources), rogue cops
+    </th>
+    <th><b>Assholes in Power:</b><br />
+      Governments, surveillance apparatus & multinational corporations (Wal-Mart,
+      Apple+Google+Facebook, etc.)
+    </th>
+  </tr>
+  <tr>
+    <td><b>Individuals:</b><br />people responsible for themselves</td>
+    <td>
+      <a href="#individuals-vs-random-assholes">
+        Individuals vs Random Assholes</a>
+    </td>
+    <td>
+      <a href="#individuals-vs-assholes-with-resources">
+        Individuals vs Assholes with Resources</a>
+    </td>
+    <td>
+      <a href="#individuals-vs-assholes-in-power">
+        Individuals vs Assholes in Power</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Organizers &amp; journalists:</b><br />people responsible for other
+      people as well</td>
+    <td>
+      <a href="#organizers--journalists-vs-random-assholes">
+        Organizers &amp; journalists vs Random Assholes</a>
+    </td>
+    <td>
+      <a href="#organizers--journalists-vs-assholes-with-resources">
+        Organizers &amp; journalists vs Assholes with Resources</a>
+    </td>
+    <td>
+      <a href="#organizers--journalists-vs-assholes-in-power">
+        Organizers &amp; journalists vs Assholes in Power</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Targeted Activists:</b><br />you know who you are</td>
+    <td>
+      <a href="#targeted-activists-vs-random-assholes">
+        Targeted Activists vs Random Assholes</a>
+    </td>
+    <td>
+      <a href="#targeted-activists-vs-assholes-with-resources">
+        Targeted Activists vs Assholes with Resources</a>
+    </td>
+    <td>
+      <a href="#targeted-activists-vs-assholes-in-power">
+        Targeted Activists vs Assholes in Power</a>
+    </td>
+  </tr>
+</table>
+
+
 Defenders (columns):
 
 * Individuals - people responsible for themselves
