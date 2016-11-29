@@ -10,11 +10,6 @@
 > 4. ~~Tabularize the information~~
 > 5. Copy to the [[Security culture training#digital-security]] section, for now.
 
-> "Z-axis" aspects of the table (for 3 above):
-
-> * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
-> * Behavior/habitual: "Don't click on links in email" and similar
-
 # Defenders (rows):
 
 * **Individuals:** people responsible for themselves
@@ -26,6 +21,17 @@
 * **Random Assholes:** malicious individuals, harassers or unsophisticated mobs
 * **Assholes with Resources:** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
 * **The State:** Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
+
+# "Z-axis" aspects:
+
+> 🚧 TK-TODO: This parts needs a closer look:
+> 
+> 1. Read through the list, categorizing each line item along a "z-axis"
+> 1. Group the line items according to their z-axis
+>   * **What about line items matching more than one z-axis; place in both subheads or just the one?
+
+* Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
+* Behavior/habitual: "Don't click on links in email" and similar
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
