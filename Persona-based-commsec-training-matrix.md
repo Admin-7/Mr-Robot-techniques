@@ -106,6 +106,8 @@
 * Use cash whenever possible, not a credit card or electronic payment system
 * Switch your default search provider to a Google-alternative
 * Uninstall the Facebook/Twitter/etc. apps and use the mobile web versions of these sites
+* If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
+  * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 
 # Organizers & journalists vs. Random Assholes
 
