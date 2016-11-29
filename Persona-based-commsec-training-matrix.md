@@ -119,7 +119,6 @@
 ## Data management
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
-* Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
 
 ## Security hygiene and habits
 
@@ -129,6 +128,7 @@
 * Uninstall the Facebook/Twitter/etc. apps and use the mobile web versions of these sites
 * If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
+* Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
 
 # Organizers & journalists vs. Random Assholes
 
