@@ -30,7 +30,7 @@
   sophisticated / technical Random Assholes, more dedicated assholes (i.e. "jilted
   lovers" with resources)
   
-* <b>Assholes in Power:</b> Governments, surveillance apparatus & multinational
+* <b>The State:</b> Governments, surveillance apparatus & multinational
   corporations (Wal-Mart, Apple+Google+Facebook, etc.)
 
 <table border="1" cellpadding="10" cellspacing="0">
@@ -38,7 +38,7 @@
     <th></th>
     <th><b>Random Assholes</b></th>
     <th><b>Assholes with Resources</b></th>
-    <th><b>Assholes in Power</b></th>
+    <th><b>The State</b></th>
   </tr>
   <tr>
     <td><b>Individuals</b></td>
@@ -51,8 +51,8 @@
         Individuals vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#individuals-vs-assholes-in-power">
-        Individuals vs Assholes in Power</a>
+      <a href="#individuals-vs-the-state">
+        Individuals vs The State</a>
     </td>
   </tr>
   <tr>
@@ -66,8 +66,8 @@
         Organizers &amp; journalists vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#organizers--journalists-vs-assholes-in-power">
-        Organizers &amp; journalists vs Assholes in Power</a>
+      <a href="#organizers--journalists-vs-the-state">
+        Organizers &amp; journalists vs The State</a>
     </td>
   </tr>
   <tr>
@@ -81,8 +81,8 @@
         Targeted Activists vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#targeted-activists-vs-assholes-in-power">
-        Targeted Activists vs Assholes in Power</a>
+      <a href="#targeted-activists-vs-the-state">
+        Targeted Activists vs The State</a>
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
 
-# Individuals vs. Assholes in Power
+# Individuals vs. The State
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
 * Use passphrases, not biometric unlock features such as fingerprints
@@ -128,7 +128,7 @@
 * Audit your webserver for information disclosure vulns:
   * Turn off "directory listings" on your webserver
 
-# Organizers & journalists vs. Assholes in Power
+# Organizers & journalists vs. The State
 
 * Use Tor!!!!!11!
 * Host sites somewhere safe (privacytools.io)
@@ -139,6 +139,6 @@
 
 # Targeted activists vs. Assholes with Resources
 
-# Targeted activists vs. Assholes in Power
+# Targeted activists vs. The State
 
 * encrypted email (GPG)
