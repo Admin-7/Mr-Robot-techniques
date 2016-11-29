@@ -18,8 +18,8 @@ Defenders (columns):
 Attackers (rows):
 
 * Random Assholes - malicious individuals, harassers or unsophisticated mobs
-* Small organizations (e.g., Assholes with resources) - organized hate groups, more sophisticated / technical Random Assholes, more dedicated assholes ("jilted lovers" with resources), rogue cops
-* Governments / Multinational corporations - The Orange One, surveillance apparatus, Wal-Mart, tech companies like Apple+Google+Facebook, etc.
+* Assholes with Resources - organized hate groups, more sophisticated / technical Random Assholes, more dedicated assholes ("jilted lovers" with resources), rogue cops
+* Assholes in Power - Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
 
 "Z-axis" aspects:
 
@@ -36,7 +36,7 @@ Attackers (rows):
 * Audit/improve your social network privacy settings
 * turn off "auto-pay" (and use Password Manager fill-in instead)
 
-# Individuals vs. Small organizations
+# Individuals vs. Assholes with Resources
 
 * Adblockers (uBlock Origin, etc.)
 * Clear cookies (cookie-clearing/whitelisting plugins)
@@ -45,7 +45,7 @@ Attackers (rows):
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
 
-# Individuals vs. Multinationals/Government
+# Individuals vs. Assholes in Power
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
 * Use passphrases, not biometric unlock features such as fingerprints
@@ -59,7 +59,7 @@ Attackers (rows):
 * Use OnionShare/TorBrowser to share files rather than public Dropbox/Google Docs, etc.
 * Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
 
-# Organizers & journalists vs. small organizations
+# Organizers & journalists vs. Assholes with Resources
 
 * On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
 * Use Tor to hide your physical-world location
@@ -67,7 +67,7 @@ Attackers (rows):
 * Audit your webserver for information disclosure vulns:
   * Turn off "directory listings" on your webserver
 
-# Organizers & journalists vs. multinationals/government
+# Organizers & journalists vs. Assholes in Power
 
 * Use Tor!!!!!11!
 * Host sites somewhere safe (privacytools.io)
@@ -76,8 +76,8 @@ Attackers (rows):
 
 # Targeted activists vs. Random Assholes
 
-# Targeted activists vs. Small organizations
+# Targeted activists vs. Assholes with Resources
 
-# Targeted activists vs. Multinationals/Government
+# Targeted activists vs. Assholes in Power
 
 * encrypted email (GPG)
