@@ -26,9 +26,10 @@
 ## Attackers (rows):
 
 * <b>Random Assholes:</b> malicious individuals, harassers or unsophisticated mobs
-* <b>Assholes with Resources:</b> organized hate groups, more sophisticated /
-  technical Random Assholes, more dedicated assholes ("jilted lovers" with resources),
-  rogue cops
+* <b>Assholes with Resources:</b> organized hate groups, rogue cops, more
+  sophisticated / technical Random Assholes, more dedicated assholes (i.e. "jilted
+  lovers" with resources)
+  
 * <b>Assholes in Power:</b> Governments, surveillance apparatus & multinational
   corporations (Wal-Mart, Apple+Google+Facebook, etc.)
 
