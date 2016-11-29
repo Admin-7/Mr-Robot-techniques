@@ -80,7 +80,7 @@
 
 # Individuals vs. Random Assholes
 
-* Scrub personal data from Spokeo/PeopleSearch/Pipl.com, etc.
+* Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
 * Use a password manager (and all that that entails!)
   * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
 * Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
