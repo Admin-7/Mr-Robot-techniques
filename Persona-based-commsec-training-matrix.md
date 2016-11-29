@@ -15,74 +15,59 @@
 > * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 > * Behavior/habitual: "Don't click on links in email" and similar
 
+# Defenders (columns):
 
+* **Individuals:** people responsible for themselves
+* **Organizers & journalists:** people responsible for other people as well
+* **Targeted activists:** you know who you are
 
-## Defenders (columns):
+# Attackers (rows):
 
-* <b>Individuals:</b> people responsible for themselves
-* <b>Organizers & journalists:</b> people responsible for other people as well
-* <b>Targeted activists:</b> you know who you are
-
-## Attackers (rows):
-
-* <b>Random Assholes:</b> malicious individuals, harassers or unsophisticated mobs
-* <b>Assholes with Resources:</b> organized hate groups, rogue cops, more
-  sophisticated / technical Random Assholes, more dedicated assholes (i.e. "jilted
-  lovers" with resources)
-  
-* <b>The State:</b> Governments, surveillance apparatus & multinational
-  corporations (Wal-Mart, Apple+Google+Facebook, etc.)
+* **Random Assholes:** malicious individuals, harassers or unsophisticated mobs
+* **Assholes with Resources:** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
+* **The State:** Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <th></th>
-    <th><b>Random Assholes</b></th>
-    <th><b>Assholes with Resources</b></th>
-    <th><b>The State</b></th>
+    <th>Random Assholes</th>
+    <th>Assholes with Resources</th>
+    <th>The State</th>
   </tr>
   <tr>
-    <td><b>Individuals</b></td>
+    <th>Individuals</th>
     <td>
-      <a href="#individuals-vs-random-assholes">
-        Individuals vs Random Assholes</a>
+      <a href="#individuals-vs-random-assholes">Individuals vs Random Assholes</a>
     </td>
     <td>
-      <a href="#individuals-vs-assholes-with-resources">
-        Individuals vs Assholes with Resources</a>
+      <a href="#individuals-vs-assholes-with-resources">Individuals vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#individuals-vs-the-state">
-        Individuals vs The State</a>
+      <a href="#individuals-vs-the-state">Individuals vs The State</a>
     </td>
   </tr>
   <tr>
-    <td><b>Organizers &amp; journalists</b></td>
+    <th>Organizers &amp; journalists</th>
     <td>
-      <a href="#organizers--journalists-vs-random-assholes">
-        Organizers &amp; journalists vs Random Assholes</a>
+      <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; journalists vs Random Assholes</a>
     </td>
     <td>
-      <a href="#organizers--journalists-vs-assholes-with-resources">
-        Organizers &amp; journalists vs Assholes with Resources</a>
+      <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; journalists vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#organizers--journalists-vs-the-state">
-        Organizers &amp; journalists vs The State</a>
+      <a href="#organizers--journalists-vs-the-state">Organizers &amp; journalists vs The State</a>
     </td>
   </tr>
   <tr>
-    <td><b>Targeted Activists</b></td>
+    <th>Targeted Activists</th>
     <td>
-      <a href="#targeted-activists-vs-random-assholes">
-        Targeted Activists vs Random Assholes</a>
+      <a href="#targeted-activists-vs-random-assholes">Targeted Activists vs Random Assholes</a>
     </td>
     <td>
-      <a href="#targeted-activists-vs-assholes-with-resources">
-        Targeted Activists vs Assholes with Resources</a>
+      <a href="#targeted-activists-vs-assholes-with-resources">Targeted Activists vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#targeted-activists-vs-the-state">
-        Targeted Activists vs The State</a>
+      <a href="#targeted-activists-vs-the-state">Targeted Activists vs The State</a>
     </td>
   </tr>
 </table>
