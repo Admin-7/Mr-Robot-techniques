@@ -80,6 +80,7 @@
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
 * Audit/improve your social network privacy settings
+  * Verify friend requests with actual friends: When you get a Friend request from someone you don't know, but have mutual friends in common, send your mutual friend a private message asking for info about who the supposed person who may have sent the friend request actually is; avoids friending malicious/fake accounts.
 * turn off "auto-pay" (and use Password Manager fill-in instead)
 
 # Individuals vs. Assholes with Resources
