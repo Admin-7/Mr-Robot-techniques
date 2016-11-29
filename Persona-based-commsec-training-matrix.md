@@ -112,6 +112,7 @@
 * Consider placing your own domain behind CloudFlare to hide your server's origin
 * Audit your webserver for information disclosure vulns:
   * Turn off "directory listings" on your webserver
+* Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 
 # Organizers & journalists vs. The State
 
