@@ -119,6 +119,7 @@
 ## Data management
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
+* Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
 
 ## Security hygiene and habits
 
