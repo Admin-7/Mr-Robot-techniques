@@ -15,13 +15,13 @@
 > * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 > * Behavior/habitual: "Don't click on links in email" and similar
 
-# Defenders (columns):
+# Defenders (rows):
 
 * **Individuals:** people responsible for themselves
 * **Organizers & journalists:** people responsible for other people as well
 * **Targeted activists:** you know who you are
 
-# Attackers (rows):
+# Attackers (columns):
 
 * **Random Assholes:** malicious individuals, harassers or unsophisticated mobs
 * **Assholes with Resources:** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
