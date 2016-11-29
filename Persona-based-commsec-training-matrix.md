@@ -80,9 +80,12 @@
 
 # Individuals vs. Random Assholes
 
+## Personal data management
+
 * Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
-* Use a password manager (and all that that entails!)
-  * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
+
+## Security hygiene and habits
+
 * Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
@@ -90,20 +93,35 @@
   * Verify friend requests with actual friends: When you get a Friend request from someone you don't know, but have mutual friends in common, send your mutual friend a private message asking for info about who the supposed person who may have sent the friend request actually is; avoids friending malicious/fake accounts.
 * turn off "auto-pay" (and use Password Manager fill-in instead)
 
+## Helpful tools
+
+* Use a password manager (and all that that entails!)
+  * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
+
 # Individuals vs. Assholes with Resources
 
-* Adblockers (uBlock Origin, etc.)
-* Clear cookies (cookie-clearing/whitelisting plugins)
-* Signal (because of authentication, not just for encryption)
+## Security hygiene and habits
+
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
 * turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
 
+## Helpful tools
+
+* Adblockers (uBlock Origin, etc.)
+* Clear cookies (cookie-clearing/whitelisting plugins)
+* Signal (because of authentication, not just for encryption)
+
 # Individuals vs. The State
 
+## Data management
+
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
+
+## Security hygiene and habits
+
 * Use passphrases, not biometric unlock features such as fingerprints
 * Use cash whenever possible, not a credit card or electronic payment system
 * Switch your default search provider to a Google-alternative
@@ -113,30 +131,50 @@
 
 # Organizers & journalists vs. Random Assholes
 
-* 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
-* Use OnionShare/TorBrowser or share.RiseUp.net to share files rather than public Dropbox/Google Docs, etc.
+## Data management
+
 * Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
+
+## Security hygiene and habits
+
+* 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
+
+## Helpful tools
+
+* Use OnionShare/TorBrowser or share.RiseUp.net to share files rather than public Dropbox/Google Docs, etc.
 
 # Organizers & journalists vs. Assholes with Resources
 
-* On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
-* Use Tor to hide your physical-world location
-* Consider placing your own domain behind CloudFlare to hide your server's origin
+## Security hygiene and habits
+
 * Audit your webserver for information disclosure vulns:
   * Turn off "directory listings" on your webserver
 * Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 
+## Helpful tools
+
+* On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
+* Use Tor to hide your physical-world location
+* Consider placing your own domain behind CloudFlare to hide your server's origin
+
 # Organizers & journalists vs. The State
+
+## Security hygiene and habits
+
+* Use an alternate service provider (don't use gmail)
+
+## Helpful tools
 
 * Use Tor!!!!!11!
 * Host sites somewhere safe (privacytools.io)
 * Consider setting up an `.onion` service to access your site/domain
-* Don't use gmail
 
 # Targeted activists vs. Random Assholes
 
 # Targeted activists vs. Assholes with Resources
 
 # Targeted activists vs. The State
+
+## Helpful tools
 
 * encrypted email (GPG)
