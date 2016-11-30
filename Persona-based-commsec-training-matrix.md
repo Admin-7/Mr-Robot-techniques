@@ -114,6 +114,8 @@
 * Adblockers (uBlock Origin, etc.)
 * Clear cookies (cookie-clearing/whitelisting plugins)
 * Signal (because of authentication, not just for encryption)
+* Tape or a sticker over your webcam to frustrate video recording. (Cheap and easy!)
+* Take a headset (headphones + microphone), chop off the wiring below the sensors, and plug that in to your headset jack to frustrate audio recordings.
 
 # Individuals vs. The State
 
