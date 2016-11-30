@@ -8,7 +8,7 @@ There is a near-constant buzz of organizing activity in New York City. In additi
 
 Activities are things to do with your fellow antifa comrades that are happening on a(t least a semi-)regular basis at AnarchoTechNYC meetings/spaces. More details are available on a given event's wiki page.
 
-* [[Defense Against the Dark Arts]] - Digital fight training where we set up network perimeters and devices, and practice both breaching and hardening them.
+* [[Digital fight training]] - Cybersecurity sparring sessions where we set up network perimeters and devices, and practice both breaching and hardening them.
 * [[Mr. Robot's Netflix 'n' Hack]] - Let Mr. Robot teach you how to hack.
 
 # Events
