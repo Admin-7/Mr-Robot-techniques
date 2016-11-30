@@ -147,6 +147,7 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 * If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
+* Don't use the default DNS your network provides, most of them are used for surveillance and profiling. Use [DNSCrypt](https://dnscrypt.org/) instead or the DNS provided by [OpenNIC Project](https://www.opennicproject.org/) .
 
 ## Helpful tools
 
