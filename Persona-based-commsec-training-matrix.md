@@ -107,6 +107,7 @@
 * Turn on "automatic updates" for software you use.
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
 * turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
+* Turn off auto-play on videos, etc.
 
 ## Helpful tools
 
@@ -133,6 +134,7 @@
 ## Helpful tools
 
 * Use [TermsOfService;Didn't Read](https://tosdr.org/) to get up-to-speed on legal terms for a given service you're considering using.
+* Turn off JavaScript using blockers such as [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) and [NoScript](https://noscript.net/) and re-enable it only on sites you purposefully visit
 
 # Organizers & journalists vs. Random Assholes
 
