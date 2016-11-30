@@ -137,6 +137,10 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 * If you use Facebook or any other social media, make sure you post random garbage that has nothing to do with you (your personality, or anything that can profile you);
 * Use [AdNauseam](https://adnauseam.io/) to click **all ads** found in a page, so user profiling, targeting and surveillance becomes futile.
 * Use [TrackMeNot](https://cs.nyu.edu/trackmenot/) to generate random search queries (in background). It hides users' actual search trails in a cloud of 'ghost' queries, significantly increasing the difficulty of aggregating such data into accurate or identifying user profiles.
+* Use different (random) [Firefox profiles](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles).
+* If you **need** to use credit-card to buy something (and you are currently based in US), use a random credit-card for each service. You can get that at [Privacy.com](https://privacy.com/).
+* Don't use your real email for temporary services. Use a [temporary email](https://temp-mail.org/en/) for that, but make sure when using a temporary email, you also use fake names, birth dates and etc.
+* Run a tor relay while using Tor or navigating through the web. If you do so, the messages coming out of your computer can be yours or may be just one among many that you are passing on for other people. **Warning:** this can also decrease your anonymity. It's a 50/50 chance. See [this](https://blog.torproject.org/blog/risks-serving-whenever-you-surf) article for more information.
 
 ## Security hygiene and habits
 
