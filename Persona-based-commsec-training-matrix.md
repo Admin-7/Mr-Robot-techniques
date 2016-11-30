@@ -130,6 +130,14 @@
   1. Does the foreign/local service requires any personal data that may harm you in the future? If so, ask what they do with this information.
   1. Etc
 
+## Data obfuscation
+
+Online services such as Facebook/Google/Apple/etc are constantly watching everything you do, so they can sell your data and targeted ads to third parties/governments. There are a few ways you can generate "noise" and confuse machine algorithms into making a wrong targeted profiling..
+
+* If you use Facebook or any other social media, make sure you post random garbage that has nothing to do with you (your personality, or anything that can profile you);
+* Use [AdNauseam](https://adnauseam.io/) to click **all ads** found in a page, so user profiling, targeting and surveillance becomes futile.
+* Use [TrackMeNot](https://cs.nyu.edu/trackmenot/) to generate random search queries (in background). It hides users' actual search trails in a cloud of 'ghost' queries, significantly increasing the difficulty of aggregating such data into accurate or identifying user profiles.
+
 ## Security hygiene and habits
 
 * Use passphrases, not biometric unlock features such as fingerprints
