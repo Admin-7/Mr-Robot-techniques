@@ -174,6 +174,8 @@
 
 # Targeted activists vs. Assholes with Resources
 
+* Use the "High" security level in your TorBrowser (disables JavaScript, HTML5 Web Fonts, etc.)
+
 # Targeted activists vs. The State
 
 ## Helpful tools
