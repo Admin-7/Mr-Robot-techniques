@@ -211,3 +211,4 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 * encrypted email (GPG)
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
+* Use [OpenBSD](https://www.openbsd.org/), a hardened and security operating system (for advanced users, those familiar with BSD)
