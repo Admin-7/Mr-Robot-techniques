@@ -130,6 +130,10 @@
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
 
+## Helpful tools
+
+* Use [TermsOfService;Didn't Read](https://tosdr.org/) to get up-to-speed on legal terms for a given service you're considering using.
+
 # Organizers & journalists vs. Random Assholes
 
 ## Data management
