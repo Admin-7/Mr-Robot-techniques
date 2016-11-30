@@ -178,7 +178,7 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 
 ## Security hygiene and habits
 
-* Audit your webserver for information disclosure vulns:
+* Audit your webserver for information disclosure vulns ([a thorough treatment of webdev security things](https://github.com/FallibleInc/security-guide-for-developers)):
   * Turn off "directory listings" on your webserver
 * Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 
