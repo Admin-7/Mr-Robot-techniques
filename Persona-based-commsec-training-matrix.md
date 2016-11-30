@@ -141,6 +141,7 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 * If you **need** to use credit-card to buy something (and you are currently based in US), use a random credit-card for each service. You can get that at [Privacy.com](https://privacy.com/).
 * Don't use your real email for temporary services. Use a [temporary email](https://temp-mail.org/en/) for that, but make sure when using a temporary email, you also use fake names, birth dates and etc.
 * Run a tor relay while using Tor or navigating through the web. If you do so, the messages coming out of your computer can be yours or may be just one among many that you are passing on for other people. **Warning:** this can also decrease your anonymity. It's a 50/50 chance. See [this](https://blog.torproject.org/blog/risks-serving-whenever-you-surf) article for more information.
+* Don't use real answers when being prompt for a question recovery from a service. For example, if asked "What is the name of your mom", use a random passphrase (i.e: `PEEfhCVoZeM624TgqBv/N0PqKrI=`) for that (make sure you save that somewhere!). Answers to question can be used against you or be used to create a profile. 
 
 ## Security hygiene and habits
 
