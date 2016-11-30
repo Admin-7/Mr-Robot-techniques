@@ -161,6 +161,7 @@
 * On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
 * Use Tor to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
+* Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
 
 # Organizers & journalists vs. The State
 
@@ -172,16 +173,19 @@
 
 * Use Tor!!!!!11!
 * Host sites somewhere safe (privacytools.io)
-* Consider setting up an `.onion` service to access your site/domain
+* Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 
 # Targeted activists vs. Random Assholes
 
 # Targeted activists vs. Assholes with Resources
 
 * Use the "High" security level in your TorBrowser (disables JavaScript, HTML5 Web Fonts, etc.)
+* [Use dedicated virtual machines for specific purposes](https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/) to open documents you don't trust, and take other specialized tasks
 
 # Targeted activists vs. The State
 
 ## Helpful tools
 
 * encrypted email (GPG)
+* Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
+* Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
