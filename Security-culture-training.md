@@ -126,6 +126,7 @@ In addition to these primers and the links included in them, additional useful r
   * If you're feeling overwhelmed by all of this already, consider spending just a little bit of time to walk yourself through the [SSD's Security Starter Pack](https://ssd.eff.org/en/playlist/want-security-starter-pack).
 * [PRISM-Break!](https://prism-break.org/) - An overwhelmingly large digital reference card for all the privacy-enhancing tools available to you for a particular platform, purpose, or protocol. Be cautious here, some of the listed tools are experimental, not audited, or worse.
 * [Security in a Box](https://securityinabox.org/) - A slightly dated, but still generally solid, resource website featuring much of the same content as the EFF's Surveillance Self-Defense guide, but with a regularly updated blog. Created and maintained by the [TacticalTech.org](https://tacticaltech.org/) collective.
+* [MacOS security and Privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A solid and complete guide on securing your MacOS system. You can skip to the sections you want to secure and follow the guide as you want.
 
 There's a ton of stuff in there, and learning about how to defend yourself from governments, corporations, or malicious individuals on the Internet is more involved than simply picking up one or two tools. But a few well-chosen tools does give you a really, really good start. Taking some time to familiarize yourself with the above guides will hopefully help you become even more capable.
 
