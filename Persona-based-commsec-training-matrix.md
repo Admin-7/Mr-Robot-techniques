@@ -171,13 +171,16 @@
 
 ## Security hygiene and habits
 
-* Use an alternate service provider (don't use gmail)
+* Use alternate service providers (don't use Google's GMail)
+* Ideally, use *decentralized* alternate services/networks
+  * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
 
 ## Helpful tools
 
 * Use Tor!!!!!11!
 * Host sites somewhere safe (privacytools.io)
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
+* Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
 
 # Targeted activists vs. Random Assholes
 
