@@ -83,6 +83,13 @@
 ## Data management
 
 * Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
+* Make sure you read the privacy terms/terms of service/terms and policies of a service you sign up for. Remember, when you sign up for a online service, you are agreeing on a contract.
+* Make sure you can actually delete your account after signing up and keep in mind that some services keep your data forever (even if you requested a deletion). You can use [Just delete me's](http://backgroundchecks.org/justdeleteme/) service so it warns you on how difficult is it to delete an account on the service you are currently browsing.
+* Remember that using a service from a foreign country, you are subjected (in some terms) by their law, so make sure you go through the following check list (also make sure you do the same for your local service). A quick checklist:
+  1. Does the foreign/local service store your data in your country?
+  2. Does the foreign/local service share any personal data with the government or any third party?
+  3. Does the foreign/local service requires any personal data that may harm you in the future? If so, ask what they do with this information.
+  4. Etc
 
 ## Security hygiene and habits
 
