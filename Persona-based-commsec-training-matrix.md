@@ -32,6 +32,7 @@
 
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: data management and/or security hygiene best practices
+* Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
 
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
@@ -130,25 +131,14 @@
   1. Does the foreign/local service requires any personal data that may harm you in the future? If so, ask what they do with this information.
   1. Etc
 
-### Data obfuscation
-
-Online services such as Facebook/Google/Apple/etc are constantly watching everything you do, so they can sell your data and targeted ads to third parties/governments. There are a few ways you can generate "noise" and confuse machine algorithms into making a wrong targeted profiling..
-
-* If you use Facebook or any other social media, make sure you post random garbage that has nothing to do with you (your personality, or anything that can profile you);
-* Use [AdNauseam](https://adnauseam.io/) to click **all ads** found in a page, so user profiling, targeting and surveillance becomes futile.
-* Use [TrackMeNot](https://cs.nyu.edu/trackmenot/) to generate random search queries (in background). It hides users' actual search trails in a cloud of 'ghost' queries, significantly increasing the difficulty of aggregating such data into accurate or identifying user profiles.
-* Use different (random) [Firefox profiles](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles).
-* If you **need** to use credit-card to buy something (and you are currently based in US), use a random credit-card for each service. You can get that at [Privacy.com](https://privacy.com/).
-* Don't use your real email for temporary services. Use a [temporary email](https://temp-mail.org/en/) for that, but make sure when using a temporary email, you also use fake names, birth dates and etc.
-* Run a tor relay while using Tor or navigating through the web. If you do so, the messages coming out of your computer can be yours or may be just one among many that you are passing on for other people. **Warning:** this can also decrease your anonymity. It's a 50/50 chance. See [this](https://blog.torproject.org/blog/risks-serving-whenever-you-surf) article for more information.
-* Don't use real answers when being prompt for a question recovery from a service. For example, if asked "What is the name of your mom", use a random passphrase (i.e: `PEEfhCVoZeM624TgqBv/N0PqKrI=`) for that (make sure you save that somewhere!). Answers to question can be used against you or be used to create a profile. 
-
 ## Security hygiene and habits
 
 * Use passphrases, not biometric unlock features such as fingerprints
 * Use cash whenever possible, not a credit card or electronic payment system
+* If you **need** to use credit-card to buy something (and you are currently based in US), use a random credit-card for each service. You can get that at [Privacy.com](https://privacy.com/).
 * Switch your default search provider to a Google-alternative
 * Uninstall the Facebook/Twitter/etc. apps and use the mobile web versions of these sites
+* Use temporary emails/identities when making temporary use of services: use a [temporary email](https://temp-mail.org/en/) ([FakeMailGenerator.com](http://fakemailgenerator.com/) and similar sites) for that, and [fake names, birth dates and etc.](http://fakenamegenerator.com/) to go along with that temporary identity
 * If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
