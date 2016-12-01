@@ -134,7 +134,7 @@ During post-show discussion, we brought up:
   * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
   * [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi)
   * View file [EXIF Data](http://exifdata.com/)
-  * Command-line tools: `exif`, [`ffmpeg`](https://ffmpeg.org/) for extracting metadata from both images and video files
+  * Command-line tools: `exif`, [`ffmpeg`](https://ffmpeg.org/) for extracting metadata from video files
 * "With a simple [phishing](https://en.wikipedia.org/wiki/Phishing) scam I owned her password pretty easy."
   * Historical example: [AOHell](https://en.wikipedia.org/wiki/AOHell)
 * Mobile phone spyware, [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone):
