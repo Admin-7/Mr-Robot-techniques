@@ -58,6 +58,7 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [pentest-links](https://github.com/meitar/pentest-links)
+* [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 
 # Labs and practice VMs
 
