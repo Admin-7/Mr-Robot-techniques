@@ -130,7 +130,7 @@
   1. Does the foreign/local service requires any personal data that may harm you in the future? If so, ask what they do with this information.
   1. Etc
 
-## Data obfuscation
+### Data obfuscation
 
 Online services such as Facebook/Google/Apple/etc are constantly watching everything you do, so they can sell your data and targeted ads to third parties/governments. There are a few ways you can generate "noise" and confuse machine algorithms into making a wrong targeted profiling..
 
@@ -152,7 +152,7 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 * If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
-* Don't use the default DNS your network provides, most of them are used for surveillance and profiling. Use [DNSCrypt](https://dnscrypt.org/) instead or the DNS provided by [OpenNIC Project](https://www.opennicproject.org/) .
+* Don't use the default DNS your network provides, most of them are used for surveillance and profiling. Use [DNSCrypt](https://dnscrypt.org/) instead or the DNS provided by [OpenNIC Project](https://www.opennicproject.org/).
 
 ## Helpful tools
 
@@ -218,4 +218,3 @@ Online services such as Facebook/Google/Apple/etc are constantly watching everyt
 * encrypted email (GPG)
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
-* Use [OpenBSD](https://www.openbsd.org/), a hardened and security operating system (for advanced users, those familiar with BSD)
