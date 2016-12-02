@@ -31,7 +31,7 @@
 >   * **What about line items matching more than one z-axis; place in both subheads or just the one?
 
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
-* Behavior/habitual: data management and/or security hygiene best practices
+* Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
 
 <table border="1" cellpadding="10" cellspacing="0">
