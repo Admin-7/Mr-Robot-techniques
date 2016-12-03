@@ -2,6 +2,8 @@
 
 * Description: is it possible to detect phone "data extraction" attempts?
 
+* Location: Brooklyn Public Library - Leonard Branch
+
 * Resources: 
     * https://github.com/tylerph3/awesome-reversing#android
     * http://www.alexanderricks.com/mobile-device-forensics-pulling-back-the-digital-curtain/
