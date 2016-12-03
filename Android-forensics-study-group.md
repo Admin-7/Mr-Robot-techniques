@@ -13,3 +13,4 @@
     * https://www.eff.org/es/node/93839
     * https://source.android.com/security/verifiedboot/
         * http://nelenkov.blogspot.com/2014/05/using-kitkat-verified-boot.html
+    * https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters
