@@ -11,3 +11,4 @@
     * http://ccf.cs.uml.edu/forensicspapers/Cellular%20Phone%20Evidence%20Data%20Extraction%20and%20Documentation.pdf
     * https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition
     * https://source.android.com/security/verifiedboot/
+        * http://nelenkov.blogspot.com/2014/05/using-kitkat-verified-boot.html
