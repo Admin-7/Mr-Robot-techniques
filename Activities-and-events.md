@@ -16,3 +16,4 @@ Activities are things to do with your fellow antifa comrades that are happening 
 Events are one-offs because they are either intended to be or just aren't happening regularly anymore. (You could always start doing these on a regular basis, if you want!)
 
 * [[Ethics refactoring]] - analyze a feature/product for its "operative ethic" and then redesign the same feature/product for a different ethic
+* [[Android forensics study group]] - learn how to detect whether an Android device has been cloned or tampered with
