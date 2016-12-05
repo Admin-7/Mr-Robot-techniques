@@ -130,7 +130,8 @@
   1. Does the foreign/local service store your data in your country?
   1. Does the foreign/local service share any personal data with the government or any third party?
   1. Does the foreign/local service requires any personal data that may harm you in the future? If so, ask what they do with this information.
-  1. Etc
+  1. Does the foreign/local service have any history with the government/police or any "privacy/corruption" scandal?
+  1. Does the foreign/local service keep a [Canary Statement](https://en.wikipedia.org/wiki/Warrant_canary)? Check [Canary Watch](https://canarywatch.org) to see if your service is listed there, and if not, mail them asking if they keep such information public.
 
 ## Security hygiene and habits
 
