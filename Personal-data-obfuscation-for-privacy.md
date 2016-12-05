@@ -4,6 +4,8 @@
 
 Online services such as Facebook/Google/Apple/etc are constantly watching everything you do, so they can sell your data and targeted ads to third parties/governments. There are a few ways you can generate "noise" and confuse machine algorithms into making a wrong targeted profiling.
 
+Note: Depending on (and from) what you are obfuscating, it requires time. For example, you cannot obfuscates data analysis from Facebook in one hour. It may require several days, months, and maybe years.
+
 * If you use Facebook or any other social media, make sure you post random garbage that has nothing to do with you (your personality, or anything that can profile you);
 * Use different (random) [Firefox profiles](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles).
 * Run a tor relay while using Tor or navigating through the web. If you do so, the messages coming out of your computer can be yours or may be just one among many that you are passing on for other people. **Warning:** this can also decrease your anonymity. It's a 50/50 chance. See [this](https://blog.torproject.org/blog/risks-serving-whenever-you-surf) article for more information.
