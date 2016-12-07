@@ -10,13 +10,39 @@
 > 1. ~~Tabularize the information~~
 > 1. Copy to the [[Security culture training#digital-security]] section, for now.
 
-# Defenders (rows):
+# Personas
 
-* **Individuals:** people responsible for themselves
-* **Organizers & journalists:** people responsible for other people as well
-* **Targeted activists:** you know who you are
+In the context of this resource, a "persona" is simply a coarse grouping of entities, divided into two opposing categories: "defenders" and "attackers." There are three defenders per persona category.
 
-# Attackers (columns):
+## Defenders:
+
+A "defender" is a [persona](#personas) that roughly describes one "half" of a given threat model. Defenders in our framework are:
+
+* **[Individuals](#individuals):** people responsible for themselves
+* **[Organizers and journalists](#organizers-and-journalists):** people responsible for other people as well
+* **[Targeted activists](#targeted-activists):** you know who you are
+
+### Individuals
+
+An "individual," for our purposes, is any person who is primarily concerned with *their own* privacy and security. This can be:
+
+* A citizen of a country who uses social media to post about their mundane daily activities.
+* An employee of a corporation who uses company resources (either hardware, software, or network infrastructure) to perform personal tasks such as banking, emailing, and so on.
+* A member of an oppressed group who faces threats other individuals may not, such as a woman with a jilted ex-lover, an undocumented immigrant, people of color, queer youth, and so on.
+
+### Organizers and journalists
+
+An "organizer," for our purposes, is any person whose safety concerns extend to other people as well as themselves, for any reason. This notably includes "journalists" because, by definition, they are responsible for the safety of their source as well as themselves, but can also include other roles as well. Some examples of other social roles who our framework considered "organizers" include:
+
+* System administrators responsible for maintaining the information systems of companies or community groups
+* Community organizers (activists) who take some part in explicit political activity
+* Individuals who engage in controversial subcultures and practices, despite not being "explicitly political" about it, such as people who run or simply participate regularly in LGBT or mental health support groups, and so on.
+
+### Targeted activists
+
+If you are a "targeted activist," you probably know who you are because you've self-identified yourself to yourself as one, and we'll just leave it at that.
+
+## Attackers:
 
 * **Random Assholes:** malicious individuals, harassers or unsophisticated mobs
 * **Assholes with Resources:** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
