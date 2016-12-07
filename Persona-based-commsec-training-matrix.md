@@ -291,6 +291,10 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 
 # Targeted activists vs. The State
 
+# Security hygiene and habits
+
+* [Don't maintain long-term OpenPGP keys](https://blog.filippo.io/giving-up-on-long-term-pgp/), try following the suggestions in [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155) instead
+
 ## Helpful tools
 
 * encrypted email (GPG)
