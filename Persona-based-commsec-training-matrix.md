@@ -13,11 +13,18 @@
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <th></th>
+    <th></th>
+    <th colspan="3"><a href="#attackers">Attackers</a></th>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
     <th>Random Assholes</th>
     <th>Assholes with Resources</th>
     <th>The State</th>
   </tr>
   <tr>
+    <th rowspan="3"><a href="#defenders">Defenders</a></th>
     <th>Individuals</th>
     <td>
       <a href="#individuals-vs-random-assholes">Individuals vs Random Assholes</a>
