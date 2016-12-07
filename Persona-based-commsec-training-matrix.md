@@ -250,7 +250,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 
 ## Helpful tools
 
-* Use OnionShare/TorBrowser or share.RiseUp.net to share files rather than public Dropbox/Google Docs, etc.
+* Use OnionShare/TorBrowser or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
 
 # Organizers & journalists vs. Assholes with Resources
 
