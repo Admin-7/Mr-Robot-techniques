@@ -1,5 +1,6 @@
-> 📝 Editor's note: This is a **work in progress**.
->
+> 🚧 This is a **work in progress**.
+> 
+> 📝 Editor's note: 
 > The goal is to create a digital security training material that focuses on filling in the gaps of other guides and highlighting appropriate practices at certain levels of concern. There are three broad categories of "defenders" (you) and "attackers" (them) in increasing sophistication/resource requirements, creating a 3-by-3 matrix. This matrix is linearized below.
 > 
 > The process we're using to create this material:
