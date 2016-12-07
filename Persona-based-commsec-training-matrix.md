@@ -19,13 +19,13 @@
   <tr>
     <th></th>
     <th></th>
-    <th>Random Assholes</th>
-    <th>Assholes with Resources</th>
-    <th>The State</th>
+    <th><a href="#random-assholes">Random Assholes</a></th>
+    <th><a href="#assholes-with-resources">Assholes with Resources</a></th>
+    <th><a href="#the-state">The State</a></th>
   </tr>
   <tr>
     <th rowspan="3"><a href="#defenders">Defenders</a></th>
-    <th>Individuals</th>
+    <th><a href="#individuals">Individuals</a></th>
     <td>
       <a href="#individuals-vs-random-assholes">Individuals vs Random Assholes</a>
     </td>
@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <th>Organizers &amp; journalists</th>
+    <th><a href="#organizers-and-journalists">Organizers and journalists</a></th>
     <td>
       <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; journalists vs Random Assholes</a>
     </td>
@@ -49,7 +49,7 @@
     </td>
   </tr>
   <tr>
-    <th>Targeted Activists</th>
+    <th><a href="#targeted-activists">Targeted Activists</a></th>
     <td>
       <a href="#targeted-activists-vs-random-assholes">Targeted Activists vs Random Assholes</a>
     </td>
