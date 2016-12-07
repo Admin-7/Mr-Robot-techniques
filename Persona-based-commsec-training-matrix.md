@@ -8,6 +8,8 @@
 > 1. Search for and link to appropriate existing guides/educational materials for the line item
 > 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
 > 1. ~~Tabularize the information~~
+> 
+> Additionally, this matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
 
 <table border="1" cellpadding="10" cellspacing="0">
   <caption>
