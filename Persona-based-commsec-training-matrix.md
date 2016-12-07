@@ -134,7 +134,7 @@ The ambiguous part of this persona is the "resources" part. This can mean a numb
 
 ### The State
 
-The our purposes, "The State" is an attacker persona that combines multinational corporations and governments, because corporations and governments tend to have similar if not identical resources and also often act in tandem/cooperation with one another to achieve their ends. This means that "The State" can, concretely, include entities such as:
+For our purposes, "The State" is an attacker persona that combines multinational corporations and governments, because corporations and governments tend to have similar if not identical resources and also often act in tandem/cooperation with one another to achieve their ends. This means that "The State" can, concretely, include entities such as:
 
 * Advertising-funded corporations such as Google and Facebook
 * "Vertically integrated" tech companies such as Apple
