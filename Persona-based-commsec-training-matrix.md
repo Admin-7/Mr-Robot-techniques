@@ -42,11 +42,41 @@ An "organizer," for our purposes, is any person whose safety concerns extend to 
 
 If you are a "targeted activist," you probably know who you are because you've self-identified yourself to yourself as one, and we'll just leave it at that.
 
-## Attackers:
+## Attackers
 
-* **Random Assholes:** malicious individuals, harassers or unsophisticated mobs
-* **Assholes with Resources:** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
-* **The State:** Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
+A "defender" is a [persona](#personas) that roughly describes one "half" of a given threat model. Attackers in our framework are:
+
+* **[Random Assholes](#random-assholes):** malicious individuals, harassers or unsophisticated mobs
+* **[Assholes with Resources](#assholes-with-resources):** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
+* **[The State](#the-state):** Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
+
+### Random assholes
+
+A "random asshole," for our purposes, is an individual or uncoordinated mob whose intent is to cause malicious harm. This can include:
+
+* Twitter eggs, individual Trump supporters, and so on
+* A (relatively *un*skilled) person who holds a grudge against you for some reason
+* Racist co-workers
+* Loosely coordinated mobs of trolls and hate-mongers such as Stormfront, "4chan," and so on
+
+### Assholes with Resources
+
+The ambiguous part of this persona is the "resources" part. This can mean a number of different things in practice, but the unifying thread is that there is some additional capability that these specific assholes have that "random assholes" don't. That distinction means that "assholes with resources" could be:
+
+* A jilted ex-lover who happens to be an employee of a company such as Google or Facebook that has access to your personal information
+* Technically skilled individuals with grudges
+* Unethical app/web service developers, even and perhaps especially the "well-intentioned" ones
+* Government or law enforcement employees (who are acting without formal backing from their agency) such as rogue cops
+* Organized "cybercrime" groups who have some cyber-attack infrastructure in place for other means (botnet herders, phishers, and so on)
+
+### The State
+
+The our purposes, "The State" is an attacker persona that combines multinational corporations and governments, because corporations and governments tend to have similar if not identical resources and also often act in tandem/cooperation with one another to achieve their ends. This means that "The State" can, concretely, include entities such as:
+
+* Advertising-funded corporations such as Google and Facebook
+* "Vertically integrated" tech companies such as Apple
+* Intelligence community organizations such as the CIA, NSA, and so on
+* Surveillance companies/cyberweapon manufacturers, including intelligence community contractors
 
 # "Z-axis" aspects:
 
