@@ -10,6 +10,15 @@
 > 1. ~~Tabularize the information~~
 
 <table border="1" cellpadding="10" cellspacing="0">
+  <caption>
+    <p>How to use this persona-based threat modeling matrix:</p>
+    <ol>
+      <li>You are a "defender" (a given row). Find yourself there.</li>
+      <li>Your concern(s) map to a given "attacker" (a given column). Find your attacker.</li>
+      <li>Find the cell at which these two personas intersect. Everything listed in the cells above and to the left of your cell applies to you, too.</li>
+      <li>Start at the top-left cell and read the advice from left-to-right, top-to-bottom, until you reach your cell. Then stop worrying. :)</li>
+    </ol>
+  </caption>
   <tr>
     <th></th>
     <th></th>
