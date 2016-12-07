@@ -10,6 +10,51 @@
 > 1. ~~Tabularize the information~~
 > 1. Copy to the [[Security culture training#digital-security]] section, for now.
 
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th></th>
+    <th>Random Assholes</th>
+    <th>Assholes with Resources</th>
+    <th>The State</th>
+  </tr>
+  <tr>
+    <th>Individuals</th>
+    <td>
+      <a href="#individuals-vs-random-assholes">Individuals vs Random Assholes</a>
+    </td>
+    <td>
+      <a href="#individuals-vs-assholes-with-resources">Individuals vs Assholes with Resources</a>
+    </td>
+    <td>
+      <a href="#individuals-vs-the-state">Individuals vs The State</a>
+    </td>
+  </tr>
+  <tr>
+    <th>Organizers &amp; journalists</th>
+    <td>
+      <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; journalists vs Random Assholes</a>
+    </td>
+    <td>
+      <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; journalists vs Assholes with Resources</a>
+    </td>
+    <td>
+      <a href="#organizers--journalists-vs-the-state">Organizers &amp; journalists vs The State</a>
+    </td>
+  </tr>
+  <tr>
+    <th>Targeted Activists</th>
+    <td>
+      <a href="#targeted-activists-vs-random-assholes">Targeted Activists vs Random Assholes</a>
+    </td>
+    <td>
+      <a href="#targeted-activists-vs-assholes-with-resources">Targeted Activists vs Assholes with Resources</a>
+    </td>
+    <td>
+      <a href="#targeted-activists-vs-the-state">Targeted Activists vs The State</a>
+    </td>
+  </tr>
+</table>
+
 # Personas
 
 In the context of this resource, a "persona" is simply a coarse grouping of entities, divided into two opposing categories: "defenders" and "attackers." There are three defenders per persona category.
@@ -89,51 +134,6 @@ The our purposes, "The State" is an attacker persona that combines multinational
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
-
-<table border="1" cellpadding="10" cellspacing="0">
-  <tr>
-    <th></th>
-    <th>Random Assholes</th>
-    <th>Assholes with Resources</th>
-    <th>The State</th>
-  </tr>
-  <tr>
-    <th>Individuals</th>
-    <td>
-      <a href="#individuals-vs-random-assholes">Individuals vs Random Assholes</a>
-    </td>
-    <td>
-      <a href="#individuals-vs-assholes-with-resources">Individuals vs Assholes with Resources</a>
-    </td>
-    <td>
-      <a href="#individuals-vs-the-state">Individuals vs The State</a>
-    </td>
-  </tr>
-  <tr>
-    <th>Organizers &amp; journalists</th>
-    <td>
-      <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; journalists vs Random Assholes</a>
-    </td>
-    <td>
-      <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; journalists vs Assholes with Resources</a>
-    </td>
-    <td>
-      <a href="#organizers--journalists-vs-the-state">Organizers &amp; journalists vs The State</a>
-    </td>
-  </tr>
-  <tr>
-    <th>Targeted Activists</th>
-    <td>
-      <a href="#targeted-activists-vs-random-assholes">Targeted Activists vs Random Assholes</a>
-    </td>
-    <td>
-      <a href="#targeted-activists-vs-assholes-with-resources">Targeted Activists vs Assholes with Resources</a>
-    </td>
-    <td>
-      <a href="#targeted-activists-vs-the-state">Targeted Activists vs The State</a>
-    </td>
-  </tr>
-</table>
 
 # Individuals vs. Random Assholes
 
