@@ -107,7 +107,7 @@ If you are a "targeted activist," you probably know who you are because you've s
 
 ## Attackers
 
-A "defender" is a [persona](#personas) that roughly describes one "half" of a given threat model. Attackers in our framework are:
+An "attacker" is a [persona](#personas) that roughly describes one "half" of a given threat model. Attackers in our framework are:
 
 * **[Random Assholes](#random-assholes):** malicious individuals, harassers or unsophisticated mobs
 * **[Assholes with Resources](#assholes-with-resources):** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
@@ -225,6 +225,8 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Use [TermsOfService;Didn't Read](https://tosdr.org/) to get up-to-speed on legal terms for a given service you're considering using.
 * Turn off JavaScript using blockers such as [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) and [NoScript](https://noscript.net/) and re-enable it only on sites you purposefully visit
 * Use [HTTPS Everywhere](https://www.eff.org/https-everywhere%20) so you make sure you send data to the service using HTTPS and not HTTP.
+
+Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
 # Organizers & journalists vs. Random Assholes
 
