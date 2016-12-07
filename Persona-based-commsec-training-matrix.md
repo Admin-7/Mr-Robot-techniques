@@ -12,6 +12,16 @@
 > 
 > Additionally, this matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
 
+# Motivation
+
+This "persona-based" approach to digital and communications security is motivated by the observation that many efforts to encourage less-technical people to adopt security best practices have failed. Moreover, the way most of these efforts fail are not random. Rather, they have a specific pattern. The failure modes we most commonly observed are:
+
+1. Often, people are unable to find threat-model-appropriate information. That is, most security guides assume your adversary is the NSA. *This is absurd and most people are correctly ignoring this advice.*
+1. Security guides use highly technical concepts and jargon terms before introducing their fundamental principles and concepts. For instance, describing a "public key infrastructure" is nonsensical because there is never a time when those three words are uttered in sequence and most people cannot be reasonably expected to understand what this means.
+1. Often, "experts" simply demand that people take too many actions in too short a time. This is exacerbated by the clickbait nature of news, with lists of "tips" that don't thoroughly explain what each "tip" is or why it's useful. Confused readers are bombarded with a list of *many* things they don't understand, so they naturally feel overwhelmed and shut down.
+
+This training matrix is not intended to be an end-user resource, but rather a resource for digital security and communications privacy trainers/teachers. Its goal is to provide a resource to meet the following challenge: "how do we teach threat modeling, without ever saying the word 'threat model' or using any other jargon, to people who don't want to have to care about digital/computer security, but know that they need to care anyway?"
+
 <table border="1" cellpadding="10" cellspacing="0">
   <caption>
     <p>How to use this persona-based threat modeling matrix:</p>
