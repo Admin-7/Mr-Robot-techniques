@@ -189,6 +189,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
   * [For Twitter](https://myshadow.org/how-to-increase-your-privacy-on-twitter)
+  * [For Google](https://myaccount.google.com/security#connectedapps)
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
