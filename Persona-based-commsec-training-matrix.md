@@ -190,6 +190,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
   * [For Twitter](https://myshadow.org/how-to-increase-your-privacy-on-twitter)
   * [For Google](https://myaccount.google.com/security#connectedapps)
+  * [For Facebook](https://www.facebook.com/settings?tab=applications)
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
@@ -221,6 +222,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 ## Security hygiene and habits
 
 * Use passphrases, not biometric unlock features such as fingerprints
+* Use passphrases for locking your phone instead of PIN or Pattern.
 * Use cash whenever possible, not a credit card or electronic payment system
 * If you **need** to use credit-card to buy something (and you are currently based in US), use a random credit-card for each service. You can get that at [Privacy.com](https://privacy.com/).
 * Switch your default search provider to a Google-alternative
