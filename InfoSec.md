@@ -34,6 +34,10 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
   
   Like Over the Wire, the io games are played over SSH with the goal of escalating privileges to advance levels. Home to a great IRC channel too.
 
+* [Exploit Exercises](https://exploit-exercises.com/)
+
+    A variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues. 
+
 * [CTF Time](http://ctftime.org)
 
   List of upcoming CTFs to compete in. If others are interested, we could probably field an RC team. It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
