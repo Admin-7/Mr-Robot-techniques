@@ -235,6 +235,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 
 ## Helpful tools
 
+* Use certificate transparency monitoring tools ([like Facebook's](https://developers.facebook.com/tools/ct/)) to further check the trustworthiness of a given certificate
 * Use [TermsOfService;Didn't Read](https://tosdr.org/) to get up-to-speed on legal terms for a given service you're considering using.
 * Turn off JavaScript using blockers such as [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) and [NoScript](https://noscript.net/) and re-enable it only on sites you purposefully visit
 * Use [HTTPS Everywhere](https://www.eff.org/https-everywhere%20) so you make sure you send data to the service using HTTPS and not HTTP.
