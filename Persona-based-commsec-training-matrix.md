@@ -227,6 +227,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * If you **need** to use credit-card to buy something (and you are currently based in US), use a random credit-card for each service. You can get that at [Privacy.com](https://privacy.com/).
 * Switch your default search provider to a Google-alternative
 * Uninstall the Facebook/Twitter/etc. apps and use the mobile web versions of these sites
+* [Audit your Android device's app permissions](http://www.howtogeek.com/230683/how-to-manage-app-permissions-on-android-6.0/) and revoke any permissions granted to apps that enable features you don't use
 * Use temporary emails/identities when making temporary use of services: use a [temporary email](https://temp-mail.org/en/) ([FakeMailGenerator.com](http://fakemailgenerator.com/) and similar sites) for that, and [fake names, birth dates and etc.](http://fakenamegenerator.com/) to go along with that temporary identity
 * If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
