@@ -58,12 +58,6 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
   More memory corruption. Most levels are vulnerable services running on a particular port. You can exploit them remotely to get a shell, read a "flag" file, and register it with the website to be awarded "points."
 
-## Other lists
-
-* [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
-* [pentest-links](https://github.com/meitar/pentest-links)
-* [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
-
 # Labs and practice VMs
 
 * [Hacking Lab](https://www.hacking-lab.com)
@@ -95,6 +89,13 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 * [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
   A top-ten list of digital security tips intended for a specific type of defender ("protesters"). Possibly easier to digest than the more thorough "Surveillance Self-Defense" guide, despite being written by the same source.
+
+# Other lists
+
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+* [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+* [pentest-links](https://github.com/meitar/pentest-links)
+* [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 
 ***
 
