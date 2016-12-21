@@ -12,7 +12,7 @@
 > 
 > Additionally, this matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
 > 
-> See also: [Security training resources for security trainers, Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
+> See also: (Current Digital Security Resources, 2016 Edition](https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c), [Security training resources for security trainers, Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
 
 # Motivation
 
