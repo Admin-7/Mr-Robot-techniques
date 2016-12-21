@@ -133,3 +133,4 @@ There's a ton of stuff in there, and learning about how to defend yourself from 
 # Movement building
 
 * [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators.
+* [Security Culture for Activists](http://www.ruckus.org/downloads/RuckusSecurityCultureForActivists.pdf)
