@@ -284,7 +284,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 
 ## Helpful tools
 
-* Use Tor!!!!!11!
+* Use Tor!!!!!11! (or a VPN)
 * Host sites somewhere safe (privacytools.io)
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 * Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
