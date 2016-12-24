@@ -13,6 +13,18 @@ As the facilitator, your primary goals are to:
 * create the list of TTPs for the episode and/or iteratively add to it as a discussion progresses;
 * play the episodes of the show!
 
+# Requirements
+
+The following equipment is needed for a successful hack night:
+
+* [ ] A room with little ambient light. (The episodes of Mr. Robot are fairly dark on-screen. Light gets in the way.) The room must be large enough to accommodate all viewers and possibly their open laptops.
+* [ ] A projector or large screen (large enough for easy viewing by a group of 5 to 20 individuals or so).
+* [ ] A decent sound system for audio to be heard by everyone in attendance.
+* [ ] Adapter cabling for the A/V setup.
+* [ ] Access to decent Wi-Fi. Post-show discussions are greatly aided by being able to perform Internet searches to find resources.
+* [ ] Video files of the show itself to play back. (One does not *technically* need to acquire these files legally.)
+* [ ] Power strips and/or extension cords so everyone in attendance who brought a CPU can keep it powered on.
+
 # Checklist
 
 Use the following checklists to ensure you're ready for the session.
