@@ -74,7 +74,7 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 * [Programming Linux Anti-Reversing Techniques](https://leanpub.com/anti-reverse-engineering-linux)
 
-  A free e-book with a pre-compiled binary that "teaches the reader how to code and analyze well known anti-reversing techniques for Linux. The book shows how a reverse engineer analyzes a binary using tools like IDA, Radare2, GDB, readelf, and more." Useful for learning reverse engineering beginners.
+  A free e-book with a pre-compiled binary that "teaches the reader how to code and analyze well known anti-reversing techniques for Linux. The book shows how a reverse engineer analyzes a binary using tools like IDA, Radare2, GDB, readelf, and more." Useful for learning reverse engineering beginners. Its [companion repositories can be found on GitHub](https://github.com/antire-book).
 
 # For defenders
 
