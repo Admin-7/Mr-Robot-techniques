@@ -281,6 +281,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * Use alternate service providers (don't use Google's GMail)
 * Ideally, use *decentralized* alternate services/networks
   * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
+* If you posses a camera which supports GPS disabled it (those coordinates are photo metadata)
 
 ## Helpful tools
 
@@ -288,6 +289,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * Host sites somewhere safe (privacytools.io)
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 * Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
+* Use [MAT](https://mat.boum.org/) (or another tool) to remove document metadata before sharing online (specially if you need to protects your source)
 
 # Targeted activists vs. Random Assholes
 
