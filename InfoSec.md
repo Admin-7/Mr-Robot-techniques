@@ -106,3 +106,4 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 See also
 
 * [NYC-InfoSec.com](https://www.nyc-infosec.com/), a calendar of infosec-related events in the New York City area.
+* [Zapya's list of CTF and hacking challenge sites](http://www.zapyaapkforpc.com/2016/12/top-hacking-sites-ctfs-and-wargames-to.html)
