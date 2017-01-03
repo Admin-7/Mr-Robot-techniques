@@ -39,6 +39,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * "DDoS protection" - really, really big pipes, see [CloudFlare](https://www.cloudflare.com/ddos/)
 * DNS
 * "fingerblasting"
+  * Historical sidenote: read about the [`finger` Protocol](https://en.wikipedia.org/wiki/Finger_protocol)
 * `astsu` is [not real](https://www.leaseweb.com/labs/2015/09/linux-commands-astu-and-astsu-in-mr-robot/), but! `traceroute` is
 * [rootkit](https://en.wikipedia.org/wiki/Rootkit)
 * `ifconfig` ("redirect the traffic"), when done on a router, we're probably more talking more about [CISCO iOS switches](https://en.wikipedia.org/wiki/Cisco_IOS)
