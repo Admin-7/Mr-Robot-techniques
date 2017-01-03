@@ -37,6 +37,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [KDE](https://www.kde.org/)
 * "DDoS attack"
   * "DDoS protection" - really, really big pipes, see [CloudFlare](https://www.cloudflare.com/ddos/)
+  * Blog post: "[What is LOIC and can I be arrested for DDoS'ing someone?](https://www.troyhunt.com/what-is-loic-and-can-i-be-arrested-for/)"
 * DNS
 * "fingerblasting"
   * Historical sidenote: read about the [`finger` Protocol](https://en.wikipedia.org/wiki/Finger_protocol)
