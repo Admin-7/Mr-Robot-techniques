@@ -185,6 +185,7 @@ During post-show discussion, we brought up:
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 * "Error 404 Not Found", a well-known HTTP status code
   * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
+* Windows malware via autorun on CD, again! ;)
 
 # Week 5 (S01E05)
 
