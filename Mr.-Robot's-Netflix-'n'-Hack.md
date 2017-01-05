@@ -12,6 +12,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Week 1 (S01E01)](#week-1-s01e01)
 * [Week 2 (S01E02)](#week-2-s01e02)
 * [Week 3 (S01E03)](#week-3-s01e03)
+* [Week 4 (S01E04)](#week-4-s01e04)
+* [Week 5 (S01E05)](#week-4-s01e05)
 
 # Week 1 (S01E01)
 
@@ -160,7 +162,30 @@ During post-show discussion, we brought up:
 * [Cree.py](http://www.geocreepy.com/) - geolocation OSINT tool
 * [TrackIMEI](http://www.trackimei.com/) Using a SIM card/IMEI number to track the location of a mobile phone
 
-
 # Week 4 (S01E04)
+
+* [Linear Tape-Open (LTO)](https://en.wikipedia.org/wiki/Linear_Tape-Open) is old-school tape cassette storage
+  * "Open Standard 9" [doesn't actually exist (yet)](http://www.burameter.com/Articles/ArtMID/422/ArticleID/51/LTO-Tape-Even-Mr-Robot-proof)
+* [Asymmetric backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)#Asymmetric_backdoors)
+* [VPN](* [VPN](https://en.wikipedia.org/wiki/Virtual_private_network))
+* [HVAC](https://en.wikipedia.org/wiki/HVAC)
+* "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network"
+* "the distro"
+* FTP server
+* Unlocking a car door wirelessly
+  * These cars use Passive Keyless Entry and Start (PKES), aka "[Smart key](https://en.wikipedia.org/wiki/Smart_key)"
+  * [Security Now! Episode 508, "Exploiting Keyless Entry" show notes (PDF)](https://www.grc.com/sn/sn-508-notes.pdf)
+  * See Atmel microchip manufacturer pages on "[Passive Entry/Passive Start (PEPS)](http://www.atmel.com/applications/automotive/car_access/passive-entry-passive-start.aspx)" and "[Remote Keyless Entry (RKE)](http://www.atmel.com/applications/automotive/car_access/remote-keyless-entry.aspx)"
+  * ["Relay Attacks on Passive Keyless Entry and Start Systems in Modern Cars" (PDF)](https://eprint.iacr.org/2010/332.pdf)
+* Starting a car using a CAN Bus
+  * [InfoSec Institute: Car Hacking](http://resources.infosecinstitute.com/future-now-car-hacking/)
+  * Blog post: [Hacking into a Vehicle CAN bus (Toyothack and SocketCAN)](https://fabiobaltieri.com/2013/07/23/hacking-into-a-vehicle-can-bus-toyothack-and-socketcan/)
+* [Daemon](https://en.wikipedia.org/wiki/Daemon_%28computing%29)
+* "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)
+* "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
+* "Error 404 Not Found", a well-known HTTP status code
+  * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
+
+# Week 5 (S01E05)
 
 > 🚧 TK-TODO
