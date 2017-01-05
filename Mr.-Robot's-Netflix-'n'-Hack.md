@@ -13,7 +13,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Week 2 (S01E02)](#week-2-s01e02)
 * [Week 3 (S01E03)](#week-3-s01e03)
 * [Week 4 (S01E04)](#week-4-s01e04)
-* [Week 5 (S01E05)](#week-4-s01e05)
+* [Week 5 (S01E05)](#week-5-s01e05)
 
 # Week 1 (S01E01)
 
