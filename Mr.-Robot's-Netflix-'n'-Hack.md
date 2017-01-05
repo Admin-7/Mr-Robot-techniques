@@ -166,10 +166,9 @@ During post-show discussion, we brought up:
 
 * [Linear Tape-Open (LTO)](https://en.wikipedia.org/wiki/Linear_Tape-Open) is old-school tape cassette storage
   * "Open Standard 9" [doesn't actually exist (yet)](http://www.burameter.com/Articles/ArtMID/422/ArticleID/51/LTO-Tape-Even-Mr-Robot-proof)
-* [Asymmetric backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)#Asymmetric_backdoors)
-* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
-  * LifeHacker has [a good guide to getting started with a Raspberry Pi](https://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054)
-* [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
+* "the circuit board, if installed behind a thermostat, it lets us plant an [asymmetric backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)#Asymmetric_backdoors) and then create a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) in the Steel Mountain Intranet."
+  * "the circuit board" would be a [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+    * LifeHacker has [a good guide to getting started with a Raspberry Pi](https://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054)
 * [HVAC](https://en.wikipedia.org/wiki/HVAC)
 * "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network"
 * "the distro"
