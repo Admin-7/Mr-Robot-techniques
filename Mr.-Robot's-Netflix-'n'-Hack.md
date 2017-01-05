@@ -14,6 +14,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Week 3 (S01E03)](#week-3-s01e03)
 * [Week 4 (S01E04)](#week-4-s01e04)
 * [Week 5 (S01E05)](#week-5-s01e05)
+* [Week 6 (S01E06)](#week-6-s01e06)
 
 # Week 1 (S01E01)
 
@@ -22,6 +23,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * ["Onion services" (formerly known as "hidden services")](https://www.torproject.org/docs/hidden-services.html.en)
   * "[Deep Web](https://www.youtube.com/watch?v=CHOjbPI-B8E)" sites ([how to search](http://deep-web.org/how-to-research/deep-web-search-engines/), check out [The Hidden Wiki](https://thehiddenwiki.org/))
 * [RUDY attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack#R-U-Dead-Yet.3F_.28RUDY.29)
+  * [Incapsula's DDoS Attack Glossary entry for "RUDY attack"](https://www.incapsula.com/ddos/attack-glossary/rudy-r-u-dead-yet.html)
 * "Good at reading people" (social engineering…a [blog post](https://web.archive.org/web/20020125012547/http://www.securityfocus.com/cgi-bin/infocus.pl?id=1527) to maybe read, also a book [The Art of Deception](http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf), see also: [Freedom Downtime](https://www.youtube.com/watch?v=qMzRRVgEuWc))
   * "I left my keys in one of your cabs…"
   * "Can I borrow your phone?" (also deleted the outgoing call log)
@@ -188,5 +190,13 @@ During post-show discussion, we brought up:
 * Windows malware via autorun on CD, again! ;)
 
 # Week 5 (S01E05)
+
+* [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) (aka "cloning") copies data from one "contactless smartcard" to another
+  * Read, "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)"
+  * Same tech is used instead of magnetic strips on credit/debit cards, see [How to Disable Contactless Payment on Your Debit Card](http://www.instructables.com/id/How-to-Disable-Contactless-Payment-on-Your-Debit-C/?ALLSTEPS)
+  * [Offensive Security: Clone RFID Tags with Proxmark3](https://www.offensive-security.com/offsec/cloning-rfid-tags-with-proxmark-3/)
+  * Do-It-Yourself electronic projects to make your own low-cost own RFID cloner](https://hackaday.com/2011/09/30/passive-rfid-tag-cloning/), more at [ProxClone.com](http://www.proxclone.com/)
+
+# Week 6 (S01E06)
 
 > 🚧 TK-TODO
