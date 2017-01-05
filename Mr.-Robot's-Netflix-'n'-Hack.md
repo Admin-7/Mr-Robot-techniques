@@ -76,13 +76,14 @@ During post-show discussion, we brought up:
 * [BeEF](http://beefproject.com/)
 * NAT/PAT tables and a bit about [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal) ("NAT punching")
 
-## 
-
 # Week 2 (S01E02)
 
-* [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug)), a severe and pervasive vulnerability patched in 2014. ("Evil Corp's corporate mail server hadn't been updated since the days of Shellshock.") Try it yourself:
-  * [PentesterLab practice VM for CVE-2014-6271](https://pentesterlab.com/exercises/cve-2014-6271)
-  * [VulnHub practice VM for CVE-2014-6271](https://www.vulnhub.com/entry/pentester-lab-cve-2014-6271-shellshock,104/)
+* "Evil Corp's corporate mail server hadn't been updated since the days of Shellshock."  
+  ![Wget exploiting shellshock, :robot: screenshot 📷](https://hackertarget.com/mrrobot/wget-shellshock-john.png)
+  * [`wget`](https://en.wikipedia.org/wiki/Wget), a command line tool to get files over the Web
+  * [Shellshock](https://en.wikipedia.org/wiki/Shellshock_(software_bug)), a severe and pervasive vulnerability patched in 2014. Read "[Inside Shellshock](https://blog.cloudflare.com/inside-shellshock/)," then try it yourself:
+    * [PentesterLab practice VM for CVE-2014-6271](https://pentesterlab.com/exercises/cve-2014-6271)
+    * [VulnHub practice VM for CVE-2014-6271](https://www.vulnhub.com/entry/pentester-lab-cve-2014-6271-shellshock,104/)
 * "Doesn't even use two-step verification" also known as (2FA) - [Wikipedia page](https://en.wikipedia.org/wiki/Multi-factor_authentication)
   * What are secure "factors"? ->
     1. Something you know (knowledge; e.g., password)
@@ -179,9 +180,12 @@ During post-show discussion, we brought up:
   * [Security Now! Episode 508, "Exploiting Keyless Entry" show notes (PDF)](https://www.grc.com/sn/sn-508-notes.pdf)
   * See Atmel microchip manufacturer pages on "[Passive Entry/Passive Start (PEPS)](http://www.atmel.com/applications/automotive/car_access/passive-entry-passive-start.aspx)" and "[Remote Keyless Entry (RKE)](http://www.atmel.com/applications/automotive/car_access/remote-keyless-entry.aspx)"
   * ["Relay Attacks on Passive Keyless Entry and Start Systems in Modern Cars" (PDF)](https://eprint.iacr.org/2010/332.pdf)
-* Starting a car using a CAN Bus
+* Starting a car using its [Controller Area Network (CAN) Bus](https://en.wikipedia.org/wiki/CAN_bus)  
+  ![CAN bus hacking, :robot: screenshot 📷](https://hackertarget.com/mrrobot/canbus-hack.png)
+  * Real-life example, read "[Hackers Remotely Kill a Jeep on the Highway—With Me in It](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)"
   * [InfoSec Institute: Car Hacking](http://resources.infosecinstitute.com/future-now-car-hacking/)
   * Blog post: [Hacking into a Vehicle CAN bus (Toyothack and SocketCAN)](https://fabiobaltieri.com/2013/07/23/hacking-into-a-vehicle-can-bus-toyothack-and-socketcan/)
+  * [`candump` and other Linux-CAN userland utilities](https://github.com/linux-can/can-utils/)
 * [Daemon](https://en.wikipedia.org/wiki/Daemon_%28computing%29)
 * "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
@@ -192,10 +196,11 @@ During post-show discussion, we brought up:
 # Week 5 (S01E05)
 
 * [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) (aka "cloning") copies data from one "contactless smartcard" to another
-  * Read, "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)"
+  * Read, "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)" and then [No building access card? No problem if you have new Def Con tools](http://www.computerworld.com/article/2953660/security/no-building-access-card-no-problem-if-you-have-new-def-con-tools.html)
   * Same tech is used instead of magnetic strips on credit/debit cards, see [How to Disable Contactless Payment on Your Debit Card](http://www.instructables.com/id/How-to-Disable-Contactless-Payment-on-Your-Debit-C/?ALLSTEPS)
+  * Do-It-Yourself electronic projects to make your own low-cost own RFID cloner](https://hackaday.com/2011/09/30/passive-rfid-tag-cloning/), more at [BishopFox (Tastic RFID Thief)](https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/#tastic-rfid-thief) and [ProxClone.com](http://www.proxclone.com/)
   * [Offensive Security: Clone RFID Tags with Proxmark3](https://www.offensive-security.com/offsec/cloning-rfid-tags-with-proxmark-3/)
-  * Do-It-Yourself electronic projects to make your own low-cost own RFID cloner](https://hackaday.com/2011/09/30/passive-rfid-tag-cloning/), more at [ProxClone.com](http://www.proxclone.com/)
+
 
 # Week 6 (S01E06)
 
