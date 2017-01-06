@@ -209,7 +209,8 @@ During post-show discussion, we brought up:
 * Editing Wikipedia with fake information, see [Wikipedia:List of hoaxes on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_hoaxes_on_Wikipedia)
 * Digital reconnaissance
   * [Maltego](https://paterva.com/web7/docs/documentation.php), a graphical tool for digital reconnaissance
-* "I spoofed a TXT," using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
+* [Kali Linux](https://www.kali.org/), the penetration testing Linux distribution Romero is using
+* "I spoofed a TXT," Mobley says, using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
   ![Using SET, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/social-engineer-toolkit.png)
   * 🚧 TK-TODO
 
