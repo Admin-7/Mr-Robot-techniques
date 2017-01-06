@@ -195,12 +195,21 @@ During post-show discussion, we brought up:
 
 # Week 5 (S01E05)
 
-* [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) (aka "cloning") copies data from one "contactless smartcard" to another
-  * Read, "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)" and then [No building access card? No problem if you have new Def Con tools](http://www.computerworld.com/article/2953660/security/no-building-access-card-no-problem-if-you-have-new-def-con-tools.html)
-  * Same tech is used instead of magnetic strips on credit/debit cards, see [How to Disable Contactless Payment on Your Debit Card](http://www.instructables.com/id/How-to-Disable-Contactless-Payment-on-Your-Debit-C/?ALLSTEPS)
-  * Do-It-Yourself electronic projects to make your own low-cost own RFID cloner](https://hackaday.com/2011/09/30/passive-rfid-tag-cloning/), more at [BishopFox (Tastic RFID Thief)](https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/#tastic-rfid-thief) and [ProxClone.com](http://www.proxclone.com/)
+* [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) aka "cloning". Read, "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)" and then [No building access card? No problem if you have new Def Con tools](http://www.computerworld.com/article/2953660/security/no-building-access-card-no-problem-if-you-have-new-def-con-tools.html)  
+  ![Messenger bag contains a Tastic RFID Thief, :robot: screenshot 📷](https://www.mrrobothacks.com/wp-content/uploads/2016/10/rfid.jpg)  
+  ![Key card cloning, :robot: screenshot 📷](http://cdn.geekwire.com/wp-content/uploads/2015/07/mrrobot55.png)
+  * [Tastic RFID Thief](https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/#tastic-rfid-thief), the tool inside Mobley's messenger bag used for copying a proximity card's [radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification) or [near field communication (NFC)](https://en.wikipedia.org/wiki/Near_field_communication) signals.
+  * "xCARD PROGRAMMER - v1.05" is not real, but the [GeZhi HID Cloner V3.0](https://web.archive.org/web/20170106000622/http://www.xfpga.com/pic/big/34_1.jpg) made by [GeZhi Electronic Co](http://www.xfpga.com/) is real! ([HID](https://en.wikipedia.org/wiki/HID_Global) is an contactless access key card brand name.)
+  * Article: [Understanding the confusing world of RFID tags and readers in access control](http://www.nedapidentification.com/news/insights/understanding-the-confusing-world-of-rfid-tags-and-readers-in-access-control.html)
+  * Same or similar tech is used instead of magnetic strips on credit/debit cards, see [How to Disable Contactless Payment on Your Debit Card](http://www.instructables.com/id/How-to-Disable-Contactless-Payment-on-Your-Debit-C/?ALLSTEPS)
+  * Do-It-Yourself [electronic projects](http://www.eng.tau.ac.il/~yash/kw-usenix06/index.html) to make [your own low-cost own RFID cloner](https://hackaday.com/2011/09/30/passive-rfid-tag-cloning/), more at [ProxClone.com](http://www.proxclone.com/)
   * [Offensive Security: Clone RFID Tags with Proxmark3](https://www.offensive-security.com/offsec/cloning-rfid-tags-with-proxmark-3/)
-
+  * [FuzzySecurity: RFID Tutorial (Part 1)](http://www.fuzzysecurity.com/tutorials/rfid/1.html)
+  * [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt), a collection of Python utilities to work with RFID and NFC
+* Editing Wikipedia with fake information, see [Wikipedia:List of hoaxes on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_hoaxes_on_Wikipedia)
+* "I spoofed a TXT," using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
+  ![Using SET, :robot: screenshot 📷](https://hackertarget.com/mrrobot/social-engineer-toolkit.png)
+  * 🚧 TK-TODO
 
 # Week 6 (S01E06)
 
