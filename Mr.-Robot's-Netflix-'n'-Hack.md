@@ -86,9 +86,9 @@ During post-show discussion, we brought up:
     * [VulnHub practice VM for CVE-2014-6271](https://www.vulnhub.com/entry/pentester-lab-cve-2014-6271-shellshock,104/)
 * "Doesn't even use two-step verification" also known as (2FA) - [Wikipedia page](https://en.wikipedia.org/wiki/Multi-factor_authentication)
   * What are secure "factors"? ->
-    1. Something you know (knowledge; e.g., password)
-    1. Something you have (posession)
-    1. Something you are (biometrics)
+    1. Something you know (knowledge; e.g., a password)
+    1. Something you have (possession; e.g., a physical [security token](https://en.wikipedia.org/wiki/Security_token) such as a [YubiKey](https://www.yubico.com/))
+    1. Something you are (biometrics; e.g., a [retinal scan](https://en.wikipedia.org/wiki/Retinal_scan))
 * [`john` password cracker](http://www.openwall.com/john/)
 * Microwaving electronics:
   * debatable way of destroying info on a hard drive ([use a drill instead](https://www.theguardian.com/uk-news/2014/jan/31/footage-released-guardian-editors-snowden-hard-drives-gchq));
