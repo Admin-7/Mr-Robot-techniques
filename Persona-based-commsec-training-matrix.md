@@ -281,6 +281,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * Use alternate service providers (don't use Google's GMail)
 * Ideally, use *decentralized* alternate services/networks
   * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
+* [Secure your SSH servers](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
 
 ## Helpful tools
 
