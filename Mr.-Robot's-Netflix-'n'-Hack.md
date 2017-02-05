@@ -56,7 +56,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * `rm` (`-norecycle` is not real, is it?)
   * "Reconfigure the access to the directory" -> `chmod`
 * "I'll ask my IRC contacts…"
-  * [IRC](http://www.irchelp.org/) is Internet chat rooms before the Web came around and shoved everything over port 80
+  * [IRC](http://www.irchelp.org/) is [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), an old online chat room technology that is still popular with techies and hackers
 * [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 * [US Cyber Command](https://en.wikipedia.org/wiki/United_States_Cyber_Command)
 * [Google (News) Alerts](https://www.google.com/alerts)
@@ -212,7 +212,18 @@ During post-show discussion, we brought up:
 * [Kali Linux](https://www.kali.org/), the penetration testing Linux distribution Romero is using
 * "I spoofed a TXT," Mobley says, using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
   ![Using SET, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/social-engineer-toolkit.png)
-  * 🚧 TK-TODO
+* Palm-print scanner (biometrics)
+* "I think you can pick it." - Lockpicking, Ellit has a lockpick card? https://www.amazon.com/lock-pick-card/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Alock%20pick%20card
+* Wire stripper/crimper, wire splicing http://www.linuxplanet.com/linuxplanet/tutorials/6892/1
+  * hardware implants, electric signal interception on back of AirDream thermostat
+* Dark Army's IRC chat room details:
+  * IRC commands are written starting with a `/` (a slash-command) (wikipedia: https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
+  * IRC rooms, called "channels," are prefixed with an octothorpe (`#`).
+  * The channel was hosted on [Freenode](https://freenode.net/), a famous and free public IRC server.
+  * Darlene uses `/join #da_9376` to try joining the room, after she was ejected ("kicked") and banned, so of course she can't rejoin it.
+  * MOTD is a UNIX initialism and idiom for "Message of the Day," https://en.wikipedia.org/wiki/Motd_(Unix)
+* …
+* 🚧 TK-TODO
 
 # Week 6 (S01E06)
 
