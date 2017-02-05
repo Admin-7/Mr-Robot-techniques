@@ -223,14 +223,20 @@ During post-show discussion, we brought up:
     * [LinuxPlanet](http://www.linuxplanet.com/linuxplanet/tutorials/6892/1)
     * [Instructables](http://www.instructables.com/id/How-to-Crimp-Cables-and-Wires!/)
   * See also: [DIY.org's "Hardware Hacker" projects](https://diy.org/skills/hardwarehacker).
-* Dark Army's IRC chat room:
-  * IRC commands are written starting with a `/` (a slash-command) (wikipedia: https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
+* Dark Army's IRC chat room:  
+  ![IRC chat closeup showing "MOTD" and being "kicked," :robot: screenshot 📷](https://web.archive.org/web/20170205043350/https://i.imgur.com/1OFvB0H.jpg)  
+  ![IRC chat closeup showing "/join" command, :robot: screenshot 📷](https://web.archive.org/web/20170205043404/https://i.imgur.com/e2NG0Sz.jpg)
+  * IRC commands are written starting with a `/` (a "slash-command"), see [Wikipedia's List of Internet Relay Chat Commands](https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
   * IRC rooms, called "channels," are prefixed with an octothorpe (`#`).
-  * The channel was hosted on [Freenode](https://freenode.net/), a famous and free public IRC server.
-  * Darlene uses `/join #da_9376` to try joining the room, after she was ejected ("kicked") and banned, so of course she can't rejoin it.
-  * MOTD is a UNIX initialism and idiom for "Message of the Day," https://en.wikipedia.org/wiki/Motd_(Unix)
-* …
-* 🚧 TK-TODO
+  * [Freenode](https://freenode.net/) is a famous and free public IRC server.
+  * Darlene uses `/join #da7Q_9RnPjm` to try joining the room after she was ejected ("kicked"), but she was subsequently banned.
+  * ["MOTD" is a UNIX initialism and idiom](https://en.wikipedia.org/wiki/Motd_(Unix)) for "Message of the Day."
+* [SSH, the *S*ecure *Sh*ell program](https://en.wikipedia.org/wiki/Secure_Shell), is an encrypted remote login tool, offering command-line access to remote systems attached to a network.  
+  ![Closeup of fsociety terminal showing SSH login, :robot: screenshot 📷](https://web.archive.org/web/20170205044319/https://i.imgur.com/h6d2svk.jpg)
+  * The `-l` option specifies a *l*ogin (user) name; Darlene is using the `root` user.
+  * No passwords were being asked for, so Darlene has [configured SSH for key-based authentication](http://www.systutorials.com/1500/enabling-password-less-ssh-login/). [GitHub has a good guide for setting up SSH with key-based (aka. "password-less") logins](https://help.github.com/articles/connecting-to-github-with-ssh/).
+  * On Windows, you may need to install [PuTTY](http://www.putty.org/). On macOS/*nix systems, SSH is usually pre-installed.
+  * Complete reference guidebook: [SSH, The Secure Shell: The definitive guide, 2nd Edition](https://web.archive.org/web/20170122005724/https://courseweb.pitt.edu/bbcswebdav/institution/Pitt%20Online/MLIS_Pitt_Online/LIS%202600/Intro%20Module/SSH_Second_Edition.pdf)
 
 # Week 6 (S01E06)
 
