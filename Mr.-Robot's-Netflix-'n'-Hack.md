@@ -213,10 +213,15 @@ During post-show discussion, we brought up:
 * [Kali Linux](https://www.kali.org/), the penetration testing Linux distribution Romero is using
 * "I spoofed a TXT," Mobley says, using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
   ![Using SET, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/social-engineer-toolkit.png)
-* Palm-print scanner (biometrics)
-* "I think you can pick it." - Lockpicking, Ellit has a lockpick card? https://www.amazon.com/lock-pick-card/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Alock%20pick%20card
-* Wire stripper/crimper, wire splicing http://www.linuxplanet.com/linuxplanet/tutorials/6892/1
-  * hardware implants, electric signal interception on back of AirDream thermostat
+* "It's a palm-print scanner." A form of biometric access control device. Real life vendors:
+  * [Fujitsu PalmSecure(R)](http://www.fujitsu.com/us/solutions/business-technology/security/palmsecure/)
+  * [BioLink LiveScan](http://biolinksolutions.com/afis-law-enforcement/livescan/)
+* "I think you can pick it." More lockpicking.
+  * Elliot carries [a covert "lockpick card" set](https://www.lockpickshop.com/CC-LOCK-PICK-SET.html)
+* Wire splicing http://www.linuxplanet.com/linuxplanet/tutorials/6892/1
+  * Tools: Wire stripper/crimper, 
+  * Related: hardware taps,
+  * electric signal interception on back of AirDream thermostat
 * Dark Army's IRC chat room details:
   * IRC commands are written starting with a `/` (a slash-command) (wikipedia: https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
   * IRC rooms, called "channels," are prefixed with an octothorpe (`#`).
