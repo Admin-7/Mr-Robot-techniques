@@ -56,7 +56,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * `rm` (`-norecycle` is not real, is it?)
   * "Reconfigure the access to the directory" -> `chmod`
 * "I'll ask my IRC contacts…"
-  * [IRC](http://www.irchelp.org/) is [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), an old online chat room technology that is still popular with techies and hackers
+  * IRC is [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), an aging chat room technology that is still popular with techies and hackers.
+  * Guide to IRC for novices: [IRCHelp.org](http://www.irchelp.org/)
 * [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 * [US Cyber Command](https://en.wikipedia.org/wiki/United_States_Cyber_Command)
 * [Google (News) Alerts](https://www.google.com/alerts)
