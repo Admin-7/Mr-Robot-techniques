@@ -220,8 +220,9 @@ During post-show discussion, we brought up:
   * Elliot carries [a covert "lockpick card" set](https://www.lockpickshop.com/CC-LOCK-PICK-SET.html)
 * Wire splicing, placing a device directly on the cabling of another wired device
   * Related terms: wire stripping (removing the insulation off electric cables), wire snipping (cutting cables to custom lengths), and wire crimping (attaching connectors to the ends of wires). Some tutorials:
-    * [LinuxPlanet](http://www.linuxplanet.com/linuxplanet/tutorials/6892/1)
-    * [Instructables](http://www.instructables.com/id/How-to-Crimp-Cables-and-Wires!/)
+    * [MAKE: How to Splice Wire to NASA Standards](http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/)
+    * [LinuxPlanet: How to Crimp Your Own Ethernet Cables](http://www.linuxplanet.com/linuxplanet/tutorials/6892/1)
+    * [Instructables: How to Crimp Cables and Wires!](http://www.instructables.com/id/How-to-Crimp-Cables-and-Wires!/)
   * See also: [DIY.org's "Hardware Hacker" projects](https://diy.org/skills/hardwarehacker).
 * Dark Army's IRC chat room:  
   ![IRC chat closeup showing "MOTD" and being "kicked," :robot: screenshot 📷](https://web.archive.org/web/20170205043350/https://i.imgur.com/1OFvB0H.jpg)  
