@@ -218,11 +218,12 @@ During post-show discussion, we brought up:
   * [BioLink LiveScan](http://biolinksolutions.com/afis-law-enforcement/livescan/)
 * "I think you can pick it." More lockpicking.
   * Elliot carries [a covert "lockpick card" set](https://www.lockpickshop.com/CC-LOCK-PICK-SET.html)
-* Wire splicing http://www.linuxplanet.com/linuxplanet/tutorials/6892/1
-  * Tools: Wire stripper/crimper, 
-  * Related: hardware taps,
-  * electric signal interception on back of AirDream thermostat
-* Dark Army's IRC chat room details:
+* Wire splicing, placing a device directly on the cabling of another wired device
+  * Related terms: wire stripping (removing the insulation off electric cables), wire snipping (cutting cables to custom lengths), and wire crimping (attaching connectors to the ends of wires). Some tutorials:
+    * [LinuxPlanet](http://www.linuxplanet.com/linuxplanet/tutorials/6892/1)
+    * [Instructables](http://www.instructables.com/id/How-to-Crimp-Cables-and-Wires!/)
+  * See also: [DIY.org's "Hardware Hacker" projects](https://diy.org/skills/hardwarehacker).
+* Dark Army's IRC chat room:
   * IRC commands are written starting with a `/` (a slash-command) (wikipedia: https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
   * IRC rooms, called "channels," are prefixed with an octothorpe (`#`).
   * The channel was hosted on [Freenode](https://freenode.net/), a famous and free public IRC server.
