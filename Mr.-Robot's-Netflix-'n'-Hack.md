@@ -48,6 +48,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * Historical sidenote: read about the [`finger` Protocol](https://en.wikipedia.org/wiki/Finger_protocol)
 * `astsu` is [not real](https://www.leaseweb.com/labs/2015/09/linux-commands-astu-and-astsu-in-mr-robot/), but! `traceroute` is
 * [rootkit](https://en.wikipedia.org/wiki/Rootkit)
+  * Blog post: [Basics of Making a Rootkit](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/)
 * `ifconfig` ("redirect the traffic"), when done on a router, we're probably more talking more about [CISCO iOS switches](https://en.wikipedia.org/wiki/Cisco_IOS)
   * [VyOS](https://vyos.io/) is a free software clone of Cisco's iOS, useful if you can't pay for an iOS license
 * On the server's command line:
