@@ -245,7 +245,7 @@ During post-show discussion, we brought up:
 
 # Week 6 (S01E06)
 
-* Standard industrial control system *do* operate some prison's doors:
+* Standard industrial control systems *do* operate some prison's doors:
   *  White paper "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://web.archive.org/web/20160409040119/http://www.wired.com/images_blogs/threatlevel/2011/07/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf)" and [associated conference presentation by the authors](https://www.youtube.com/watch?v=1MTLuLBiKcc).
 * Bluetooth scan - what tool did Elliot use?
   * [Blog post with links to various Bluetooth tools](http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
