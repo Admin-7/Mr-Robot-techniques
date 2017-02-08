@@ -269,8 +269,8 @@ During post-show discussion, we brought up:
   * "WPA2, borderline unhackable." - [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 * Bluetooth hacking, with related terms "[Bluejacking](http://www.bluejackingtools.com/what-is-bluejacking/)," "[Bluebugging](http://www.bluejackingtools.com/bluebugging/)," and "[Bluesnarfing](http://www.bluejackingtools.com/bluesnarfing/)"
   * [`bluesniff`](http://bluesniff.shmoo.com/), a Bluetooth wardriving utility for Linux useful for finding hidden Bluetooth-capable devices
-  * `hcitool`
-  * `hciconfig`
+  * [`hcitool`](http://linuxcommand.org/man_pages/hcitool1.html), command-line utility to communicate with Bluetooth device and create device-to-device connections
+  * [`hciconfig`](http://linuxcommand.org/man_pages/hciconfig8.html), command-line utility to configure a system's Bluetooth devices
 * Elliot uses a Windows virtual machine(?) to attach to cop car's laptop's Bluetooth keyboard?
 * [`ftp`](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 * [Meterpreter](https://www.offensive-security.com/metasploit-unleashed/about-meterpreter/)
