@@ -246,16 +246,16 @@ During post-show discussion, we brought up:
 # Week 6 (S01E06)
 
 * Standard industrial control system to operate prison doors?
-  *  White paper: "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://www.scribd.com/document/61302076/SCADA-PLC-VULNERABILITIES-IN-CORRECTIONAL-FACILITIES)"
+  *  White paper: "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://web.archive.org/web/20160409040119/http://www.wired.com/images_blogs/threatlevel/2011/07/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf)"
 * Bluetooth scan - what tool did Elliot use?
   * [Blog post with links to various Bluetooth tools](http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
 * AllSafe uses Windows 8(?) for its office desktop computers
 * Office printers (can also be a network vulnerability)
-  * [PRET - Printer Exploitation Framework](https://github.com/RUB-NDS/PRET#readme)
+  * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
 * Angela uses an iPhone :)
   * Check out [Apple's iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 * Sprinkling USB thumbdrives in the parking lot
-* [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware 
+* [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware software suite
   * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
 * "You just pulled code from Rapid9 or some shit? When did you become a script kiddie?"
   * Rapid9 is not real, but is a reference to the famous [Rapid7](https://www.rapid7.com/).
@@ -264,6 +264,16 @@ During post-show discussion, we brought up:
   * There are ways to make malware evade anti-virus/anti-malware detection. See, for instance, [Veil-Framework](https://www.veil-framework.com/).
 * "I can run circles around an ICS given the right white papers and some time," Darlene says.
   * She probably means an "IDS" or "IPS," an [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system) or [Intrusion Prevention System](https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention), respectively.
+* Terry Colby is wearing an [ankle tether](https://en.wikipedia.org/wiki/Ankle_monitor) - which make & model?
+* Elliot's Android-based Wi-Fi scanner - what tool was that?
+  * "WPA2, borderline unhackable." - [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
+* Bluetooth hacking, with related terms "[Bluejacking](http://www.bluejackingtools.com/what-is-bluejacking/)," "[Bluebugging](http://www.bluejackingtools.com/bluebugging/)," and "[Bluesnarfing](http://www.bluejackingtools.com/bluesnarfing/)"
+  * [`bluesniff`](http://bluesniff.shmoo.com/), a Bluetooth wardriving utility for Linux useful for finding hidden Bluetooth-capable devices
+  * `hcitool`
+  * `hciconfig`
+* Elliot uses a Windows virtual machine(?) to attach to cop car's laptop's Bluetooth keyboard?
+* [`ftp`](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+* [Meterpreter](https://www.offensive-security.com/metasploit-unleashed/about-meterpreter/)
 
 # Week 7 (S01E07)
 
