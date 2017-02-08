@@ -15,6 +15,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Week 4 (S01E04)](#week-4-s01e04)
 * [Week 5 (S01E05)](#week-5-s01e05)
 * [Week 6 (S01E06)](#week-6-s01e06)
+* [Week 7 (S01E07)](#week-7-s01e07)
+* [Week 8 (S01E08)](#week-8-s01e08)
 
 # Week 1 (S01E01)
 
@@ -242,5 +244,31 @@ During post-show discussion, we brought up:
   * [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html), a guide for the "paranoid" SSH user.
 
 # Week 6 (S01E06)
+
+* Standard industrial control system to operate prison doors?
+  *  White paper: "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://www.scribd.com/document/61302076/SCADA-PLC-VULNERABILITIES-IN-CORRECTIONAL-FACILITIES)"
+* Bluetooth scan - what tool did Elliot use?
+  * [Blog post with links to various Bluetooth tools](http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
+* AllSafe uses Windows 8(?) for its office desktop computers
+* Office printers (can also be a network vulnerability)
+  * [PRET - Printer Exploitation Framework](https://github.com/RUB-NDS/PRET#readme)
+* Angela uses an iPhone :)
+  * Check out [Apple's iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
+* Sprinkling USB thumbdrives in the parking lot
+* [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware 
+  * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
+* "You just pulled code from Rapid9 or some shit? When did you become a script kiddie?"
+  * Rapid9 is not real, but is a reference to the famous [Rapid7](https://www.rapid7.com/).
+  * A "script kiddie" is hacker lingo for an unskilled techie, like a "noob."
+* "Malware detection must have caught it," Elliot says.
+  * There are ways to make malware evade anti-virus/anti-malware detection. See, for instance, [Veil-Framework](https://www.veil-framework.com/).
+* "I can run circles around an ICS given the right white papers and some time," Darlene says.
+  * She probably means an "IDS" or "IPS," an [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system) or [Intrusion Prevention System](https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention), respectively.
+
+# Week 7 (S01E07)
+
+> 🚧 TK-TODO
+
+# Week 8 (S01E08)
 
 > 🚧 TK-TODO
