@@ -285,6 +285,7 @@ During post-show discussion, we brought up:
 * [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), a 1980's-era video game console
 * ["View source" functionality in Web browsers](http://www.computerhope.com/issues/ch000746.htm)
 * [Deepsound](http://jpinsoft.net/deepsound/) (again)
+* [Microchip implants](https://en.wikipedia.org/wiki/Microchip_implant_%28animal%29) (in Flipper)
 
 # Week 8 (S01E08)
 
