@@ -277,7 +277,14 @@ During post-show discussion, we brought up:
 
 # Week 7 (S01E07)
 
-> 🚧 TK-TODO
+* [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator), one of the early pioneering Web browsers in the 1990's
+  * Check out the [evolt.org Browser Archive](http://browsers.evolt.org/), copies of every version of every Web browser ever released
+* [Windows 95](https://en.wikipedia.org/wiki/Windows_95) (or Windows 98)
+* [2600.com](https://www.2600.com/), a famous, long-running hacker periodical
+  * View [the 1999 version of the 2600.com website](https://web.archive.org/web/19990116232336/http://www.2600.com/mindex.html) using [the Internet Archive's Wayback Machine](https://archive.org/web/).
+* [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), a 1980's-era video game console
+* ["View source" functionality in Web browsers](http://www.computerhope.com/issues/ch000746.htm)
+* [Deepsound](http://jpinsoft.net/deepsound/) (again)
 
 # Week 8 (S01E08)
 
