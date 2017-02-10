@@ -40,7 +40,7 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 * [CTF Time](http://ctftime.org)
 
-  List of upcoming CTFs to compete in. If others are interested, we could probably field an RC team. It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
+  List of upcoming CTFs to compete in. If others are interested, we could probably field our own teams. It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
 
 * [BreakThiSQLi](http://breakthisqli.rf.gd/)
 
