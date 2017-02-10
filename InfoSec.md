@@ -4,13 +4,14 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
-  1. [CTF calendars and archives](#ctf-calendars-and-archives)
-  1. [Recommended CTFs](#recommended-ctfs)
+  1. [CTFs](#ctfs)
+    1. [CTF calendars and archives](#ctf-calendars-and-archives)
+    1. [Recommended CTFs](#recommended-ctfs)
+  1. [Hacking challenges](#hacking-challenges)
 1. [Labs and practice VMs](#labs-and-practice-vms)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
 1. [For defenders](#for-defenders)
-
-# At AnarchoTechNYC
+1. [Other lists](#other-lists)# At AnarchoTechNYC
 
 * [[Mr. Robot's Netflix 'n' Hack]], a weekly guided tour of hacking tools in pop culture
 
