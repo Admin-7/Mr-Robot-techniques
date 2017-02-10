@@ -4,6 +4,8 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
+  1. [CTF calendars and archives](#ctf-calendars-and-archives)
+  1. [Recommended CTFs](#recommended-ctfs)
 1. [Labs and practice VMs](#labs-and-practice-vms)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
 1. [For defenders](#for-defenders)
@@ -29,7 +31,7 @@ Hundreds of upcoming CTFs are listed at:
 
 If others are interested, we could probably field our own team(s). It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
 
-### List of CTFs
+### Recommended CTFs
 
 * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
 
