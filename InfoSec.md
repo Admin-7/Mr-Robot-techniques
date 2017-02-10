@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **InfoSec**
 
-Cool stuff for "The Cyber" that tech antifa folks have played around with/contributed to/enjoyed pentesting in the past.
+Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/09/trumps-incoherent-ideas-about-the-cyber/501839/)" that tech antifa folks have played around with/contributed to/enjoyed pentesting in the past.
 
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
