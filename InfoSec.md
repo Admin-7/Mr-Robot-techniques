@@ -14,6 +14,17 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 # CTFs and Hacking Games
 
+## CTF calendars and archives
+
+Capture The Flag competitions (CTFs) are sets of attack-oriented puzzlers intended to distill the essence of many aspects of professional computer security work into a single short exercise that is objectively measurable. Most competitions are free to participate, and some even award prizes to winners. Hundreds of upcoming CTFs are listed at:
+
+* [CTFTime.org](https://ctftime.org/) - List of upcoming CTFs to compete in, central (unofficial) directory of teams, and archive of previous challenge write-ups for educational purposes.
+* [CapTF Calendar](http://captf.com/calendar/)
+
+If others are interested, we could probably field our own team(s). It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
+
+## Hacking challenges
+
 * [Microcorruption](https://www.microcorruption.com)
 
   The fact that this CTF can be played entirely in your browser makes it really great if you are new to reverse engineering and binary exploitation as you do not have to worry about learning GDB or other tools to get going. It's still really fun even if you are not new. The levels start out simple -- grabbing a key from memory, basic stack smashing -- and get more complicated as defensive measures are enabled and the reversing task is made more complicated by obfuscation.
@@ -37,10 +48,6 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 * [Exploit Exercises](https://exploit-exercises.com/)
 
     A variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues. 
-
-* [CTF Time](http://ctftime.org)
-
-  List of upcoming CTFs to compete in. If others are interested, we could probably field our own teams. It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
 
 * [BreakThiSQLi](http://breakthisqli.rf.gd/)
 
