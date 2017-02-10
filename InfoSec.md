@@ -58,6 +58,10 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
   More memory corruption. Most levels are vulnerable services running on a particular port. You can exploit them remotely to get a shell, read a "flag" file, and register it with the website to be awarded "points."
 
+* [RingZer0team.com](https://ringzer0team.com/)
+
+  Several hundred challenges across numerous cybersecurity categories that you can tackle on your own time. Also includes a leaderboard and encourages participants to post write-ups of their solutions to the hacking puzzles, so you can learn from others' successful hacks.
+
 # Labs and practice VMs
 
 * [Hacking Lab](https://www.hacking-lab.com)
@@ -71,6 +75,10 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 * [HackerHigherschool.org](http://hackerhighschool.org/)
 
   Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics.
+
+* [CTF Field Guide](https://trailofbits.github.io/ctf/)
+
+  A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
 
 * [Programming Linux Anti-Reversing Techniques](https://leanpub.com/anti-reverse-engineering-linux)
 
