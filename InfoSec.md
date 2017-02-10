@@ -11,7 +11,9 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 1. [Labs and practice VMs](#labs-and-practice-vms)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
 1. [For defenders](#for-defenders)
-1. [Other lists](#other-lists)# At AnarchoTechNYC
+1. [Other lists](#other-lists)
+
+# At AnarchoTechNYC
 
 * [[Mr. Robot's Netflix 'n' Hack]], a weekly guided tour of hacking tools in pop culture
 
