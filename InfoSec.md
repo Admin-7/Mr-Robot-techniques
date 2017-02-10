@@ -14,20 +14,36 @@ Cool stuff for "The Cyber" that tech antifa folks have played around with/contri
 
 # CTFs and Hacking Games
 
-## CTF calendars and archives
+[**Capture The Flag competitions (CTFs)**](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) are sets of puzzles intended to distill the essence of many aspects of professional computer security work into a single short-lived exercise that is objectively measurable. Most competitions are free to participate, and some even award prizes to winners. They are often associated with a conference or event, so are open only at certain times, run for a short while, then close and rank the participants according to the competition's scoring rules.
 
-Capture The Flag competitions (CTFs) are sets of attack-oriented puzzlers intended to distill the essence of many aspects of professional computer security work into a single short exercise that is objectively measurable. Most competitions are free to participate, and some even award prizes to winners. Hundreds of upcoming CTFs are listed at:
+**Wargames**, sometimes also called **hacking challenges**, are stand-alone puzzlers that are always available (they are not associated with a time or event). Typically, they are organized into levels that get progressively harder as you solve more of them. Some hacking/wargame sites also organize challenges into categories based on the skills you need to solve them.
+
+## CTFs
+
+### CTF calendars and archives
+
+Hundreds of upcoming CTFs are listed at:
 
 * [CTFTime.org](https://ctftime.org/) - List of upcoming CTFs to compete in, central (unofficial) directory of teams, and archive of previous challenge write-ups for educational purposes.
 * [CapTF Calendar](http://captf.com/calendar/)
 
 If others are interested, we could probably field our own team(s). It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
 
+### List of CTFs
+
+* [Ghost in the Shellcode](http://ghostintheshellcode.com/)
+
+  An annual capture-the-flag contest that takes place every winter -- generally in January, but sometimes in February.
+
 ## Hacking challenges
 
 * [Microcorruption](https://www.microcorruption.com)
 
-  The fact that this CTF can be played entirely in your browser makes it really great if you are new to reverse engineering and binary exploitation as you do not have to worry about learning GDB or other tools to get going. It's still really fun even if you are not new. The levels start out simple -- grabbing a key from memory, basic stack smashing -- and get more complicated as defensive measures are enabled and the reversing task is made more complicated by obfuscation.
+  The fact that this wargame can be played entirely in your browser makes it really great if you are new to reverse engineering and binary exploitation as you do not have to worry about learning GDB or other tools to get going. It's still really fun even if you are not new. The levels start out simple -- grabbing a key from memory, basic stack smashing -- and get more complicated as defensive measures are enabled and the reversing task is made more complicated by obfuscation.
+
+* [SmashTheStack](http://www.smashthestack.org/)
+
+  🚧 TK-TODO (needs a good, succinct description)
 
 * [Cryptopals](http://cryptopals.com)
 
@@ -47,7 +63,7 @@ If others are interested, we could probably field our own team(s). It also might
 
 * [Exploit Exercises](https://exploit-exercises.com/)
 
-    A variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues. 
+  A variety of virtual machines, documentation and challenges that can be used to learn about a variety of computer security issues such as privilege escalation, vulnerability analysis, exploit development, debugging, reverse engineering, and general cyber security issues. 
 
 * [BreakThiSQLi](http://breakthisqli.rf.gd/)
 
