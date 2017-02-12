@@ -146,8 +146,7 @@ During post-show discussion, we brought up:
 * Facebook location check-ins (also Foursquare, Yelp, any location-based service) - Tyrel following Anwar to the Kiss and Fly club, [learn about "EXIF data"](http://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/) (metadata in some file formats, like images)
   * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
   * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
-  * [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi)
-  * View file [EXIF Data](http://exifdata.com/)
+  * Web tools: [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi), [ImageForensic.org](https://www.imageforensic.org/), [EXIFData.com](http://exifdata.com/)
   * Command-line tools: `exif`, [`ffmpeg`](https://ffmpeg.org/) for extracting metadata from video files
 * "With a simple [phishing](https://en.wikipedia.org/wiki/Phishing) scam I owned her password pretty easy."
   * Historical example: [AOHell](https://en.wikipedia.org/wiki/AOHell)
