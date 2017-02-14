@@ -10,4 +10,4 @@ You are also encouraged to register a free account on [CTFTime.org](https://ctft
 
 ---
 
-See also: [[InfoSec]], [[Mr. Robot's Netflix 'n' Hack]].
+See also: [[InfoSec]], [[Mr. Robot's Netflix 'n' Hack]], [:spider_web: CTF repository](https://github.com/AnarchoTechNYC/CTF/#readme).
