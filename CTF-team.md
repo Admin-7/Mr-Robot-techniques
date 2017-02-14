@@ -2,7 +2,7 @@ We have a semi-private [[Capture The Flag|InfoSec#ctfs-and-hacking-games]] team 
 
 # How to join
 
-To join the team, you must request an invitation from an organizer, preferably [[on our main Signal thread|New member orientation guide#signal]]. If you are not already chatting our main Signal thread, you can contact an organizer privately. Current CTF team organizers are:
+To join the team, you must request an invitation from an organizer, preferably [[on our main Signal thread|New member orientation guide#signal]]. If you are not already chatting with us on our main Signal thread, you can contact an organizer privately. Current CTF team organizers are:
 
 * [meitar](https://github.com/meitar)
 
