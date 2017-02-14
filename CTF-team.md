@@ -6,6 +6,8 @@ To join the team, you must request an invitation from an organizer, preferably [
 
 * [meitar](https://github.com/meitar)
 
+You are also encouraged to register a free account on [CTFTime.org](https://ctftime.org/). Once registered, visit [our team's profile page](https://ctftime.org/team/34635) and click the "I'm in the team" button.
+
 ---
 
-See also: [[InfoSec]].
+See also: [[InfoSec]], [[Mr. Robot's Netflix 'n' Hack]].
