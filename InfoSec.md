@@ -16,6 +16,7 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 # At AnarchoTechNYC
 
 * [[Mr. Robot's Netflix 'n' Hack]], a weekly guided tour of hacking tools in pop culture
+* [[CTF team]], a semi-private cybersecurity study group that puts the "ethical" back into "ethical hacking"
 
 # CTFs and Hacking Games
 
