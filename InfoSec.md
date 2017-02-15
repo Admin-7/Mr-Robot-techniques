@@ -33,7 +33,7 @@ Hundreds of upcoming CTFs are listed at:
 * [CTFTime.org](https://ctftime.org/) - List of upcoming CTFs to compete in, central (unofficial) directory of teams, and archive of previous challenge write-ups for educational purposes.
 * [CapTF Calendar](http://captf.com/calendar/)
 
-If others are interested, we could probably field our own team(s). It also might be fun to hang out with the [opentoall team](http://opentoallctf.com/) on IRC.
+If others are interested, we could probably field [[our own team(s)|CTF team]]. It also might be fun to hang out with the [OpenToAll team](http://opentoallctf.com/) on IRC.
 
 ### Recommended CTFs
 
