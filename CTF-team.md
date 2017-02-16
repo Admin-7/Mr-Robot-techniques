@@ -8,7 +8,36 @@ To join the team, you must request an invitation from [an existing @AnarchoTechN
 
 > 📝 Please add your name to this list if you are already a CTF team member and you want to help shepherd new members or take point on representing our team during events.
 
-You are also encouraged to register a free account on [CTFTime.org](https://ctftime.org/). Once registered, visit [our team's profile page](https://ctftime.org/team/34635) and click the "I'm in the team" button.
+You are also encouraged to register a free account on [CTFTime.org](https://ctftime.org/). Once registered, join our team (and/or [join any other team of your choosing](https://ctftime.org/faq/#team)) by visiting [our team's profile page](https://ctftime.org/team/34635) and click the "I'm in the team" button.
+
+# How to add members
+
+Existing CTF team members can add new members. There are three resources that a team member should be granted access to in order to fully participate. These are:
+
+* The [@AnarchoTechNYC/ctf team on GitHub](https://github.com/orgs/AnarchoTechNYC/teams/ctf).
+* The [AnarchoTechNYC CTF Gitter private chat room](https://gitter.im/AnarchoTechNYC/CTF).
+* The [AnarchoTechNYC CTFTime.org team listing](https://ctftime.org/team/34635/).
+
+## Adding members to the GitHub CTF team
+
+Read GitHub's help article, [*Adding organization members to a team*](https://help.github.com/articles/adding-organization-members-to-a-team/).
+
+## Adding members to the Gitter private chat room
+
+1. [Open the AnarchoTechNYC CTF chat room on Gitter](https://gitter.im/AnarchoTechNYC/CTF) using a desktop/laptop Web browser or mobile app.
+1. Click the "Room settings" button, revealing the room settings menu:  
+  ![Screenshot of "Room settings" menu.](https://web.archive.org/web/20170216044910/https://i.imgur.com/cASsPCL.png)
+1. Click **Add people to this room** from the *Room settings* menu. The *Add people to this room* dialogue will open.
+1. Type the GitHub username of the owner-member you want to add to the room to reveal a list of matching usernames.
+1. Click the username of the user you want to add.
+
+## Adding members to the CTFTime team listing
+
+1. Open [our team's management page on CTFTime.org](https://ctftime.org/team/34635/edit/#members).
+1. Scroll down to the "Team membership requests" section. This should be a list of GitHub usernames.
+1. Compare the list of users requesting membership with the list of [@AnarchoTechNYC/ctf team members](https://github.com/orgs/AnarchoTechNYC/teams/ctf). For each username in the list…
+  1. …if you recognize a user by their GitHub username in the list of pending requests, enable the checkbox next to their name. (Leave any names you do not recognize unmarked.)
+1. Click the **Confirm** button.
 
 ---
 
