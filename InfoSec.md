@@ -119,9 +119,17 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Simply start at the top and read down the page. This is as guided an introduction to privacy issues and what to do about them as it gets.
 
+* [DIY Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+
+  A thorough walk-through showing how to implement basic and intermediate cybersecurity best practices, geared for oppressed groups whose likely adversary are trolls, white supremacists, and other individuals or mob-sized malicious actors. Written with careful explanations and a good grasp of the state of the art. Highly recommended reading for the politically conscious defender.
+
+* [Crash Override Network // Resources](http://www.crashoverridenetwork.com/resources.html)
+
+  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxxing]http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](http://www.endrevengeporn.org/online-removal/).
+
 * [Surveillance Self-Defense](https://ssd.eff.org/)
 
-  The Electronic Frontier Foundation's thorough guide to defending yourself and your friends from surveillance by using secure technology and developing careful practices.
+  The Electronic Frontier Foundation's thorough guide to using technologies for defending yourself and your friends from surveillance by using secure technology and developing careful practices.
 
 * [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
 
