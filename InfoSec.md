@@ -125,7 +125,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [Crash Override Network // Resources](http://www.crashoverridenetwork.com/resources.html)
 
-  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxxing]http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](http://www.endrevengeporn.org/online-removal/).
+  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxxing](http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](http://www.endrevengeporn.org/online-removal/).
 
 * [Surveillance Self-Defense](https://ssd.eff.org/)
 
