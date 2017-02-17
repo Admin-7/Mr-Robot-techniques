@@ -143,8 +143,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+* [awesome-forensics](https://github.com/Cugu/awesome-forensics)
 * [pentest-links](https://github.com/meitar/pentest-links)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 ***
 
