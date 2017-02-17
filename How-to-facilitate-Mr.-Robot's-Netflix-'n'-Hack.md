@@ -4,6 +4,11 @@ Thanks for volunteering to facilitate Mr. Robot's Netflix 'n' Hack sessions!
 
 Mr. Robot's Netflix 'n' Hack is a loosely structured opportunity to explore [[InfoSec]] and cybersecurity topics. It seems to work best when there is someone able and willing to focus group conversation on a particular topic, and is at least generally familiar with the material showcased in the episode. Alternate modes of facilitation may also work; feel free to explore! The instructions in this guide are just suggestions. :)
 
+1. [Goals](#goals)
+1. [Requirements](#requirements)
+1. [Checklist](#checklist)
+1. [Exercise suggestions](#exercise-suggestions)
+
 # Goals
 
 As the facilitator, your primary goals are to:
@@ -53,3 +58,15 @@ Use the following checklists to ensure you're ready for the session.
 1. [ ] when the episode finishes screening, move the list of TTPs to the projected screen and ask if anyone finds a particular item interesting to start a conversation about it
 1. [ ] solicit demos for next week from the people who show enthusiasm about a particular item!
 1. [ ] lather, rinse, repeat until time's up. :)
+
+# Exercise suggestions
+
+## Week 1
+
+### Beginner
+
+* Use `ifconfig` to take down or bring up a network interface.
+
+### Intermediate
+
+### Advanced
