@@ -68,6 +68,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * `kill`
   * `rm` (`-norecycle` is not real, is it?)
   * "Reconfigure the access to the directory" -> `chmod`
+* "Remember that hacker group, Omegz?" -> This is probably a reference to the real-life group [LulzSec](https://en.wikipedia.org/wiki/LulzSec)
 * "I'll ask my IRC contacts…"
   * IRC is [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), an aging chat room technology that is still popular with techies and hackers.
   * Guide to IRC for novices: [IRCHelp.org](http://www.irchelp.org/)
