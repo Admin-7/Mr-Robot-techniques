@@ -28,7 +28,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [Incapsula's DDoS Attack Glossary entry for "RUDY attack"](https://www.incapsula.com/ddos/attack-glossary/rudy-r-u-dead-yet.html)
 * "Good at reading people" (social engineering…a [blog post](https://web.archive.org/web/20020125012547/http://www.securityfocus.com/cgi-bin/infocus.pl?id=1527) to maybe read, also a book [The Art of Deception](http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf), see also: [Freedom Downtime](https://www.youtube.com/watch?v=qMzRRVgEuWc))
   * "I left my keys in one of your cabs…"
-  * "Can I borrow your phone?" (also deleted the outgoing call log)
+  * "Can I borrow your phone?" (also deleted the outgoing call log)  
+  ![Elliot deletes outgoing call history, :robot: screenshot 📷](https://web.archive.org/web/20170219210213/https://i.imgur.com/OitLffX.jpg)
   * "This is Sam from Bank of E fraud department."
 * `ping`
 * Password cracking:  
