@@ -31,7 +31,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * "Can I borrow your phone?" (also deleted the outgoing call log)
   * "This is Sam from Bank of E fraud department."
 * `ping`
-* Password cracking:
+* Password cracking:  
+  ![Output of Elliot's password cracking script, :robot: screenshot 📷](https://web.archive.org/web/20170219205412/https://i.imgur.com/jVXUP0W.jpg)
   * An important distinction between online versus offline attacks.
   * [Hashcat](https://hashcat.net/hashcat/) (not actually the tool shown, maybe Eliot has a script that wraps this?) - offline tool
     * ["dictionary brute force"](https://hashcat.net/wiki/doku.php?id=dictionary_attack)
