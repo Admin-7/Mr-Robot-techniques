@@ -75,13 +75,15 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 * [US Cyber Command](https://en.wikipedia.org/wiki/United_States_Cyber_Command)
 * [Google (News) Alerts](https://www.google.com/alerts)
-* "…with a custom dictionary, my program can crack his password in two minutes." -> [Generating wordlists](https://netsec.ws/?p=457)
+* "…with a custom dictionary, my program can crack his password in two minutes." -> [Generating wordlists](https://netsec.ws/?p=457)  
+  ![Screenshot of Elliot building a custom wordlist for password brute forcing, :robot: screenshot📷](https://web.archive.org/web/20170219213210/https://i.imgur.com/M7UWEhq.jpg)
   * [`crunch`](http://tools.kali.org/password-attacks/crunch) ([blog post](https://pentestlab.wordpress.com/2012/07/12/creating-wordlists-with-crunch/))
   * [CeWL](https://digi.ninja/projects/cewl.php) ([blog post](http://www.drchaos.com/creating-custom-dictionary-files-using-cewl/))
 * Ashley Madison, a famous hacked site
   * [Krebs on Security: Online Cheating Site AshleyMadison Hacked](https://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/)
 * "Now Michael Hanson gets buried in my digital cemetary" -> [Steganography](https://en.wikipedia.org/wiki/Steganography), hiding data among other inconspicuous data:
-  * [DeepSound](http://jpinsoft.net/deepsound/)
+  * [DeepSound](http://jpinsoft.net/deepsound/)  
+  ![Screenshot of using a music stegonographic tool, :robot: screenshot 📷](https://web.archive.org/web/20170219213216/https://i.imgur.com/PxgQwy9.jpg)
   * Not shown in the episode, but [PixelKnot](https://guardianproject.info/apps/pixelknot/) for steganographic data in images.
 
 During post-show discussion, we brought up:
