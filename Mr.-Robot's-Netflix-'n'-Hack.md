@@ -55,6 +55,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [VyOS](https://vyos.io/) is a free software clone of Cisco's iOS, useful if you can't pay for an iOS license
 * On the server's command line:
   * `locate`
+  * `ps`
+  * `grep`
   * `kill`
   * `rm` (`-norecycle` is not real, is it?)
   * "Reconfigure the access to the directory" -> `chmod`
