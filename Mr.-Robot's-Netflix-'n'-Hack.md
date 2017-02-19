@@ -43,7 +43,9 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * "[Desktop environment](https://en.wikipedia.org/wiki/Desktop_environment)s":
   * [GNOME](https://www.gnome.org/)
   * [KDE](https://www.kde.org/)
-* "DDoS attack" is a Distributed Denial of Service attack
+* "DDoS attack" is a Distributed Denial of Service attack  
+  ![Elliot looks at AllSafe's Security Operations Center (SOC) monitor, :robot: screenshot 📷](https://web.archive.org/web/20170219211108/https://i.imgur.com/dIBabZf.jpg)  
+  ![Screenshot of Evil Corp's firewall log file during DDoS attack,  :robot: screenshot 📷](https://web.archive.org/web/20170219211115/https://i.imgur.com/aY1xerf.jpg)
   * Understanding DDoS basics, read "[What is LOIC and can I be arrested for DDoS'ing someone?](https://www.troyhunt.com/what-is-loic-and-can-i-be-arrested-for/)"
   * [Deep Inside a DNS Amplification DDoS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
   * "DDoS protection" - really, really big pipes, see [CloudFlare](https://www.cloudflare.com/ddos/), [Google's Project Shield](https://projectshield.withgoogle.com/public/), and [Deflect.ca](https://deflect.ca/)
@@ -55,10 +57,14 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * Blog post: [Basics of Making a Rootkit](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/)
 * `ifconfig` ("redirect the traffic"), when done on a router, we're probably more talking more about [CISCO iOS switches](https://en.wikipedia.org/wiki/Cisco_IOS)
   * [VyOS](https://vyos.io/) is a free software clone of Cisco's iOS, useful if you can't pay for an iOS license
-* On the server's command line:
+* On the server's command line:  
+  ![Screenshot of using `locate`, `ps` griped to `grep`, :robot: screenshot 📷](https://web.archive.org/web/20170219211851/https://i.imgur.com/4j13i0F.jpg)  
+  ![Screenshot of using `more`, :robot: screenshot 📷](https://web.archive.org/web/20170219211843/https://i.imgur.com/YBQRhNq.jpg)  
+  ![Screenshot of using `sudo`, `kill`, and `chmod`, :robot: screenshot 📷](https://web.archive.org/web/20170219211843/https://i.imgur.com/YBQRhNq.jpg)
   * `locate`
   * `ps`
   * `grep`
+  * `more` (kind of unlikely, Elliot is more likely to use `less` instead)
   * `kill`
   * `rm` (`-norecycle` is not real, is it?)
   * "Reconfigure the access to the directory" -> `chmod`
