@@ -8,6 +8,7 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
     1. [CTF calendars and archives](#ctf-calendars-and-archives)
     1. [Recommended CTFs](#recommended-ctfs)
   1. [Hacking challenges](#hacking-challenges)
+  1. [Cyberwarfare ranges](#cyberwarfare-ranges)
 1. [Labs and practice VMs](#labs-and-practice-vms)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
 1. [For defenders](#for-defenders)
@@ -23,6 +24,10 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 [**Capture The Flag competitions (CTFs)**](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) are sets of puzzles intended to distill the essence of many aspects of professional computer security work into a single short-lived exercise that is objectively measurable. Most competitions are free to participate, and some even award prizes to winners. They are often associated with a conference or event, so are open only at certain times, run for a short while, then close and rank the participants according to the competition's scoring rules.
 
 [**Wargames**](https://en.wikipedia.org/wiki/Wargame_(hacking)), sometimes also called **hacking challenges**, are stand-alone puzzlers that are always available (they are not associated with a time or event). Typically, they are organized into levels that get progressively harder as you solve more of them. Some hacking/wargame sites also organize challenges into categories based on the skills you need to solve them.
+
+**Cyberwarfare Ranges** are digital live-fire ranges, semi-private inter-networks where participants can set up and attack other participant's servers and services for educational purposes. They are typically heavily firewalled and accessible only with an invitation and/or through a VPN tunnel; think of them like the digital equivalent of paintball arenas or live-fire gun ranges.
+
+> ℹ️ **A note on netiquette.** While each of these gaming styles offer educational opportunities, most have slightly different etiquette. For instance, it's customary for participants to publish solutions to the challenges presented during CTF competitions in the form of writeups on blogs, but this is discouraged by many hacking challenge sites. Take a moment to familiarize yourself with the publisher of the challenge you're tackling before you publish your solution to the whole Internet, as you may be spoiling the fun of the game for others.
 
 ## CTFs
 
@@ -87,9 +92,13 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Cryptography challenges.
 
-* [pwnable.kr](https://pwnable.kr)
+* [pwnable.kr](https://pwnable.kr/)
 
   More memory corruption. Most levels are vulnerable services running on a particular port. You can exploit them remotely to get a shell, read a "flag" file, and register it with the website to be awarded "points."
+
+* [Reversing.kr](https://reversing.kr/)
+
+  A couple dozen diverse reverse engineering challenges, including Java programs, Windows executables, Linux binaries, and more.
 
 * [RingZer0team.com](https://ringzer0team.com/)
 
@@ -99,13 +108,24 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   An older (mid-2000's era) set of challenges in Web, IRC, steganograhy, and a few other categories. Notable partly for its hacktivist co-founder, [Jeremy Hammond](https://en.wikipedia.org/wiki/Jeremy_Hammond), famed member of [the Anonymous-affiliated group LulzSec](https://arstechnica.com/tech-policy/2013/05/lulzsec-member-jeremy-hammond-pleads-guilty-to-stratfor-hack/). While outdated, most of the hacking challenges (called "missions") on this site are still decent practice for technology basics that haven't changed much such as fundamental crypto maths, the HTTP protocol, and JavaScript exploitation techniques.
 
+* [W3Challs](https://w3challs.com/)
+
+  Mostly a community site and forum, but has a number of categorized challenges as well, including a couple entirely about writing Web scraping programs.
+
+* [Root Me](https://root-me.org/)
+
+  A collection of a couple hundred stand-alone online challenges and several dozen practice labs ("virtual environments") in a variety of categories.
+
+# Cyberwarfare ranges
+
+* [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
+
 # Labs and practice VMs
 
 * [Hacking Lab](https://www.hacking-lab.com)
-
 * [Penteseter Lab](https://PentesterLab.com)
-
 * [VulnHub](https://www.vulnhub.com)
+* [Root Me](https://root-me.org/)
 
 # Lesson plans and guidance
 
