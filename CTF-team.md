@@ -5,6 +5,7 @@ We have a semi-private [[Capture The Flag|InfoSec#ctfs-and-hacking-games]] team 
 > More **advanced members are expected to act as mentors, trainers, tutors, and compassionate educators.** Advanced/experienced team members who are uninterested in being patient educators are encouraged to create their own CTF teams elsewhere. Advanced players who undermine educational opportunities of less-experienced team members, or who prioritize competition above education, will be forcibly removed from the team in order to maintain a beginner-friendly atmosphere.
 
 * [How to join](#how-to-join)
+  * [Step-by-step instructions](#step-by-step-instructions)
 * [How to add members](#how-to-add-members)
   * [Adding members to the GitHub CTF team](#adding-members-to-the-github-ctf-team)
   * [Adding members to the Gitter private chat room](#adding-members-to-the-gitter-private-chat-room)
