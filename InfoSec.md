@@ -43,6 +43,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 ## Hacking challenges
 
+* [CTFLearn](https://ctflearn.com/)
+
+  A crowdsourced collection of practice platform ranging from beginner to expert difficulty. Accounts are free, and anyone can post problems, solve problems, or share news about CTFs. Kind of like a [HackerRank](https://www.hackerrank.com/) or [CodeWars](https://www.codewars.com/) for cybersecurity challenges.
+
 * [Microcorruption](https://www.microcorruption.com)
 
   The fact that this wargame can be played entirely in your browser makes it really great if you are new to reverse engineering and binary exploitation as you do not have to worry about learning GDB or other tools to get going. It's still really fun even if you are not new. The levels start out simple -- grabbing a key from memory, basic stack smashing -- and get more complicated as defensive measures are enabled and the reversing task is made more complicated by obfuscation.
