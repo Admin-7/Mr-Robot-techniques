@@ -1,5 +1,7 @@
 We have a semi-private [[Capture The Flag|InfoSec#ctfs-and-hacking-games]] team by the same name open to collective members who are interested in practicing cybersecurity skills. The [team is registered on CTFTime.org](https://ctftime.org/team/34635) and coordinates wargames in [a private room on Gitter (this link will report "Not found" if you are not already invited to join)](https://gitter.im/AnarchoTechNYC/CTF). We are focused on skill sharing, education, and autonomy, not necessarily winning competitions.
 
+> 🔰 **This is a strictly beginner-friendly team.** While there are members of various skill levels, this team is expressly designed to be a valuable team to join if you have never before participated in CTF competitions. Team organizers are strict about maintaining an expressly educational environment, while de-emphasizing competition and score-keeping, and actively promoting cooperation and knowledge sharing.
+
 * [How to join](#how-to-join)
 * [How to add members](#how-to-add-members)
   * [Adding members to the GitHub CTF team](#adding-members-to-the-github-ctf-team)
@@ -15,6 +17,15 @@ To join the team, you must request an invitation from [an existing @AnarchoTechN
 > 📝 Please add your name to this list if you are already a CTF team member and you want to help shepherd new members or take point on representing our team during events.
 
 You are also encouraged to register a free account on [CTFTime.org](https://ctftime.org/). Once registered, join our team (and/or [join any other team of your choosing](https://ctftime.org/faq/#team)) by visiting [our team's profile page](https://ctftime.org/team/34635) and click the "I'm in the team" button.
+
+## Step-by-step instructions
+
+Follow these steps to request an invitation to our team. First, make sure you have access to the accounts you will need to participate. All accounts are *free* (decline any up-sells).
+
+1. [Create a GitHub account](https://github.com/join) (if you do not already have one), or [log in to GitHub](https://github.com/login) (with your existing account). Read [Signing up for a new GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/).
+1. Create a Gitter chat account by going to [Gitter.im](https://gitter.im/) and logging in with your GitHub account. This will automatically associate your GitHub account with a Gitter account.
+1. Create a CTFTime.org account by going to [CTFTime.org](https://ctftime.org/) and logging in with your GitHub account. This will automatically associate your GitHub account with a CTFTime account.
+1. Contact an existing @AnarchoTechNYC/CTF team member and tell them what your GitHub username is. If you do not personally know an existing team member, you should [[come to one of our in-person meetings|New member orientation guide]] or [[events|Activities and events]], or [post on our issue board requesting more information](https://github.com/AnarchoTechNYC/meta/issues/new). The existing team member will then perform the steps outlined in [How to add members](#how-to-add-members). Afterwards, you will be able to join us for the next game. :)
 
 # How to add members
 
