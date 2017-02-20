@@ -45,7 +45,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [CTFLearn](https://ctflearn.com/)
 
-  A crowdsourced collection of practice platform ranging from beginner to expert difficulty. Accounts are free, and anyone can post problems, solve problems, or share news about CTFs. Kind of like a [HackerRank](https://www.hackerrank.com/) or [CodeWars](https://www.codewars.com/) for cybersecurity challenges.
+  A crowdsourced collection of practice problems ranging from beginner to expert difficulty. Accounts are free, and anyone can post problems, solve problems, or share news about CTFs. Kind of like a [HackerRank](https://www.hackerrank.com/) or [CodeWars](https://www.codewars.com/) for cybersecurity challenges.
 
 * [Microcorruption](https://www.microcorruption.com)
 
