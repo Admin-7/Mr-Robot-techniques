@@ -90,3 +90,21 @@ Use the following checklists to ensure you're ready for the session.
 
 * Write a basic rootkit.
 * 🚧 TK-TODO
+
+## Week 2
+
+### Beginner
+
+* 🚧 TK-TODO
+
+### Intermediate
+
+* 🚧 TK-TODO
+
+### Advanced
+
+* 🚧 TK-TODO
+
+### Expert
+
+* 🚧 TK-TODO
