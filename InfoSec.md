@@ -141,6 +141,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   A free e-book with a pre-compiled binary that "teaches the reader how to code and analyze well known anti-reversing techniques for Linux. The book shows how a reverse engineer analyzes a binary using tools like IDA, Radare2, GDB, readelf, and more." Useful for learning reverse engineering beginners. Its [companion repositories can be found on GitHub](https://github.com/antire-book).
 
+* [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
+
+  A free textbook developed for use in Stanford's and New York University's computer science and mathematics departments covering cryptography. A beginning reader can read though the book to learn how cryptographic systems work and why they are secure. Some knowledge of basic algebra and probability is assumed but you do not need prior experience with graduate-level mathematics courses to utilize this book. (See also [Coursera.org's Cryptography I course](https://www.coursera.org/learn/crypto), taught by one of this book's co-authors.)
+
 # For defenders
 
 * [PrivacyTools.io](https://privacytools.io)
