@@ -1,3 +1,5 @@
+![On the team? Chat on Gitter.](https://badges.gitter.im/betterangels/buoy.svg)
+
 We have a semi-private [[Capture The Flag|InfoSec#ctfs-and-hacking-games]] team by the same name open to collective members who are interested in practicing cybersecurity skills. The [team is registered on CTFTime.org](https://ctftime.org/team/34635) and coordinates wargames in [a private room on Gitter](https://gitter.im/AnarchoTechNYC/CTF) (this link will report "Not found" if you are not already invited to join or not logged in to your Gitter account). We are focused on skill sharing, education, and autonomy, not necessarily winning competitions.
 
 > 🔰 **This is a strictly beginner-friendly team.** While there are members of various skill levels, this team is expressly designed to be a valuable team to join if you have never before participated in CTF competitions. Team organizers are strict about maintaining an expressly educational environment, while de-emphasizing competition and score-keeping, and actively promoting cooperation and knowledge sharing.
