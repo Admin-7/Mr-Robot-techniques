@@ -297,6 +297,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 
 * Use the "High" security level in your TorBrowser (disables JavaScript, HTML5 Web Fonts, etc.)
 * [Use dedicated virtual machines for specific purposes](https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/) to open documents you don't trust, and take other specialized tasks
+* Clean/audit your device's root TLS certificate stores (for instance, with [RootCertificateCheck](http://www.ghacks.net/2015/04/05/scan-your-windows-computer-for-untrusted-root-certificates/))
 
 # Targeted activists vs. The State
 
