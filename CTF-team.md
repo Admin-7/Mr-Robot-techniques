@@ -59,7 +59,7 @@ Read GitHub's help article, [*Adding organization members to a team*](https://he
 1. Open [our team's management page on CTFTime.org](https://ctftime.org/team/34635/edit/#members).
 1. Scroll down to the "Team membership requests" section. This should be a list of GitHub usernames.
 1. Compare the list of users requesting membership with the list of [@AnarchoTechNYC/ctf team members](https://github.com/orgs/AnarchoTechNYC/teams/ctf). For each username in the list…
-  1. …if you recognize a user by their GitHub username in the list of pending requests, enable the checkbox next to their name. (Leave any names you do not recognize unmarked.)
+  1. …if you recognize a user by their GitHub username in the list of pending requests, leave the checkbox next to their name *un*checked. (Be sure to *check* any names you do *not* recognize; yes, this is weirdly backwards.)
 1. Click the **Confirm** button.
 
 ---
