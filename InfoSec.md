@@ -133,6 +133,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics.
 
+* [Linux From Scratch](http://www.linuxfromscratch.org/)
+
+  These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. This process "teaches you about all that makes Linux tick, how things work together and depend on each other." After completing the main guide, additional guides focus on particularly interest areas, such as "Hardened Linux From Scratch," which "focuses on building an LFS system with heightened security," and teaches you about many of GNU/Linux's built-in security features.
+
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 
   A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
