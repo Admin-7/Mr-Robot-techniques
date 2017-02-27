@@ -122,10 +122,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 # Labs and practice VMs
 
-* [Hacking Lab](https://www.hacking-lab.com)
 * [Penteseter Lab](https://PentesterLab.com)
 * [VulnHub](https://www.vulnhub.com)
 * [Root Me](https://root-me.org/)
+* [Hacking Lab](https://www.hacking-lab.com)
 
 # Lesson plans and guidance
 
