@@ -135,7 +135,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [Linux From Scratch](http://www.linuxfromscratch.org/)
 
-  These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. This process "teaches you about all that makes Linux tick, how things work together and depend on each other." After completing the main guide, additional guides focus on particular interest areas, such as "Hardened Linux From Scratch," which "focuses on building an LFS system with heightened security," and teaches you about many of GNU/Linux's built-in security features.
+  These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. Being able to build directly from source, rather than rely on difficult-to-inspect binary packages distributed by vendors, offers extreme advantages to security-conscious users, so it's wise to gain experience doing this. After completing the main guide, additional guides focus on particular interest areas. Of these, the "Hardened Linux From Scratch" guidebook, which "focuses on building an LFS system with heightened security," is of special note as it walks you through the process of configuring many of GNU/Linux's built-in security features.
 
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 
