@@ -68,27 +68,29 @@ Use the following checklists to ensure you're ready for the session.
 * Use `ping` to ask a remote system if it is responsive or not.
 * Log on to an IRC network and join a channel to watch the chatter.
 * Use `locate` to find indexed files on your local system.
-* Use TorBrowser to access the Web more anonymously.
+* Use Tor Browser to access the Web more anonymously.
 
 ### Intermediate
 
 * Use `ifconfig` to take down or bring up a network interface.
 * Use `kill` to stop a running process.
 * Use `chmod` to change the permissions for a file.
-* Use TorBrowser to access a "hidden service" (Onion site).
+* Use Tor Browser to access a "hidden service" (Onion site).
 * Use [OnionShare](https://onionshare.org/) to create an ephemeral Onion service to secretly share files with a friend.
+* Configure a Tor relay node.
 * Connect to a VPN. (Recommendation for demo: [RiseUp Black](https://riseup.net/en/vpn).)
 * Use LOIC to DDoS *yourself*.
 * Install and explore an alternate Desktop Environment.
 
 ### Advanced
 
-* Bring up a trivial Onion site using Apache, Nginx, Lighttpd, etc.
+* Manually bring up a trivial Onion site using Apache, Nginx, Lighttpd, etc.
   * Run [OnionScan](https://onionscan.org/) against your Onion site.
 * Use `hashcat` or `john` to crack some password hashes.
 
 ### Expert
 
+* Configure a Tor exit node and capture some of its traffic for inspection.
 * Write a basic rootkit.
 * 🚧 TK-TODO
 
