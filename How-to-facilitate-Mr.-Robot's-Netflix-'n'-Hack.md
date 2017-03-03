@@ -76,6 +76,7 @@ Use the following checklists to ensure you're ready for the session.
 * Use `kill` to stop a running process.
 * Use `chmod` to change the permissions for a file.
 * Use TorBrowser to access a "hidden service" (Onion site).
+* Use [OnionShare](https://onionshare.org/) to create an ephemeral Onion service to secretly share files with a friend.
 * Connect to a VPN. (Recommendation for demo: [RiseUp Black](https://riseup.net/en/vpn).)
 * Use LOIC to DDoS *yourself*.
 * Install and explore an alternate Desktop Environment.
