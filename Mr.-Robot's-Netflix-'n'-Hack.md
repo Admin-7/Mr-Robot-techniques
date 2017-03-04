@@ -122,7 +122,8 @@ During post-show discussion, we brought up:
   * a "PLC" is a [Programmable Logic Controller](https://en.wikipedia.org/wiki/Programmable_logic_controller), embedded devices that are typically used as sensors or controllers for [SCADA](https://en.wikipedia.org/wiki/SCADA) devices (industrial control systems, see also "critical infrastructure," dams, power plants, heating and ventilation [HVAC](https://en.wikipedia.org/wiki/HVAC) and so on)
   * Read: [Target Hackers Broke in Via HVAC Company](http://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/).
 * ["Worm"](https://en.wikipedia.org/wiki/Computer_worm): an autonomously propagating malware (distinct from "virus")
-* Fernando Vera (a drug dealer) "conducts all his transactions via IMs, emails, and text messages."
+* Fernando Vera (a drug dealer) "conducts all his transactions via IMs, emails, and text messages."  
+  ![Sending an anonymous online tip line on Fernando Vera, :robot: screenshot 📷](https://web.archive.org/web/20170304003134/https://i.imgur.com/ovMz8AL.jpg)
   * Use [Signal](https://whispersystems.org/) to protect IM/txt-style communications.
   * Use PGP (aka GPG) to encrypt email communications.
     * [Windows GPG guide](https://ssd.eff.org/en/module/how-use-pgp-windows)
@@ -139,7 +140,8 @@ During post-show discussion, we brought up:
 * "My album just dropped. … Check track 2 out!" - > social engineering to get Windows malware via autorun on CD
   * [Prevent viruses from using AutoRun to spread](https://support.symantec.com/en_US/article.TECH104447.html)
   * Real-life example: [Sony Rootkit](https://archive.wired.com/politics/security/news/2005/11/69573?currentPage=all)
-* Webcam spying! Read about "RATs" (remote access tools/trojans)
+* Webcam spying! Read about "RATs" (remote access tools/trojans)  
+  ![Cisco watches Ollie and Angela using a Remote Access Trojan that operates a webcam, :robot: screenshot 📷](https://web.archive.org/web/20170304003311/https://i.imgur.com/A7WSjSj.jpg)
   * A (simplistic) overview of [Remote Access Tools](http://resources.infosecinstitute.com/remote-access-tool/)
   * [cover your webcam with tape](https://www.theguardian.com/world/2016/jun/06/surveillance-camera-laptop-smartphone-cover-tape) (or a cam-cover) as an easy mitigation
 
