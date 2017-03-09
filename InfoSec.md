@@ -183,6 +183,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   A top-ten list of digital security tips intended for a specific type of defender ("protesters"). Possibly easier to digest than the more thorough "Surveillance Self-Defense" guide, despite being written by the same source.
 
+* [Digital Privacy at the U.S. Border](https://www.eff.org/wp/digital-privacy-us-border-2017)
+
+  A detailed report regarding the special-case risks travelers face at the United States border circa 2017. The report includes suggestions for what to do before, during, and after crossing the border to protect your personal data, privacy, and legal rights from violation by border agents.
+
 # Other lists
 
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
