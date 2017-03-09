@@ -130,6 +130,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [VulnHub](https://www.vulnhub.com)
 * [Root Me](https://root-me.org/)
 * [Hacking Lab](https://www.hacking-lab.com)
+* [PentestIT Labs](https://lab.pentestit.ru/)
 
 # Lesson plans and guidance
 
