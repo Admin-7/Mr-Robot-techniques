@@ -42,6 +42,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 ### Recommended CTFs
 
+* [PicoCTF](https://picoctf.com/)
+
+  An always-open game targeted for high school students but useful for anyone who is just starting out in computer security. Available games are [PicoCTF 2013](https://2013.picoctf.com/), [PicoCTF 2014](https://2014.picoctf.com/), and [PicoCTF 2017](https://2017.picoctf.com/).
+
 * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
 
   An annual capture-the-flag contest that takes place every winter -- generally in January, but sometimes in February.
@@ -131,7 +135,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [HackerHigherschool.org](http://hackerhighschool.org/)
 
-  Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics.
+  Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics. Pair with [PicoCTF](https://picoctf.com/) ([described above](#recommended-ctfs)).
 
 * [Linux From Scratch](http://www.linuxfromscratch.org/)
 
