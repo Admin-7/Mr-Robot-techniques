@@ -190,12 +190,14 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 # Other lists
 
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+* [awesome-android-security](https://github.com/ashishb/android-security-awesome)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [awesome-forensics](https://github.com/Cugu/awesome-forensics)
-* [pentest-links](https://github.com/meitar/pentest-links)
-* [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+* [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
+* [pentest-links](https://github.com/meitar/pentest-links)
 
 ***
 
