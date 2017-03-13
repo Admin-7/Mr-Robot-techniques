@@ -197,7 +197,6 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
-* [pentest-links](https://github.com/meitar/pentest-links)
 
 ***
 
