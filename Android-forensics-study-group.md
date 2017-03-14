@@ -17,6 +17,7 @@
     * https://github.com/nowsecure/android-forensics
     * http://www.cellebrite.com/pages/explaining-cellebrite-ufed-data-extraction-processes
     * http://www.elinux.org/Android_Booting
+    * [Android Internals: A Confectioner's Cookbook, Volume 1: The Power User's View](https://web.archive.org/web/20170313221824/http://newandroidbook.com/AIvI-M-RL1.pdf)
 
 * Notes from meeting: https://pad.riseup.net/p/androidsecurity
 
