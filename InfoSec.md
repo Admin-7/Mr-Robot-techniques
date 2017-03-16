@@ -129,6 +129,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [Penteseter Lab](https://PentesterLab.com)
 * [VulnHub](https://www.vulnhub.com)
 * [Root Me](https://root-me.org/)
+* [Open Security Training](http://opensecuritytraining.info/)
 * [Hacking Lab](https://www.hacking-lab.com)
 * [PentestIT Labs](https://lab.pentestit.ru/)
 
