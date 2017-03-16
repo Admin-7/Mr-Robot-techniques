@@ -146,9 +146,9 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
 
-* [Introductory x86 (32 bit)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
+* [Video Lectures: Introductory x86 (32 bit)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 
-  A series of video lectures from Xeno Kovah's 2 day "Introductory x86" Fall 2010 class.
+  A series of video lectures from Xeno Kovah's 2 day "Introductory x86" computer science class in Fall of 2010. This is one of the more comprehensive free video resources for learning low-level programming (assembly language) and provides much of the background knowledge required to understand machine instructions and operation (e.g., exploit "shellcode").
 
 * [Programming Linux Anti-Reversing Techniques](https://leanpub.com/anti-reverse-engineering-linux)
 
