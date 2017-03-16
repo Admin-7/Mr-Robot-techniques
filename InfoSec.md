@@ -4,11 +4,11 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
-  1. [CTFs](#ctfs)
-    1. [CTF calendars and archives](#ctf-calendars-and-archives)
-    1. [Recommended CTFs](#recommended-ctfs)
-  1. [Hacking challenges](#hacking-challenges)
-  1. [Cyberwarfare ranges](#cyberwarfare-ranges)
+    1. [CTFs](#ctfs)
+        1. [CTF calendars and archives](#ctf-calendars-and-archives)
+        1. [Recommended CTFs](#recommended-ctfs)
+    1. [Hacking challenges](#hacking-challenges)
+    1. [Cyberwarfare ranges](#cyberwarfare-ranges)
 1. [Labs and practice VMs](#labs-and-practice-vms)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
 1. [For defenders](#for-defenders)
@@ -145,6 +145,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 
   A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
+
+* [Introductory x86 (32 bit)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
+
+  A series of video lectures from Xeno Kovah's 2 day "Introductory x86" Fall 2010 class.
 
 * [Programming Linux Anti-Reversing Techniques](https://leanpub.com/anti-reverse-engineering-linux)
 
