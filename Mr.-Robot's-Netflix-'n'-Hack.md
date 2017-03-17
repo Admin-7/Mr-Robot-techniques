@@ -88,7 +88,6 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 
 During post-show discussion, we brought up:
 
-* [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily)
 * [OnionShare](https://onionshare.org/)
 * [BeEF](http://beefproject.com/)
 * NAT/PAT tables and a bit about [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal) ("NAT punching")
@@ -147,17 +146,31 @@ During post-show discussion, we brought up:
 
 # Week 3 (S01E03)
 
-* Understaffed/overworked IT departments:
+* Understaffed/overworked IT departments:  
+  ![William Highsmith, also known as "the IT department," :robot: screenshot 📷](https://web.archive.org/web/20170317230645/https://i.imgur.com/mbDq3Dm.jpg)
   * [Security Intelligence: Why Overworked Employees Are Security Risks](https://securityintelligence.com/security-risk-staffing-it-teams-overworked-employees/)
 * Security risks of old software, read "[Malware Infection Vectors: Past, Present, and Future](https://www.symantec.com/connect/articles/malware-infection-vectors-past-present-and-future)"
-  * Windows 98
-  * Microsoft Outlook, a common infection vector
-* Virus scanners, e.g., [Norton Security Scan](https://security.symantec.com/nss/getnss.aspx?langid=ie&venid=sym)
+  * [Windows 98](https://en.wikipedia.org/wiki/Windows_98)
+  * [Microsoft Outlook](https://en.wikipedia.org/wiki/Microsoft_Outlook), a "personal information management" package that has become a notorious malware infection vector  
+    ![Screenshot of a dated email client, :robot: screenshot 📷](https://web.archive.org/web/20170317230657/https://i.imgur.com/pXs6wAo.jpg)
+* Virus scanners, e.g., [Norton Security Scan](https://security.symantec.com/nss/getnss.aspx?langid=ie&venid=sym)  
+  ![Performing a "virus scan" on Windows 98, :robot: screenshot 📷](https://web.archive.org/web/20170317230637/https://i.imgur.com/enrz1ij.jpg)
+* Hackers can corrupt the integrity of digitized health and medical records  
+  ![Elliot Alderson's digitized health records, :robot: screenshot 📷](https://web.archive.org/web/20170317230620/https://i.imgur.com/SSiYRPf.jpg)  
+  ![Editing a positive drug panel result to appear like "every other obedient zombie," :robot: screenshot 📷](https://web.archive.org/web/20170317230611/https://i.imgur.com/oyXCjx9.jpg)
+  * Privacy concerns amount to breaches of confidentiality, read [Google’s Handling of Public Health Data Should Serve as a Cautionary Tale, Report Says](https://motherboard.vice.com/en_us/article/googles-handling-of-public-health-data-should-serve-as-a-cautionary-tale-report-says)
 * [Voice changer](https://en.wikipedia.org/wiki/Voice_changer) (voice disguising software)
-* Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"
+* Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"  
+  ![Ollie is observed via his laptop's hacked webcam, :robot: screenshot 📷](https://web.archive.org/web/20170317230630/https://i.imgur.com/SVDpCdq.jpg)
+* Onion site ("hidden service") used as an IRC server  
+  ![Screenshot of a Chinese IRC channel, :robot: screenshot 📷](https://web.archive.org/web/20170317230419/https://i.imgur.com/V08jbFH.jpg)
+  * Use [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) to access such servers easily, if you know the `.onion` address
 * "We should also monitor social media traffic, as well as IRC, Pastebin, and set up scripts to keep going, 24/7" - places where data dumps often first appear
   * [Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
   * [The Next Web: Pastebin: How a popular code-sharing site became the ultimate hacker hangout](http://thenextweb.com/socialmedia/2011/06/05/pastebin-how-a-popular-code-sharing-site-became-the-ultimate-hacker-hangout/)
+* "Never show them my [source code](https://en.wikipedia.org/wiki/Source_code)"
+  * "Closed" versus "open" is a longstanding debate, and is primarily a political divide
+  * "Open Source" versus "Free Software," read [Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 * Facebook location check-ins (also Foursquare, Yelp, any location-based service) - Tyrel following Anwar to the Kiss and Fly club, [learn about "EXIF data"](http://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/) (metadata in some file formats, like images)
   * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
   * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
