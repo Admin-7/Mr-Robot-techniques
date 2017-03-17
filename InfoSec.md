@@ -135,7 +135,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 # Lesson plans and guidance
 
-This section provides a curated, ordered list of supplementary educational content in an effort to provide those who want it with a suggested course "to go from start to finish." Although listed "in order," there is no strict, hard-and-fast rules about how you go about your own education. Many topics reference related subjects, or provide only a shallow examination of them; if you find something confusing, consider jumping around a bit until you feel more at ease.
+This section provides a curated, ordered list of supplementary educational content in an effort to provide those who want it with a suggested course "to go from start to finish." Although listed "in order," there is no strict, hard-and-fast rule about how you go about your own education. Many topics reference related subjects, or provide only a shallow examination of them; if you find something confusing, consider jumping around a bit until you feel more at ease.
 
 1. [Hacker Higherschool](http://hackerhighschool.org/)  
     Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics. Pair with [PicoCTF](https://picoctf.com/) ([described above](#recommended-ctfs)).
