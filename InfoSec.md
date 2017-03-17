@@ -137,37 +137,22 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 This section provides a curated, ordered list of supplementary educational content in an effort to provide those who want it with a suggested course "to go from start to finish." Although listed "in order," there is no strict, hard-and-fast rules about how you go about your own education. Many topics reference related subjects, or provide only a shallow examination of them; if you find something confusing, consider jumping around a bit until you feel more at ease.
 
-1. [HackerHigherschool.org](http://hackerhighschool.org/)
-
-  Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics. Pair with [PicoCTF](https://picoctf.com/) ([described above](#recommended-ctfs)).
-
+1. [Hacker Higherschool](http://hackerhighschool.org/)
+    Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics. Pair with [PicoCTF](https://picoctf.com/) ([described above](#recommended-ctfs)).
 1. [Linux From Scratch](http://www.linuxfromscratch.org/)
-
-  These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. Being able to build directly from source, rather than rely on difficult-to-inspect binary packages distributed by vendors, offers extreme advantages to security-conscious users, so it's wise to gain experience doing this. After completing the main guide, additional guides focus on particular interest areas. Of these, the "Hardened Linux From Scratch" guidebook, which "focuses on building an LFS system with heightened security," is of special note as it walks you through the process of configuring many of GNU/Linux's built-in security features.
-
+    These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. Being able to build directly from source, rather than rely on difficult-to-inspect binary packages distributed by vendors, offers extreme advantages to security-conscious users, so it's wise to gain experience doing this. After completing the main guide, additional guides focus on particular interest areas. Of these, the "Hardened Linux From Scratch" guidebook, which "focuses on building an LFS system with heightened security," is of special note as it walks you through the process of configuring many of GNU/Linux's built-in security features.
 1. [CTF Field Guide](https://trailofbits.github.io/ctf/)
-
-  A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
-
+    A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
 1. [Lecture Series: Introductory x86 (32 bit)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
-
-  A series of video lectures from Xeno Kovah's 2 day "Introductory x86" class in Fall of 2010. This is one of the more comprehensive free video resources for learning low-level programming (assembly language) and provides much of the background knowledge required to understand machine instructions and operation, for later use in exploit development ("shellcode") and reverse engineering.
-
+    A series of video lectures from Xeno Kovah's 2 day "Introductory x86" class in Fall of 2010. This is one of the more comprehensive free video resources for learning low-level programming (assembly language) and provides much of the background knowledge required to understand machine instructions and operation, for later use in exploit development ("shellcode") and reverse engineering.
 1. [Reverse Engineering for Beginners](https://beginners.re/)
-
-  A free e-book 
-
+    A free e-book providing a complete study guide for learning how to analyze raw computer instructions and recover meaningful source code in the process. It provides practice exercises for those with a modest existing understanding of compiled languages like C to work through and explanations of each step in the process.
 1. [Programming Linux Anti-Reversing Techniques](https://leanpub.com/anti-reverse-engineering-linux)
-
-  A free e-book with a pre-compiled binary that "teaches the reader how to code and analyze well known anti-reversing techniques for Linux. The book shows how a reverse engineer analyzes a binary using tools like IDA, Radare2, GDB, readelf, and more." Useful for learning reverse engineering beginners. Its [companion repositories can be found on GitHub](https://github.com/antire-book).
-
+    A free e-book, with an accompanying pre-compiled binary, that "teaches the reader how to code and analyze well known anti-reversing techniques for Linux. The book shows how a reverse engineer analyzes a binary using tools like IDA, Radare2, GDB, readelf, and more." Useful for learning reverse engineering beginners. Its [companion repositories can be found on GitHub](https://github.com/antire-book).
 1. [Crypto 101](https://www.crypto101.io/)
-
-  A free and condensed practical introductory course on cryptography, "freely available for programmers of all ages and skill levels." The book's Forward says it "starts with very simple primitives, and gradually introduces new ones, demonstrating why they’re necessary. Eventually, all of this is put together into complete, practical cryptosystems, such as TLS, GPG and OTR. The goal of this book is not to make anyone a cryptographer or a security researcher. The goal of this book is to understand how complete cryptosystems work from a bird’s eye view, and how to apply them in real software."
-
+    A free and condensed practical introductory course on cryptography, "freely available for programmers of all ages and skill levels." The book's Forward says it "starts with very simple primitives, and gradually introduces new ones, demonstrating why they’re necessary. Eventually, all of this is put together into complete, practical cryptosystems, such as TLS, GPG and OTR. The goal of this book is not to make anyone a cryptographer or a security researcher. The goal of this book is to understand how complete cryptosystems work from a bird’s eye view, and how to apply them in real software."
 1. [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
-
-  A free textbook developed for use in Stanford's and New York University's computer science and mathematics departments covering cryptography. A beginning reader can read though the book to learn how cryptographic systems work and why they are secure. Some knowledge of basic algebra and probability is assumed but you do not need prior experience with graduate-level mathematics courses to utilize this book. (See also [Coursera.org's Cryptography I course](https://www.coursera.org/learn/crypto), taught by one of this book's co-authors.) Use this text if you are already well-versed with the material covered in "Crypto 101" (above).
+    A free textbook developed for use in Stanford's and New York University's computer science and mathematics departments covering cryptography. A beginning reader can read though the book to learn how cryptographic systems work and why they are secure. Some knowledge of basic algebra and probability is assumed but you do not need prior experience with graduate-level mathematics courses to utilize this book. (See also [Coursera.org's Cryptography I course](https://www.coursera.org/learn/crypto), taught by one of this book's co-authors.) Use this text if you are already well-versed with the material covered in "Crypto 101" (above).
 
 # For defenders
 
