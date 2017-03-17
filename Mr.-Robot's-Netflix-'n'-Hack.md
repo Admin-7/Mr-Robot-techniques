@@ -171,12 +171,19 @@ During post-show discussion, we brought up:
 * "Never show them my [source code](https://en.wikipedia.org/wiki/Source_code)"
   * "Closed" versus "open" is a longstanding debate, and is primarily a political divide
   * "Open Source" versus "Free Software," read [Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
-* Facebook location check-ins (also Foursquare, Yelp, any location-based service) - Tyrel following Anwar to the Kiss and Fly club, [learn about "EXIF data"](http://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/) (metadata in some file formats, like images)
-  * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
-  * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
-  * Web tools: [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi), [ImageForensic.org](https://www.imageforensic.org/), [EXIFData.com](http://exifdata.com/)
-  * Command-line tools: `exif`, [`ffmpeg`](https://ffmpeg.org/) for extracting metadata from video files
-* "With a simple [phishing](https://en.wikipedia.org/wiki/Phishing) scam I owned her password pretty easy."
+* Facebook location check-ins (also Foursquare, Yelp, any location-based service) is how Tyrell follows Anwar to the Kiss and Fly club  
+  ![Anwar's profile on Facebook, :robot: screenshot 📷](https://web.archive.org/web/20170317233703/https://i.imgur.com/ZpYw3dd.jpg)  
+  ![Anwar's most recent picture posted to Facebook, :robot: screenshot 📷](https://web.archive.org/web/20170317233724/https://i.imgur.com/N3Rq2vP.jpg)
+  ![Facebook automatically correlated Anwar's location from his photo metadata, :robot: screenshot 📷](https://web.archive.org/web/20170317233731/https://i.imgur.com/4ZiFJ66.jpg)
+  * Seriously, [audit your social media account's privacy settings](https://hackblossom.org/cybersecurity/#privacysettings)
+  * Also, learn about [EXIF data](http://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/) (metadata in some file formats, like images)
+    * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/) - Facebook/Instagram photos have can embed GPS coordinates, reveals locations
+    * Real-life example: [Fugitive John McAfee’s location revealed by photo meta-data screw-up](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
+    * Web tools: [Jeffrey Friedl's Image Metadata Viewer](http://regex.info/exif.cgi/exif.cgi), [ImageForensic.org](https://www.imageforensic.org/), [EXIFData.com](http://exifdata.com/)
+    * Command-line tools: `exif`, [`ffmpeg`](https://ffmpeg.org/) for extracting metadata from video files
+* "With a simple [phishing](https://en.wikipedia.org/wiki/Phishing) scam I owned her password pretty easy."  
+  ![Elliot's phishing email appears in Shayla's inbox, :robot: screenshot 📷](https://web.archive.org/web/20170317233813/https://i.imgur.com/5js8hxe.jpg)  
+  ![Shayla enters her password into Elliot's phishing site, :robot: screenshot 📷](https://web.archive.org/web/20170317233820/https://i.imgur.com/RpstaKr.jpg)
   * Historical example: [AOHell](https://en.wikipedia.org/wiki/AOHell)
 * Mobile phone spyware, [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone):
   * "RooterFrame" is not real, but [Framaroot](http://framaroot.net/?scn=2) is!
