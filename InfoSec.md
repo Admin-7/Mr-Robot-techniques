@@ -137,7 +137,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 This section provides a curated, ordered list of supplementary educational content in an effort to provide those who want it with a suggested course "to go from start to finish." Although listed "in order," there is no strict, hard-and-fast rule about how you go about your own education. Many topics reference related subjects, or provide only a shallow examination of them; if you find something confusing, consider jumping around a bit until you feel more at ease.
 
-1. [Hacker Higherschool](http://hackerhighschool.org/)  
+1. [Hacker Highschool](http://hackerhighschool.org/)  
     Exceptionally friendly and thorough introduction to penetration testing ("hacking") and general security concepts written with teenagers in mind. Perfect for people who want a more guided path to learning network security and computer exploitation basics. Pair with [PicoCTF](https://picoctf.com/) ([described above](#recommended-ctfs)).
 1. [Linux From Scratch](http://www.linuxfromscratch.org/)  
     These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. Being able to build directly from source, rather than rely on difficult-to-inspect binary packages distributed by vendors, offers extreme advantages to security-conscious users, so it's wise to gain experience doing this. After completing the main guide, additional guides focus on particular interest areas. Of these, the "Hardened Linux From Scratch" guidebook, which "focuses on building an LFS system with heightened security," is of special note as it walks you through the process of configuring many of GNU/Linux's built-in security features.
