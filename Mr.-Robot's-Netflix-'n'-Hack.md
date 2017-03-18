@@ -188,8 +188,8 @@ During post-show discussion, we brought up:
 * [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone) in order to install [commercial phone spyware](https://boingboing.net/2017/02/22/misogyny-with-a-business-model.html):  
   ![Tyrell inserts a microSD card loaded with spyware into Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235510/https://i.imgur.com/QLyjMts.jpg)  
   ![Tyrell launches a rooting app on Anwar's phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235502/https://i.imgur.com/tCUtRnm.jpg)  
-  ![Tyrell installs SuperSU as part of rooting Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235531/https://i.imgur.com/HiqKGKY.jpg)  
   ![Tyrell reboots Anwar's phone to complete the rooting process, :robot: screenshot 📷](https://web.archive.org/web/20170317235436/https://i.imgur.com/e5fU7Nv.jpg)  
+  ![Tyrell installed SuperSU as part of rooting Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235531/https://i.imgur.com/HiqKGKY.jpg)  
   ![A notification on Anwar's Android phone after being rooted, :robot: screenshot 📷](https://web.archive.org/web/20170317235446/https://i.imgur.com/i9cn04A.jpg)  
   ![SuperSU asks for root access privileges, :robot: screenshot 📷](https://web.archive.org/web/20170317235457/https://i.imgur.com/w666E7Q.jpg)  
   ![The installed spyware asks whether to stealth the SuperSU icon and related artifacts, :robot: screenshot 📷](https://web.archive.org/web/20170317235538/https://i.imgur.com/Ks1ug5J.jpg)  
