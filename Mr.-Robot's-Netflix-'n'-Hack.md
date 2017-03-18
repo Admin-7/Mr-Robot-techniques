@@ -211,6 +211,10 @@ During post-show discussion, we brought up:
   * Read [Crash // Override's "Prevent Doxing" guide](http://www.crashoverridenetwork.com/preventingdoxing.html)
 * Incident response (IR), and digital forensic examination reports  
   ![Gideon examines Elliot's forensic examiner report on the encrypted .dat file, :robot: screenshot 📷](https://web.archive.org/web/20170318002151/https://i.imgur.com/nSn0Y1o.jpg)
+  * [MD5 hashing algorithm](https://en.wikipedia.org/wiki/MD5)
+    * hashes (also called digests) are [used in digital forensics extensively](http://forensicswiki.org/wiki/Hashing)
+  * [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page) is a Wikipedia-like site for digital forensics tools and standards
+  * [SANS Digital Forensics Blog](https://digital-forensics.sans.org/blog/), a regularly-updating industry blog
 
 During post-show discussion, we brought up:
 
