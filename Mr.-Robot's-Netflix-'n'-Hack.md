@@ -198,12 +198,12 @@ During post-show discussion, we brought up:
   ![Tyrell chooses to hide the commercial spyware on Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235524/https://i.imgur.com/TDrxim2.jpg)  
   ![Tyrell activates his account with the commercial spyware provider to begin surreptitiously collecting data from Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235426/https://i.imgur.com/CKgTaVV.jpg)  
   * "RooterFrame" is not real, but [Framaroot](http://framaroot.net/?scn=2) is!
-  * [SuperSU](http://www.supersu.com/) is real, too!
+  * [SuperSU](http://www.supersu.com/) is real, too! An Android app to manage `sudo`-like access to installed apps
   * Commercial mobile phone malware/spyware software as a service vendors:
     * [FlexiSPY](https://www.flexispy.com/)
     * [Highster Mobile](http://highstermobile.com/)
     * [Spyera](https://spyera.com/)
-  * [SuperSU](http://www.supersu.com/) - Android app to manage `sudo`-like access to installed apps
+    * [HelloSpy](http://hellospy.com/)
   * Read: [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
 * Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market), [doxing](https://en.wikipedia.org/wiki/Doxing)  
   ![Angela's information is caught up in the dox on Ollie, :robot: screenshot 📷](https://web.archive.org/web/20170318001822/https://i.imgur.com/yUuLVN7.jpg)
