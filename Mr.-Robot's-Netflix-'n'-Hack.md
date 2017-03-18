@@ -203,10 +203,14 @@ During post-show discussion, we brought up:
     * [Spyera](https://spyera.com/)
   * [SuperSU](http://www.supersu.com/) - Android app to manage `sudo`-like access to installed apps
   * Read: [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
-* Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market)
+* Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market), [doxing](https://en.wikipedia.org/wiki/Doxing)  
+  ![Angela's information is caught up in the dox on Ollie, :robot: screenshot 📷](https://web.archive.org/web/20170318001822/https://i.imgur.com/yUuLVN7.jpg)
   * Apply a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) to your personal credit line
   * [Krebs On Security: Peek Inside a Professional Carding Shop](https://krebsonsecurity.com/2014/06/peek-inside-a-professional-carding-shop/)
   * [IdentityTheft.gov](https://www.identitytheft.gov/) - US government recommendations/resources to "recover from identity theft"
+  * Read [Crash // Override's "Prevent Doxing" guide](http://www.crashoverridenetwork.com/preventingdoxing.html)
+* Incident response (IR), and digital forensic examination reports  
+  ![Gideon examines Elliot's forensic examiner report on the encrypted .dat file, :robot: screenshot 📷](https://web.archive.org/web/20170318002151/https://i.imgur.com/nSn0Y1o.jpg)
 
 During post-show discussion, we brought up:
 
