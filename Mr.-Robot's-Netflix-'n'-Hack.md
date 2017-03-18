@@ -185,8 +185,18 @@ During post-show discussion, we brought up:
   ![Elliot's phishing email appears in Shayla's inbox, :robot: screenshot 📷](https://web.archive.org/web/20170317233813/https://i.imgur.com/5js8hxe.jpg)  
   ![Shayla enters her password into Elliot's phishing site, :robot: screenshot 📷](https://web.archive.org/web/20170317233820/https://i.imgur.com/RpstaKr.jpg)
   * Historical example: [AOHell](https://en.wikipedia.org/wiki/AOHell)
-* Mobile phone spyware, [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone):
+* [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone) in order to install [commercial phone spyware](https://boingboing.net/2017/02/22/misogyny-with-a-business-model.html):  
+  ![Tyrell inserts a microSD card loaded with spyware into Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235510/https://i.imgur.com/QLyjMts.jpg)  
+  ![Tyrell launches a rooting app on Anwar's phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235502/https://i.imgur.com/tCUtRnm.jpg)  
+  ![Tyrell installs SuperSU as part of rooting Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235531/https://i.imgur.com/HiqKGKY.jpg)  
+  ![Tyrell reboots Anwar's phone to complete the rooting process, :robot: screenshot 📷](https://web.archive.org/web/20170317235436/https://i.imgur.com/e5fU7Nv.jpg)  
+  ![A notification on Anwar's Android phone after being rooted, :robot: screenshot 📷](https://web.archive.org/web/20170317235446/https://i.imgur.com/i9cn04A.jpg)  
+  ![SuperSU asks for root access privileges, :robot: screenshot 📷](https://web.archive.org/web/20170317235457/https://i.imgur.com/w666E7Q.jpg)  
+  ![The installed spyware asks whether to stealth the SuperSU icon and related artifacts, :robot: screenshot 📷](https://web.archive.org/web/20170317235538/https://i.imgur.com/Ks1ug5J.jpg)  
+  ![Tyrell chooses to hide the commercial spyware on Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235524/https://i.imgur.com/TDrxim2.jpg)  
+  ![Tyrell activates his account with the commercial spyware provider to begin surreptitiously collecting data from Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235426/https://i.imgur.com/CKgTaVV.jpg)  
   * "RooterFrame" is not real, but [Framaroot](http://framaroot.net/?scn=2) is!
+  * [SuperSU](http://www.supersu.com/) is real, too!
   * Commercial mobile phone malware/spyware software as a service vendors:
     * [FlexiSPY](https://www.flexispy.com/)
     * [Highster Mobile](http://highstermobile.com/)
