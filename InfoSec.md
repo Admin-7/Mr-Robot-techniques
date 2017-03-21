@@ -160,9 +160,13 @@ This section contains a curated, ordered list of supplementary educational conte
 
   Simply start at the top and read down the page. This is as guided an introduction to privacy issues and what to do about them as it gets.
 
-* [DIY Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+* [DIY Feminist Cybersecurity](https://hackblossom.org/resources/)
 
   A thorough walk-through showing how to implement basic and intermediate cybersecurity best practices, geared for oppressed groups whose likely adversary are trolls, white supremacists, and other individuals or mob-sized malicious actors. Written with careful explanations and a good grasp of the state of the art. Highly recommended reading for the politically conscious defender.
+
+* [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
+
+  A super-accessible guide providing "imminent technical support to survivors of domestic violence." This resource can be of us both to people facing intimate partner or domestic violence scenarios as well as anyone seeking a more focused guide regarding adversaries who are not State-level actors.
 
 * [Crash Override Network // Resources](http://www.crashoverridenetwork.com/resources.html)
 
