@@ -166,7 +166,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
 
-  A super-accessible guide providing "imminent technical support to survivors of domestic violence." This resource can be of us both to people facing intimate partner or domestic violence scenarios as well as anyone seeking a more focused guide regarding adversaries who are not State-level actors.
+  A super-accessible guide providing "imminent technical support to survivors of domestic violence." This resource can be of use both to people facing intimate partner or domestic violence scenarios as well as anyone seeking a more focused guide regarding adversaries who are not State-level actors.
 
 * [Crash Override Network // Resources](http://www.crashoverridenetwork.com/resources.html)
 
