@@ -222,6 +222,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 * [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
+* [Sneakerhax's Getting Started Resources](https://github.com/sneakerhax/Resources/blob/master/links/getting-started.md)
 
 ***
 
