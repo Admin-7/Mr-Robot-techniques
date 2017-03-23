@@ -10,6 +10,7 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
     1. [Hacking challenges](#hacking-challenges)
     1. [Cyberwarfare ranges](#cyberwarfare-ranges)
 1. [Labs and practice VMs](#labs-and-practice-vms)
+    1. [Deliberately vulnerable systems](#deliberately-vulnerable-systems)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
 1. [For defenders](#for-defenders)
 1. [Other lists](#other-lists)
@@ -24,6 +25,8 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 [**Capture The Flag competitions (CTFs)**](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) are sets of puzzles intended to distill the essence of many aspects of professional computer security work into a single short-lived exercise that is objectively measurable. Most competitions are free to participate, and some even award prizes to winners. They are often associated with a conference or event, so are open only at certain times, run for a short while, then close and rank the participants according to the competition's scoring rules.
 
 [**Wargames**](https://en.wikipedia.org/wiki/Wargame_(hacking)), sometimes also called **hacking challenges**, are stand-alone puzzlers that are always available (they are not associated with a time or event). Typically, they are organized into levels that get progressively harder as you solve more of them. Some hacking/wargame sites also organize challenges into categories based on the skills you need to solve them.
+
+**Deliberately vulnerable systems**, or deliberately exploitable apps, are bundled software packages that are intentionally designed to be practice targets for exploitation attempts. These tools sometimes contain self-describing tutorials or exercise descriptions so that they can be used as a self-contained educational course. They are a noteworthy variant of wargames that can be played "offline" because you can download them to your own computer, like a practice lab.
 
 **Cyberwarfare Ranges** are digital live-fire ranges, semi-private inter-networks where participants can set up and attack other participant's servers and services for educational purposes. They are typically heavily firewalled and accessible only with an invitation and/or through a VPN tunnel; think of them like the digital equivalent of paintball arenas or live-fire gun ranges.
 
@@ -112,6 +115,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   An older (mid-2000's era) set of challenges in Web, IRC, steganograhy, and a few other categories. Notable partly for its hacktivist co-founder, [Jeremy Hammond](https://en.wikipedia.org/wiki/Jeremy_Hammond), famed member of [the Anonymous-affiliated group LulzSec](https://arstechnica.com/tech-policy/2013/05/lulzsec-member-jeremy-hammond-pleads-guilty-to-stratfor-hack/). While outdated, most of the hacking challenges (called "missions") on this site are still decent practice for technology basics that haven't changed much such as fundamental crypto maths, the HTTP protocol, and JavaScript exploitation techniques.
 
+* [HackerTest.net](http://www.hackertest.net/)
+
+  A set of increasingly difficult hacking "levels."
+
 * [W3Challs](https://w3challs.com/)
 
   Mostly a community site and forum, but has a number of categorized challenges as well, including a couple entirely about writing Web scraping programs.
@@ -119,6 +126,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [Root Me](https://root-me.org/)
 
   A collection of a couple hundred stand-alone online challenges and several dozen practice labs ("virtual environments") in a variety of categories.
+
+* [Enigma Group](https://www.enigmagroup.org/)
+
+  A set of challenges in categories such as cryptography, steganography, and Web exploitation "cover[ing] the exploits listed in the OWASP Top 10 Project [to] teach members the many other types of exploits that are found in today's applications; thus, helping them to become better programmers in the mean time."
 
 # Cyberwarfare ranges
 
@@ -134,6 +145,16 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [Hacking Lab](https://www.hacking-lab.com)
 * [PentestIT Labs](https://lab.pentestit.ru/)
 
+## Deliberately vulnerable systems
+
+* [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
+
+  The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available for legal security and vulnerability testing of various kinds. Notable items include [Google Gruyere](http://google-gruyere.appspot.com/), the [Damn Vulnerable Web Application](http://www.dvwa.co.uk/), and [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project).
+
+* [Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)
+
+  "[T]his application can be used by mobile security enthusiasts and students to learn or review the basics of mobile application security."
+
 # Lesson plans and guidance
 
 This section contains a curated, ordered list of supplementary educational content in an effort to provide those who want it with a suggested course "to go from start to finish." Although listed "in order," there are no rules for how you go about your own education. Many topics reference related subjects, or provide only a shallow examination of them so if you find something confusing, consider jumping around a bit until you feel more at ease.
@@ -144,6 +165,8 @@ This section contains a curated, ordered list of supplementary educational conte
     These free guidebooks offer step-by-step instruction manuals for building a GNU/Linux system entirely from source code. Being able to build directly from source, rather than rely on difficult-to-inspect binary packages distributed by vendors, offers extreme advantages to security-conscious users, so it's wise to gain experience doing this. After completing the main guide, additional guides focus on particular interest areas. Of these, the "Hardened Linux From Scratch" guidebook, which "focuses on building an LFS system with heightened security," is of special note as it walks you through the process of configuring many of GNU/Linux's built-in security features.
 1. [CTF Field Guide](https://trailofbits.github.io/ctf/)  
     A handy companion guide for learning an interdisciplinary set of skills in infosec, with a mind towards practicing them by puzzling out various CTF challenges.
+1. [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+    A free guide by the makers of the free software exploitation framework known as Metasploit covering the basics of its use through a hands-on introduction in a practice environment against a pre-configured and deliberately vulnerable Linux system. Rather than expect this walk-through to explain the details of exploitation, use this guide to get a feel for the overall process of vulnerability discovery, assessment, exploitation, and persistence so that later guides that reference Metasploit and its numerous utilities are already at least cursorily familiar to you.
 1. [Lecture Series: Introductory x86 (32 bit)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)  
     A series of video lectures from Xeno Kovah's 2 day "Introductory x86" class in Fall of 2010. This is one of the more comprehensive free video resources for learning low-level programming (assembly language) and provides much of the background knowledge required to understand machine instructions and operation, for later use in exploit development ("shellcode") and reverse engineering.
 1. [Reverse Engineering for Beginners](https://beginners.re/)  
@@ -198,6 +221,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
+* [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
 
 ***
 
