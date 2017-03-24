@@ -9,3 +9,4 @@
 # Scratchpad
 
 * [How the Like Button Ruined the Internet](https://www.theatlantic.com/technology/archive/2017/03/how-the-like-button-ruined-the-internet/519795/)
+* [Tech Bigwigs Know How Addictive Their Products Are. Why Don’t the Rest of Us?](https://www.wired.com/2017/03/irresistible-the-rise-of-addictive-technology-and-the-business-of-keeping-us-hooked/)
