@@ -36,6 +36,7 @@ If you don't have a smartphone or tablet, sadly, you can't use Signal. In that c
 1. Look at the byline and confirm that the app is published by "Open Whisper Systems." If it is, click *Install*.
 1. Launch the app and run through its registration process. If you have any trouble, come to a meeting and we'll help you troubleshoot it.
 1. Once installed, tell an AnarchoTechNYC regular that you'd like to join our tech collective's Signal group.
+    * In addition to being at many in person meetings, most regulars hang out in various project rooms on Gitter; see the [#Gitter](#gitter) section, below, for how to find those.
 
 # Gitter
 
