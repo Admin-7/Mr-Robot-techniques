@@ -1,21 +1,16 @@
 # Welcome to the AnarchoTechNYC wiki!
 
-The AnarchoTechNYC wiki is **a collection of thoughts, guides, and links, with a focus on building anti-fascist tools, and supporting our communities** against authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
+The AnarchoTechNYC wiki is **an evolving workspace of shared knowledge with a focus on building anti-fascist tools, and supporting our communities** against settler-colonial, imperialist, and authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
 
-* [Guides and advice](#guides-and-advice)
-* [Activities and events](#activities-and-events)
-* [Accomplices and allies](#accomplices-and-allies)
+* [Welcome guides](#welcome-guides) - Newcomers may want to start here.
+* [Activities and events](#activities-and-events) - ongoing or semi-regular events we help make happen.
+* [Accomplices and allies](#accomplices-and-allies) - friends and comrades intimately involved in our work. Check 'em out! :)
 
-# [[Guides and advice]]
+# [[Welcome guides]]
 
-> 📝 Editor's note: Do we really have responsibility for all these guides, or just the "security culture" stuff and, within that, just the "digital security" piece? We may need to scope this down further and/or prune the pieces we are not actually bottom lining.
-
-Self-directed education, personal initiative, and respect for others are all critical first steps to empowering yourself, your loved ones, and your community. We've composed a set of living documents offering you a place to *start* learning and exploring. These are not a one-stop shop or one size fits all knowledge dump; try stuff out, ask questions, nurture relationships with your comrades.
+If you're looking to get involved with our collective, please consider exploring this wiki! There's plenty here for you to expand, critique, and share. Since there's a lot here, this list suggests a few pages to start from:
 
 * [[New member orientation guide]] - a self-paced walkthrough to familiarize yourself with how we organize.
-* [[Self-defense training]] - guide to preparing yourself to fight, physically if necessary.
-* [[Anti-fascist training]] - guide to understanding the political landscape.
-* [[Security culture training]] - guide to computer, information, and cybersecurity practices.
 
 # [[Activities and events]]
 
