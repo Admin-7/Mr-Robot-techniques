@@ -18,8 +18,8 @@ If you're reading this, you're already here! GitHub is a Web-based collaboration
 **Do this:**
 
 1. If you don't already have a GitHub account, [sign up for one here](https://github.com/join).
-  * Be certain you select the *free* plan. There's no need to give GitHub any money.
-  * You'll need an email address that you can check; you can [[use a disposable (temporary) email address|Disposable email services]] if you need the added privacy.
+    * Be certain you select the *free* plan. There's no need to give GitHub any money.
+    * You'll need an email address that you can check; you can [[use a disposable (temporary) email address|Disposable email services]] if you need the added privacy.
 1. Tell someone at the tech collective meeting what your GitHub username is. That person will add you to the AnarchoTechNYC "organization" on GitHub.
 1. You will get an email asking you accept your invitation to join the GitHub organization. Confirm this, and you're in.
 
@@ -44,7 +44,7 @@ Some in our collective host events that overlap with efforts of other collective
 **Do this:**
 
 1. Log in to your GitHub account.
-  * If you don't already have a GitHub account, follow the setup steps in the [#GitHub](#github) section, above.
+    * If you don't already have a GitHub account, follow the setup steps in the [#GitHub](#github) section, above.
 1. Go to [https://Gitter.im](https://gitter.im/).
 1. Click the "Sign in to start talking" button.
 1. Click the "Sign in with GitHub" button. This will automatically associate your GitHub account with your new Gitter account.
