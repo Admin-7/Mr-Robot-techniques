@@ -20,6 +20,6 @@ One of the best parts of AnarchoTechNYC are the regular activities and tradition
 
 # [[Accomplices and allies]]
 
-In addition to the AnarchoTechNYC group, there are many [[other groups|Accomplices and allies]] with whom we collaborate, share resources, and otherwise ally with. Check them out, get involved with them, or otherwise support the ones you that resonate strongly with you.
+In addition to the AnarchoTechNYC group, there are many [[other groups|Accomplices and allies]] with whom we collaborate, share resources, and otherwise ally with. Check them out, get involved with them, or otherwise support the ones that resonate strongly with you.
 
-Of course, if you're in NYC, come to Anarcho-Tech Collective meeting and say hi to some of us in person; find our meeting details on [The Base's calendar](https://thebasebk.org/calendar/).
+Of course, if you're in NYC, come to Anarcho-Tech Collective meetings and say hi to some of us in person; find our meeting details on [The Base's calendar](https://thebasebk.org/calendar/).
