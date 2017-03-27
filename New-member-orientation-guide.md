@@ -49,7 +49,11 @@ Some in our collective host events that overlap with efforts of other collective
 1. Click the "Sign in to start talking" button.
 1. Click the "Sign in with GitHub" button. This will automatically associate your GitHub account with your new Gitter account.
 
-Once you have a Gitter account, when you encounter a project that uses a Gitter room such as our [[cybersecurity study group|CTF team]], for example, you can click the link to its chat channel and click "Join room" at the bottom of the screen. Then, say hi and introduce yourself! :D
+Once you have a Gitter account, when you encounter a project that uses a Gitter room such as our [[cybersecurity study group|CTF team]], for example, you can click the link to its chat channel and click "Join room" at the bottom of the screen. The textual link is often accompanied by a little image that looks like this:
+
+[![Chat on Gitter](https://badges.gitter.im/AnarchoTechNYC/Lobby.svg)](https://gitter.im/AnarchoTechNYC/Lobby)
+
+You can click on the above image to try it out. It will take you to our public test channel, [the AnarchoTechNYC Lobby](https://gitter.im/AnarchoTechNYC/Lobby). Once there, say hi and introduce yourself! :)
 
 # Buoy
 
