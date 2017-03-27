@@ -48,6 +48,8 @@ Some in our collective host events that overlap with efforts of other collective
 1. Go to [https://Gitter.im](https://gitter.im/).
 1. Click the "Sign in to start talking" button.
 1. Click the "Sign in with GitHub" button. This will automatically associate your GitHub account with your new Gitter account.
+1. Click the "Authorize Gitter" button if prompted.
+    * You can review the requested permissions, which should just be "read" access to public profile information, before authorizing and creating your Gitter account.
 
 Once you have a Gitter account, when you encounter a project that uses a Gitter room such as our [[cybersecurity study group|CTF team]], for example, you can click the link to its chat channel and click "Join room" at the bottom of the screen. The textual link is often accompanied by a little image that looks like this:
 
