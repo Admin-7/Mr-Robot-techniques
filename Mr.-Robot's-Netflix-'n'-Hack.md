@@ -271,7 +271,13 @@ During post-show discussion, we brought up:
   * [`tar`](https://en.wikipedia.org/wiki/Tar_%28computing%29), a command to create a single file ("archive") out of many
 * "Error 404 Not Found", a well-known HTTP status code
   * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
-* Windows malware via autorun on CD, again! ;)
+* Getting rid of mobile phones to avoid being tracked by an [IMSI-catcher](https://en.wikipedia.org/wiki/IMSI-catcher) (a "Stingray")
+  * [ACLU: Stingray Tracking Devices, Who's Got Them?](https://www.aclu.org/map/stingray-tracking-devices-whos-got-them)
+  * [PrivacySOS.org: How to Defeat FBI or Police Stingray Surveillance](https://privacysos.org/blog/how-to-defeat-fbi-or-police-stingray-surveillance/)
+* Employee access cards, usually [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) technology activated by proximity  
+  ![Angela uses an employee access card to enter AllSafe Cybersecurity offices, :robot: screenshot 📷](https://i.imgur.com/63d95Ip.png)
+* Windows malware via autorun on CD, again! ;)  
+  ![A command prompt automatically opens on a Windows PC, :robot: screenshot 📷](https://web.archive.org/web/20170328222528/https://i.imgur.com/ezVDz0j.jpg)
 
 # Week 5 (S01E05)
 
