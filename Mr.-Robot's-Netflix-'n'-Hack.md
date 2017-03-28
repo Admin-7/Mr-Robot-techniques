@@ -259,6 +259,8 @@ During post-show discussion, we brought up:
   * Blog post: [Hacking into a Vehicle CAN bus (Toyothack and SocketCAN)](https://fabiobaltieri.com/2013/07/23/hacking-into-a-vehicle-can-bus-toyothack-and-socketcan/)
   * [`candump` and other Linux-CAN userland utilities](https://github.com/linux-can/can-utils/)
 * [Daemon](https://en.wikipedia.org/wiki/Daemon_%28computing%29)
+* Breaking into a motel room  
+  ![Mobley opens the motel room door, :robot: screenshot 📷](https://web.archive.org/web/20170328213356/https://i.imgur.com/RXsmwij.png)
 * "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 * "Error 404 Not Found", a well-known HTTP status code
