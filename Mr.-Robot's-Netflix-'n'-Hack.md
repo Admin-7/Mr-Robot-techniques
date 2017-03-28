@@ -261,7 +261,8 @@ During post-show discussion, we brought up:
 * [Daemon](https://en.wikipedia.org/wiki/Daemon_%28computing%29)
 * Breaking into a motel room  
   ![Mobley opens the motel room door, :robot: screenshot 📷](https://web.archive.org/web/20170328213356/https://i.imgur.com/RXsmwij.png)
-* "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)
+* "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)  
+  ![Romero and Mobley kill time watching "Hackers," a movie from 1995 movie, :robot: screenshot 📷](https://web.archive.org/web/20170328213658/https://i.imgur.com/KCdXefY.jpg)
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 * "Error 404 Not Found", a well-known HTTP status code
   * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
