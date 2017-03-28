@@ -240,7 +240,9 @@ During post-show discussion, we brought up:
   * Surveillance cameras, read:
     * [Website Aims to Map Surveillance Cameras Across the Nation, and the World](https://activism.tech/?p=69)
     * "Camover," [Game to Destroy CCTV Cameras: Vandalism or valid protest?](https://www.theguardian.com/theguardian/shortcuts/2013/jan/25/game-destroy-cctv-cameras-berlin)
-* "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network"
+* "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network," taking control over the building's control systems (like [IoT](https://en.wikipedia.org/wiki/Internet_of_things), but bigger)
+  * Read, [Hackers exploit SCADA holes to take full control of critical infrastructure](http://www.computerworld.com/article/2475789/cybercrime-hacking/hackers-exploit-scada-holes-to-take-full-control-of-critical-infrastructure.html)
+  * [OWASP SCADA Security Project](https://www.owasp.org/index.php/OWASP_Scada_Security_Project)
 * "the distro"
 * FTP server
 * Unlocking a car door wirelessly
