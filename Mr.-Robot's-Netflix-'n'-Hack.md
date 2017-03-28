@@ -238,7 +238,7 @@ During post-show discussion, we brought up:
     * [How to Conduct Surveillance Detection On Yourself](https://protectioncircle.org/2016/05/25/surveillance-detection-on-yourself/)
     * [Surveillance Evasion](https://protectioncircle.org/2016/06/14/surveillance-evasion/)
   * Surveillance cameras, read:
-    * [Website Aims to Map Surveillance Cameras Across the Nation, and the World](https://activism.tech/?p=69)
+    * [Mass. Pirate's CCTV map](http://cctv.masspirates.org/), and [Website Aims to Map Surveillance Cameras Across the Nation, and the World](https://activism.tech/?p=69)
     * "Camover," [Game to Destroy CCTV Cameras: Vandalism or valid protest?](https://www.theguardian.com/theguardian/shortcuts/2013/jan/25/game-destroy-cctv-cameras-berlin)
 * "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network," taking control over the building's control systems (like [IoT](https://en.wikipedia.org/wiki/Internet_of_things), but bigger)
   * Read, [Hackers exploit SCADA holes to take full control of critical infrastructure](http://www.computerworld.com/article/2475789/cybercrime-hacking/hackers-exploit-scada-holes-to-take-full-control-of-critical-infrastructure.html)
