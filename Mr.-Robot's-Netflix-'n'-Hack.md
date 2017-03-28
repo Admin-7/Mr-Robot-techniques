@@ -243,7 +243,7 @@ During post-show discussion, we brought up:
 * "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network," taking control over the building's control systems (like [IoT](https://en.wikipedia.org/wiki/Internet_of_things), but bigger)
   * Read, [Hackers exploit SCADA holes to take full control of critical infrastructure](http://www.computerworld.com/article/2475789/cybercrime-hacking/hackers-exploit-scada-holes-to-take-full-control-of-critical-infrastructure.html)
   * [OWASP SCADA Security Project](https://www.owasp.org/index.php/OWASP_Scada_Security_Project)
-* "the distro"
+* "the distro," slang for "distribution," i.e., the file (payload) being distributed
 * [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) server, an older way of transferring files across a network
 * Unlocking a car door wirelessly  
   ![Romero uses a wireless keyfob amplifier to remotely unlock a car, :robot: screenshot 📷](https://web.archive.org/web/20170328212519/https://i.imgur.com/CEyOihp.jpg)
@@ -264,6 +264,11 @@ During post-show discussion, we brought up:
 * "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)  
   ![Romero and Mobley kill time watching "Hackers," a movie from 1995 movie, :robot: screenshot 📷](https://web.archive.org/web/20170328213658/https://i.imgur.com/KCdXefY.jpg)
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
+* Trenton prepares the HVAC exploit for Steel Mountain  
+  ![Trenton's exploit development setup, :robot: screenshot 📷](https://web.archive.org/web/20170328214248/https://i.imgur.com/y3PmzdM.jpg)
+  ![Trenton uses a graphical file transfer program to send her exploit to her FTP server, :robot: screenshot 📷](http://web.archive.org/web/https://i.imgur.com/itKd65b.jpg)
+  * Trenton's exploit is written in the [Python](https://www.python.org/) programming language, a language popular with attackers (see the book, "[Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers, and Security Engineers](https://repo.zenk-security.com/Programmation/Violent%20Python%20a%20Cookbook%20for%20Hackers-Forensic%20Analysts-Penetration%20testers%20and%20Security%20Engineers.pdf)"
+  * [`tar`](https://en.wikipedia.org/wiki/Tar_%28computing%29), a command to create a single file ("archive") out of many
 * "Error 404 Not Found", a well-known HTTP status code
   * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
 * Windows malware via autorun on CD, again! ;)
