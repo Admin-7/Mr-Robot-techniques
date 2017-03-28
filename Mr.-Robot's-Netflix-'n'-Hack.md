@@ -227,9 +227,19 @@ During post-show discussion, we brought up:
 
 * [Linear Tape-Open (LTO)](https://en.wikipedia.org/wiki/Linear_Tape-Open) is old-school tape cassette storage
   * "Open Standard 9" [doesn't actually exist (yet)](http://www.burameter.com/Articles/ArtMID/422/ArticleID/51/LTO-Tape-Even-Mr-Robot-proof)
-* "the circuit board, if installed behind a thermostat, it lets us plant an [asymmetric backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)#Asymmetric_backdoors) and then create a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) in the Steel Mountain Intranet."
+* "the circuit board, if installed behind a thermostat, it lets us plant an [asymmetric backdoor](https://en.wikipedia.org/wiki/Backdoor_(computing)#Asymmetric_backdoors) and then create a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) in the Steel Mountain intranet."  
+  ![Elliot holds up a Raspberry Pi, :robot: screenshot 📷](https://web.archive.org/web/20170328205032/https://i.imgur.com/hxA3B4x.png)
   * "the circuit board" would be a [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi), and LifeHacker has [a good guide to getting started with a Raspberry Pi](https://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054)
-* [HVAC](https://en.wikipedia.org/wiki/HVAC)
+* [HVAC](https://en.wikipedia.org/wiki/HVAC), again
+* "I see six [security vulnerabilities] walking around right now."  
+  ![Reconnaissance images of Steel Mountain employees walking about their workplace, :robot: screenshot 📷](https://web.archive.org/web/20170328205909/https://i.imgur.com/egnYzgi.jpg)
+  ![Picture of a Steel Mountain externally-mounted surveillance camera, :robot: screenshot 📷](https://web.archive.org/web/20170328205911/https://i.imgur.com/Mdse5aX.jpg)
+  * Physical reconnaissance and surveillance, read:
+    * [How to Conduct Surveillance Detection On Yourself](https://protectioncircle.org/2016/05/25/surveillance-detection-on-yourself/)
+    * [Surveillance Evasion](https://protectioncircle.org/2016/06/14/surveillance-evasion/)
+  * Surveillance cameras, read:
+    * [Website Aims to Map Surveillance Cameras Across the Nation, and the World](https://activism.tech/?p=69)
+    * "Camover," [Game to Destroy CCTV Cameras: Vandalism or valid protest?](https://www.theguardian.com/theguardian/shortcuts/2013/jan/25/game-destroy-cctv-cameras-berlin)
 * "own the facility's [SCADA](https://en.wikipedia.org/wiki/SCADA) network"
 * "the distro"
 * FTP server
