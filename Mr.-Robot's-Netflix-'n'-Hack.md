@@ -244,7 +244,7 @@ During post-show discussion, we brought up:
   * Read, [Hackers exploit SCADA holes to take full control of critical infrastructure](http://www.computerworld.com/article/2475789/cybercrime-hacking/hackers-exploit-scada-holes-to-take-full-control-of-critical-infrastructure.html)
   * [OWASP SCADA Security Project](https://www.owasp.org/index.php/OWASP_Scada_Security_Project)
 * "the distro"
-* FTP server
+* [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) server, an older way of transferring files across a network
 * Unlocking a car door wirelessly
   * These cars use Passive Keyless Entry and Start (PKES), aka "[Smart key](https://en.wikipedia.org/wiki/Smart_key)"
   * [Security Now! Episode 508, "Exploiting Keyless Entry" show notes (PDF)](https://www.grc.com/sn/sn-508-notes.pdf)
