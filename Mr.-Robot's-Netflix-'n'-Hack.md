@@ -245,13 +245,15 @@ During post-show discussion, we brought up:
   * [OWASP SCADA Security Project](https://www.owasp.org/index.php/OWASP_Scada_Security_Project)
 * "the distro"
 * [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) server, an older way of transferring files across a network
-* Unlocking a car door wirelessly
+* Unlocking a car door wirelessly  
+  ![Romero uses a wireless keyfob amplifier to remotely unlock a car, :robot: screenshot 📷](https://web.archive.org/web/20170328212519/https://i.imgur.com/CEyOihp.jpg)
   * These cars use Passive Keyless Entry and Start (PKES), aka "[Smart key](https://en.wikipedia.org/wiki/Smart_key)"
   * [Security Now! Episode 508, "Exploiting Keyless Entry" show notes (PDF)](https://www.grc.com/sn/sn-508-notes.pdf)
   * See Atmel microchip manufacturer pages on "[Passive Entry/Passive Start (PEPS)](http://www.atmel.com/applications/automotive/car_access/passive-entry-passive-start.aspx)" and "[Remote Keyless Entry (RKE)](http://www.atmel.com/applications/automotive/car_access/remote-keyless-entry.aspx)"
   * ["Relay Attacks on Passive Keyless Entry and Start Systems in Modern Cars" (PDF)](https://eprint.iacr.org/2010/332.pdf)
 * Starting a car using its [Controller Area Network (CAN) Bus](https://en.wikipedia.org/wiki/CAN_bus)  
-  ![CAN bus hacking, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/canbus-hack.png)
+  ![Mobley uses read the car's control data, :robot: screenshot 📷](https://web.archive.org/web/20170328212925/https://i.imgur.com/hKP7267.jpg)  
+  ![CAN-bus hacking, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/canbus-hack.png)
   * Real-life example, read "[Hackers Remotely Kill a Jeep on the Highway—With Me in It](http://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)"
   * [InfoSec Institute: Car Hacking](http://resources.infosecinstitute.com/future-now-car-hacking/)
   * Blog post: [Hacking into a Vehicle CAN bus (Toyothack and SocketCAN)](https://fabiobaltieri.com/2013/07/23/hacking-into-a-vehicle-can-bus-toyothack-and-socketcan/)
