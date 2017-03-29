@@ -266,7 +266,7 @@ During post-show discussion, we brought up:
   ![Romero and Mobley kill time watching "Hackers," a movie from 1995 movie, :robot: screenshot 📷](https://web.archive.org/web/20170328213658/https://i.imgur.com/KCdXefY.jpg)
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 * Trenton prepares the HVAC exploit for Steel Mountain  
-  ![Trenton's exploit development setup, :robot: screenshot 📷](https://web.archive.org/web/20170328214248/https://i.imgur.com/y3PmzdM.jpg)
+  ![Trenton's exploit development setup, :robot: screenshot 📷](https://web.archive.org/web/20170329015222/https://i.imgur.com/en2XoVE.jpg)
   ![Trenton uses a graphical file transfer program to send her exploit to her FTP server, :robot: screenshot 📷](http://web.archive.org/web/https://i.imgur.com/itKd65b.jpg)
   * Trenton's exploit is written in the [Python](https://www.python.org/) programming language, a language popular with attackers (see the book, "[Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers, and Security Engineers](https://repo.zenk-security.com/Programmation/Violent%20Python%20a%20Cookbook%20for%20Hackers-Forensic%20Analysts-Penetration%20testers%20and%20Security%20Engineers.pdf)"
   * [`tar`](https://en.wikipedia.org/wiki/Tar_%28computing%29), a command to create a single file ("archive") out of many
