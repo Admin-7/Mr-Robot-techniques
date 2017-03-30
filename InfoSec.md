@@ -181,9 +181,15 @@ This section contains a curated, ordered list of supplementary educational conte
 
 # For defenders
 
-* [PrivacyTools.io](https://privacytools.io)
+* [PrivacyTools.io](https://privacytools.io/)
 
-  Simply start at the top and read down the page. This is as guided an introduction to privacy issues and what to do about them as it gets.
+  Simply start at the top and read down the page for an introduction to various privacy tools and relevant legal concepts. Each section provides a limited set of specific recommendations to follow up on. This is as brief a guided introduction to privacy issues and what to do about them as it gets.
+
+* [Me and My Shadow](https://myshadow.org/)
+
+  Start here if you're unconvinced that you "have something to hide." This site offers an accessible deep-dive into research about the data industry, how advertisers and communication service providers (like [Facebook](https://myshadow.org/lost-in-small-print/facebooks-data-policy) and [Google](https://myshadow.org/lost-in-small-print/googles-privacy-policy)) track you online, what they do with your information, and what you can do about it. It includes several [short privacy guides](https://myshadow.org/increase-your-privacy) along with a helpful [interactive visualization breaking down which activity leaves what type of data trail](https://myshadow.org/trace-my-shadow).
+
+* []()
 
 * [DIY Feminist Cybersecurity](https://hackblossom.org/resources/)
 
@@ -199,7 +205,15 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [Surveillance Self-Defense](https://ssd.eff.org/)
 
-  The Electronic Frontier Foundation's thorough guide to using technologies for defending yourself and your friends from surveillance by using secure technology and developing careful practices.
+  The [Electronic Frontier Foundation](https://eff.org/)'s comprehensive guide to using privacy-enhancing technologies for defending yourself and your friends from (primarily corporate and State) surveillance. You can [read it like a book, from beginning to end](https://ssd.eff.org/en/index), or you can jump to tutorials on specific tools, advice about choosing the tools in the first place ("[threat modeling](https://ssd.eff.org/en/module/introduction-threat-modeling)" for a [specific kind of user](https://ssd.eff.org/en/playlist)). Similar to [Security In a Box](https://securityinabox.org/).
+
+* [Security In a Box](https://securityinabox.org/)
+
+  A set of comprehensive guides to tools, tactics, and procedures for staying safer online and while using modern day necessities, like phones. The site is organized into sections covering basic principles ("Tactics Guides"), step-by-step instructions for specific tools ("Tool Guides"), and advice for people of specific demographics ("Community Guides") such as [women who are human rights defenders](https://securityinabox.org/en/women-hrds/). Similar to the [Electronic Frontier Foundation's Surveillance Self-Defense](https://ssd.eff.org/).
+
+* [Exposing the Invisible: Watching Out for Yourself](https://exposingtheinvisible.org/resources/watching-out-yourself/)
+
+  The [Tactical Technology Collective](https://tacticaltech.org/)'s "[Exposing the Invisible](https://exposingtheinvisible.org/)" project includes its own self-defense resource listing geared specifically for people using the Internet to conduct journalistic investigations. Notably, this resource includes discussions of how to more safely and [anonymously publish the results of investigations online](https://exposingtheinvisible.org/resources/watching-out-yourself/domain-games). Pair with the [Info-Activism How To Guide](https://howto.informationactivism.org/).
 
 * [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
 
