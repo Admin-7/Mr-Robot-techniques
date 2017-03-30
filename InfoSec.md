@@ -189,8 +189,6 @@ This section contains a curated, ordered list of supplementary educational conte
 
   Start here if you're unconvinced that you "have something to hide." This site offers an accessible deep-dive into research about the data industry, how advertisers and communication service providers (like [Facebook](https://myshadow.org/lost-in-small-print/facebooks-data-policy) and [Google](https://myshadow.org/lost-in-small-print/googles-privacy-policy)) track you online, what they do with your information, and what you can do about it. It includes several [short privacy guides](https://myshadow.org/increase-your-privacy) along with a helpful [interactive visualization breaking down which activity leaves what type of data trail](https://myshadow.org/trace-my-shadow).
 
-* []()
-
 * [DIY Feminist Cybersecurity](https://hackblossom.org/resources/)
 
   A thorough walk-through showing how to implement basic and intermediate cybersecurity best practices, geared for oppressed groups whose likely adversary are trolls, white supremacists, and other individuals or mob-sized malicious actors. Written with careful explanations and a good grasp of the state of the art. Highly recommended reading for the politically conscious defender.
