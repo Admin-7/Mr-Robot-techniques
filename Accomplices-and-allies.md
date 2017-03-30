@@ -6,6 +6,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 
 * [A World Without Police](http://aworldwithoutpolice.org) - an online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
 * [Better Angels Collective](https://betterangels.github.io/) - a wholly virtual "anarchist collective creating liberatory software."
-* [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
-* [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - an Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
 * [Between the lines](http://betweenthelines.github.io/) - a small collective with a focus on creating tools/notes on privacy and protest.
+* [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
+* [MACC's CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
+* [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - an Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
