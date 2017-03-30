@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ [[InfoSec]] ▸ **Favorite conference presentations**
+> [[Wiki|Home]] ▸ [[InfoSec]] ▸ **Favorite conference talks**
 
 Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to just find someone willing to show-and-tell you stuff about it. It's also useful to have a mix of active (practice) and passive (consumptive) educational material.
 
