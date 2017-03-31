@@ -38,7 +38,7 @@ If you don't have a smartphone or tablet, sadly, you can't use Signal. In that c
 1. Once installed, tell an AnarchoTechNYC regular that you'd like to join our tech collective's Signal group.
     * In addition to being at many in person meetings, most regulars hang out in various project rooms on Gitter; see the [#Gitter](#gitter) section, below, for how to find those.
 
-# Gitter
+# [[Gitter]]
 
 Some in our collective host events that overlap with efforts of other collectives, work on projects with the intent of being publicly visible, or are designed to ease newcomers into security culture practices in a more familiar way. For these efforts, we often use Gitter, a Web-based chat room service. If you want to participate in one of those projects, you'll want to join the associated Gitter room, as well.
 
@@ -57,6 +57,8 @@ Once you have a Gitter account, when you encounter a project that uses a Gitter 
 [![Chat on Gitter](https://badges.gitter.im/AnarchoTechNYC/Lobby.svg)](https://gitter.im/AnarchoTechNYC/Lobby)
 
 You can click on the above image to try it out. It will take you to our public test channel, [the AnarchoTechNYC Lobby](https://gitter.im/AnarchoTechNYC/Lobby). Once there, say hi and introduce yourself! :)
+
+Read [[Gitter § Our rooms|Gitter#our-rooms]] for a more complete listing of the collective's presence on Gitter.
 
 # Buoy
 
