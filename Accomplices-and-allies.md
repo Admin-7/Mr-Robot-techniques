@@ -4,6 +4,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 
 > 📝 Editor's note: Please keep this list alphabetized for ease of reference, and focus on groups who have shown an interest in actual collaboration, not just a link-dump of groups we know exist. (Thank you!)
 
+* [ActSecure](https://actsecure.org/) - a loose collection of technologists working to help activists secure themselves before, during, and after actions.
 * [A World Without Police](http://aworldwithoutpolice.org) - an online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
 * [Better Angels Collective](https://betterangels.github.io/) - a wholly virtual "anarchist collective creating liberatory software."
 * [Between the lines](http://betweenthelines.github.io/) - a small collective with a focus on creating tools/notes on privacy and protest.
