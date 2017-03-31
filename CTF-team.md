@@ -29,7 +29,7 @@ You are also encouraged to register a free account on [CTFTime.org](https://ctft
 Follow these steps to request an invitation to our team. First, make sure you have access to the accounts you will need to participate. All accounts are *free* (decline any up-sells).
 
 1. [Create a GitHub account](https://github.com/join) (if you do not already have one), or [log in to GitHub](https://github.com/login) (with your existing account). Read [Signing up for a new GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/).
-1. Create a Gitter chat account by going to [Gitter.im](https://gitter.im/) and logging in with your GitHub account. This will automatically associate your GitHub account with a Gitter account.
+1. Create a [[Gitter]] chat account by going to [Gitter.im](https://gitter.im/) and logging in with your GitHub account. This will automatically associate your GitHub account with a Gitter account.
 1. Create a CTFTime.org account by going to [CTFTime.org](https://ctftime.org/) and logging in with your GitHub account. This will automatically associate your GitHub account with a CTFTime account.
 1. Contact an existing @AnarchoTechNYC/CTF team member and tell them what your GitHub username is. If you do not personally know an existing team member, you should [[come to one of our in-person meetings|New member orientation guide]] or [[events|Activities and events]], or [post on our issue board requesting more information](https://github.com/AnarchoTechNYC/meta/issues/new). The existing team member will then perform the steps outlined in [How to add members](#how-to-add-members). Afterwards, you will be able to join us for the next game. :)
 
