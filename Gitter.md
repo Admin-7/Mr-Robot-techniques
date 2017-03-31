@@ -19,7 +19,11 @@ The [AnarchoTechNYC Lobby](https://gitter.im/AnarchoTechNYC/Lobby) is a catch-al
 
 ### Welcome message
 
-Our Gitter chat room is configured to show the following "Welcome message" to users who join. ([It looks something like this](https://github.com/jupyter/jupyter/issues/175#issue-161476981).) Not all chatters can change the welcome message. If you can't, and you'd like to propose a change to it, you're welcome to edit the text below:
+Our Gitter chat room is configured to show the following "Welcome message" to users who join. ([It looks something like this](https://github.com/jupyter/jupyter/issues/175#issue-161476981).)
+
+> 📝 Please do try to keep this text synchronized with the actual welcome message in the room. :) ❤️
+
+Not all chatters can change the welcome message. If you can't, and you'd like to propose a change to it, you're welcome to edit the text below:
 
 > This is a general purpose chat room for [AnarchoTechNYC](https://github.com/AnarchoTechNYC), your friendly neighborhood anarchist tech collective. Come on in and introduce yourself! Stick around even if you don't get a response immediately; sometimes we're just not at our keyboards.
 > 
