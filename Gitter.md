@@ -43,7 +43,7 @@ Our work often overlaps with the work being done by [[our friends in other colle
 
 * [betterangels/better-angels](https://gitter.im/betterangels/better-angels)
 
-  The [Better Angels](https://betterangels.github.io/) are a wholly virtual anarchist collective whose "general chatter" room is lively and welcoming. Conversations in this room are as political as they are technical, with very low tolerance for "centrist" or "right-of-center" views. Nevertheless, as they say in their own welcome message: "Contributors who don't share our exact politics are welcome. Debating the merits of these positions or acting to undermine them is not."
+  The [Better Angels](https://betterangels.github.io/) are a wholly virtual anarchist collective whose "general chatter" room is lively and welcoming. Conversations in this room are as political as they are technical, with very low tolerance for "centrist," "(neo-)Liberal," or "right-of-center" views. Nevertheless, as they say in their own welcome message: "Contributors who don't share our exact politics are welcome. Debating the merits of these positions or acting to undermine them is not."
 
 * * *
 
