@@ -295,7 +295,8 @@ During post-show discussion, we brought up:
   * [FuzzySecurity: RFID Tutorial (Part 1)](http://www.fuzzysecurity.com/tutorials/rfid/1.html)
   * [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt), a collection of Python utilities to work with RFID and NFC
 * Editing Wikipedia with fake information, see [Wikipedia:List of hoaxes on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_hoaxes_on_Wikipedia)
-* Digital reconnaissance
+* Digital reconnaissance using public information, called OSINT ("open source intelligence")
+  * Read, "[This Is Almost Certainly [FBI Director] James Comey’s Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)"
   * [Maltego](https://paterva.com/web7/docs/documentation.php), a graphical tool for digital reconnaissance
 * [Kali Linux](https://www.kali.org/), the penetration testing Linux distribution Romero is using
 * "I spoofed a TXT," Mobley says, using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
