@@ -21,3 +21,4 @@ Events are one-offs because they are either intended to be or just aren't happen
 * [[Digital fight training]] - Cybersecurity sparring sessions where we set up network perimeters and devices, and practice both breaching and hardening them.
 * [[Ethics refactoring]] - analyze a feature/product for its "operative ethic" and then redesign the same feature/product for a different ethic
 * [[Android forensics study group]] - learn how to detect whether an Android device has been cloned or tampered with
+* [[Tech open office hours]] - build knowledge and skills in our community, and enjoy the anti-consumerist and anti-capitalist vibes that come with DIY workshops and culture
