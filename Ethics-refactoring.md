@@ -11,4 +11,6 @@
 * [How the Like Button Ruined the Internet](https://www.theatlantic.com/technology/archive/2017/03/how-the-like-button-ruined-the-internet/519795/)
 * [Tech Bigwigs Know How Addictive Their Products Are. Why Don’t the Rest of Us?](https://www.wired.com/2017/03/irresistible-the-rise-of-addictive-technology-and-the-business-of-keeping-us-hooked/)
 * [Interview with Cathy O'Neil, author of Weapons of Math Destruction](https://www.youtube.com/watch?v=j0vfCPKJPlw)
-* [A bus. This man is describing a bus.](https://web.archive.org/web/20160116215410/https://twitter.com/JackSmithIV/status/635925087640793088)
+* Uber:
+    * [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons - The New York Times](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html)
+    * [A bus. This man is describing a bus.](https://web.archive.org/web/20160116215410/https://twitter.com/JackSmithIV/status/635925087640793088)
