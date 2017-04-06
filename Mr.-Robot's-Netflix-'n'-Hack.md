@@ -299,7 +299,12 @@ During post-show discussion, we brought up:
   * [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt), a collection of Python utilities to work with RFID and NFC
 * Digital reconnaissance using public information, called [open-source intelligence ("OSINT")](https://en.wikipedia.org/wiki/Open-source_intelligence)
   ![Bill Harper's employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194019/https://i.imgur.com/nFqTi5Q.jpg)  
-  ![Bill Harper's supervisor, Wendy Gallagher, also has an employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194121/https://i.imgur.com/HYQjXLF.jpg)
+  ![Bill Harper's supervisor, Wendy Gallagher, also has an employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194121/https://i.imgur.com/HYQjXLF.jpg)  
+  ![Bill Harper's LinkedIn profile page lists his employment status and history, :robot: screenshot 📷](https://web.archive.org/web/20170406201321/https://i.imgur.com/XAN5Gen.jpg)  
+  ![Bill Harper's Instagram feed shows his love of cats and betrays his loneliness, :robot: screenshot 📷](https://web.archive.org/web/20170406201331/https://i.imgur.com/eKlkBbk.jpg)
+  ![Wendy Gallagher's Instagram feed shows the progression of her pregnancy, :robot: screenshot 📷](https://web.archive.org/web/20170406202101/https://i.imgur.com/J6ucJLd.jpg)  
+  ![Wendy Gallagher's Facebook profile photo update celebrates her newborn baby, :robot: screenshot 📷](https://web.archive.org/web/20170406202136/https://i.imgur.com/90paCcU.jpg)  
+  ![An Internet search for "Trudy Davis" turns up much less useful information, :robot: screenshot 📷](https://web.archive.org/web/20170406202222/https://i.imgur.com/hT56ONO.jpg)
   * Read, "[This Is Almost Certainly [FBI Director] James Comey’s Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)"
   * [OSINTFramework.com](http://osintframework.com/), a collection of various OSInt tools broken out by category.
   * [Maltego](https://paterva.com/web7/docs/documentation.php), a graphical tool for digital reconnaissance
@@ -319,10 +324,13 @@ During post-show discussion, we brought up:
     * [Snopes.com](http://snopes.com), a famous fact-checking site for debunking popular hoaxes
 * [Kali Linux](https://www.kali.org/), the penetration testing Linux distribution Romero is using
 * "I spoofed a TXT," Mobley says, using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
-  ![Using SET, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/social-engineer-toolkit.png)
-* "It's a palm-print scanner." A form of biometric access control device. Real life vendors:
-  * [Fujitsu PalmSecure(R)](http://www.fujitsu.com/us/solutions/business-technology/security/palmsecure/)
-  * [BioLink LiveScan](http://biolinksolutions.com/afis-law-enforcement/livescan/)
+  ![Using SET, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/social-engineer-toolkit.png)  
+  ![Mobley uses a generic psychological ploy to lure Trudy Davis away with a spoofed SMS message from her husband's number, :robot: screenshot 📷](https://web.archive.org/web/20170406202309/https://i.imgur.com/sePP34T.jpg)
+* "It's a palm-print scanner." A form of biometric access control device.  
+  ![The elevators in Steel Mountain use palm-print scanners, :robot: screenshot 📷](https://web.archive.org/web/20170406202502/https://i.imgur.com/qB49RQz.jpg)
+  * Real life vendors:
+    * [Fujitsu PalmSecure(R)](http://www.fujitsu.com/us/solutions/business-technology/security/palmsecure/)
+    * [BioLink LiveScan](http://biolinksolutions.com/afis-law-enforcement/livescan/)
 * "I think you can pick it." More lockpicking.
   * Elliot carries [a covert "lockpick card" set](https://www.lockpickshop.com/CC-LOCK-PICK-SET.html)
 * Wire splicing, placing a device directly on the cabling of another wired device
