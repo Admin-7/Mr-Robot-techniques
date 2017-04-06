@@ -283,9 +283,12 @@ During post-show discussion, we brought up:
 
 # Week 5 (S01E05)
 
-* [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) aka "cloning". Read, "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)" and then [No building access card? No problem if you have new Def Con tools](http://www.computerworld.com/article/2953660/security/no-building-access-card-no-problem-if-you-have-new-def-con-tools.html)  
+* [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) aka "cloning".  
   ![Messenger bag contains a Tastic RFID Thief, :robot: screenshot 📷](https://web.archive.org/web/20170106001919/https://www.mrrobothacks.com/wp-content/uploads/2016/10/rfid.jpg)  
   ![Key card cloning, :robot: screenshot 📷](https://web.archive.org/web/20170106001938/http://cdn.geekwire.com/wp-content/uploads/2015/07/mrrobot55.png)
+  * Articles:
+    * Tom's Guide: "[Hackers Could Clone Your Entry Card from Your Pocket](http://www.tomsguide.com/us/hackers-pin-code-clone-pin-rfid,news-17197.html)"
+    * Computer World: "[No building access card? No problem if you have new Def Con tools](http://www.computerworld.com/article/2953660/security/no-building-access-card-no-problem-if-you-have-new-def-con-tools.html)"
   * [Tastic RFID Thief](https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/#tastic-rfid-thief), the tool inside Mobley's messenger bag used for copying a proximity card's [radio-frequency identification (RFID)](https://en.wikipedia.org/wiki/Radio-frequency_identification) or [near field communication (NFC)](https://en.wikipedia.org/wiki/Near_field_communication) signals.
   * "xCARD PROGRAMMER - v1.05" is not real, but the [GeZhi HID Cloner V3.0](https://web.archive.org/web/20170106000622/http://www.xfpga.com/pic/big/34_1.jpg) made by [GeZhi Electronic Co](http://www.xfpga.com/) is real! ([HID](https://en.wikipedia.org/wiki/HID_Global) is an contactless access key card brand name.)
   * Article: [Understanding the confusing world of RFID tags and readers in access control](http://www.nedapidentification.com/news/insights/understanding-the-confusing-world-of-rfid-tags-and-readers-in-access-control.html)
@@ -294,10 +297,26 @@ During post-show discussion, we brought up:
   * [Offensive Security: Clone RFID Tags with Proxmark3](https://www.offensive-security.com/offsec/cloning-rfid-tags-with-proxmark-3/)
   * [FuzzySecurity: RFID Tutorial (Part 1)](http://www.fuzzysecurity.com/tutorials/rfid/1.html)
   * [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt), a collection of Python utilities to work with RFID and NFC
-* Editing Wikipedia with fake information, see [Wikipedia:List of hoaxes on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_hoaxes_on_Wikipedia)
-* Digital reconnaissance using public information, called OSINT ("open source intelligence")
+* Digital reconnaissance using public information, called [open-source intelligence ("OSINT")](https://en.wikipedia.org/wiki/Open-source_intelligence)
+  ![Bill Harper's employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194019/https://i.imgur.com/nFqTi5Q.jpg)  
+  ![Bill Harper's supervisor, Wendy Gallagher, also has an employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194121/https://i.imgur.com/HYQjXLF.jpg)
   * Read, "[This Is Almost Certainly [FBI Director] James Comey’s Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)"
+  * [OSINTFramework.com](http://osintframework.com/), a collection of various OSInt tools broken out by category.
   * [Maltego](https://paterva.com/web7/docs/documentation.php), a graphical tool for digital reconnaissance
+* Covert ear-piece, usually connects using Bluetooth to a nearby smartphone
+  * Sold as exam or test-taking cheating devices, for example by [GSM-Earpiece](http://www.gsm-earpiece.com/products/)
+  * Sold to law enforcement and security services, for example by [EarHero](https://www.earhero.com/)
+* Creating a fake or "cover" identity for fictional tech billionaire, "Sam Sepiol"  
+  ![Internet search results for "Sam Sepiol" links to Wikipedia and other (fake) news sites, :robot: screenshot 📷](https://web.archive.org/web/20170406195612/https://i.imgur.com/o6b9UEf.jpg)  
+  ![Wikipedia page for "Sam Sepiol" sounds convincing and looks authentic, but isn't, :robot: screenshot 📷](https://web.archive.org/web/20170406195620/https://i.imgur.com/sOiUQoC.jpg)  
+  ![Mobley uses his own fake identity with which he has accrued reputation within the Wikipedian community to create the "Sam Sepiol" fake page, :robot: screenshot 📷](https://web.archive.org/web/20170406195626/https://i.imgur.com/XD2kw2M.jpg)
+  * Editing Wikipedia with fake information, see [Wikipedia:List of hoaxes on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_hoaxes_on_Wikipedia)
+  * [LifeHacker: How to Choose (and Maintain) a Cover Identity](https://lifehacker.com/5960441/how-to-choose-and-maintain-a-cover-identity)
+  * [FakeNameGenerator.com](http://www.fakenamegenerator.com/), automatically generated yet realistic-sounding fake names, addresses, passwords, and more
+  * On "fake news" and spotting hoaxes:
+    * [How Fake News Goes Viral: A Case Study](https://www.nytimes.com/2016/11/20/business/media/how-fake-news-spreads.html)
+    * [Fake Or Real? How To Self-Check The News And Get The Facts](http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts)
+    * [Snopes.com](http://snopes.com), a famous fact-checking site for debunking popular hoaxes
 * [Kali Linux](https://www.kali.org/), the penetration testing Linux distribution Romero is using
 * "I spoofed a TXT," Mobley says, using the [Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)  
   ![Using SET, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/social-engineer-toolkit.png)
