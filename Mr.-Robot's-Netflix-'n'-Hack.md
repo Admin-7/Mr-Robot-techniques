@@ -331,7 +331,9 @@ During post-show discussion, we brought up:
   * Real life vendors:
     * [Fujitsu PalmSecure(R)](http://www.fujitsu.com/us/solutions/business-technology/security/palmsecure/)
     * [BioLink LiveScan](http://biolinksolutions.com/afis-law-enforcement/livescan/)
-* "I think you can pick it." More lockpicking.
+* "There's one door, manually locked. It's a fire code thing, and I think you can pick it."  
+  ![Romero has downloaded a PDF file showing the Steel Mountain facility's floor plan, :robot: screenshot 📷](https://web.archive.org/web/20170406202714/https://i.imgur.com/txlMdmp.jpg)  
+  ![Elliot uses a covert lockpick card set to pick the lock on a stairwell door in Steel Mountain, :robot: screenshot 📷](https://web.archive.org/web/20170406202950/https://i.imgur.com/3AEtWYh.jpg)
   * Elliot carries [a covert "lockpick card" set](https://www.lockpickshop.com/CC-LOCK-PICK-SET.html)
 * Wire splicing, placing a device directly on the cabling of another wired device
   * Related terms: wire stripping (removing the insulation off electric cables), wire snipping (cutting cables to custom lengths), and wire crimping (attaching connectors to the ends of wires). Some tutorials:
