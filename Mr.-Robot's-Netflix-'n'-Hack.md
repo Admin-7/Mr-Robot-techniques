@@ -378,11 +378,11 @@ During post-show discussion, we brought up:
   * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
 * "You just pulled code from Rapid9 or some shit? When did you become a script kiddie?"
   * Rapid9 is not real, but is a reference to the famous [Rapid7](https://www.rapid7.com/).
-  * A "script kiddie" is hacker lingo for an unskilled techie, like a "noob."
+  * A "[script kiddie](https://www.urbandictionary.com/define.php?term=script%20kiddie)" is hacker lingo for an unskilled techie, like a "noob" or "newbie."
 * "Malware detection must have caught it," Elliot says.
   * There are ways to make malware evade anti-virus/anti-malware detection. See, for instance, [Veil-Framework](https://www.veil-framework.com/).
-* "I can run circles around an ICS given the right white papers and some time," Darlene says.
-  * She probably means an "IDS" or "IPS," an [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system) or [Intrusion Prevention System](https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention), respectively.
+* An ICS is an [Industrial Control System](https://en.wikipedia.org/wiki/Industrial_control_system): "I can run circles around an ICS given the right white papers and some time," Darlene says.
+  * She might also mean an "IDS" or "IPS," an [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system) or [Intrusion Prevention System](https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention), respectively.
 * Terry Colby is wearing an [ankle tether](https://en.wikipedia.org/wiki/Ankle_monitor) - which make & model?
 * Elliot's Android-based Wi-Fi scanner - what tool was that?
   * "WPA2, borderline unhackable." - [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
