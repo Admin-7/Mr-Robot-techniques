@@ -345,6 +345,7 @@ During post-show discussion, we brought up:
     * [Instructables: How to Crimp Cables and Wires!](http://www.instructables.com/id/How-to-Crimp-Cables-and-Wires!/)
   * See also: [DIY.org's "Hardware Hacker" projects](https://diy.org/skills/hardwarehacker).
 * Dark Army's IRC chat room:  
+  ![The chat log between fsociety and the Dark Army in their "IRC island," :robot: screenshot 📷](https://web.archive.org/web/20170407072435/https://i.imgur.com/BwYvMqk.jpg)  
   ![IRC chat closeup showing "MOTD" and being "kicked," :robot: screenshot 📷](https://web.archive.org/web/20170205043350/https://i.imgur.com/1OFvB0H.jpg)  
   ![IRC chat closeup showing "/join" command, :robot: screenshot 📷](https://web.archive.org/web/20170205043404/https://i.imgur.com/e2NG0Sz.jpg)
   * IRC commands are written starting with a `/` (a "slash-command"), see [Wikipedia's List of Internet Relay Chat Commands](https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
