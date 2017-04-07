@@ -297,6 +297,7 @@ During post-show discussion, we brought up:
   * [Offensive Security: Clone RFID Tags with Proxmark3](https://www.offensive-security.com/offsec/cloning-rfid-tags-with-proxmark-3/)
   * [FuzzySecurity: RFID Tutorial (Part 1)](http://www.fuzzysecurity.com/tutorials/rfid/1.html)
   * [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt), a collection of Python utilities to work with RFID and NFC
+* Steel Mountain, Incorporated is probably a reference to the real-world [Iron Mountain, Incorporated](https://en.wikipedia.org/wiki/Iron_Mountain_Incorporated)
 * Digital reconnaissance using public information, called [open-source intelligence ("OSINT")](https://en.wikipedia.org/wiki/Open-source_intelligence)
   ![Bill Harper's employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194019/https://i.imgur.com/nFqTi5Q.jpg)  
   ![Bill Harper's supervisor, Wendy Gallagher, also has an employee profile page on the public Steel Mountain website, :robot: screenshot 📷](https://web.archive.org/web/20170406194121/https://i.imgur.com/HYQjXLF.jpg)  
