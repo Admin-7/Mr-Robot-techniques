@@ -283,7 +283,7 @@ During post-show discussion, we brought up:
 
 # Week 5 (S01E05)
 
-* [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) aka "cloning".  
+* Copying an employee badge through [RFID skimming](https://en.wikipedia.org/wiki/RFID_skimming) aka "cloning":  
   ![Messenger bag contains a Tastic RFID Thief, :robot: screenshot 📷](https://web.archive.org/web/20170106001919/https://www.mrrobothacks.com/wp-content/uploads/2016/10/rfid.jpg)  
   ![Key card cloning, :robot: screenshot 📷](https://web.archive.org/web/20170106001938/http://cdn.geekwire.com/wp-content/uploads/2015/07/mrrobot55.png)
   * Articles:
