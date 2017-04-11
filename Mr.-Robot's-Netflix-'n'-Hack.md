@@ -385,7 +385,9 @@ During post-show discussion, we brought up:
 * Angela uses an iPhone :)
   ![Angela opens her iPhone's home screen to check a missed call, :robot: screenshot 📷](https://web.archive.org/web/20170411221239/https://i.imgur.com/RNWv775.jpg)
   * Check out [Apple's iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
-* Sprinkling USB thumbdrives in the parking lot, read "[Almost Half of Dropped USB Sticks Will Get Plugged In](https://nakedsecurity.sophos.com/2016/04/08/almost-half-of-dropped-usb-sticks-will-get-plugged-in/)"
+* Sprinkling USB thumbdrives in the parking lot  
+  ![Darlene drops USB thumbdrives in the police station's parking lot, :robot: screenshot 📷](https://web.archive.org/web/20170411221611/https://i.imgur.com/NNZ3Lkd.jpg)
+  * Read, "[Almost Half of Dropped USB Sticks Will Get Plugged In](https://nakedsecurity.sophos.com/2016/04/08/almost-half-of-dropped-usb-sticks-will-get-plugged-in/)"
   * Real-life example: [Russian hackers infiltrated NATO using cheap retail thumbdrives](https://web.archive.org/web/20170311014501/https:/twitter.com/Mathew__Clayton/status/837605847257792512/photo/1)
 * [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware software suite
   * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
