@@ -408,7 +408,12 @@ During post-show discussion, we brought up:
   * There are ways to make malware evade anti-virus/anti-malware detection. See, for instance, [Veil-Framework](https://www.veil-framework.com/).
 * An ICS is an [Industrial Control System](https://en.wikipedia.org/wiki/Industrial_control_system): "I can run circles around an ICS given the right white papers and some time," Darlene says.
   * She might also mean an "IDS" or "IPS," an [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system) or [Intrusion Prevention System](https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention), respectively.
-* Terry Colby is wearing an [ankle tether](https://en.wikipedia.org/wiki/Ankle_monitor) - which make & model?
+* Terry Colby is wearing an [ankle monitor](https://en.wikipedia.org/wiki/Ankle_monitor) as part of [electronic home monitoring ("house arrest")](http://www.attorneys.com/parole-and-probation/electronic-home-monitoring) - which make & model?  
+  ![Closeup of the ankle tether Terry Colby wears under house arrest, :robot: screenshot 📷](https://web.archive.org/web/20170411225808/https://i.imgur.com/rtKgdUh.jpg)
+  * Service provider, [Guardian/Shield Ankle Monitoring Service](http://www.georgiahousearrest.com/)
+  * Ankle monitors are overwhelmingly used to control the movement of oppressed groups. Articles:
+    * [No Alternative: Ankle Monitors Expand the Reach of Immigration Detention](https://nacla.org/news/2015/01/06/no-alternative-ankle-monitors-expand-reach-immigration-detention)
+    * [Chain Gang 2.0: If You Can’t Afford This GPS Ankle Bracelet, You Get Thrown In Jail](http://www.ibtimes.com/chain-gang-20-if-you-cant-afford-gps-ankle-bracelet-you-get-thrown-jail-2065283)
 * Elliot's Android-based Wi-Fi scanner - what tool was that?
   * "WPA2, borderline unhackable." - [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
 * Bluetooth hacking, with related terms "[Bluejacking](http://www.bluejackingtools.com/what-is-bluejacking/)," "[Bluebugging](http://www.bluejackingtools.com/bluebugging/)," and "[Bluesnarfing](http://www.bluejackingtools.com/bluesnarfing/)"
