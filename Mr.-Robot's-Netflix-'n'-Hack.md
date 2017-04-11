@@ -309,7 +309,7 @@ During post-show discussion, we brought up:
   * Read, "[This Is Almost Certainly [FBI Director] James Comey’s Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)"
   * [OSINTFramework.com](http://osintframework.com/), a collection of various OSInt tools broken out by category.
   * [Maltego](https://paterva.com/web7/docs/documentation.php), a graphical tool for digital reconnaissance
-* Covert ear-piece, usually connects using Bluetooth to a nearby smartphone
+* Covert ear-piece, usually connects using [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) to a nearby smartphone
   * Sold as exam or test-taking cheating devices, for example by [GSM-Earpiece](http://www.gsm-earpiece.com/products/)
   * Sold to law enforcement and security services, for example by [EarHero](https://www.earhero.com/)
 * Creating a fake or "cover" identity for fictional tech billionaire, "Sam Sepiol"  
@@ -366,7 +366,7 @@ During post-show discussion, we brought up:
 * Standard industrial control systems *do* operate some prison's doors:  
   ![Elliot looks up technical specifications of prison system electronic device controllers, :robot: screenshot 📷](https://web.archive.org/web/20170411223837/https://i.imgur.com/M7EoAJa.jpg)
   *  White paper "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://web.archive.org/web/20160409040119/http://www.wired.com/images_blogs/threatlevel/2011/07/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf)" and [associated conference presentation by the authors](https://www.youtube.com/watch?v=1MTLuLBiKcc).
-* Finding nearby Bluetooth devices  
+* Finding nearby [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) devices  
   ![Elliot scans nearby Bluetooth devices to scan Isaac's iPhone, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/btscanner-phone.png)
   * [`btscanner`](http://www.pentest.co.uk/downloads.html) ([manual page](http://manpages.ubuntu.com/manpages/utopic/man1/btscanner.1.html)), a tool to extract as much information as possible from a Bluetooth device without  pairing with it
   * `btscanner` is included in many [penetration testing distros](https://github.com/enaqx/awesome-pentest#penetration-testing-distributions), including Elliot's choice, [Kali Linux](https://www.kali.org/)
@@ -418,13 +418,30 @@ During post-show discussion, we brought up:
   ![Elliot's Android phone runs a version of Wifite to find nearby networks, :robot: screenshot 📷](https://web.archive.org/web/20170411230748/https://i.imgur.com/PkuQrDZ.jpg)
   * Wikipedia article: [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
   * Elliot uses his phone to run [`wifite`](http://www.kalitutorials.net/2014/04/wifite-hacking-wifi-easy-way-kali-linux.html), an automated Wi-Fi cracking tool that uses [`aircrack-ng`](https://en.wikipedia.org/wiki/Aircrack-ng), [`reaver`](https://lifehacker.com/5873407/how-to-crack-a-wi-fi-networks-wpa-password-with-reaver), and other tools under the hood
-* Bluetooth hacking, with related terms "[Bluejacking](http://www.bluejackingtools.com/what-is-bluejacking/)," "[Bluebugging](http://www.bluejackingtools.com/bluebugging/)," and "[Bluesnarfing](http://www.bluejackingtools.com/bluesnarfing/)"
+* "Discoverable" Bluetooth devices can reveal device names  
+  ![Elliot looks for nearby Bluetooth devices that are discoverable, :robot: screenshot 📷](https://web.archive.org/web/20170411231559/https://i.imgur.com/6Gywvp5.jpg)
+* Cop cars use "dedicated 4G," which is a cell (mobile phone) technology, and Bluetooth-enabled endpoints in the cab
+  ![Closeup of a cop car's laptop uplink, :robot: screenshot 📷](https://web.archive.org/web/20170411233719/https://i.imgur.com/7edDLHr.jpg)
+  * PoliceOne.com, a popular forum for law enforcement officers: [Police Mobile Computers](https://web.archive.org/web/20170130072148/https://www.policeone.com/police-products/police-technology/mobile-computers/)
+  * PoliceMag.com: [A Guide to Understanding Law Enforcement Field Technology](https://web.archive.org/web/20161009110144/http://www.policemag.com/channel/technology/articles/2016/10/a-guide-to-understanding-law-enforcement-field-technology.aspx)
+  * News article: [Tech in police cars cause cops to crash their vehicles due to distracted driving](http://www.kshb.com/news/local-news/investigations/surge-of-technology-inside-police-vehicles-can-lead-to-officer-distraction-causing-wrecks)
+* Bluetooth hacking, with related terms "[Bluejacking](http://www.bluejackingtools.com/what-is-bluejacking/)," "[Bluebugging](http://www.bluejackingtools.com/bluebugging/)," and "[Bluesnarfing](http://www.bluejackingtools.com/bluesnarfing/)"  
+  ![Elliot attaches an extra Bluetooth device in dongle form to his laptop, :robot: screenshot 📷](https://web.archive.org/web/20170411234200/https://i.imgur.com/5w5tJi5.jpg)
+  ![Three terminals show various Bluetooth userspace utilities in Linux, :robot: screenshot 📷](https://web.archive.org/web/20170411233555/https://i.imgur.com/lnHNTjN.jpg)
   * [`bluesniff`](http://bluesniff.shmoo.com/), a Bluetooth wardriving utility for Linux useful for finding hidden Bluetooth-capable devices
   * [`hcitool`](http://linuxcommand.org/man_pages/hcitool1.html), command-line utility to communicate with Bluetooth device and create device-to-device connections
   * [`hciconfig`](http://linuxcommand.org/man_pages/hciconfig8.html), command-line utility to configure a system's Bluetooth devices
-* Elliot uses a Windows virtual machine(?) to attach to cop car's laptop's Bluetooth keyboard?
-* [`ftp`](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
-* [Meterpreter](https://www.offensive-security.com/metasploit-unleashed/about-meterpreter/)
+* Elliot uses a Windows virtual machine to attach to cop car's laptop's Bluetooth keyboard  
+  ![Elliot hijacks the cop car's Bluetooth keyboard, :robot: screenshot 📷](https://web.archive.org/web/20170411233455/https://i.imgur.com/nFkpvP6.jpg)
+* [`ftp`](https://en.wikipedia.org/wiki/File_Transfer_Protocol)  
+  ![Elliot downloads his exploit to the cop's laptop through `ftp`, :robot: screenshot 📷](https://web.archive.org/web/20170411234307/https://i.imgur.com/XjUyEEy.jpg)
+* [Metasploit](https://en.wikipedia.org/wiki/Metasploit_Project) Meterpreter, a famous exploitation toolkit  
+  ![Running an exploit with Meterpreter, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/meterpreter.png)  
+  ![Closeup of Meterpreter output, :robot: screenshot 📷](https://web.archive.org/web/20170411233135/https://i.imgur.com/J1slcx3.jpg)
+  ![The cop notices his computer acting like it's "on the fritz," :robot: screenshot 📷](https://web.archive.org/web/20170411234436/https://i.imgur.com/TB6zbkW.jpg)
+  * [About the Metasploit Meterpreter](https://www.offensive-security.com/metasploit-unleashed/about-meterpreter/)
+  * [How does process migration work in Meterpreter?](https://security.stackexchange.com/questions/90578/how-does-process-migration-work-in-meterpreter)
+  * [MeterpreterClient - Wikibooks](https://en.wikibooks.org/wiki/Metasploit/MeterpreterClient#migrate)
 
 # Week 7 (S01E07)
 
