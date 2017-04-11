@@ -373,13 +373,17 @@ During post-show discussion, we brought up:
 * [Multifunction printers](https://en.wikipedia.org/wiki/Multifunction_printer) can do more than you might think! Privacy issues and network vulnerability:
   ![Angela prints her research documents with one of AllSafe's printers, :robot: screenshot 📷](https://web.archive.org/web/20170411220804/https://i.imgur.com/fcWrqHP.jpg)
   * [Printer steganography](https://en.wikipedia.org/wiki/Printer_steganography)
-  * EFF's privacy advocacy: [Is Your Printer Spying On You?](https://www.eff.org/issues/printers), and [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
+  * EFF's privacy advocacy:
+    * [Is Your Printer Spying On You?](https://www.eff.org/issues/printers)
+    * [List of printers which do or do not display tracking dots](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots)
+    * [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
   * Article, [Government Uses Color Laser Printer Technology to Track Documents](http://www.pcworld.com/article/118664/article.html)
   * Printers are often a vulnerable device on corporate networks:
     * Article, [Exploiting Corporate Printers](http://resources.infosecinstitute.com/exploiting-corporate-printers/)
     * Blog post, [Printer Exploitation in Corporate Environments](https://www.hackingloops.com/printer-exploitation-in-corporate-environments/)
     * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
 * Angela uses an iPhone :)
+  ![Angela opens her iPhone's home screen to check a missed call, :robot: screenshot 📷](https://web.archive.org/web/20170411221239/https://i.imgur.com/RNWv775.jpg)
   * Check out [Apple's iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 * Sprinkling USB thumbdrives in the parking lot, read "[Almost Half of Dropped USB Sticks Will Get Plugged In](https://nakedsecurity.sophos.com/2016/04/08/almost-half-of-dropped-usb-sticks-will-get-plugged-in/)"
   * Real-life example: [Russian hackers infiltrated NATO using cheap retail thumbdrives](https://web.archive.org/web/20170311014501/https:/twitter.com/Mathew__Clayton/status/837605847257792512/photo/1)
