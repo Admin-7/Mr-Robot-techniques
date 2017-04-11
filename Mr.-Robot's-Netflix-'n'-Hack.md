@@ -363,7 +363,8 @@ During post-show discussion, we brought up:
 
 # Week 6 (S01E06)
 
-* Standard industrial control systems *do* operate some prison's doors:
+* Standard industrial control systems *do* operate some prison's doors:  
+  ![Elliot looks up technical specifications of prison system electronic device controllers, :robot: screenshot 📷](https://web.archive.org/web/20170411223837/https://i.imgur.com/M7EoAJa.jpg)
   *  White paper "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://web.archive.org/web/20160409040119/http://www.wired.com/images_blogs/threatlevel/2011/07/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf)" and [associated conference presentation by the authors](https://www.youtube.com/watch?v=1MTLuLBiKcc).
 * Finding nearby Bluetooth devices  
   ![Elliot scans nearby Bluetooth devices to scan Isaac's iPhone, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/btscanner-phone.png)
@@ -389,8 +390,16 @@ During post-show discussion, we brought up:
   ![Darlene drops USB thumbdrives in the police station's parking lot, :robot: screenshot 📷](https://web.archive.org/web/20170411221611/https://i.imgur.com/NNZ3Lkd.jpg)
   * Read, "[Almost Half of Dropped USB Sticks Will Get Plugged In](https://nakedsecurity.sophos.com/2016/04/08/almost-half-of-dropped-usb-sticks-will-get-plugged-in/)"
   * Real-life example: [Russian hackers infiltrated NATO using cheap retail thumbdrives](https://web.archive.org/web/20170311014501/https:/twitter.com/Mathew__Clayton/status/837605847257792512/photo/1)
-* [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware software suite
-  * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
+* Plugging in USB devices can unleash malware  
+  ![A cop plugs in a stray USB drive to his work computer claiming to be an "eTunes" gift card, :robot: screenshot 📷](https://web.archive.org/web/20170411222314/https://i.imgur.com/TB9V9ao.jpg)  
+  ![The malware is disguised as an "eTunes" survey, :robot: screenshot 📷](https://web.archive.org/web/20170411222711/https://i.imgur.com/HaPBzpy.jpg)
+  ![The exploit is triggered using a basic phishing attack that gets an end-user to click and activate it, :robot: screenshot 📷](https://web.archive.org/web/20170411222808/https://i.imgur.com/E6KJRPV.jpg)  
+  ![The Avast! Anti-Virus suite detected and blocked the malware and shows a pop-up warning, :robot: screenshot 📷](https://web.archive.org/web/20170411222859/https://i.imgur.com/PNY07TR.jpg)  
+  ![Elliot's computer is disconnected from the cop's computer when Avast! blocked the malware, :robot: screenshot 📷](https://web.archive.org/web/20170411223017/https://i.imgur.com/usjYhUO.png)
+  * Article, [BadUSB](http://mashable.com/2014/10/03/bad-usb/)
+  * [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware software suite:
+    * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
+  * Read [about "bind shells" and "reverse shells,"](https://irichmore.wordpress.com/2015/06/04/bind-shell-vs-reverse-shell/) the basics of getting remote control over a computer. [`nc` is often used](http://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/), although Elliot is using `ssh` in this screenshot.
 * "You just pulled code from Rapid9 or some shit? When did you become a script kiddie?"
   * Rapid9 is not real, but is a reference to the famous [Rapid7](https://www.rapid7.com/).
   * A "[script kiddie](https://www.urbandictionary.com/define.php?term=script%20kiddie)" is hacker lingo for an unskilled techie, like a "noob" or "newbie."
