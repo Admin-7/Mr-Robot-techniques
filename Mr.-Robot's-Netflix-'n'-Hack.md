@@ -406,6 +406,7 @@ During post-show discussion, we brought up:
   * A "[script kiddie](https://www.urbandictionary.com/define.php?term=script%20kiddie)" is hacker lingo for an unskilled techie, like a "noob" or "newbie."
 * "Malware detection must have caught it," Elliot says.
   * There are ways to make malware evade anti-virus/anti-malware detection. See, for instance, [Veil-Framework](https://www.veil-framework.com/).
+  * Hackers often test exploits against [VirusTotal.com](https://www.virustotal.com/) to see if evasion is successful.
 * An ICS is an [Industrial Control System](https://en.wikipedia.org/wiki/Industrial_control_system): "I can run circles around an ICS given the right white papers and some time," Darlene says.
   * She might also mean an "IDS" or "IPS," an [Intrusion Detection System](https://en.wikipedia.org/wiki/Intrusion_detection_system) or [Intrusion Prevention System](https://en.wikipedia.org/wiki/Intrusion_detection_system#Intrusion_prevention), respectively.
 * Terry Colby is wearing an [ankle monitor](https://en.wikipedia.org/wiki/Ankle_monitor) as part of [electronic home monitoring ("house arrest")](http://www.attorneys.com/parole-and-probation/electronic-home-monitoring) - which make & model?  
