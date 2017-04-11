@@ -365,8 +365,10 @@ During post-show discussion, we brought up:
 
 * Standard industrial control systems *do* operate some prison's doors:
   *  White paper "[SCADA & PLC Vulnerabilities In Correctional Facilities](https://web.archive.org/web/20160409040119/http://www.wired.com/images_blogs/threatlevel/2011/07/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf)" and [associated conference presentation by the authors](https://www.youtube.com/watch?v=1MTLuLBiKcc).
-* Bluetooth scan - what tool did Elliot use?
-  * [Blog post with links to various Bluetooth tools](http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
+* Finding nearby Bluetooth devices  
+  ![Elliot scans nearby Bluetooth devices to scan Isaac's iPhone, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/btscanner-phone.png)
+  * [`btscanner`](http://www.pentest.co.uk/downloads.html) ([manual page](http://manpages.ubuntu.com/manpages/utopic/man1/btscanner.1.html)), a tool to extract as much information as possible from a Bluetooth device without  pairing with it
+  * [Blog post with links to various Bluetooth tools](https://web.archive.org/web/20161024111000/http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
 * AllSafe uses Windows 8(?) for its office desktop computers
 * Office printers (can also be a network vulnerability)
   * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
