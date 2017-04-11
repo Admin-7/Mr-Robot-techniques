@@ -431,7 +431,7 @@ During post-show discussion, we brought up:
   * [`bluesniff`](http://bluesniff.shmoo.com/), a Bluetooth wardriving utility for Linux useful for finding hidden Bluetooth-capable devices
   * [`hcitool`](http://linuxcommand.org/man_pages/hcitool1.html), command-line utility to communicate with Bluetooth device and create device-to-device connections
   * [`hciconfig`](http://linuxcommand.org/man_pages/hciconfig8.html), command-line utility to configure a system's Bluetooth devices
-* Elliot uses a Windows virtual machine to attach to cop car's laptop's Bluetooth keyboard  
+* Elliot uses a Windows [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) to attach to cop car's laptop's Bluetooth keyboard  
   ![Elliot hijacks the cop car's Bluetooth keyboard, :robot: screenshot 📷](https://web.archive.org/web/20170411233455/https://i.imgur.com/nFkpvP6.jpg)
 * [`ftp`](https://en.wikipedia.org/wiki/File_Transfer_Protocol)  
   ![Elliot downloads his exploit to the cop's laptop through `ftp`, :robot: screenshot 📷](https://web.archive.org/web/20170411234307/https://i.imgur.com/XjUyEEy.jpg)
