@@ -414,8 +414,10 @@ During post-show discussion, we brought up:
   * Ankle monitors are overwhelmingly used to control the movement of oppressed groups. Articles:
     * [No Alternative: Ankle Monitors Expand the Reach of Immigration Detention](https://nacla.org/news/2015/01/06/no-alternative-ankle-monitors-expand-reach-immigration-detention)
     * [Chain Gang 2.0: If You Can’t Afford This GPS Ankle Bracelet, You Get Thrown In Jail](http://www.ibtimes.com/chain-gang-20-if-you-cant-afford-gps-ankle-bracelet-you-get-thrown-jail-2065283)
-* Elliot's Android-based Wi-Fi scanner - what tool was that?
-  * "WPA2, borderline unhackable." - [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
+* "Shit. WPA2, borderline unhackable. Getting that [handshake](http://www.kalitutorials.net/2014/06/hack-wpa-2-psk-capturing-handshake.html), it could take days."
+  ![Elliot's Android phone runs a version of Wifite to find nearby networks, :robot: screenshot 📷](https://web.archive.org/web/20170411230748/https://i.imgur.com/PkuQrDZ.jpg)
+  * Wikipedia article: [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
+  * Elliot uses his phone to run [`wifite`](http://www.kalitutorials.net/2014/04/wifite-hacking-wifi-easy-way-kali-linux.html), an automated Wi-Fi cracking tool that uses [`aircrack-ng`](https://en.wikipedia.org/wiki/Aircrack-ng), [`reaver`](https://lifehacker.com/5873407/how-to-crack-a-wi-fi-networks-wpa-password-with-reaver), and other tools under the hood
 * Bluetooth hacking, with related terms "[Bluejacking](http://www.bluejackingtools.com/what-is-bluejacking/)," "[Bluebugging](http://www.bluejackingtools.com/bluebugging/)," and "[Bluesnarfing](http://www.bluejackingtools.com/bluesnarfing/)"
   * [`bluesniff`](http://bluesniff.shmoo.com/), a Bluetooth wardriving utility for Linux useful for finding hidden Bluetooth-capable devices
   * [`hcitool`](http://linuxcommand.org/man_pages/hcitool1.html), command-line utility to communicate with Bluetooth device and create device-to-device connections
