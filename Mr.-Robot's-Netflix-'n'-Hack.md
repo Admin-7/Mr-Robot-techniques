@@ -369,6 +369,7 @@ During post-show discussion, we brought up:
 * Finding nearby Bluetooth devices  
   ![Elliot scans nearby Bluetooth devices to scan Isaac's iPhone, :robot: screenshot 📷](https://web.archive.org/web/20161213025246/https://hackertarget.com/mrrobot/btscanner-phone.png)
   * [`btscanner`](http://www.pentest.co.uk/downloads.html) ([manual page](http://manpages.ubuntu.com/manpages/utopic/man1/btscanner.1.html)), a tool to extract as much information as possible from a Bluetooth device without  pairing with it
+  * `btscanner` is included in many [penetration testing distros](https://github.com/enaqx/awesome-pentest#penetration-testing-distributions), including Elliot's choice, [Kali Linux](https://www.kali.org/)
   * [Blog post with links to various Bluetooth tools](https://web.archive.org/web/20161024111000/http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
 * AllSafe uses Windows 8(?) for its office desktop computers
 * [Multifunction printers](https://en.wikipedia.org/wiki/Multifunction_printer) can do more than you might think! Privacy issues and network vulnerability:
