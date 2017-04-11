@@ -370,8 +370,15 @@ During post-show discussion, we brought up:
   * [`btscanner`](http://www.pentest.co.uk/downloads.html) ([manual page](http://manpages.ubuntu.com/manpages/utopic/man1/btscanner.1.html)), a tool to extract as much information as possible from a Bluetooth device without  pairing with it
   * [Blog post with links to various Bluetooth tools](https://web.archive.org/web/20161024111000/http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
 * AllSafe uses Windows 8(?) for its office desktop computers
-* Office printers (can also be a network vulnerability)
-  * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
+* Office printers do more than you might think! Privacy issues and network vulnerability:
+  ![Angela prints her research documents with one of AllSafe's printers, :robot: screenshot 📷](https://web.archive.org/web/20170411220804/https://i.imgur.com/fcWrqHP.jpg)
+  * [Printer steganography](https://en.wikipedia.org/wiki/Printer_steganography)
+  * EFF's privacy advocacy: [Is Your Printer Spying On You?](https://www.eff.org/issues/printers), and [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
+  * Article, [Government Uses Color Laser Printer Technology to Track Documents](http://www.pcworld.com/article/118664/article.html)
+  * Printers are often a vulnerable device on corporate networks:
+    * Article, [Exploiting Corporate Printers](http://resources.infosecinstitute.com/exploiting-corporate-printers/)
+    * Blog post, [Printer Exploitation in Corporate Environments](https://www.hackingloops.com/printer-exploitation-in-corporate-environments/)
+    * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
 * Angela uses an iPhone :)
   * Check out [Apple's iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 * Sprinkling USB thumbdrives in the parking lot, read "[Almost Half of Dropped USB Sticks Will Get Plugged In](https://nakedsecurity.sophos.com/2016/04/08/almost-half-of-dropped-usb-sticks-will-get-plugged-in/)"
