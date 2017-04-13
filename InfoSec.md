@@ -111,6 +111,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Several hundred challenges across numerous cybersecurity categories that you can tackle on your own time. Also includes a leaderboard and encourages participants to post write-ups of their solutions to the hacking puzzles, so you can learn from others' successful hacks.
 
+* [HackMethod](https://hackmethod.com/)
+
+  Cyber security, penetration testing and hacker training and challenges for all skill levels in a logical progression. They offer an explicit [roadmap](https://hackmethod.com/roadmap/) for how you might want to proceed through the challenges.
+
 * [HackThisSite](https://www.hackthissite.org/)
 
   An older (mid-2000's era) set of challenges in Web, IRC, steganograhy, and a few other categories. Notable partly for its hacktivist co-founder, [Jeremy Hammond](https://en.wikipedia.org/wiki/Jeremy_Hammond), famed member of [the Anonymous-affiliated group LulzSec](https://arstechnica.com/tech-policy/2013/05/lulzsec-member-jeremy-hammond-pleads-guilty-to-stratfor-hack/). While outdated, most of the hacking challenges (called "missions") on this site are still decent practice for technology basics that haven't changed much such as fundamental crypto maths, the HTTP protocol, and JavaScript exploitation techniques.
