@@ -111,9 +111,9 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Several hundred challenges across numerous cybersecurity categories that you can tackle on your own time. Also includes a leaderboard and encourages participants to post write-ups of their solutions to the hacking puzzles, so you can learn from others' successful hacks.
 
-* [HackMethod](https://hackmethod.com/)
+* [HackMethod Challenge](http://challenge.hackmethod.com/)
 
-  Cyber security, penetration testing and hacker training and challenges for all skill levels in a logical progression. They offer an explicit [roadmap](https://hackmethod.com/roadmap/) for how you might want to proceed through the challenges.
+  Month-long "Capture the Flag" and "Root the Box" style challenges, appearing monthly, and with a rolling scoreboard. They also provide (some) guidance in the form of a [roadmap](https://hackmethod.com/roadmap/) that may help guide you through some of their challenges. (But see also [#Lesson plans and guidance](#lesson-plans-and-guidance), below.)
 
 * [HackThisSite](https://www.hackthissite.org/)
 
