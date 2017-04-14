@@ -401,7 +401,10 @@ During post-show discussion, we brought up:
   * [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware software suite:
     * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
   * Read [about "bind shells" and "reverse shells,"](https://irichmore.wordpress.com/2015/06/04/bind-shell-vs-reverse-shell/) the basics of getting remote control over a computer. [`nc` is often used](http://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/), although Elliot is using `ssh` in this screenshot.
-  * Relatedly, police departments are not immune: [Police Department Loses Years Worth of Evidence in Ransomware Incident](https://www.bleepingcomputer.com/news/security/police-department-loses-years-worth-of-evidence-in-ransomware-incident/)
+  * Relatedly, police departments are not immune:
+    * [Police Department Loses Years Worth of Evidence in Ransomware Incident](https://www.bleepingcomputer.com/news/security/police-department-loses-years-worth-of-evidence-in-ransomware-incident/)
+    * [PoliceOne hacked – Hacker is selling thousands police officials’ accounts](http://securityaffairs.co/wordpress/55967/data-breach/policeone-data-breach.html)
+    * [A Notorious Hacker Is Trying to Start a ‘Hack Back’ Political Movement](https://motherboard.vice.com/en_us/article/notorious-hacker-phineas-fishers-is-trying-to-start-a-hack-back-political-movement)
 * "You just pulled code from Rapid9 or some shit? When did you become a script kiddie?"
   * Rapid9 is not real, but is a reference to the famous [Rapid7](https://www.rapid7.com/).
   * A "[script kiddie](https://www.urbandictionary.com/define.php?term=script%20kiddie)" is hacker lingo for an unskilled techie, like a "noob" or "newbie."
