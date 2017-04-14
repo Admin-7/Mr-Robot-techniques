@@ -398,6 +398,7 @@ During post-show discussion, we brought up:
   ![The Avast! Anti-Virus suite detected and blocked the malware and shows a pop-up warning, :robot: screenshot 📷](https://web.archive.org/web/20170411222859/https://i.imgur.com/PNY07TR.jpg)  
   ![Elliot's computer is disconnected from the cop's computer when Avast! blocked the malware, :robot: screenshot 📷](https://web.archive.org/web/20170411223017/https://i.imgur.com/usjYhUO.png)
   * Article, [BadUSB](http://mashable.com/2014/10/03/bad-usb/)
+  * Not shown in the show, but similarly, check out [Poisontap](https://samy.pl/poisontap/)
   * [Avast!](https://www.avast.com/), a low-end anti-virus and anti-malware software suite:
     * [Security in a Box's guide to Avast on Windows](https://securityinabox.org/en/guide/avast/windows/)
   * Read [about "bind shells" and "reverse shells,"](https://irichmore.wordpress.com/2015/06/04/bind-shell-vs-reverse-shell/) the basics of getting remote control over a computer. [`nc` is often used](http://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/), although Elliot is using `ssh` in this screenshot.
