@@ -7,6 +7,7 @@ During regular computer use and especially when playing [[hacking games|InfoSec#
     * [Hashes](#hashes)
     * [Encodings](#encodings)
         * [Base64](#base64)
+        * [Percent-encoding](#percent-encoding)
 1. [How to recognize data formats](#how-to-recognize-data-formats)
 1. [Tools](#tools)
 
@@ -84,6 +85,8 @@ The following is a generalized process for going about identifying what kind of 
 1. Consider the context. Did you encounter this data format in a file? As part of a Web address, etc?
 1. Look for multiple encodings. Sometimes, data is multiply-encoded for various different contexts, like wrapping a box with different layers of wrapping paper. For example, a message might first be Base64-encoded for use in a Web application before being further URL-encoded; you'll first need to recognize the URL-encoding, then the fact that the message has been Base64-encoded.
 1. …
+
+🚧 TK-TODO: See if we can actually write a general-purpose "flowchart" for something like this? I know I do this "intuitively," but can I explain how that…works?
 
 ## Tools
 
