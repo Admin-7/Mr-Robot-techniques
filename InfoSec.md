@@ -251,4 +251,3 @@ This section contains a curated, ordered list of supplementary educational conte
 See also
 
 * [NYC-InfoSec.com](https://www.nyc-infosec.com/), a calendar of infosec-related events in the New York City area.
-* [Zapya's list of CTF and hacking challenge sites](https://web.archive.org/web/20161227061020/http://www.zapyaapkforpc.com/2016/12/top-hacking-sites-ctfs-and-wargames-to.html)
