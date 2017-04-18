@@ -229,6 +229,10 @@ This section contains a curated, ordered list of supplementary educational conte
 
   A detailed report regarding the special-case risks travelers face at the United States border circa 2017. The report includes suggestions for what to do before, during, and after crossing the border to protect your personal data, privacy, and legal rights from violation by border agents.
 
+* [Radical Servers](https://riseup.net/en/security/resources/radical-servers)
+
+  A directory of dozens of radical server projects around the world where you can get free or low-cost email, chat, VPN, social media, and other anti-corporate services. The tools available to you on one or more of these servers can be used as drop-in replacements for the so-called "free" services offered by corporations funded by surveillance capitalism, such as GMail, Facebook, Twitter, OneDrive, Dropbox, and so on.
+
 # Other lists
 
 * [awesome-android-security](https://github.com/ashishb/android-security-awesome)
