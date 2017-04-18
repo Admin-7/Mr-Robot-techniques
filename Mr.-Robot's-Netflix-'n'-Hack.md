@@ -206,6 +206,7 @@ During post-show discussion, we brought up:
     * [HelloSpy](http://hellospy.com/)
     * [Retina-X](http://www.retinax.com/)
   * Real life examples:
+    * ['I See You': A Domestic Violence Survivor Talks About Being Surveilled By Her Ex](https://motherboard.vice.com/en_us/article/i-see-you-a-domestic-violence-survivor-talks-about-being-surveilled-by-her-ex)
     * [Inside the 'Stalkerware' Surveillance Market, Where Ordinary People Tap Each Other's Phones](https://motherboard.vice.com/en_us/article/inside-stalkerware-surveillance-market-flexispy-retina-x)
     * [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
 * Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market), [doxing](https://en.wikipedia.org/wiki/Doxing)  
