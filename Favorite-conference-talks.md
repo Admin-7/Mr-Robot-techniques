@@ -19,3 +19,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 * [SecureDrop: Leaking safely to modern news organizations](https://media.libreplanet.org/u/libreplanet/m/securedrop-leaking-safely-to-modern-news-organizations/) (LibrePlanet 2017)
 
   Learn how [Freedom of the Press Foundation](https://freedom.press/) maintains a free software anonymous whistleblowing platform used by major news organizations, called [SecureDrop](https://securedrop.org/). Senior DevOps Engineer for the SecureDrop project, Conor Schaefer, outlines the project's history, provides an overview of its current architecture, and discusses the challenges of managing a largely decentralized platform with high security requirements.
+
+* * *
+
+See also: [`awesome-sec-talks`, a curated list of awesome Security talks](https://github.com/PaulSec/awesome-sec-talks).
