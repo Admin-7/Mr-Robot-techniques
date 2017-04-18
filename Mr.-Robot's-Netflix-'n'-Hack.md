@@ -204,7 +204,10 @@ During post-show discussion, we brought up:
     * [Highster Mobile](http://highstermobile.com/)
     * [Spyera](https://spyera.com/)
     * [HelloSpy](http://hellospy.com/)
-  * Read: [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
+    * [Retina-X](http://www.retinax.com/)
+  * Real life examples:
+    * [Inside the 'Stalkerware' Surveillance Market, Where Ordinary People Tap Each Other's Phones](https://motherboard.vice.com/en_us/article/inside-stalkerware-surveillance-market-flexispy-retina-x)
+    * [CitizenLab report on iOS "Trident" vulnerabilities installing a RAT against human rights defenders](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
 * Identity theft, financial blackmail, "[carding](https://en.wikipedia.org/wiki/Carding_(fraud))" (credit card market), [doxing](https://en.wikipedia.org/wiki/Doxing)  
   ![Angela's information is caught up in the dox on Ollie, :robot: screenshot 📷](https://web.archive.org/web/20170318001822/https://i.imgur.com/yUuLVN7.jpg)
   * Apply a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) to your personal credit line
