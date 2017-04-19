@@ -1,30 +1,41 @@
-> [[Wiki|Home]] ▸ **Persona-based commsec training matrix**
+> [[Wiki|Home]] ▸ [[Security culture]] ▸ **Persona-based training matrix**
 
-> 🚧 This is a **work in progress**.
+This page introduces a **persona-based framework with which to approach information (infosec), operations (opsec), and especially communications security (comsec).** This material is intended to constructively supplement, not replace, existing resources compiled elsewhere. We focuses on filling in the gaps of other guides and highlighting appropriate practices at certain levels of concern; think of this is a scaffold on which to hang the rest of your security training education.
+
+There are two types of personas consisting of three broad categories. These two types, "defenders" (you) and "attackers" (them), are laid out according to increasing capabilities, creating a three-by-three matrix. This matrix is linearized below.
+
+1. [Motivation](#motivation)
+1. [The matrix](#the-matrix)
+1. [Personas](#personas)
+    1. [Defenders](#defenders)
+    1. [Attackers](#attackers)
+
+> 📝 Editor's note: Please read about [the process we're using to create this material](#triage). TL;DR:
 > 
-> 📝 Editor's note: 
-> The goal is to create a digital security training material that focuses on filling in the gaps of other guides and highlighting appropriate practices at certain levels of concern. There are three broad categories of "defenders" (you) and "attackers" (them) in increasing sophistication/resource requirements, creating a 3-by-3 matrix. This matrix is linearized below.
-> 
-> The process we're using to create this material:
-> 
-> 1. Add any/all security practices that fit the persona's risk level as line items in this list
+> 1. Add any/all security practices that fit the persona's risk level as line items in this list.
 > 1. Search for and link to appropriate existing guides/educational materials for the line item
 > 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
 > 1. ~~Tabularize the information~~
 > 
-> Additionally, this matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
-> 
-> See also: [Current Digital Security Resources, 2016 Edition](https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c), [Security training resources for security trainers, Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
+> This matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
 
 # Motivation
 
-This "persona-based" approach to digital and communications security is motivated by the observation that many efforts to encourage less-technical people to adopt security best practices have failed. Moreover, the way most of these efforts fail are not random. Rather, they have a specific pattern. The failure modes we most commonly observed are:
+We created this "persona-based" framework with which to approach information (infosec), operations (opsec), and especially communications security (comsec) for several reasons. Based in our own experiences and our observations that many efforts to encourage less-technical people to adopt security best practices have failed, we note that the way most of these efforts fail are not random. Rather, they exhibit specific patterns.
 
-1. Often, people are unable to find threat-model-appropriate information. That is, most security guides assume your adversary is the NSA. *This is absurd and most people are correctly ignoring this advice.*
-1. Security guides use highly technical concepts and jargon terms before introducing their fundamental principles and concepts. For instance, describing a "public key infrastructure" is nonsensical because there is never a time when those three words are uttered in sequence and most people cannot be reasonably expected to understand what this means.
+Nevertheless, communications security ("[COMSEC](https://en.wikipedia.org/wiki/Communications_security)") is a critical practice both for maintaining personal privacy and for sustaining any larger-scale resistance against the nearly hegemonic systems of domination and oppression we face in our day-to-day lives. Although many guides for actualizing this practice already exist, most display biases that make them more useful for certain kinds of "activists" over others. Some resources use inaccessible and exclusionary language, either by using unclear jargon or by making insensitive assumptions about gender or race.
+
+The failure modes we most commonly observed are:
+
+1. Often, we are unable to find information appropriate to the specific threats we face. That is, most security guides assume our only adversary is the NSA. This is *absurd*, and most people are correctly ignoring advice from these guides.
+1. Security guides use highly technical concepts and jargon terms before introducing their fundamental principles. For instance, describing a "public key infrastructure" is in an article written for laypeople is nonsensical because there is never a time when those three words are uttered in sequence unless you are a computer security professional. Most people like us who may be struggling to make rent cannot be reasonably expected to understand what this means.
 1. Often, "experts" simply demand that people take too many actions in too short a time. This is exacerbated by the clickbait nature of news, with lists of "tips" that don't thoroughly explain what each "tip" is or why it's useful. Confused readers are bombarded with a list of *many* things they don't understand, so they naturally feel overwhelmed and shut down.
 
+These are on top of the implicit (cis)sexism and capitalist framing of many of these guides, which are simply so pervasive that we consider an exhaustive accounting of these obstacles superfluous here.
+
 This training matrix is not intended to be an end-user resource, but rather a resource for digital security and communications privacy trainers/teachers. Its goal is to provide a resource to meet the following challenge: "how do we teach threat modeling, without ever saying the word 'threat model' or using any other jargon, to people who don't want to have to care about digital/computer security, but know that they need to care anyway?"
+
+# The matrix
 
 <table border="1" cellpadding="10" cellspacing="0">
   <caption>
@@ -161,13 +172,13 @@ For our purposes, "The State" is an attacker persona that combines multinational
 > 
 > 1. Read through the list, categorizing each line item along a "z-axis"
 > 1. Group the line items according to their z-axis
->   * **What about line items matching more than one z-axis; place in both subheads or just the one?
+>     * **What about line items matching more than one z-axis; place in both subheads or just the one?
 
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
 
-# [[Individuals vs. Random Assholes|Commsec training: Individuals versus Random Assholes]]
+# [[Individuals vs. Random Assholes|Security training: Individuals versus Random Assholes]]
 
 ## Data management
 
@@ -333,3 +344,5 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * [A gentle introduction to threats and how to defend against them](https://maymay.net/blog/2015/07/28/cryptoparty-albuquerque-a-gentle-introduction-to-threats-and-how-to-defend-against-them/)" - A video and a heavily-hyperlinked transcript of a presentation for CryptoParty Albuquerque in 2015.
 * [Know Your (Digital) Rights](https://maymay.net/blog/2015/08/08/cryptoparty-albuquerque-know-your-digital-rights/) - A legal primer from CryptoParty Albuquerque, in 2015.
 * [MacOS security and Privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A solid and complete guide on securing your MacOS system. You can skip to the sections you want to secure and follow the guide as you want.
+* [Current Digital Security Resources, 2016 Edition](https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c)
+* [Security training resources for security trainers, Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
