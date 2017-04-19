@@ -282,6 +282,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * Ideally, use *decentralized* alternate services/networks
   * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
 * [Secure your SSH servers](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
+* Use [DNS CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) records to help cut down on TLS certificate spoofing.
 
 ## Helpful tools
 
