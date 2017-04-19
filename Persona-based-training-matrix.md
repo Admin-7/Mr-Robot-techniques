@@ -1,14 +1,22 @@
 > [[Wiki|Home]] ▸ [[Security culture]] ▸ **Persona-based training matrix**
 
-This page introduces a **persona-based framework with which to approach information (infosec), operations (opsec), and especially communications security (comsec).** This material is intended to constructively supplement, not replace, existing resources compiled elsewhere. We focuses on filling in the gaps of other guides and highlighting appropriate practices at certain levels of concern; think of this is a scaffold on which to hang the rest of your security training education.
+This page introduces a **persona-based framework with which to approach information (infosec), operations (opsec), and especially communications security (comsec).**
 
-There are two types of personas consisting of three broad categories. These two types, "defenders" (you) and "attackers" (them), are laid out according to increasing capabilities, creating a three-by-three matrix. This matrix is linearized below.
+> 📝 💡 This material is not intended to be an end-user resource, but rather a resource for digital security and communications privacy trainers or teachers. Its goal is to provide a resource to **meet the following challenge: "how do we teach [threat modeling](https://ssd.eff.org/en/module/introduction-threat-modeling), without ever saying the word 'threat model' or using any other jargon, to people who don't want to have to care about digital/computer security, but know that they need to care anyway?"** This material is intended to constructively supplement, not replace, existing resources compiled elsewhere. The focus is on filling in gaps left by other guides and highlighting appropriate practices at certain levels of concern; this is a scaffold on which to hang the rest of your security training education.
+
+There are two types of personas consisting of three broad groupings. These two types, "defenders" (you) and "attackers" (them), are laid out according to their group's capabilities, creating a three-by-three matrix. This matrix is linearized and inter-linked below.
 
 1. [Motivation](#motivation)
 1. [The matrix](#the-matrix)
 1. [Personas](#personas)
     1. [Defenders](#defenders)
+       1. [Individuals](#individuals)
+       1. [Organizers and Journalists](#organizers-and-journalists)
+       1. [Targeted Activists](#targeted-activists)
     1. [Attackers](#attackers)
+       1. [Random Assholes](#random-assholes)
+       1. [Assholes with Resources](#assholes-with-resources)
+       1. [The State](#the-state)
 
 > 📝 Editor's note: Please read about [the process we're using to create this material](#triage). TL;DR:
 > 
@@ -32,8 +40,6 @@ The failure modes we most commonly observed are:
 1. Often, "experts" simply demand that people take too many actions in too short a time. This is exacerbated by the clickbait nature of news, with lists of "tips" that don't thoroughly explain what each "tip" is or why it's useful. Confused readers are bombarded with a list of *many* things they don't understand, so they naturally feel overwhelmed and shut down.
 
 These are on top of the implicit (cis)sexism and capitalist framing of many of these guides, which are simply so pervasive that we consider an exhaustive accounting of these obstacles superfluous here.
-
-This training matrix is not intended to be an end-user resource, but rather a resource for digital security and communications privacy trainers/teachers. Its goal is to provide a resource to meet the following challenge: "how do we teach threat modeling, without ever saying the word 'threat model' or using any other jargon, to people who don't want to have to care about digital/computer security, but know that they need to care anyway?"
 
 # The matrix
 
