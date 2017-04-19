@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-# Individuals versus Random Assholes
+# Organizers and Journalists versus Random Assholes
 
 ## Prerequisites
 
