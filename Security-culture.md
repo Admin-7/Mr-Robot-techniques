@@ -2,7 +2,7 @@
 
 Learning how to defend ourselves from governments, corporations, and malicious individuals is more involved than simply picking up one or two tools and using them unthinkingly. That said, especially on the Internet, a few well-chosen tools, when understood well enough, will make for a much improved defensive posture—*"Use [Signal](https://whispersystems.org/). Use [Tor](https://torproject.org/)."* Taking some time to practice using the tools available to you will quickly make you a much more difficult target.
 
-* [[Persona-based commsec training matrix]]
+* [[Persona-based training matrix]]
     * [[Individuals versus Random Assholes|Security training: Individuals versus Random Assholes]]
     * [[Organizers and Journalists versus Assholes with Resources|Security training: Organizers and Journalists versus Assholes with Resources]]
     * [[Targeted Activists versus The State|Security training: Targeted Activists versus The State]]
