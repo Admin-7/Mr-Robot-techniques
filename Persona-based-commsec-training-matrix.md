@@ -1,3 +1,5 @@
+> [[Wiki|Home]] ▸ **Persona-based commsec training matrix**
+
 > 🚧 This is a **work in progress**.
 > 
 > 📝 Editor's note: 
@@ -165,7 +167,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
 
-# Individuals vs. Random Assholes
+# [[Individuals vs. Random Assholes|Commsec training: Individuals versus Random Assholes]]
 
 ## Data management
 
@@ -311,3 +313,23 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * encrypted email (GPG)
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
+
+* * *
+
+# Triage
+
+> 📝 This list of links is a completely *unsorted* link-dump; these links need to be:
+> 
+> 1. Read (and, of course, actually understood) by a competent editor.
+> 1. That editor should determine if the resource linked is useful and not already covered with more clarity at a different resource.
+> 1. If useful, the material in these links needs to be incorporated somewhere into the appropriate place in the matrix, above.
+
+* [CommunityRED: Scrub your personal data from the Internet](https://medium.com/@CommunityRED/feeling-scared-me-too-6ff2300e6836")
+* [Install Google Authenticator for your accounts](https://support.google.com/accounts/answer/1066447?hl=en)
+* [Lifehacker: Everyone's trying to track what you do on the Web. Here's how to stop them](https://lifehacker.com/5887140/everyones-trying-to-track-what-you-do-on-the-web-heres-how-to-stop-them)
+* [Privacy Rights Clearinghouse's Consumer Guide on Workplace Privacy and Employee Monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring
+* [How to protect yourself against ICE raids](http://jlovelaw.com/updates/latest-news/157-how-to-protect-yourself-against-ice-raids)
+* [Stanford University: Surveillance law](http://online.stanford.edu/course/surveillance-law
+* [A gentle introduction to threats and how to defend against them](https://maymay.net/blog/2015/07/28/cryptoparty-albuquerque-a-gentle-introduction-to-threats-and-how-to-defend-against-them/)" - A video and a heavily-hyperlinked transcript of a presentation for CryptoParty Albuquerque in 2015.
+* [Know Your (Digital) Rights](https://maymay.net/blog/2015/08/08/cryptoparty-albuquerque-know-your-digital-rights/) - A legal primer from CryptoParty Albuquerque, in 2015.
+* [MacOS security and Privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A solid and complete guide on securing your MacOS system. You can skip to the sections you want to secure and follow the guide as you want.
