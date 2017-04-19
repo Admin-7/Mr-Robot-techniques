@@ -8,9 +8,10 @@ The AnarchoTechNYC wiki is **an evolving workspace of shared knowledge with a fo
 
 # [[Welcome guides]]
 
-If you're looking to get involved with our collective, please consider exploring this wiki! There's plenty here for you to expand, critique, and share. Since there's a lot here, this list suggests a few pages to start from:
+If you're looking to get involved, consider exploring this wiki! There's plenty here for you to expand, critique, and share. Since there's a lot here, this list suggests a few pages to start from:
 
-* [[New member orientation guide]] - a self-paced walkthrough to familiarize yourself with how we organize.
+* [[New member orientation guide]] - A self-paced walk-through to familiarize yourself with how we stay in touch.
+* [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
 
 # [[Activities and events]]
 
