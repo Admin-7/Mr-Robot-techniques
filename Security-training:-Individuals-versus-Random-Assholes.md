@@ -63,4 +63,24 @@
 
 # Individuals versus Random Assholes
 
-> 🚧 TK-TODO
+## Prerequisites
+
+There are no prerequisites. The material presented on this page is *relevant to every persona and every risk level*. These practices therefore represent *a minimum level of best-practice* and are foundational to every other risk assessment presented in this framework.
+
+## Data management
+
+* Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
+
+## Security hygiene and habits
+
+* Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
+* turn off location services (GPS) on your phone when you don't need it (also saves battery!)
+* [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
+* Audit/improve your social network privacy settings
+  * Verify friend requests with actual friends: When you get a Friend request from someone you don't know, but have mutual friends in common, send your mutual friend a private message asking for info about who the supposed person who may have sent the friend request actually is; avoids friending malicious/fake accounts.
+* turn off "auto-pay" (and use Password Manager fill-in instead)
+
+## Helpful tools
+
+* Use a password manager (and all that that entails!)
+  * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
