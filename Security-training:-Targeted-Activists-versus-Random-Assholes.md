@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ [[Security culture]] ▸ [[Persona-based training matrix]] ▸ **Security training: Individuals versus Random Assholes**
+> [[Wiki|Home]] ▸ [[Security culture]] ▸ [[Persona-based training matrix]] ▸ **Security training: Targeted Activists versus Random Assholes**
 
 <table border="1" cellpadding="10" cellspacing="0">
   <caption>
