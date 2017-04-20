@@ -91,7 +91,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
       [[Targeted Activists vs Random Assholes|Security training: Targeted Activists versus Random Assholes#targeted-activists-versus-random-assholes]]
     </td>
     <td>
-      <a href="#targeted-activists-vs-assholes-with-resources">Targeted Activists vs Assholes with Resources</a>
+      [[Targeted Activists vs Assholes with Resources|Security training: Targeted Activists versus Assholes with Resources#targeted-activists-versus-assholes-with-resources]]
     </td>
     <td>
       [[Targeted Activists vs The State|Security training: Targeted Activists versus The State#targeted-activists-versus-the-state]]
@@ -178,12 +178,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
-
-# Targeted activists vs. Assholes with Resources
-
-* Use the "High" security level in your TorBrowser (disables JavaScript, HTML5 Web Fonts, etc.)
-* [Use dedicated virtual machines for specific purposes](https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/) to open documents you don't trust, and take other specialized tasks
-* Clean/audit your device's root TLS certificate stores (for instance, with [RootCertificateCheck](http://www.ghacks.net/2015/04/05/scan-your-windows-computer-for-untrusted-root-certificates/))
 
 * * *
 
