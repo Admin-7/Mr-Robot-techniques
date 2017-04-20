@@ -68,3 +68,23 @@
 Before you dive too deeply into this practice material, you should first explore the following lower-hanging fruit:
 
 1. [[Security training: Individuals versus Random Assholes]]
+
+## Security hygiene and habits
+
+* Audit/revoke your social network account "Connected Apps" settings for apps you don't use
+  * [For Twitter](https://myshadow.org/how-to-increase-your-privacy-on-twitter)
+  * [For Google](https://myaccount.google.com/security#connectedapps)
+  * [For Facebook](https://www.facebook.com/settings?tab=applications)
+* Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
+* Turn on "automatic updates" for software you use.
+* Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
+* turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
+* Turn off auto-play on videos, etc.
+
+## Helpful tools
+
+* Adblockers (uBlock Origin, etc.)
+* Clear cookies (cookie-clearing/whitelisting plugins)
+* Signal (because of authentication, not just for encryption)
+* Tape or a sticker over your webcam to frustrate video recording. (Cheap and easy!)
+* Take a headset (headphones + microphone), chop off the wiring below the sensors, and plug that in to your headset jack to frustrate audio recordings.
