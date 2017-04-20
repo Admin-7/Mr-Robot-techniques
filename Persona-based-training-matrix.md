@@ -64,7 +64,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
     <th rowspan="3"><a href="#defenders">Defenders</a></th>
     <th><a href="#individuals">Individuals</a></th>
     <td>
-      <a href="#individuals-vs-random-assholes">Individuals vs Random Assholes</a>
+      [[Individuals vs Random Assholes|Security training: Individuals versus Random Assholes]]
     </td>
     <td>
       <a href="#individuals-vs-assholes-with-resources">Individuals vs Assholes with Resources</a>
@@ -178,26 +178,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
-
-# [[Individuals vs. Random Assholes|Security training: Individuals versus Random Assholes]]
-
-## Data management
-
-* Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
-
-## Security hygiene and habits
-
-* Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
-* turn off location services (GPS) on your phone when you don't need it (also saves battery!)
-* [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
-* Audit/improve your social network privacy settings
-  * Verify friend requests with actual friends: When you get a Friend request from someone you don't know, but have mutual friends in common, send your mutual friend a private message asking for info about who the supposed person who may have sent the friend request actually is; avoids friending malicious/fake accounts.
-* turn off "auto-pay" (and use Password Manager fill-in instead)
-
-## Helpful tools
-
-* Use a password manager (and all that that entails!)
-  * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
 
 # Individuals vs. Assholes with Resources
 
