@@ -65,7 +65,7 @@
 
 ## Prerequisites
 
-Before you dive too deeply into this practice material, you should first explore the following lower-hanging fruit:
+Before you dive too deeply into this practice material, you should first explore the following lower-hanging fruit in the following order:
 
 1. [[Security training: Individuals versus Random Assholes]]
 
