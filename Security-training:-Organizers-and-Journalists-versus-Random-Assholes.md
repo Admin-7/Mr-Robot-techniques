@@ -68,3 +68,15 @@
 Before you dive too deeply into this practice material, you should first explore the following lower-hanging fruit:
 
 1. [[Security training: Individuals versus Random Assholes]]
+
+## Data management
+
+* Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
+
+## Security hygiene and habits
+
+* 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
+
+## Helpful tools
+
+* Use OnionShare/TorBrowser or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
