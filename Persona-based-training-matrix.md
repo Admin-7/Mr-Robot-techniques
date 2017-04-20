@@ -18,14 +18,9 @@ There are two types of personas consisting of three broad groupings. These two t
        1. [Assholes with Resources](#assholes-with-resources)
        1. [The State](#the-state)
 
-> 📝 Editor's note: Please read about [the process we're using to create this material](#triage). TL;DR:
+> 📝 Editor's note: Please read about [the process we're using to create this material](#triage).
 > 
-> 1. Add any/all security practices that fit the persona's risk level as line items in this list.
-> 1. Search for and link to appropriate existing guides/educational materials for the line item
-> 1. Categorize the listed practices based on a "Z-axis" in a subsection of the persona heading
-> 1. ~~Tabularize the information~~
-> 
-> This matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
+> 🚧 TK-TODO: This matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
 
 # Motivation
 
@@ -79,15 +74,15 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
     </td>
   </tr>
   <tr>
-    <th><a href="#organizers-and-journalists">Organizers and journalists</a></th>
+    <th><a href="#organizers-and-journalists">Organizers and Journalists</a></th>
     <td>
-      <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; journalists vs Random Assholes</a>
+      <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; Journalists vs Random Assholes</a>
     </td>
     <td>
-      <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; journalists vs Assholes with Resources</a>
+      <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; Journalists vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#organizers--journalists-vs-the-state">Organizers &amp; journalists vs The State</a>
+      <a href="#organizers--journalists-vs-the-state">Organizers &amp; Journalists vs The State</a>
     </td>
   </tr>
   <tr>
@@ -113,8 +108,8 @@ In the context of this resource, a "persona" is simply a coarse grouping of enti
 A "defender" is a [persona](#personas) that roughly describes one "half" of a given threat model. Defenders in our framework are:
 
 * **[Individuals](#individuals):** people responsible for themselves
-* **[Organizers and journalists](#organizers-and-journalists):** people responsible for other people as well
-* **[Targeted activists](#targeted-activists):** you know who you are
+* **[Organizers and Journalists](#organizers-and-journalists):** people responsible for other people as well
+* **[Targeted Activists](#targeted-activists):** you know who you are
 
 ### Individuals
 
@@ -124,7 +119,7 @@ An "individual," for our purposes, is any person who is primarily concerned with
 * An employee of a corporation who uses company resources (either hardware, software, or network infrastructure) to perform personal tasks such as banking, emailing, and so on.
 * A member of an oppressed group who faces threats other individuals may not, such as a woman with a jilted ex-lover, an undocumented immigrant, people of color, queer youth, and so on.
 
-### Organizers and journalists
+### Organizers and Journalists
 
 An "organizer," for our purposes, is any person whose safety concerns extend to other people as well as themselves, for any reason. This notably includes "journalists" because, by definition, they are responsible for the safety of their source as well as themselves, but can also include other roles as well. Some examples of other social roles who our framework considered "organizers" include:
 
@@ -264,7 +259,7 @@ For our purposes, "The State" is an attacker persona that combines multinational
 
 Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
-# Organizers & journalists vs. Random Assholes
+# Organizers & Journalists vs. Random Assholes
 
 ## Data management
 
@@ -278,7 +273,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 
 * Use OnionShare/TorBrowser or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
 
-# Organizers & journalists vs. Assholes with Resources
+# Organizers & Journalists vs. Assholes with Resources
 
 ## Security hygiene and habits
 
@@ -293,7 +288,7 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * Consider placing your own domain behind CloudFlare to hide your server's origin
 * Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
 
-# Organizers & journalists vs. The State
+# Organizers & Journalists vs. The State
 
 ## Security hygiene and habits
 
@@ -335,11 +330,13 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 
 # Triage
 
-> 📝 This list of links is a completely *unsorted* link-dump; these links need to be:
+> 📝 This list of links is a completely *unsorted* link-dump. These links need to be:
 > 
-> 1. Read (and, of course, actually understood) by a competent editor.
+> 1. Read (and, of course, actually understood) by an editor.
 > 1. That editor should determine if the resource linked is useful and not already covered with more clarity at a different resource.
 > 1. If useful, the material in these links needs to be incorporated somewhere into the appropriate place in the matrix, above.
+> 
+> Everyone is encouraged to add new links to this list as they wish; someone will eventually come back around and more thoroughly evaluate its contents. This also means, of course, that you shouldn't take "our word" (lol) for anything linked below.
 
 * [CommunityRED: Scrub your personal data from the Internet](https://medium.com/@CommunityRED/feeling-scared-me-too-6ff2300e6836")
 * [Install Google Authenticator for your accounts](https://support.google.com/accounts/answer/1066447?hl=en)
