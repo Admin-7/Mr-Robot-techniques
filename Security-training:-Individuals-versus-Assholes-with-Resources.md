@@ -26,37 +26,37 @@
     <th rowspan="3">[[Defenders|Persona-based training matrix#defenders]]</th>
     <th>[[Individuals|Persona-based training matrix#individuals]]</th>
     <td>
-      [[Individuals vs Random Assholes|Security training: Individuals versus Random Assholes]]
+      [[Individuals vs Random Assholes|Security training: Individuals versus Random Assholes#individuals-versus-random-assholes]]
     </td>
     <td>
       <strong>Individuals vs Assholes with Resources</strong>
     </td>
     <td>
-      [[Individuals vs The State|Security training: Individuals versus The State]]
+      [[Individuals vs The State|Security training: Individuals versus The State#individuals-versus-the-state]]
     </td>
   </tr>
   <tr>
     <th>[[Organizers and Journalists|Persona-based training matrix#organizers-and-journalists]]</th>
     <td>
-      [[Organizers &amp; Journalists vs Random Assholes|Security training: Organizers and Journalists versus Random Assholes]]
+      [[Organizers &amp; Journalists vs Random Assholes|Security training: Organizers and Journalists versus Random Assholes#organizers-and-journalists-versus-random-assholes]]
     </td>
     <td>
-      [[Organizers &amp; Journalists vs Assholes with Resources|Security training: Organizers and Journalists versus Assholes with Resources]]
+      [[Organizers &amp; Journalists vs Assholes with Resources|Security training: Organizers and Journalists versus Assholes with Resources#organizers-and-journalists-versus-assholes-with-resources]]
     </td>
     <td>
-      [[Organizers &amp; Journalists vs The State|Security Training: Organizers and Journalists versus The State]]
+      [[Organizers &amp; Journalists vs The State|Security Training: Organizers and Journalists versus The State#organizers-and-journalists-versus-the-state]]
     </td>
   </tr>
   <tr>
     <th>[[Targeted Activists|Persona-based training matrix#targeted-activists]]</th>
     <td>
-      [[Targeted Activists vs Random Assholes|Security training: Targeted Activists versus Random Assholes]]
+      [[Targeted Activists vs Random Assholes|Security training: Targeted Activists versus Random Assholes#targeted-activists-versus-random-assholes]]
     </td>
     <td>
-      [[Targeted Activists vs Assholes with Resources|Security training: Targeted Activists versus Assholes with Resources]]
+      [[Targeted Activists vs Assholes with Resources|Security training: Targeted Activists versus Assholes with Resources#targeted-activists-versus-assholes-with-resources]]
     </td>
     <td>
-      [[Targeted Activists vs The State|Security training: Targeted Activists versus The State]]
+      [[Targeted Activists vs The State|Security training: Targeted Activists versus The State#targeted-activists-versus-the-state]]
     </td>
   </tr>
 </table>
