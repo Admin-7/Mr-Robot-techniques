@@ -63,4 +63,11 @@
 
 # Targeted Activists versus Random Assholes
 
+## Prerequisites
+
+Before you dive too deeply into this practice material, you should first explore the following lower-hanging fruit in the following order:
+
+1. [[Security training: Individuals versus Random Assholes]]
+1. [[Security training: Organizers and Journalists versus Random Assholes]]
+
 > 🚧 TK-TODO: Currently empty. :(
