@@ -64,7 +64,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
     <th rowspan="3"><a href="#defenders">Defenders</a></th>
     <th><a href="#individuals">Individuals</a></th>
     <td>
-      [[Individuals vs Random Assholes|Security training: Individuals versus Random Assholes]]
+      [[Individuals vs Random Assholes|Security training: Individuals versus Random Assholes#individuals-versus-random-assholes]]
     </td>
     <td>
       <a href="#individuals-vs-assholes-with-resources">Individuals vs Assholes with Resources</a>
@@ -76,7 +76,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
   <tr>
     <th><a href="#organizers-and-journalists">Organizers and Journalists</a></th>
     <td>
-      <a href="#organizers--journalists-vs-random-assholes">Organizers &amp; Journalists vs Random Assholes</a>
+      [[Organizers &amp; Journalists vs Random Assholes|Security training: Organizers and Journalists versus Random Assholes#organizers-and-journalists-versus-random-assholes]]
     </td>
     <td>
       <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; Journalists vs Assholes with Resources</a>
@@ -238,20 +238,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Use [HTTPS Everywhere](https://www.eff.org/https-everywhere%20) so you make sure you send data to the service using HTTPS and not HTTP.
 
 Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
-
-# Organizers & Journalists vs. Random Assholes
-
-## Data management
-
-* Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
-
-## Security hygiene and habits
-
-* 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
-
-## Helpful tools
-
-* Use OnionShare/TorBrowser or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
 
 # Organizers & Journalists vs. Assholes with Resources
 
