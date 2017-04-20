@@ -88,13 +88,13 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
   <tr>
     <th><a href="#targeted-activists">Targeted Activists</a></th>
     <td>
-      <a href="#targeted-activists-vs-random-assholes">Targeted Activists vs Random Assholes</a>
+      [[Targeted Activists vs Random Assholes|Security training: Targeted Activists versus Random Assholes#targeted-activists-versus-random-assholes]]
     </td>
     <td>
       <a href="#targeted-activists-vs-assholes-with-resources">Targeted Activists vs Assholes with Resources</a>
     </td>
     <td>
-      <a href="#targeted-activists-vs-the-state">Targeted Activists vs The State</a>
+      [[Targeted Activists vs The State|Security training: Targeted Activists versus The State#targeted-activists-versus-the-state]]
     </td>
   </tr>
 </table>
@@ -202,18 +202,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Use the "High" security level in your TorBrowser (disables JavaScript, HTML5 Web Fonts, etc.)
 * [Use dedicated virtual machines for specific purposes](https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/) to open documents you don't trust, and take other specialized tasks
 * Clean/audit your device's root TLS certificate stores (for instance, with [RootCertificateCheck](http://www.ghacks.net/2015/04/05/scan-your-windows-computer-for-untrusted-root-certificates/))
-
-# Targeted activists vs. The State
-
-# Security hygiene and habits
-
-* [Don't maintain long-term OpenPGP keys](https://blog.filippo.io/giving-up-on-long-term-pgp/), try following the suggestions in [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155) instead
-
-## Helpful tools
-
-* encrypted email (GPG)
-* Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
-* Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
 
 * * *
 
