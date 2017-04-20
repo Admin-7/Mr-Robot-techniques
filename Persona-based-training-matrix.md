@@ -82,7 +82,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
       [[Organizers &amp; Journalists vs Assholes with Resources|Security training: Organizers and Journalists versus Assholes with Resources#organizers-and-journalists-versus-assholes-with-resources]]
     </td>
     <td>
-      <a href="#organizers--journalists-vs-the-state">Organizers &amp; Journalists vs The State</a>
+      [[Organizers &amp; Journalists vs The State|Security training: Organizers and Journalists versus The State#organizers-and-journalists-versus-the-state]]
     </td>
   </tr>
   <tr>
@@ -178,24 +178,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
-
-# Organizers & Journalists vs. The State
-
-## Security hygiene and habits
-
-* Use alternate service providers (don't use Google's GMail)
-* Ideally, use *decentralized* alternate services/networks
-  * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
-* [Secure your SSH servers](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
-* Use [DNS CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) records to help cut down on TLS certificate spoofing.
-
-## Helpful tools
-
-* Use Tor!!!!!11! (or a VPN)
-* Host sites somewhere safe (privacytools.io)
-* Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
-* Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
-* Use [MAT](https://mat.boum.org/) (or another tool) to remove document metadata before sharing online (specially if you need to protects your source)
 
 # Targeted activists vs. Assholes with Resources
 
