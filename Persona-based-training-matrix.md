@@ -67,7 +67,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
       [[Individuals vs Random Assholes|Security training: Individuals versus Random Assholes#individuals-versus-random-assholes]]
     </td>
     <td>
-      <a href="#individuals-vs-assholes-with-resources">Individuals vs Assholes with Resources</a>
+      [[Individuals vs Assholes with Resources|Security training: Individuals versus Assholes with Resources#individuals-versus-assholes-with-resources]]
     </td>
     <td>
       <a href="#individuals-vs-the-state">Individuals vs The State</a>
@@ -178,28 +178,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * Technical: "Categories" from [PRISM-Break](https://prism-break.org/en/all/), i.e., what to do for server security versus what to do for device/endpoint security versus what to do for data in motion/at rest.
 * Behavior/habitual: [data management](https://myshadow.org/) and/or security hygiene best practices
 * Financial: issues relating specifically to currency systems (which are de-facto surveillance apparati by definition)
-
-# Individuals vs. Assholes with Resources
-
-## Security hygiene and habits
-
-* Audit/revoke your social network account "Connected Apps" settings for apps you don't use
-  * [For Twitter](https://myshadow.org/how-to-increase-your-privacy-on-twitter)
-  * [For Google](https://myaccount.google.com/security#connectedapps)
-  * [For Facebook](https://www.facebook.com/settings?tab=applications)
-* Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
-* Turn on "automatic updates" for software you use.
-* Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
-* turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
-* Turn off auto-play on videos, etc.
-
-## Helpful tools
-
-* Adblockers (uBlock Origin, etc.)
-* Clear cookies (cookie-clearing/whitelisting plugins)
-* Signal (because of authentication, not just for encryption)
-* Tape or a sticker over your webcam to frustrate video recording. (Cheap and easy!)
-* Take a headset (headphones + microphone), chop off the wiring below the sensors, and plug that in to your headset jack to frustrate audio recordings.
 
 # Individuals vs. The State
 
