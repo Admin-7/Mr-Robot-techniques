@@ -69,6 +69,10 @@ Before you dive too deeply into this practice material, you should first explore
 
 1. [[Security training: Individuals versus Random Assholes]]
 
+## Practices
+
+* [Firefox: Enable punycode in International Domain Names (IDN) display to thwart phishing](https://www.xudongz.com/blog/2017/idn-phishing/)
+
 ## Security hygiene and habits
 
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
