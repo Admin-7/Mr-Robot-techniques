@@ -127,7 +127,7 @@ An "organizer," for our purposes, is any person whose safety concerns extend to 
 * Community organizers (activists) who take some part in explicit political activity
 * Individuals who engage in controversial subcultures and practices, despite not being "explicitly political" about it, such as people who run or simply participate regularly in LGBT or mental health support groups, and so on.
 
-### Targeted activists
+### Targeted Activists
 
 If you are a "targeted activist," you probably know who you are because you've self-identified yourself to yourself as one, and we'll just leave it at that.
 
@@ -139,7 +139,7 @@ An "attacker" is a [persona](#personas) that roughly describes one "half" of a g
 * **[Assholes with Resources](#assholes-with-resources):** organized hate groups, rogue cops, more sophisticated / technical Random Assholes, more dedicated assholes (e.g. "jilted lovers" with resources)  
 * **[The State](#the-state):** Governments, surveillance apparatus & multinational corporations (Wal-Mart, Apple+Google+Facebook, etc.)
 
-### Random assholes
+### Random Assholes
 
 A "random asshole," for our purposes, is an individual or uncoordinated mob whose intent is to cause malicious harm. This can include:
 
