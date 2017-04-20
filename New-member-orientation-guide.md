@@ -40,7 +40,7 @@ If you don't have a smartphone or tablet, sadly, you can't use Signal. In that c
 
 # [[Gitter]]
 
-Some in our collective host events that overlap with efforts of other collectives, work on projects with the intent of being publicly visible, or are designed to ease newcomers into security culture practices in a more familiar way. For these efforts, we often use Gitter, a Web-based chat room service. If you want to participate in one of those projects, you'll want to join the associated Gitter room, as well.
+Some in our collective host events that overlap with efforts of other collectives, work on projects with the intent of being publicly visible, or are designed to ease newcomers into [[security culture]] practices in a more familiar way. For these efforts, we often use Gitter, a Web-based chat room service. If you want to participate in one of those projects, you'll want to join the associated Gitter room, as well.
 
 **Do this:**
 
