@@ -79,7 +79,7 @@ These are on top of the implicit (cis)sexism and capitalist framing of many of t
       [[Organizers &amp; Journalists vs Random Assholes|Security training: Organizers and Journalists versus Random Assholes#organizers-and-journalists-versus-random-assholes]]
     </td>
     <td>
-      <a href="#organizers--journalists-vs-assholes-with-resources">Organizers &amp; Journalists vs Assholes with Resources</a>
+      [[Organizers &amp; Journalists vs Assholes with Resources|Security training: Organizers and Journalists versus Assholes with Resources#organizers-and-journalists-versus-assholes-with-resources]]
     </td>
     <td>
       <a href="#organizers--journalists-vs-the-state">Organizers &amp; Journalists vs The State</a>
@@ -217,21 +217,6 @@ For our purposes, "The State" is an attacker persona that combines multinational
 
 Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
 
-# Organizers & Journalists vs. Assholes with Resources
-
-## Security hygiene and habits
-
-* Audit your webserver for information disclosure vulns ([a thorough treatment of webdev security things](https://github.com/FallibleInc/security-guide-for-developers)):
-  * Turn off "directory listings" on your webserver
-* Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
-* Prevent spoofing of emails claiming to be from your domain by [implementing DKIM](https://scotthelme.co.uk/email-security-dkim/) for email services you provide
-## Helpful tools
-
-* On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
-* Use Tor to hide your physical-world location
-* Consider placing your own domain behind CloudFlare to hide your server's origin
-* Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
-
 # Organizers & Journalists vs. The State
 
 ## Security hygiene and habits
@@ -249,8 +234,6 @@ Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deepli
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 * Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
 * Use [MAT](https://mat.boum.org/) (or another tool) to remove document metadata before sharing online (specially if you need to protects your source)
-
-# Targeted activists vs. Random Assholes
 
 # Targeted activists vs. Assholes with Resources
 
