@@ -312,7 +312,8 @@ During post-show discussion, we brought up:
   ![An Internet search for "Trudy Davis" turns up much less useful information, :robot: screenshot 📷](https://web.archive.org/web/20170406202222/https://i.imgur.com/hT56ONO.jpg)
   * Read, "[This Is Almost Certainly [FBI Director] James Comey’s Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)"
   * [OSINTFramework.com](http://osintframework.com/), a collection of various OSInt tools broken out by category.
-  * [Maltego](https://paterva.com/web7/docs/documentation.php), a graphical tool for digital reconnaissance
+  * [Maltego](https://paterva.com/web7/docs/documentation.php), a proprietary graphical tool for digital reconnaissance
+  * [`recon-ng`](https://bitbucket.org/LaNMaSteR53/recon-ng), a free software command-line tool for digital reconnaissance
 * Covert ear-piece, usually connects using [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) to a nearby smartphone
   * Sold as exam or test-taking cheating devices, for example by [GSM-Earpiece](http://www.gsm-earpiece.com/products/)
   * Sold to law enforcement and security services, for example by [EarHero](https://www.earhero.com/)
