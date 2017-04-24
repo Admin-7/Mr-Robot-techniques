@@ -217,17 +217,17 @@ This section contains a curated, ordered list of supplementary educational conte
 
   The [Tactical Technology Collective](https://tacticaltech.org/)'s "[Exposing the Invisible](https://exposingtheinvisible.org/)" project includes its own self-defense resource listing geared specifically for people using the Internet to conduct journalistic investigations. Notably, this resource includes discussions of how to more safely and [anonymously publish the results of investigations online](https://exposingtheinvisible.org/resources/watching-out-yourself/domain-games). Pair with the [Info-Activism How To Guide](https://howto.informationactivism.org/).
 
-* [An Activist's Guide to Information Security](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+* [GenderSec: Zen and the Art of Making Technology Work for You](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual)
 
-  A brief and attractive zine written by ABC Dresden that introduces activist laypeople to various components of infosec.  There is also an [imposed version](https://archive.org/download/AnActivistsGuideToInformationSecurity/activist-info-sec-IMPOSED.pdf) for printing and distributing in meatspace.
-
-* [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
-
-  A top-ten list of digital security tips intended for a specific type of defender ("protesters"). Possibly easier to digest than the more thorough "Surveillance Self-Defense" guide, despite being written by the same source.
+  The "complete manual" of personal digital security maintained by the Tactical Tech Collective's GenderSec Wiki. Available in English and in [Spanish](https://gendersec.tacticaltech.org/wiki/index.php/Complete_manual/es).
 
 * [Digital Privacy at the U.S. Border](https://www.eff.org/wp/digital-privacy-us-border-2017)
 
   A detailed report regarding the special-case risks travelers face at the United States border circa 2017. The report includes suggestions for what to do before, during, and after crossing the border to protect your personal data, privacy, and legal rights from violation by border agents.
+
+* [Current Digital Security Resources](https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c)
+
+   A meta-list of additional security training resources for defenders in various situations.
 
 * [Radical Servers](https://riseup.net/en/security/resources/radical-servers)
 
