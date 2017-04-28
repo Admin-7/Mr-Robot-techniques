@@ -200,7 +200,7 @@ During post-show discussion, we brought up:
   * "RooterFrame" is not real, but [Framaroot](http://framaroot.net/?scn=2) is!
   * [SuperSU](http://www.supersu.com/) is real, too! An Android app to manage `sudo`-like access to installed apps
   * Commercial mobile phone malware/spyware software as a service vendors:
-    * [FlexiSPY](https://www.flexispy.com/)
+    * [FlexiSPY](https://www.flexispy.com/) (try a [demo](https://portal.flexispy.com/demo.html))
     * [Highster Mobile](http://highstermobile.com/)
     * [Spyera](https://spyera.com/)
     * [HelloSpy](http://hellospy.com/)
