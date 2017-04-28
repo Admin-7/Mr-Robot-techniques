@@ -96,6 +96,7 @@ Before you dive too deeply into this practice material, you should first explore
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
 * Don't use the default DNS your network provides, most of them are used for surveillance and profiling. Use [DNSCrypt](https://dnscrypt.org/) instead or the DNS provided by [OpenNIC Project](https://www.opennicproject.org/).
+* [Disable third-party cookies](https://www.howtogeek.com/241006/how-to-block-third-party-cookies-in-every-web-browser/).
 
 ## Helpful tools
 
