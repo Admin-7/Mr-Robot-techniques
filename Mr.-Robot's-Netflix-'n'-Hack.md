@@ -468,7 +468,8 @@ During post-show discussion, we brought up:
 * [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), a 1980's-era video game console
 * [Deepsound](http://jpinsoft.net/deepsound/), a Windows audio CD/DVD [steganographic](https://en.wikipedia.org/wiki/Steganography) utility (again)
   ![Elliot burns all the data he has on Shayla Nico to a CD, :robot: screenshot 📷](http://web.archive.org/save/https://i.imgur.com/JSZZbjM.jpg)
-* [Microchip implants](https://en.wikipedia.org/wiki/Microchip_implant_%28animal%29) (in Flipper)
+* Pets are "microchipped," meaning small electronic chips implanted ([microchip implants](https://en.wikipedia.org/wiki/Microchip_implant_%28animal%29)) under their skin  
+  ![The vet reads out data from a microchip implanted in Flipper's skin, :robot: screenshot 📷](https://web.archive.org/web/20170503031433/https://i.imgur.com/CE1kFEH.jpg)
 
 # Week 8 (S01E08)
 
