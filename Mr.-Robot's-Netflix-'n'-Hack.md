@@ -466,7 +466,8 @@ During post-show discussion, we brought up:
 * [2600.com](https://www.2600.com/), a famous, long-running hacker periodical
   * View [the 1999 version of the 2600.com website](https://web.archive.org/web/19990116232336/http://www.2600.com/mindex.html) using [the Internet Archive's Wayback Machine](https://archive.org/web/).
 * [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), a 1980's-era video game console
-* [Deepsound](http://jpinsoft.net/deepsound/) (again)
+* [Deepsound](http://jpinsoft.net/deepsound/), a Windows audio CD/DVD [steganographic](https://en.wikipedia.org/wiki/Steganography) utility (again)
+  ![Elliot burns all the data he has on Shayla Nico to a CD, :robot: screenshot 📷](http://web.archive.org/save/https://i.imgur.com/JSZZbjM.jpg)
 * [Microchip implants](https://en.wikipedia.org/wiki/Microchip_implant_%28animal%29) (in Flipper)
 
 # Week 8 (S01E08)
