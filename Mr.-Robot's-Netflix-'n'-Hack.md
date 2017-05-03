@@ -479,7 +479,7 @@ During post-show discussion, we brought up:
       * [Windows Privilege Escalation, Part 1: Local Administrator Account](https://blog.netspi.com/windows-privilege-escalation-part-1-local-administrator-privileges/) and [Part 2: Domain Admin Privileges](https://blog.netspi.com/windows-privilege-escalation-part-2-domain-admin-privileges/)
       * [FuzzySecurity Tutorials: Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
       * [Basic Linux Privilege Escalation](http://blog.g0tmi1k.com:80/2011/08/basic-linux-privilege-escalation/)
-      * Standalone tools to check for privilege escalation: [`windows-privesc-check`](http://pentestmonkey.net/tools/audit/windows-privesc-check), [`unix-privesc-check`](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+      * Standalone tools to check for privilege escalation opportunities: [`windows-privesc-check`](http://pentestmonkey.net/tools/audit/windows-privesc-check), [`unix-privesc-check`](http://pentestmonkey.net/tools/audit/unix-privesc-check)
   * "Box" is just a slang term for "computer."
   * "The IP" refers to the [Internet Protocol address](https://simple.wikipedia.org/wiki/IP_address), literally the equivalent of a computer's "home/mailing address" that anyone who wants to send messages to the computer usually needs to know. Here, Cisco refers not to his box's IP address, but the IP address of the Dark Army's servers.
   * "Their channel" is a reference to the IRC chat room that the Dark Army uses to communicate, seen in an earlier episode. In IRC, chat rooms are called "channels," and hacker slang usually uses the two terms ("chat room" or "channel") somewhat interchangeably.
