@@ -477,6 +477,7 @@ During post-show discussion, we brought up:
       * [Windows Privilege Escalation Methods for Pentesters](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
       * [Windows Privilege Escalation, Part 1: Local Administrator Account](https://blog.netspi.com/windows-privilege-escalation-part-1-local-administrator-privileges/) and [Part 2: Domain Admin Privileges](https://blog.netspi.com/windows-privilege-escalation-part-2-domain-admin-privileges/)
       * [FuzzySecurity Tutorials: Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+      * [Basic Linux Privilege Escalation](http://blog.g0tmi1k.com:80/2011/08/basic-linux-privilege-escalation/)
       * Standalone tools to check for privilege escalation: [`windows-privesc-check`](http://pentestmonkey.net/tools/audit/windows-privesc-check), [`unix-privesc-check`](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 
 # Week 8 (S01E08)
