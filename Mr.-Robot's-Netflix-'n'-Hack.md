@@ -360,7 +360,7 @@ During post-show discussion, we brought up:
   * ["MOTD" is a UNIX initialism and idiom](https://en.wikipedia.org/wiki/Motd_(Unix)) for "Message of the Day."
 * [SSH, the *S*ecure *Sh*ell program](https://en.wikipedia.org/wiki/Secure_Shell), is an encrypted remote login tool, offering command-line access to remote systems attached to a network.  
   ![Closeup of fsociety terminal showing SSH login, :robot: screenshot 📷](https://web.archive.org/web/20170205044319/https://i.imgur.com/h6d2svk.jpg)
-  * The `-l` option specifies a *l*ogin (user) name; Darlene is using the `root` user.
+  * The `-l` option specifies a *l*ogin (user) name; Darlene is using the `root` user (sometimes also called the "[superuser](https://en.wikipedia.org/wiki/Superuser)").
   * No passwords were being asked for, so Darlene has [configured SSH for key-based authentication](http://www.systutorials.com/1500/enabling-password-less-ssh-login/). [GitHub has a good guide for setting up SSH with key-based (aka. "password-less") logins](https://help.github.com/articles/connecting-to-github-with-ssh/).
   * On Windows, you may need to install [PuTTY](http://www.putty.org/). On macOS/*nix systems, SSH is usually pre-installed.
   * Complete reference guidebook: [SSH, The Secure Shell: The definitive guide, 2nd Edition](https://web.archive.org/web/20170122005724/https://courseweb.pitt.edu/bbcswebdav/institution/Pitt%20Online/MLIS_Pitt_Online/LIS%202600/Intro%20Module/SSH_Second_Edition.pdf)
