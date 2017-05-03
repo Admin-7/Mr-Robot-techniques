@@ -480,6 +480,10 @@ During post-show discussion, we brought up:
       * [FuzzySecurity Tutorials: Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
       * [Basic Linux Privilege Escalation](http://blog.g0tmi1k.com:80/2011/08/basic-linux-privilege-escalation/)
       * Standalone tools to check for privilege escalation: [`windows-privesc-check`](http://pentestmonkey.net/tools/audit/windows-privesc-check), [`unix-privesc-check`](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+  * "Box" is just a slang term for "computer."
+  * "The IP" refers to the [Internet Protocol address](https://simple.wikipedia.org/wiki/IP_address), literally the equivalent of a computer's "home/mailing address" that anyone who wants to send messages to the computer usually needs to know. Here, Cisco refers not to his box's IP address, but the IP address of the Dark Army's servers.
+  * "Their channel" is a reference to the IRC chat room that the Dark Army uses to communicate, seen in an earlier episode. In IRC, chat rooms are called "channels," and hacker slang usually uses the two terms ("chat room" or "channel") somewhat interchangeably.
+  * "My [handle](https://en.wikipedia.org/wiki/Handle_%28computing%29)" means "the username (or screen name) I use." Here, Cisco just means that after Darlene hacked his computer, she impersonated him, using his persona to communicate with the Dark Army directly.
 
 # Week 8 (S01E08)
 
