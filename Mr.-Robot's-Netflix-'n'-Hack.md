@@ -456,7 +456,7 @@ During post-show discussion, we brought up:
 
 # Week 7 (S01E07)
 
-* "I got into web design by ripping off sites I liked."  
+* ["View source" functionality in Web browsers](http://www.computerhope.com/issues/ch000746.htm) &larr; "I got into web design by ripping off sites I liked."
   !["Vintage" computer equipment browsing the old 2600 website, :robot: screenshot 📷](https://web.archive.org/web/20170503023411/https://i.imgur.com/hCbxfmP.jpg)
   ![Netscape Communicator's "Page Source" menu option showed the source code for any website, :robot: screenshot 📷](http://web.archive.org/save/https://i.imgur.com/NvPG9It.jpg)  
   ![Elliot copied the source code into a text editor and edits the page title, :robot: screenshot 📷](https://web.archive.org/web/20170503023415/https://i.imgur.com/pjj5ITP.jpg)
@@ -466,7 +466,6 @@ During post-show discussion, we brought up:
 * [2600.com](https://www.2600.com/), a famous, long-running hacker periodical
   * View [the 1999 version of the 2600.com website](https://web.archive.org/web/19990116232336/http://www.2600.com/mindex.html) using [the Internet Archive's Wayback Machine](https://archive.org/web/).
 * [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), a 1980's-era video game console
-* ["View source" functionality in Web browsers](http://www.computerhope.com/issues/ch000746.htm)
 * [Deepsound](http://jpinsoft.net/deepsound/) (again)
 * [Microchip implants](https://en.wikipedia.org/wiki/Microchip_implant_%28animal%29) (in Flipper)
 
