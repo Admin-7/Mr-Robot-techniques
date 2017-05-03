@@ -463,8 +463,9 @@ During post-show discussion, we brought up:
 * [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator), one of the earliest commercial Web browsers first released in the late 1990's
   * Check out the [evolt.org Browser Archive](http://browsers.evolt.org/), copies of every version of every Web browser ever released
 * [Windows 95](https://en.wikipedia.org/wiki/Windows_95) (or Windows 98?)
-* [2600.com](https://www.2600.com/), a famous, long-running hacker periodical
+* [2600.com](https://www.2600.com/), a famous, long-running hacker periodical ([Wikipedia article](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly))
   * View [the 1999 version of the 2600.com website](https://web.archive.org/web/19990116232336/http://www.2600.com/mindex.html) using [the Internet Archive's Wayback Machine](https://archive.org/web/).
+  * In a similar vein, check out [Phrack](http://phrack.org/) and [its Wikipedia article](https://en.wikipedia.org/wiki/Phrack).
 * [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), a 1980's-era video game console
 * [Deepsound](http://jpinsoft.net/deepsound/), a Windows audio CD/DVD [steganographic](https://en.wikipedia.org/wiki/Steganography) utility (again)
   ![Elliot burns all the data he has on Shayla Nico to a CD, :robot: screenshot 📷](http://web.archive.org/save/https://i.imgur.com/JSZZbjM.jpg)
