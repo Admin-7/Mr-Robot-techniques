@@ -470,6 +470,14 @@ During post-show discussion, we brought up:
   ![Elliot burns all the data he has on Shayla Nico to a CD, :robot: screenshot 📷](http://web.archive.org/save/https://i.imgur.com/JSZZbjM.jpg)
 * Pets are "microchipped," meaning small electronic chips implanted ([microchip implants](https://en.wikipedia.org/wiki/Microchip_implant_%28animal%29)) under their skin  
   ![The vet reads out data from a microchip implanted in Flipper's skin, :robot: screenshot 📷](https://web.archive.org/web/20170503031433/https://i.imgur.com/CE1kFEH.jpg)
+* "You got root on my box, and found the IP, then you joined their channel with my handle."  
+  ![Cisco meets Darlene at a Chess table in a park, angered that she hacked him, :robot: screenshot 📷](https://web.archive.org/web/20170503034358/https://i.imgur.com/wnLtVw2.jpg)
+  * "Getting root" means to "acquire access to the `root` user on a UNIX-like operating system," since that user is by definition granted all [privileges/rights to a system](https://msdn.microsoft.com/en-us/library/windows/desktop/aa379306(v=vs.85).aspx). (In a Windows context, this is called "getting System" and [Meterpreter has a command by that name, `getsystem`](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/), because [the most privileged user account on a Windows computer is the `LocalSystem` account](https://msdn.microsoft.com/en-us/library/windows/desktop/ms684190(v=vs.85).aspx).)
+    * It's less common to get root (or System) privileges directly; often you must first find some other vulnerability to exploit, then "escalate your privileges." This is called *privilege escalation* ("privesc" for short):
+      * [Windows Privilege Escalation Methods for Pentesters](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
+      * [Windows Privilege Escalation, Part 1: Local Administrator Account](https://blog.netspi.com/windows-privilege-escalation-part-1-local-administrator-privileges/) and [Part 2: Domain Admin Privileges](https://blog.netspi.com/windows-privilege-escalation-part-2-domain-admin-privileges/)
+      * [FuzzySecurity Tutorials: Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+      * Scripts to check for privilege escalation: [`windows-privesc-check`](http://pentestmonkey.net/tools/audit/windows-privesc-check) [`unix-privesc-check`](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 
 # Week 8 (S01E08)
 
