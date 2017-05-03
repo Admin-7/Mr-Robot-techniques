@@ -16,3 +16,5 @@
     * [A bus. This man is describing a bus.](https://web.archive.org/web/20160116215410/https://twitter.com/JackSmithIV/status/635925087640793088)
 * Facebook:
     * [Facebook Helped Avertisers Target Teens Who Feel "Worthless"](https://web.archive.org/web/20170501071437/https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/)
+* Google:
+    * [The Secret Lives of Google raters](https://arstechnica.com/features/2017/04/the-secret-lives-of-google-raters/), and its followup, [Google Rater Fired After Speaking to Ars About Work Conditions](https://arstechnica.com/business/2017/05/google-rater-fired-after-speaking-to-ars-about-work-conditions/)
