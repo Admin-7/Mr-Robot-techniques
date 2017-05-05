@@ -14,6 +14,7 @@
 * Uber:
     * [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons - The New York Times](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html)
     * [A bus. This man is describing a bus.](https://web.archive.org/web/20160116215410/https://twitter.com/JackSmithIV/status/635925087640793088)
+    * [As Uber Probes Sexual Harassment at Its Offices, It Overlooks Hundreds of Thousands of Female Drivers](https://theintercept.com/2017/05/04/as-uber-probes-sexual-harassment-at-its-offices-it-overlooks-hundreds-of-thousands-of-female-drivers/)
 * Facebook:
     * [Facebook Helped Avertisers Target Teens Who Feel "Worthless"](https://web.archive.org/web/20170501071437/https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/)
 * Google:
