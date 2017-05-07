@@ -239,6 +239,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [awesome-forensics](https://github.com/Cugu/awesome-forensics)
+* [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
