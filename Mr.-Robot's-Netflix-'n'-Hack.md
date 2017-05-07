@@ -17,6 +17,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Week 6 (S01E06)](#week-6-s01e06)
 * [Week 7 (S01E07)](#week-7-s01e07)
 * [Week 8 (S01E08)](#week-8-s01e08)
+* [Week 9 (S01E09)](#week-9-s01e09)
 
 # Week 1 (S01E01)
 
@@ -486,5 +487,29 @@ During post-show discussion, we brought up:
   * "My [handle](https://en.wikipedia.org/wiki/Handle_%28computing%29)" means "the username (or screen name) I use." Here, Cisco just means that after Darlene hacked his computer, she impersonated him, using his persona to communicate with the Dark Army directly.
 
 # Week 8 (S01E08)
+
+* Guessing the combination lock of the vault by looking around.
+  * Look to "characteristics of bad passwords."
+* Deepsound (again!)
+* "AirDream Advanced Metering;" research by reading PDFs/tech manuals/white papers (this is the part that takes the most time…)
+* Dark Army is following Darlene
+* (Evading) physical surveillance - https://protectioncircle.org/2016/06/14/surveillance-evasion/
+* "Using the backdoor we planted; I installed the patch four weeks and I've been monitoring it daily." […]
+* "[Phone home](https://en.wikipedia.org/wiki/Phoning_home)"
+* "Reroute (AirDream's) traffic"
+* Chain of custody with the dat file - see [handling instructions for digital evidence](http://forensicswiki.org/wiki/Digital_evidence#Handling)
+* "[Airgapped](https://en.wikipedia.org/wiki/Air_gap_%28networking%29) your network"
+* "Implemented a [honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))"
+  * Vendors, such as [Canary](https://canary.tools/)
+* Are Tyrell's GNU/Linux terminal skillz legit? (Pretty much.)
+  * `find`
+  * `/opt/2/task/2/fdinfo`
+    * <-- `f`ile `d`escriptor `info`rmation (look up "file descriptors")
+    * <-- Read about the GNU/Linux [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) for what is in the `/opt` directory (see also LSB, the [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base), a related standard)
+  * `ls -l`
+* "The ASA Firewall", meaning the [Cisco ASA series device](https://www.cisco.com/c/en/us/products/security/asa-firepower-services/index.html), is a high-end Cisco product that provides network security solition
+* Angela tells Elliot about a doxxing threat
+
+# Week 9 (S01E09)
 
 > 🚧 TK-TODO
