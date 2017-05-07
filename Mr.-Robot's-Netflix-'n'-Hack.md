@@ -526,6 +526,7 @@ During post-show discussion, we brought up:
   * Free software "[Request Tracker](https://en.wikipedia.org/wiki/Request_Tracker)"
   * Wikipedia maintains [a huge list](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), of course
 * Elliot hacks himself -> people search sites, FamilyTreeNow, getting real estate deeds and other legal documents, basically "self-doxxing"
+  * [Erasing oneself from the Internet](https://gizmodo.com/how-to-erase-yourself-from-the-internet-1456270634)
 * Deepsound, but reading instead of writing data this time
 * Shared folders on a VM (`/home/VMShare`) http://virtuatopia.com/index.php/VirtualBox_Shared_Folders
   * Used extensively for development as part of [Vagrant](https://www.vagrantup.com/)
