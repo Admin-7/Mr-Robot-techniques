@@ -509,6 +509,24 @@ During post-show discussion, we brought up:
   * `ls -l`
 * "The ASA Firewall", meaning the [Cisco ASA series device](https://www.cisco.com/c/en/us/products/security/asa-firepower-services/index.html), is a high-end Cisco product that provides network security solition
 * Angela tells Elliot about a doxxing threat
+* [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage) - radio frequency blocking
+  * https://gizmodo.com/193903/faraday-cage-passport-wallets-jams-rfid-chipped-travel-docs
+* WTF is up with that shit about time paranoia?
+  * Managing time (programming concept of [multiple threads](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
+  * [Time-sharing](https://en.wikipedia.org/wiki/Time-sharing)
+  * Timers, and "time-outs", like:
+    * [Watchdog timers](https://en.wikipedia.org/wiki/Watchdog_timer)
+* "Security token" (Gideon's phone)
+* Hacking a Smart TV
+  * https://arstechnica.com/security/2017/03/smart-tv-hack-embeds-attack-code-into-broadcast-signal-no-access-required/
+* Two-factor authentication schemes, such as: time-based one-time password ([TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm))
+  * Google Authenticator ([Wikipedia](https://en.wikipedia.org/wiki/Google_Authenticator))
+  * [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor), see also [YubiKeys](https://www.yubico.com/about/background/fido/)
+* Enterprise ticketing systems "osTicket"
+  * Free software "[Request Tracker](https://en.wikipedia.org/wiki/Request_Tracker)"
+  * Wikipedia maintains [a huge list](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), of course
+* 
+
 
 # Week 9 (S01E09)
 
