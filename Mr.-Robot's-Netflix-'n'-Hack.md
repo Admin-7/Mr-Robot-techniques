@@ -120,8 +120,7 @@ During post-show discussion, we brought up:
   * [Blog post listing malware sources](https://zeltser.com/malware-sample-sources/)
 * "Use your AllSafe security clearance to hack the Comet(R) PLC…"
   * a "PLC" is a [Programmable Logic Controller](https://en.wikipedia.org/wiki/Programmable_logic_controller), embedded devices that are typically used as sensors or controllers for [SCADA](https://en.wikipedia.org/wiki/SCADA) devices (industrial control systems, see also "critical infrastructure," dams, power plants, heating and ventilation [HVAC](https://en.wikipedia.org/wiki/HVAC) and so on)
-  * Read: [Target Hackers Broke in Via HVAC Company](http://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/).
-* ["Worm"](https://en.wikipedia.org/wiki/Computer_worm): an autonomously propagating malware (distinct from "virus")
+  * Read: [Target Hackers Broke in Via HVAC Company](http://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/), [Hackers Find Celebrities’ Weak Links in Their Vendor Chains](https://www.nytimes.com/2017/05/07/technology/hackers-exploit-celebrities-vendor-chains.html)* ["Worm"](https://en.wikipedia.org/wiki/Computer_worm): an autonomously propagating malware (distinct from "virus")
 * Fernando Vera (a drug dealer) "conducts all his transactions via IMs, emails, and text messages."  
   ![Sending an anonymous online tip line on Fernando Vera, :robot: screenshot 📷](https://web.archive.org/web/20170304003134/https://i.imgur.com/ovMz8AL.jpg)
   * Use [Signal](https://whispersystems.org/) to protect IM/txt-style communications.
