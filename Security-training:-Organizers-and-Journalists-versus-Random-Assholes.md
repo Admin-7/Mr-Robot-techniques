@@ -79,4 +79,4 @@ Before you dive too deeply into this practice material, you should first explore
 
 ## Helpful tools
 
-* Use OnionShare/TorBrowser or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
+* Use Signal to share phone-size files with other Signal users. For larger caches, [use OnionShare/TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md) or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
