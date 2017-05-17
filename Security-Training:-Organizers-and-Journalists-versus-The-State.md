@@ -77,6 +77,7 @@ Before you dive too deeply into this practice material, you should first explore
 
 * Use alternate service providers (don't use Google's GMail)
   * See [LibreProjects.net, a list of hosted alternatives](http://libreprojects.net/)
+  * See [AlternativeTo.net's list of self-hosted options](https://alternativeto.net/platform/self-hosted/)
 * Ideally, use *decentralized* alternate services/networks
   * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
 * [Secure your SSH servers](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
