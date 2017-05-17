@@ -88,3 +88,7 @@ Before you dive too deeply into this practice material, you should first explore
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 * Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
 * Use [MAT](https://mat.boum.org/) (or another tool) to remove document metadata before sharing online (specially if you need to protects your source)
+
+## See also
+
+* [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - a thorough list of "awesome" self-hosted alternatives to managed services
