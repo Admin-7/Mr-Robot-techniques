@@ -24,6 +24,12 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   A humorous look into the abysmal state of online security.
 
+# Triage
+
+> :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
+
+* Deanonymizing Dark Web websites, BSidesVancouver May 2017 https://www.youtube.com/watch?v=ShrZ4B9R3NQ
+
 * * *
 
 See also: [`awesome-sec-talks`, a curated list of awesome Security talks](https://github.com/PaulSec/awesome-sec-talks).
