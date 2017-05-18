@@ -231,7 +231,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [Radical Servers](https://riseup.net/en/security/resources/radical-servers)
 
-  A directory of dozens of radical server projects around the world where you can get free or low-cost email, chat, VPN, social media, and other anti-corporate services. The tools available to you on one or more of these servers can be used as drop-in replacements for the so-called "free" services offered by corporations funded by surveillance capitalism, such as GMail, Facebook, Twitter, OneDrive, Dropbox, and so on. See also [LibreProjects.net](http://libreprojects.net/) for another view of the same information, and [AlternativeTo.net's Open Source Self-Hosted directory](https://alternativeto.net/platform/self-hosted/?license=opensource) for yet another.
+  A directory of dozens of radical server projects around the world where you can get free or low-cost email, chat, VPN, social media, and other anti-corporate services. The tools available to you on one or more of these servers can be used as drop-in replacements for the so-called "free" services offered by corporations funded by surveillance capitalism, such as GMail, Facebook, Twitter, OneDrive, Dropbox, and so on. See also [LibreProjects.net](http://libreprojects.net/) for another view of the same information, and [AlternativeTo.net's "Open Source Self-Hosted" directory](https://alternativeto.net/platform/self-hosted/?license=opensource) for details about the free software powering these anti-corporate services, themselves.
 
 # Other lists
 
