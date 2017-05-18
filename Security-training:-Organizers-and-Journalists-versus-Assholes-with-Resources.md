@@ -75,6 +75,7 @@ Before you dive too deeply into this practice material, you should first explore
 
 * Audit your webserver for information disclosure vulns ([a thorough treatment of webdev security things](https://github.com/FallibleInc/security-guide-for-developers)):
   * Turn off "directory listings" on your webserver
+  * [WordPress users should follow these guidelines](http://www.wpbeginner.com/wordpress-security/)
 * Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 * Prevent spoofing of emails claiming to be from your domain by [implementing DKIM](https://scotthelme.co.uk/email-security-dkim/) for email services you provide
 ## Helpful tools
