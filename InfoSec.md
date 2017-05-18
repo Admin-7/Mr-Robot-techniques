@@ -227,7 +227,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [Current Digital Security Resources](https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c)
 
-   A meta-list of additional security training resources for defenders in various situations, curated by digital security trainers making commitments update the list regularly. (This resource is probably more useful for trainers than it is for students, but it is useful nonetheless.)
+   A meta-list of additional security training resources for defenders in various situations, curated by digital security trainers making commitments update the list regularly. (This resource is probably more useful for trainers than it is for students, but it is useful nonetheless.) See also our own [Persona-based training matrix].
 
 * [Radical Servers](https://riseup.net/en/security/resources/radical-servers)
 
