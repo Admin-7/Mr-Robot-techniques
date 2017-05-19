@@ -202,3 +202,4 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * [MacOS security and Privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A solid and complete guide on securing your MacOS system. You can skip to the sections you want to secure and follow the guide as you want.
 * [Current Digital Security Resources, 2016 Edition](https://medium.com/@mshelton/current-digital-security-resources-5c88ba40ce5c)
 * [Security training resources for security trainers, Winter 2016](https://medium.com/@geminiimatt/security-training-resources-for-security-trainers-winter-2016-edition-4d10670ef8d3)
+* [Penetration Testers’ Guide to Windows 10 Privacy & Security](https://hackernoon.com/the-2017-pentester-guide-to-windows-10-privacy-security-cf734c510b8d)
