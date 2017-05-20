@@ -61,7 +61,6 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [VyOS](https://vyos.io/) is a free software clone of Cisco's iOS, useful if you can't pay for an iOS license
 * On the server's command line:  
   ![Screenshot of using `locate`, `ps` griped to `grep`, :robot: screenshot 📷](https://web.archive.org/web/20170219211851/https://i.imgur.com/4j13i0F.jpg)  
-  ![Screenshot of using `more`, :robot: screenshot 📷](https://web.archive.org/web/20170219211843/https://i.imgur.com/YBQRhNq.jpg)  
   ![Screenshot of using `sudo`, `kill`, and `chmod`, :robot: screenshot 📷](https://web.archive.org/web/20170219211843/https://i.imgur.com/YBQRhNq.jpg)
   * `locate`
   * `ps`
