@@ -48,8 +48,9 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   ![Elliot looks at AllSafe's Security Operations Center (SOC) monitor, :robot: screenshot 📷](https://web.archive.org/web/20170219211108/https://i.imgur.com/dIBabZf.jpg)  
   ![Screenshot of Evil Corp's firewall log file during DDoS attack,  :robot: screenshot 📷](https://web.archive.org/web/20170219211115/https://i.imgur.com/aY1xerf.jpg)
   * Understanding DDoS basics, read "[What is LOIC and can I be arrested for DDoS'ing someone?](https://www.troyhunt.com/what-is-loic-and-can-i-be-arrested-for/)"
-  * [Deep Inside a DNS Amplification DDoS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
+  * [Deep Inside a DNS Amplification DDoS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/), and later, [an NTP amplification DDoS attack](https://blog.cloudflare.com/technical-details-behind-a-400gbps-ntp-amplification-ddos-attack/)
   * "DDoS protection" - really, really big pipes, see [CloudFlare](https://www.cloudflare.com/ddos/), [Google's Project Shield](https://projectshield.withgoogle.com/public/), and [Deflect.ca](https://deflect.ca/)
+  * ["DDoS as Direct Action," chapter three of The Coming Swarm, by Molly Sauter](http://oddletters.com/files/2014/04/Sauter-The-Coming-Swarm-CC-Copy.pdf) (PDF)
 * DNS
 * "fingerblasting"
   * Historical sidenote: read about the [`finger` Protocol](https://en.wikipedia.org/wiki/Finger_protocol)
