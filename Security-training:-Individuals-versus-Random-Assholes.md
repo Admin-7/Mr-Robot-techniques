@@ -79,6 +79,8 @@ There are no prerequisites. The material presented on this page is *relevant to 
 * Audit/improve your social network privacy settings
   * Verify friend requests with actual friends: When you get a Friend request from someone you don't know, but have mutual friends in common, send your mutual friend a private message asking for info about who the supposed person who may have sent the friend request actually is; avoids friending malicious/fake accounts.
 * turn off "auto-pay" (and use Password Manager fill-in instead)
+* Remove "saved fingers" (fingerprint scans) from your smartphone's memory, i.e., use a PIN or passphrase, or if you do choose to use a fingerprint, use only one or two finger's prints. (The more fingers you add, the easier it is for someone who is not you to use *their* fingerprint to open your device.)
+  * [About Touch ID on iPhone and iPad (Apple iOS)](https://support.apple.com/en-ca/HT201371)
 
 ## Helpful tools
 
