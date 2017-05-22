@@ -17,6 +17,7 @@
     * [As Uber Probes Sexual Harassment at Its Offices, It Overlooks Hundreds of Thousands of Female Drivers](https://theintercept.com/2017/05/04/as-uber-probes-sexual-harassment-at-its-offices-it-overlooks-hundreds-of-thousands-of-female-drivers/)
 * Facebook:
     * [Facebook Helped Avertisers Target Teens Who Feel "Worthless"](https://web.archive.org/web/20170501071437/https://arstechnica.com/business/2017/05/facebook-helped-advertisers-target-teens-who-feel-worthless/)
+    * [Leaked policies guiding moderators on what content to allow are likely to fuel debate about social media giant’s ethics](https://www.theguardian.com/news/2017/may/21/revealed-facebook-internal-rulebook-sex-terrorism-violence)
 * Google:
     * [The Secret Lives of Google raters](https://arstechnica.com/features/2017/04/the-secret-lives-of-google-raters/), and its followup, [Google Rater Fired After Speaking to Ars About Work Conditions](https://arstechnica.com/business/2017/05/google-rater-fired-after-speaking-to-ars-about-work-conditions/)
     * [Andrew Norman Wilson fired for "ScanOps" and talking to co-workers](http://www.businessinsider.com/at-google-talking-to-coworkers-can-get-you-fired-2011-4/). Here is [Wilson's "Workers Leaving the Factory," and his explanation of his getting fired](https://www.youtube.com/watch?v=w0RTgOuoi2k). And [here is Wilson talking to Laurel Ptak about the project](http://aperture.org/magazine-2013/andrew-norman-wilson-with-laurel-ptak-scanops/). Wilson can be contacted through [his website](http://www.andrewnormanwilson.com/).
