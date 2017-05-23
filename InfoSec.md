@@ -34,6 +34,8 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 
 > ℹ️ **A note on netiquette.** While each of these gaming styles offer educational opportunities, most have slightly different etiquette. For instance, it's customary for participants to publish solutions to the challenges presented during CTF competitions in the form of writeups on blogs, but this is discouraged by many hacking challenge sites. Take a moment to familiarize yourself with the publisher of the challenge you're tackling before you publish your solution to the whole Internet, as you may be spoiling the fun of the game for others.
 
+> 💡 **There are more resources on this wiki.** If you do end up tackling some of these hacking puzzlers, you'll definitely find some help elsewhere on this wiki, or the [AnarchoTechNYC CTF team's wiki](https://github.com/AnarchoTechNYC/CTF/wiki). For instance, sooner rather than later you'll find yourself [[identifying data formats]] you never recognized before.
+
 ## CTFs
 
 ### CTF calendars and archives
