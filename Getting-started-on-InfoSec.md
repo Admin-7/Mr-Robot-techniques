@@ -7,7 +7,10 @@ Even if you're someone who usually just throws themselves into things you find i
 > ```markdown
 > # Brief summary or synopsis in a single sentence.
 > 
-> Paragraph introducing your rationale for why you suggest this approach, why it worked for you, what was good about it, and so on. Maybe also include some caveats or some things you wish you'd known about this approach before you started down it.
+> Paragraph introducing your rationale for why you suggest this approach,
+> why it worked for you, what was good about it, and so on. Maybe also include
+> some caveats or some things you wish you'd known about this approach before
+> you started down it.
 >
 > **Do this:**
 > 
