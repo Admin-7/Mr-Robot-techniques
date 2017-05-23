@@ -1,1 +1,1 @@
-See [[Getting started in InfoSec]].
+See [[Getting started on InfoSec]].
