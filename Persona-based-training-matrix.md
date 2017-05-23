@@ -17,6 +17,7 @@ There are two types of personas consisting of three broad groupings. These two t
        1. [Random Assholes](#random-assholes)
        1. [Assholes with Resources](#assholes-with-resources)
        1. [The State](#the-state)
+1. [Triage](#triage)
 
 > 📝 Editor's note: Please read about [the process we're using to create this material](#triage).
 > 
