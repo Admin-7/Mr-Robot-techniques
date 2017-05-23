@@ -79,6 +79,8 @@ Before you dive too deeply into this practice material, you should first explore
 # Security hygiene and habits
 
 * [Don't maintain long-term OpenPGP keys](https://blog.filippo.io/giving-up-on-long-term-pgp/), try following the suggestions in [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155) instead
+* Use *only* hardware you trust:
+  * Replace any commercial firmware on your devices with [LibreBoot](https://libreboot.org/).
 
 ## Helpful tools
 
