@@ -394,6 +394,7 @@ During post-show discussion, we brought up:
   * Printers are often a vulnerable device on corporate networks:
     * Article, [Exploiting Corporate Printers](http://resources.infosecinstitute.com/exploiting-corporate-printers/)
     * Blog post, [Printer Exploitation in Corporate Environments](https://www.hackingloops.com/printer-exploitation-in-corporate-environments/)
+    * Check out the [Hacking-Printers.net](http://hacking-printers.net/) wiki.
     * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
 * Angela uses an iPhone :)
   ![Angela opens her iPhone's home screen to check a missed call, :robot: screenshot 📷](https://web.archive.org/web/20170411221239/https://i.imgur.com/RNWv775.jpg)
