@@ -2,6 +2,8 @@
 
 Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/09/trumps-incoherent-ideas-about-the-cyber/501839/)" that tech antifa folks have played around with/contributed to/enjoyed pentesting in the past.
 
+> 🔰 Are you a newbie and feeling a little overwhelmed by this page? Try our [[starting recommendations|Getting started on InfoSec]].
+
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
     1. [CTFs](#ctfs)
