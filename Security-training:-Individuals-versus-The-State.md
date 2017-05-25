@@ -81,6 +81,10 @@ Before you dive too deeply into this practice material, you should first explore
   1. Does the foreign/local service requires any personal data that may harm you in the future? If so, ask what they do with this information.
   1. Does the foreign/local service have any history with the government/police or any "privacy/corruption" scandal?
   1. Does the foreign/local service keep a [Canary Statement](https://en.wikipedia.org/wiki/Warrant_canary)? Check [Canary Watch](https://canarywatch.org) to see if your service is listed there, and if not, mail them asking if they keep such information public.
+* Opt-out, delete, and disable any of the various "personalization" features and advertiser networks:
+  * [Google's MyActivity](https://myactivity.google.com/)
+  * [Facebook's Ads Preferences](https://www.facebook.com/ads/preferences/)
+  * [Your Twitter Data](https://twitter.com/settings/your_twitter_data)
 
 ## Security hygiene and habits
 
