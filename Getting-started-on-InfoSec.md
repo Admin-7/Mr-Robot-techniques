@@ -15,8 +15,8 @@ Even if you're someone who usually just throws themselves into things you find i
 > **Do this:**
 > 
 > 1. First step.
-> 2. Second step.
-> 3. Third step. (And so on….)
+> 1. Second step.
+> 1. Third step. (And so on….)
 > ```
 
 # "Start with Mr. Robot, and pair it with the syllabus."
