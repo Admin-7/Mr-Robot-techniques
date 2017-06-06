@@ -391,6 +391,7 @@ During post-show discussion, we brought up:
     * [List of printers which do or do not display tracking dots](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots)
     * [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
   * Article, [Government Uses Color Laser Printer Technology to Track Documents](http://www.pcworld.com/article/118664/article.html)
+  * Real-life example: [How the NSA tracked down and arrested the "Reality Winner" leaker](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html)
   * Printers are often a vulnerable device on corporate networks:
     * Article, [Exploiting Corporate Printers](http://resources.infosecinstitute.com/exploiting-corporate-printers/)
     * Blog post, [Printer Exploitation in Corporate Environments](https://www.hackingloops.com/printer-exploitation-in-corporate-environments/)
