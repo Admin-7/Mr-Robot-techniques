@@ -9,6 +9,6 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 * [Better Angels Collective](https://betterangels.github.io/) - a wholly virtual "anarchist collective creating liberatory software."
 * [Between the lines](http://betweenthelines.github.io/) - a small collective with a focus on creating tools/notes on privacy and protest.
 * [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
-* [MACC's CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
+* [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
 * [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - an Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
 * [Woodbine Health Autonomy Collective](http://woodbine.nyc/) - A nexus of several autonomously organizing groups uniting against the end of the world.
