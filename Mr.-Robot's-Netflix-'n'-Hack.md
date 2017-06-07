@@ -119,7 +119,7 @@ During post-show discussion, we brought up:
 * "Who knows how deep these data dumps will get?"
   * "Data dump" is data acquired from a breach; read [Troy Hunt on how he verifies data breaches](https://www.troyhunt.com/heres-how-i-verify-data-breaches/)
   * Also sign up for https://HaveIBeenPwned.org
-  * DO. NOT. RE. USE. PASSWORDS. Password managers like [LastPass](http://lastpass.com/), [KeePass](http://keepass.info/), 1Password, etc.
+  * DO. NOT. RE. USE. PASSWORDS. Do [use password managers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john#using-a-password-manager) like [LastPass](http://lastpass.com/), [KeePass](http://keepass.info/), 1Password, etc.
 * Darlene is a "malware coder," writes exploits:
   * [McAffee's malware search database](http://www.mcafee.com/threat-intelligence/malware/latest.aspx)
   * [Blog post listing malware sources](https://zeltser.com/malware-sample-sources/)
