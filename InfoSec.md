@@ -253,6 +253,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 * [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
+* [NetSec Focus - Learning Resources](https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/htmlview)
 * [Sneakerhax's Getting Started Resources](https://github.com/sneakerhax/Resources/blob/master/links/getting-started.md)
 
 ***
