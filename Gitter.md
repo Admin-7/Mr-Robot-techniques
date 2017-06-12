@@ -27,11 +27,13 @@ Not all chatters can change the welcome message. If you can't, and you'd like to
 
 > This is a general purpose chat room for [AnarchoTechNYC](https://github.com/AnarchoTechNYC), your friendly neighborhood anarchist tech collective. Come on in and introduce yourself! Stick around even if you don't get a response immediately; sometimes we're just not at our keyboards.
 > 
-> While you're here, we expect you'll do your best to abide by these three additional social rules, which are designed to facilitate a collaborative and generous environment:
+> While you're here, we expect you'll do your best to abide by these social rules, which are designed to facilitate a collaborative and generous environment:
 > 
 > 1. **Be supportive; no feigning surprise.** This just means that you shouldn't act surprised when someone else doesn't know something, whether it be technical or non-technical. ("What? You don't know what a pull request is?!" Or "I can't believe you've never heard of Beyoncés Lemonade!!!eleventy!") Everyone has gaps in our knowledge. Is it really so surprising? Use this as an opportunity to support one another develop our skills and expand our horizons instead of tearing one another down by exaggerating other people's ignorance.
 > 1. **Be proportional; no well-actually's.** A well-actually happens when someone says something that's almost but not entirely correct, and you say, "well, actually…" and then give a minor correction. The keyword here is "minor." It's okay to join a conversation mid-way through to offer your own view or correct a fundamental misunderstanding—we're here to learn and grow, after all—but these sorts of interjections are especially annoying when the correction has no real bearing on the conversation. A well-actually is always about grandstanding, not knowledge-seeking.
 > 1. **Be engaged; no back-seat driving.** This just means that if you're going to engage in a conversation, commit to actually having it. Don't just lob advice into the chat and then disappear. If you have to go away-from-keyboard for a while, say so. Better yet, wait until you have enough time to spend helping someone else work through their issue. In other words, fully engage, rather than butting in sporadically.
+> 
+> Learn more about [why we have social rules](https://github.com/AnarchoTechNYC/meta/wiki/Social-rules#why-have-social-rules).
 
 ## CTF
 
