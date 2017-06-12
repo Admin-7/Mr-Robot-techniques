@@ -8,6 +8,7 @@ In order to help collective members get their work done, learn new things and sk
     1. [Be engaged; no back-seat driving.](#be-engaged-no-back-seat-driving)
     1. [Keep it legal when in public; no requests for illegal activity.](#keep-it-legal-when-in-public-no-requests-for-illegal-activity)
     1. [Within reason, assume good faith; no badjacketing.](#within-reason-assume-good-faith-no-badjacketing)
+    1. [Be serious about the politics; no devil's advocates.](#be-serious-about-the-politics-no-devils-advocates)
 * [Why have "social rules"?](#why-have-social-rules)
     * [But you're *anarchists*…?](#but-youre-anarchists)
 
