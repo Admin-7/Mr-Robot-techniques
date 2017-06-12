@@ -28,7 +28,7 @@ This just means that if you're going to engage in a conversation, commit to actu
 
 ## Keep it legal when in public; no requests for illegal activity.
 
-As an explicitly anarchist political space, we are immediately suspicious of anyone, especially newcomers or people we don't know well, asking us to do illegal things. This is not to say that everyone who does this is a fed—many people do not even realize just how deeply rooted in universal criminality this country's legal regime is, especially when it comes to computer activity—but we have good reasons to be careful. Please don't make it easy for the State's agents to entrap you. And please don't ask to hack on your behalf.
+As an explicitly anarchist political space, we are immediately suspicious of anyone, especially newcomers or people we don't know well, asking us to do illegal things. This is not to say that everyone who does this is a fed—many people do not even realize just how deeply rooted in universal criminality this country's legal regime is, especially when it comes to computer activity—but we have good reasons to be careful. Please don't make it easy for the State's agents to entrap you. And please don't ask us to hack on your behalf.
 
 ## Within reason, assume good faith; no badjacketing.
 
@@ -40,7 +40,7 @@ We take anti-racism, feminism, queer liberation, anti-fascism, and anti-capitali
 
 # Why have "social rules"?
 
-Whether we explicitly acknowledge it or not, all social spaces conform to some set of social norms to some degree or another. This is called *culture*. The goal isn't to burden everyone with a bunch of bullshit bureaucracy, nor is it give us a stick to bludgeon people with for "being bad." Rather, these rules are designed to help all of us build a fearless community based on mutual support and grounded in neighborly camaraderie.
+Whether we explicitly acknowledge it or not, all social spaces conform to some set of social norms to some degree or another. This is called *culture*. The goal isn't to burden everyone with a bunch of bullshit bureaucracy, nor is it to give us a stick to bludgeon people with for "being bad." Rather, these rules are designed to help all of us build a fearless community based on mutual support and grounded in neighborly camaraderie.
 
 If someone says, "hey, you just feigned surprise," or "that's subtly sexist," don't worry. Just apologize, reflect for a second, and move on. It doesn't mean you're a "bad" person, or even a "bad" anarchist. As we said above, these rules are meant to be lightweight. We've all done these things before. The goal is to do them less in the future, to mitigate their disruptive or hurtful impact when they do happen, and to practice care for one another when—not if—we are feeling bad. The goal is *not* to become a pure, sinless creature who will one day deserve for the Gates of Heaven to open for us.
 
