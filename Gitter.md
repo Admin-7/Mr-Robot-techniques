@@ -37,6 +37,24 @@ Not all chatters can change the welcome message. If you can't, and you'd like to
 
 The AnarchoTechNYC CTF room on Gitter is a private channel used by the collective's [CTF](https://github.com/AnarchoTechNYC/CTF) team members. The [[CTF team]] is a semi-private cybersecurity study group that coordinates educational [[hacking challenges|InfoSec#ctfs-and-hacking-games]] and participates in security competitions. It is a beginner-friendly team that focuses on education, autonomy, and skill sharing, not necessarily scoring points or winning prizes.
 
+### CTF room welcome message
+
+Our Gitter chat room is configured to show the following "Welcome message" to users who join. ([It looks something like this](https://github.com/jupyter/jupyter/issues/175#issue-161476981).)
+
+> 📝 Please do try to keep this text synchronized with the actual welcome message in the room. :) ❤️
+
+Not all chatters can change the welcome message. If you can't, and you'd like to propose a change to it, you're welcome to edit the text below:
+
+> This is [AnarchoTechNYC](https://github.com/AnarchoTechNYC/CTF/#readme)'s [Capture The Flag team](https://ctftime.org/team/34635) chat channel. We use this room to coordinate activity during [CTF competitions](https://github.com/AnarchoTechNYC/meta/wiki/InfoSec#ctfs-and-hacking-games) and for general cybersecurity practice chatter.
+> 
+> Please remember that this is *not* really a "secure" channel, so:
+> 
+> * **No requests for illegal activity.** Please don't make it easy for the State's agents to entrap you.
+> * **No badjacketing.** Please do not do the State's work for them. ([Read more about badjacketing](https://twincitiesgdc.org/badjacketing/).)
+> * **Abide our Social Rules.** Please, no feigning surprise, no well-actually's, and no back-seat driving. [Read more about our three lightweight social rules and general social expectations](https://github.com/AnarchoTechNYC/meta/wiki/Social-rules).
+> 
+> Basically, keep the conversation focused on technical matters. :)
+
 # Other rooms
 
 Our work often overlaps with the work being done by [[our friends in other collectives|Accomplices and allies]]. Some of these other groups also use Gitter, so you'll find conversations are sometimes fragmented across multiple rooms. A few of these other rooms are listed here for your convenience:
