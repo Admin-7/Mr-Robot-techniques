@@ -32,7 +32,7 @@ As an explicitly anarchist political space, we are immediately suspicious of any
 
 ## Within reason, assume good faith; no badjacketing.
 
-We are here to support one another in learning, organizing, and revolutionizing both our material circumstances and social culture. This means that we must nurture trust in our relationships, grow to love one another as neighbors, friends, and comrades, and offer solidarity to one another's political struggles because we recognize that liberation and freedom will not come to any one of us if it does not come to all of us. To do that, we must resist paranoia, remain skeptical of baseless accusations against our own, and counter attempts to consolidate social power by sewing distrust. In short, please do not do the State's work for them. ([Read more about badjacketing](https://twincitiesgdc.org/badjacketing/).)
+We are here to support one another in learning, organizing, and revolutionizing both our material circumstances and social culture. This means that we must nurture trust in our relationships, grow to love one another as neighbors, friends, and comrades, and offer solidarity to one another's political struggles because we recognize that liberation and freedom will not come to any one of us if it does not come to all of us. To do that, we must resist paranoia, remain skeptical of baseless accusations against our own, and counter attempts to consolidate social capital by sewing distrust. In short, please do not do the State's work for them. ([Read more about badjacketing](https://twincitiesgdc.org/badjacketing/).)
 
 ## Be serious about the politics; no devil's advocates.
 
