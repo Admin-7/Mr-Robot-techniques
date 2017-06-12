@@ -36,7 +36,7 @@ We are here to support one another in learning, organizing, and revolutionizing 
 
 ## Be serious about the politics; no devil's advocates.
 
-We take anti-racism, feminism, queer liberation, anti-fascism, and anti-capitalism very seriously. Participants who don't share our exact politics are welcome to work with us towards shared ends, and to learn about our politics by asking genuine questions. However, debating the merits of these positions or acting to undermine them while we are trying to Get Shit Done is intolerable and unwelcome. There are plenty of other places both on and off the Internet where you can go to debate politics in the abstract, or immerse yourself in viewpoints that differ from these. Please do not waste the time and space we have together.
+We take anti-racism, feminism, queer liberation, anti-fascism, and anti-capitalism very seriously. Participants who don't share our exact politics are welcome to work with us towards shared ends, and to learn about our politics by asking genuine questions. However, debating the merits of these positions or acting to undermine them while we are trying to Get Shit Done is intolerable and unwelcome. There are plenty of other places both on and off the Internet where you can go to debate politics in the abstract, or immerse yourself in viewpoints that differ from these. Please do not waste the time and space we have together by "playing devil's advocate," even for the lulz.
 
 # Why have "social rules"?
 
