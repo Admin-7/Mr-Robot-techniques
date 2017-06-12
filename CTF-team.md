@@ -8,6 +8,8 @@ We have a semi-private, eponymous [[Capture The Flag|InfoSec#ctfs-and-hacking-ga
 > 🔰 **This is a strictly beginner-friendly team.** While there are members of various skill levels, this team is expressly designed to be a valuable team to join if you have never before participated in CTF competitions. Team organizers are strict about maintaining an expressly educational environment, while de-emphasizing competition and score-keeping, and actively promoting cooperation and knowledge sharing.
 > 
 > More **advanced members are expected to act as mentors, trainers, tutors, and compassionate educators.** Advanced/experienced team members who are uninterested in being patient educators are encouraged to create their own CTF teams elsewhere. Advanced players who undermine educational opportunities of less-experienced team members, or who prioritize competition above education, will be forcibly removed from the team in order to maintain a beginner-friendly atmosphere.
+> 
+> For more information, please read about our [[Social rules]].
 
 * [How to join](#how-to-join)
   * [Step-by-step instructions](#step-by-step-instructions)
