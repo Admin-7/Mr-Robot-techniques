@@ -282,7 +282,7 @@ During post-show discussion, we brought up:
   * [`tar`](https://en.wikipedia.org/wiki/Tar_%28computing%29), a command to create a single file ("archive") out of many
 * "Error 404 Not Found", a well-known HTTP status code
   * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
-* Getting rid of mobile phones to avoid being tracked by Law Enforcement Officers (LEOs) through [cell tower dumps](https://www.aclu.org/blog/cell-tower-dumps-another-surveillance-technique-another-set-unanswered-questions) or by an [IMSI-catcher](https://en.wikipedia.org/wiki/IMSI-catcher) (a "Stingray"), or other hackers via [VoLTE vulerabilities](https://www.bleepingcomputer.com/news/security/hackers-can-spoof-phone-numbers-track-users-via-4g-volte-mobile-technology/)
+* Getting rid of mobile phones to avoid being tracked by Law Enforcement Officers (LEOs) through [cell tower dumps](https://www.aclu.org/blog/cell-tower-dumps-another-surveillance-technique-another-set-unanswered-questions) or by an [IMSI-catcher](https://en.wikipedia.org/wiki/IMSI-catcher) (a "Stingray"), or other hackers via [VoLTE vulnerabilities](https://www.bleepingcomputer.com/news/security/hackers-can-spoof-phone-numbers-track-users-via-4g-volte-mobile-technology/)
   * [Wired: Cops and Feds Routinely ‘Dump’ Cell Towers to Track Everyone Nearby](https://www.wired.com/2013/12/massive-domestic-monitorning/)
   * [ACLU: Stingray Tracking Devices, Who's Got Them?](https://www.aclu.org/map/stingray-tracking-devices-whos-got-them)
   * [PrivacySOS.org: How to Defeat FBI or Police Stingray Surveillance](https://privacysos.org/blog/how-to-defeat-fbi-or-police-stingray-surveillance/)
