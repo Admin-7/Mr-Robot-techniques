@@ -47,6 +47,6 @@ For BitCoin, you can:
 
 Donations cannot be earmarked; they go to equipment purchases and repairs, snacks and refreshments, venue rental fees, and direct financial support to active collective members in need, as we deem necessary.
 
-But **please remember** that while cash is nice, but what we really need it for are these other materials (food, drink, materials, and other necessitates). We would far prefer to simply acquire those other necessities of life directly, without the need for something so capitalist as money. So, **other ways to support our events include** showing up early to help set up, helping clean up afterwards, bringing food and refreshments yourself, and **doing anything that the money would go for yourself, directly.**
+But **please remember** that while cash is nice, what we really need it for are these other materials (food, drink, materials, and other necessitates). We would far prefer to simply acquire those other necessities of life directly, without the need for something so capitalist as money. So, **other ways to support our events include** showing up early to help set up, helping clean up afterwards, bringing food and refreshments yourself, and **doing anything that the money would go for yourself, directly.**
 
 TL:DR; We do not sell anything, but we still need to survive in capitalism. If you like what we're doing here and want it to continue, please use some of your money to free our time so that we can do more of this and less of wage slavery. Thanks!
