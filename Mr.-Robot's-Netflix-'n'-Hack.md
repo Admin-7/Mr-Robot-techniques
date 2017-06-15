@@ -517,7 +517,7 @@ During post-show discussion, we brought up:
 * "The ASA Firewall", meaning the [Cisco ASA series device](https://www.cisco.com/c/en/us/products/security/asa-firepower-services/index.html), is a high-end Cisco product that provides network security solition
 * Angela tells Elliot about a doxxing threat
 * [Faraday cage](https://en.wikipedia.org/wiki/Faraday_cage) - radio frequency blocking
-  * https://gizmodo.com/193903/faraday-cage-passport-wallets-jams-rfid-chipped-travel-docs
+  * https://thelede.blogs.nytimes.com/2013/06/25/why-snowdens-visitors-put-their-phones-in-the-fridge/  * https://gizmodo.com/193903/faraday-cage-passport-wallets-jams-rfid-chipped-travel-docs
 * WTF is up with that shit about time paranoia?
   * Managing time (programming concept of [multiple threads](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)))
   * [Time-sharing](https://en.wikipedia.org/wiki/Time-sharing)
