@@ -248,6 +248,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+* [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
