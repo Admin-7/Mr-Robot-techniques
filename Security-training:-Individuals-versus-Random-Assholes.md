@@ -67,12 +67,7 @@
 
 There are no prerequisites. The material presented on this page is *relevant to every persona and every risk level*. These practices therefore represent *a minimum level of best-practice* and are foundational to every other risk assessment presented in this framework.
 
-## Data management
-
 * Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
-
-## Security hygiene and habits
-
 * Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
@@ -81,8 +76,5 @@ There are no prerequisites. The material presented on this page is *relevant to 
 * turn off "auto-pay" (and use Password Manager fill-in instead)
 * Remove "saved fingers" (fingerprint scans) from your smartphone's memory, i.e., use a PIN or passphrase, or if you do choose to use a fingerprint, use only one or two finger's prints. (The more fingers you add, the easier it is for someone who is not you to use *their* fingerprint to open your device.)
   * [About Touch ID on iPhone and iPad (Apple iOS)](https://support.apple.com/en-ca/HT201371)
-
-## Helpful tools
-
 * Use a password manager (and all that that entails!)
   * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
