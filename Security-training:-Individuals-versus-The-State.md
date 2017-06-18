@@ -70,7 +70,7 @@ Before you dive too deeply into this practice material, you should first explore
 1. [[Security training: Individuals versus Random Assholes]]
 1. [[Security training: Individuals versus Assholes with Resources]]
 
-## Data management
+## Practices
 
 * Encrypt your phone/laptop disk at rest (FileVault, Android Encryption, LUKS/cryptsetup)
 * Make sure you read the privacy terms/terms of service/terms and policies of a service you sign up for. Remember, when you sign up for a online service, you are agreeing on a contract.
@@ -85,9 +85,6 @@ Before you dive too deeply into this practice material, you should first explore
   * [Google's MyActivity](https://myactivity.google.com/)
   * [Facebook's Ads Preferences](https://www.facebook.com/ads/preferences/)
   * [Your Twitter Data](https://twitter.com/settings/your_twitter_data)
-
-## Security hygiene and habits
-
 * Use passphrases, not biometric unlock features such as fingerprints
 * Use passphrases for locking your phone instead of PIN or Pattern.
 * Use cash whenever possible, not a credit card or electronic payment system
@@ -102,13 +99,12 @@ Before you dive too deeply into this practice material, you should first explore
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
 * Don't use the default DNS your network provides, most of them are used for surveillance and profiling. Use [DNSCrypt](https://dnscrypt.org/) instead or the DNS provided by [OpenNIC Project](https://www.opennicproject.org/).
 * [Disable third-party cookies](https://www.howtogeek.com/241006/how-to-block-third-party-cookies-in-every-web-browser/) (and then [verify your browser is obeying your settings](https://www.grc.com/cookies/forensics.htm)).
-
-## Helpful tools
-
 * Use certificate transparency monitoring tools ([like Facebook's](https://developers.facebook.com/tools/ct/)) to further check the trustworthiness of a given certificate (but, because FB is shit, they require you be logged in to a FB account)
 * Use [TermsOfService;Didn't Read](https://tosdr.org/) to get up-to-speed on legal terms for a given service you're considering using.
 * Turn off JavaScript using blockers such as [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) and [NoScript](https://noscript.net/) and re-enable it only on sites you purposefully visit
 * Use [HTTPS Everywhere](https://www.eff.org/https-everywhere%20) so you make sure you send data to the service using HTTPS and not HTTP.
 * Use the [Direct Links](http://canisbos.com/directlinks) extension to circumvent common Google/Facebook click tracking techniques.
 
-Also, a guide: [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
+# See also
+
+* [Digital Security Tips for Protesters](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
