@@ -69,14 +69,8 @@ Before you dive too deeply into this practice material, you should first explore
 
 1. [[Security training: Individuals versus Random Assholes]]
 
-## Data management
+## Practices
 
 * Use a [WHOIS privacy ("Domain privacy")](https://en.wikipedia.org/wiki/Domain_privacy) service (or, if you're okay taking the small risk, provide inaccurate WHOIS information)
-
-## Security hygiene and habits
-
 * 2FA (on your own accounts and, if you're running a group blog, on your blog site, etc.)
-
-## Helpful tools
-
-* Use Signal to share phone-size files with other Signal users. For larger caches, [use OnionShare/TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md) or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
+* Use [Signal](https://whispersystems.org/) to share phone-size files with other Signal users. For larger caches, [use OnionShare/TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md) or share.RiseUp.net or [Magic Wormhole](https://github.com/warner/magic-wormhole) to share files rather than public Dropbox/Google Docs, etc.
