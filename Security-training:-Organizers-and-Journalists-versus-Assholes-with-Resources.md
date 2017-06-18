@@ -71,16 +71,14 @@ Before you dive too deeply into this practice material, you should first explore
 1. [[Security training: Individuals versus Assholes with Resources]]
 1. [[Security training: Organizers and Journalists versus Random Assholes]]
 
-## Security hygiene and habits
+## Practices
 
 * Audit your webserver for information disclosure vulns ([a thorough treatment of webdev security things](https://github.com/FallibleInc/security-guide-for-developers)):
   * Turn off "directory listings" on your webserver
   * [WordPress users should follow these guidelines](http://www.wpbeginner.com/wordpress-security/)
 * Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 * Prevent spoofing of emails claiming to be from your domain by [implementing DKIM](https://scotthelme.co.uk/email-security-dkim/) for email services you provide
-## Helpful tools
-
-* On your server(s), use LetsEncrypt to enable TLS connections (for Web+Mail+any hosted service)
-* Use Tor to hide your physical-world location
+* On your server(s), use [LetsEncrypt](https://letsencrypt.org/) to enable TLS connections (for Web+Mail+any hosted service)
+* Use [Tor](https://torproject.org/) to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
 * Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
