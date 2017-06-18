@@ -138,9 +138,11 @@ During post-show discussion, we brought up:
   * [Wired: Use These Secret NSA Google Search Tips to Become Your Own Spy Agency](https://www.wired.com/2013/05/nsa-manual-on-hacking-internet/) ([PDF](https://commons.wikimedia.org/wiki/File:Untangling_the_Web.pdf))
   * Reference the [GoogleGuide.com site](http://www.googleguide.com/advanced_operators_reference.html)
   * Can "dork" using other search engines, such as GitHub! See [GitHub dorks](https://github.com/techgaun/github-dorks)
-* Lockpicking
-  * [Toool](http://toool.us/meetings.html) - the largest sport lockpicking group, has meetings in NYC!
+* [Lockpicking](https://github.com/meitar/awesome-lockpicking/#readme)
+  * [TOOOL](http://toool.us/meetings.html) - the largest sport lockpicking group, has meetings in NYC!
   * [Southord](https://www.southord.com/) has good sets!
+  * [LockWiki](http://lockwiki.com/) is a wiki all about compromising the security of lockd, safes, and keys.
+  * This is part of "physical security," often abbreviated as PHYSEC.
 * DeepSound (again)
 * "My album just dropped. … Check track 2 out!" - > social engineering to get Windows malware via autorun on CD
   * [Prevent viruses from using AutoRun to spread](https://support.symantec.com/en_US/article.TECH104447.html)
