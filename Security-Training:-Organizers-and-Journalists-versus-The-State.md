@@ -73,7 +73,7 @@ Before you dive too deeply into this practice material, you should first explore
 1. [[Security training: Organizers and Journalists versus Random Assholes]]
 1. [[Security training: Organizers and Journalists versus Assholes with Resources]]
 
-## Security hygiene and habits
+# Practices
 
 * Use alternate service providers (don't use Google's GMail)
   * See [LibreProjects.net, a list of hosted alternatives](http://libreprojects.net/)
@@ -82,9 +82,6 @@ Before you dive too deeply into this practice material, you should first explore
   * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
 * [Secure your SSH servers](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
 * Use [DNS CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) records to help cut down on TLS certificate spoofing.
-
-## Helpful tools
-
 * Use Tor!!!!!11! (or a VPN)
 * Host sites somewhere safe (privacytools.io)
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
