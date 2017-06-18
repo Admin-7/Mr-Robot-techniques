@@ -67,6 +67,8 @@
 
 There are no prerequisites. The material presented on this page is *relevant to every persona and every risk level*. These practices therefore represent *a minimum level of best-practice* and are foundational to every other risk assessment presented in this framework.
 
+## Practices
+
 * Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
 * Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
