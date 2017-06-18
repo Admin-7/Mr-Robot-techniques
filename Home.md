@@ -20,7 +20,7 @@ One of the best parts of AnarchoTechNYC are the regular activities and tradition
 * [[Capture The Flag (CTF) gaming|CTF team]] - An irregular cybersecurity study group participating in online wargaming competitions.
 * [[Cyborg clinic]] - holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it
 * [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
-* [[Lockpicking Club]] - A locksport practice session and meditative discussion circle.
+* [[Lockpicking club]] - A locksport practice session and meditative discussion circle.
 
 Our events are **always free** to attend, but we do need your help to sustain our activities. If you have the means, please consider [donating via PayPal](https://www.paypal.me/AnarchoTechNYC), [BitCoin](bitcoin:17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr?label=AnarchoTechNYC), or with cash in person. (There will almost certainly be a large glass tip jar.) For more details, please read [Donations and support](#donations-and-support).
 
