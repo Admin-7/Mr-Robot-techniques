@@ -72,9 +72,6 @@ Before you dive too deeply into this practice material, you should first explore
 ## Practices
 
 * [Firefox: Enable punycode in International Domain Names (IDN) display to thwart phishing](https://www.xudongz.com/blog/2017/idn-phishing/)
-
-## Security hygiene and habits
-
 * Audit/revoke your social network account "Connected Apps" settings for apps you don't use
   * [For Twitter](https://myshadow.org/how-to-increase-your-privacy-on-twitter)
   * [For Google](https://myaccount.google.com/security#connectedapps)
@@ -84,9 +81,6 @@ Before you dive too deeply into this practice material, you should first explore
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
 * turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
 * Turn off auto-play on videos, etc.
-
-## Helpful tools
-
 * Adblockers (uBlock Origin, etc.)
 * Clear cookies (cookie-clearing/whitelisting plugins)
 * Signal (because of authentication, not just for encryption)
