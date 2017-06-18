@@ -76,15 +76,12 @@ Before you dive too deeply into this practice material, you should first explore
 1. [[Security training: Targeted Activists versus Random Assholes]]
 1. [[Security training: Targeted Activists versus Assholes with Resources]]
 
-# Security hygiene and habits
+# Practices
 
 * [Don't maintain long-term OpenPGP keys](https://blog.filippo.io/giving-up-on-long-term-pgp/), try following the suggestions in [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155) instead
 * Use *only* hardware you trust:
   * Replace any commercial firmware on your devices with [LibreBoot](https://libreboot.org/).
   * If you can't use LibreBoot, at least [patch your Intel-based logic boards](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00075&languageid=en-fr) against CVE-2017-5689 (see [Wikipedia](https://en.wikipedia.org/wiki/Intel_Active_Management_Technology#Silent_Bob_is_Silent)). (See [this HowToGeek article for more on the legitimate use of Intel ME](https://www.howtogeek.com/56538/how-to-remotely-control-your-pc-even-when-it-crashes/).)
-
-## Helpful tools
-
-* encrypted email (GPG)
+* "Use encrypted email." (OpenPGP/GPG/PGP)
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
