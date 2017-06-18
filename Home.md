@@ -18,9 +18,9 @@ If you're looking to get involved, consider exploring this wiki! There's plenty 
 One of the best parts of AnarchoTechNYC are the regular activities and traditions that tech antifa folks have created over the years. Some are ongoing activities while others are one-offs, but any can be revived and new ones created by *you* at any time! Some of our more consistent activities are listed below, but be sure to check out the [[Activities and events]] portal page for a full list.
 
 * [[Capture The Flag (CTF) gaming|CTF team]] - An irregular cybersecurity study group participating in online wargaming competitions.
-* [[Cyborg clinic]] - holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it
-* [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
+* [[Cyborg clinic]] - holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
 * [[Lockpicking club]] - A locksport practice session and meditative discussion circle.
+* [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
 
 Our events are **always free** to attend, but we do need your help to sustain our activities. If you have the means, please consider [donating via PayPal](https://www.paypal.me/AnarchoTechNYC), [BitCoin](bitcoin:17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr?label=AnarchoTechNYC), or with cash in person. (There will almost certainly be a large glass tip jar.) For more details, please read [Donations and support](#donations-and-support).
 
