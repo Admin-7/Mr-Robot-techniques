@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[InfoSec]] ▸ **Getting started on InfoSec**
 
-Even if you're someone who usually just throws themselves into things you find interesting to learn more about it, our [[InfoSec]] page can feel a bit overwhelming. (There's so much…*stuff*…there!) This attempts an even gentler introduction to the same material by compiling recommendations from others who have been there before.
+Even if you're someone who usually just throws themselves into things you find interesting to learn more about it, our [[InfoSec]] page can feel a bit overwhelming. (There's so much…*stuff*…there!) This page attempts an even gentler introduction to the same material by compiling recommendations from others who have been there before.
 
 * [Start with Mr. Robot, and pair it with the syllabus](#start-with-mr-robot-and-pair-it-with-the-syllabus)
 * [Start with a few PicoCTF challenges, then follow up with Hacker Highschool](#start-with-a-few-picoctf-challenges-then-follow-up-with-hacker-highschool)
