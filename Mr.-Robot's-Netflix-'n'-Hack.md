@@ -288,6 +288,7 @@ During post-show discussion, we brought up:
   * [PrivacySOS.org: How to Defeat FBI or Police Stingray Surveillance](https://privacysos.org/blog/how-to-defeat-fbi-or-police-stingray-surveillance/)
 * Employee access cards, usually [RFID](https://en.wikipedia.org/wiki/Radio-frequency_identification) technology activated by proximity  
   ![Angela uses an employee access card to enter AllSafe Cybersecurity offices, :robot: screenshot 📷](https://i.imgur.com/63d95Ip.png)
+  * Read: [Intro to SDR and RF Signal Analysis](https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/)
 * Windows malware via autorun on CD, again! ;)  
   ![A command prompt automatically opens on a Windows PC, :robot: screenshot 📷](https://web.archive.org/web/20170328222528/https://i.imgur.com/ezVDz0j.jpg)
 
