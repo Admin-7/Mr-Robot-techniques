@@ -76,7 +76,7 @@ Before you dive too deeply into this practice material, you should first explore
 1. [[Security training: Targeted Activists versus Random Assholes]]
 1. [[Security training: Targeted Activists versus Assholes with Resources]]
 
-# Practices
+## Practices
 
 * [Don't maintain long-term OpenPGP keys](https://blog.filippo.io/giving-up-on-long-term-pgp/), try following the suggestions in [Operational PGP](https://gist.github.com/grugq/03167bed45e774551155) instead
 * Use *only* hardware you trust:
