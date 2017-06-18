@@ -38,7 +38,7 @@ If TV shows are your thing, and you don't mind using them to study instead of ju
 
 # "Start with a few PicoCTF challenges, then follow up with Hacker Highschool."
 
-For people who prefer to "learn by doing," consider trying your hand at any of the [PicoCTF](https://picoctf.com/) challenges. These hacking puzzles are designed for younger teenagers and are thus an easily approachable starting point for all ages and skill levels. When you get stuck or feel like taking a break, start reading *[Hacker Highschool](http://hackerhighschool.org/lessons.html)* lessons.
+For people who prefer to "learn by doing," consider trying to tackle any of the [PicoCTF](https://picoctf.com/) challenges. These hacking puzzles are designed for younger teenagers and are thus an easily approachable starting point for all ages and skill levels. When you get stuck or feel like taking a break, start reading *[Hacker Highschool](http://hackerhighschool.org/lessons.html)* lessons.
 
 **Do this:**
 
