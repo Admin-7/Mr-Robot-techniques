@@ -24,6 +24,10 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   A humorous look into the abysmal state of online security.
 
+* ["Look Ma, No Exploits!" The Recon-NG Framework - DerbyCon 2013](https://www.youtube.com/watch?v=vkmNTNl6urw)
+
+  Tim Tomes, aka "LaNMaSteR53," introduces `recon-ng`, a free and open source software toolkit for performing OSINT gathering and reconnaissance tasks ahead of penetration tests. The tool is now a staple of online investigators and has hundreds of contributed modules and plugins. Its similarity to and tight integration with Metasploit makes it easy to learn and use for numerous common penetration testing tasks.
+
 # Triage
 
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
