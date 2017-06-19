@@ -22,7 +22,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
 * [Something Something Security, by Troy Hunt](https://www.youtube.com/watch?v=gVXEwfH6FLc)
 
-  A humorous look into the abysmal state of online security.
+  A humorous look into the abysmal state of online security: "How do dormant cyber pathogens spread? Do hackers really wear hoodies while they hack? And how hard is to become a genuine, bona fide evil cyber hacker anyway? These and many more burning cyber security questions will be tackled in a non-stop action packed look at the state of online security."
 
 * ["Look Ma, No Exploits!" The Recon-NG Framework - DerbyCon 2013](https://www.youtube.com/watch?v=vkmNTNl6urw)
 
