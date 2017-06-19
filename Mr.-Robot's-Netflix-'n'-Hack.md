@@ -138,7 +138,8 @@ During post-show discussion, we brought up:
   * [Wired: Use These Secret NSA Google Search Tips to Become Your Own Spy Agency](https://www.wired.com/2013/05/nsa-manual-on-hacking-internet/) ([PDF](https://commons.wikimedia.org/wiki/File:Untangling_the_Web.pdf))
   * Reference the [GoogleGuide.com site](http://www.googleguide.com/advanced_operators_reference.html)
   * Can "dork" using other search engines, such as GitHub! See [GitHub dorks](https://github.com/techgaun/github-dorks)
-* [Lockpicking](https://github.com/meitar/awesome-lockpicking/#readme)
+* [Lockpicking](https://github.com/meitar/awesome-lockpicking/#readme)  
+  ![Elliot picks the lock to Shayla's bathroom door after Fernando Vera leaves, :robot: screenshot 📷](https://web.archive.org/web/20170619201226/https://i.imgur.com/AfM6u6c.jpg)  
   * [TOOOL](http://toool.us/meetings.html) - the largest sport lockpicking group, has meetings in NYC!
   * [Southord](https://www.southord.com/) has good sets!
   * [LockWiki](http://lockwiki.com/) is a wiki all about compromising the security of lockd, safes, and keys.
