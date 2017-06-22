@@ -9,7 +9,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 * [Better Angels Collective](https://betterangels.github.io/) - a wholly virtual "anarchist collective creating liberatory software."
 * [Between the lines](http://betweenthelines.github.io/) - a small collective with a focus on creating tools/notes on privacy and protest.
 * [CMU Tech4Society](https://tech4society.slack.com/) - a student-run organizing committee at Carnegie Mellon University hosting cybersecurity clinics.
-* [Crypto Harlem](https://www.facebook.com/cryptoharlem) - a group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
+* [Crypto Harlem](http://rdewald.com/cryptoharlem/) - a group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
 * [CryptoParty NYC](https://www.cryptoparty.in/nyc) - a decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
 * [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
 * [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
