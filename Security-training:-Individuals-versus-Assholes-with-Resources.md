@@ -87,3 +87,4 @@ Before you dive too deeply into this practice material, you should first explore
 * Tape or a sticker over your webcam to frustrate video recording. (Cheap and easy!)
 * Take a headset (headphones + microphone), chop off the wiring below the sensors, and plug that in to your headset jack to frustrate audio recordings.
 * Avoid transmitting or storing sensitive info such as credit card numbers on old devices that you can't keep up-to-date, use a different device for that
+* Check or [double-check the HTTPS lock icon's exact fingerprint](https://www.grc.com/fingerprints.htm) for important sites like PayPal or Facebook
