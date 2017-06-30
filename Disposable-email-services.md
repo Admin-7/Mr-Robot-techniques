@@ -16,4 +16,4 @@ A **disposable email service** (sometimes also called a "**temporary email addre
 
 * * *
 
-See also: [[InfoSec]], [🌐 FakeNa.me](https://fakena.me/), [🌐 Mailchecker's master JSON-formatted list of additional services](https://github.com/FGRibreau/mailchecker/blob/master/list.json).
+See also: [[InfoSec]], [🌐 FakeNa.me](https://fakena.me/), [🌐 Mailchecker's master JSON-formatted list of additional services](https://github.com/FGRibreau/mailchecker/blob/master/list.json), [🌐 TorVPN.com's Temporary (throwaway) e-mail provider list](https://www.torvpn.com/en/disposable-email).
