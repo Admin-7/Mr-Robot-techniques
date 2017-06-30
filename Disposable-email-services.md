@@ -13,6 +13,7 @@ A **disposable email service** (sometimes also called a "**temporary email addre
 * [FakeMailGenerator.com](http://www.fakemailgenerator.com/)
 * [GuerrillaMail.com](https://www.guerrillamail.com/)
 * [Mailinator.com](https://www.mailinator.com/)
+* [NowMyMail.com](http://nowmymail.com/)
 
 * * *
 
