@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **PhySec**
 
-Resources and initiatives expanding our capacity for physical self- and community-defense that we have participated in and contributed to.
+Resources and initiatives expanding our capacity for physical self- and community-defense that we have participated in, contributed to, or found useful.
 
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [Gyms](#gyms)
