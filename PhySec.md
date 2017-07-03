@@ -30,3 +30,9 @@ Resources and initiatives expanding our capacity for physical self- and communit
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
 * [List of street medic organizations](https://medic.wikia.com/wiki/List_of_street_medic_organizations)
 * [People's Justice for Community Control and Police Accountability: Links](http://peoplesjustice.org/tools/links)
+
+***
+
+See also:
+
+* related pages: [[Security culture]], [[InfoSec]]
