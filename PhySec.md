@@ -4,6 +4,7 @@ Resources and initiatives expanding our capacity for physical self- and communit
 
 1. [At AnarchoTechNYC](#at-anarchotechnyc)
 1. [Gyms](#gyms)
+1. [Training and gear](#training-and-gear)
 1. [Other lists](#other-lists)
 
 # At AnarchoTechNYC
@@ -19,6 +20,12 @@ Resources and initiatives expanding our capacity for physical self- and communit
 
   A physical space in Brooklyn that offers free self-defense, fitness, and skill share classes 7 days a week.
 
+# Training and gear
+
+* [Surveillance Detection On Yourself](https://protectioncircle.org/2016/05/25/surveillance-detection-on-yourself/) - How to determine if you're being followed, especially by people who don't want you to notice that you've got a tail.
+* [How to gear up for a protest](http://www.hopesandfears.com/hopes/city/how-to-gear-up/216551-what-to-wear-protest) - A visual primer on what to wear at a protest that may turn violent.
+
 # Other lists
 
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
+* [List of street medic organizations](https://medic.wikia.com/wiki/List_of_street_medic_organizations)
