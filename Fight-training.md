@@ -1,0 +1,5 @@
+> [[Wiki|Home]] ▸ [[Activities and events]] ▸ **Fight training**
+
+* Tagline: We said we want peace, and we know how to fight for it!
+* Description: We come together and learn together to forge those new relationships, to gain confidence in using our bodies to protect our loved ones and neighbors, and to form communities of resistance against white supremacy and patriarchy. Many of us have been training independently, and many have expressed a need to increase their skills in this arena. We invite folks to come together to get to know each other better, to help each other learn new techniques and practice old ones. Please come wearing clothing in which you are comfortable stretching and sweating. We’ll have equipment on hand, but if you have gloves, mitts, hand wraps, jump ropes, or anything that could be useful, please bring it along. Let’s work it out!
+* See also: [[PhySec]]
