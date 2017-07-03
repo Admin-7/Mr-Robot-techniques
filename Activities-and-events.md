@@ -12,6 +12,7 @@ Activities are things to do with your fellow antifa comrades that are happening 
 
 * [[Capture The Flag (CTF) gaming|CTF team]] - An irregular cybersecurity study group participating in online wargaming competitions.
 * [[Cyborg clinic]] - holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it
+* [[Fight training]] - a recurring self-defense workshop with dedicated variants for women and people who are gender non-conforming.
 * [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
 * [[Lockpicking club]] - A locksport practice session and meditative discussion circle.
 
