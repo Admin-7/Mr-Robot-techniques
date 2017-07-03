@@ -13,6 +13,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 * [CryptoParty NYC](https://www.cryptoparty.in/nyc) - a decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
 * [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
 * [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
+* [PopGym](http://popgym.org/) - a project working towards opening a physical space offering free self-defense classes.
 * [Restore the 4th](https://restorethe4th.com/) - a non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
 * [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - an Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
