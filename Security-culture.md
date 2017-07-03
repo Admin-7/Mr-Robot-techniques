@@ -7,6 +7,7 @@ Learning how to defend ourselves from governments, corporations, and malicious i
     * [[Organizers and Journalists versus Assholes with Resources|Security training: Organizers and Journalists versus Assholes with Resources]]
     * [[Targeted Activists versus The State|Security training: Targeted Activists versus The State]]
 * [[InfoSec § For defenders|InfoSec#for-defenders]]
+* [[PhySec § At AnarchoTechNYC|PhySec#at-anarchotechnyc]]
 
 * * *
 
