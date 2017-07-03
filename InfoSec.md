@@ -263,6 +263,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 ***
 
-See also
+See also:
 
+* related pages: [[Security culture]], [[PhySec]]
 * [NYC-InfoSec.com](https://www.nyc-infosec.com/), a calendar of infosec-related events in the New York City area.
