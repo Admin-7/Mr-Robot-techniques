@@ -13,8 +13,9 @@ Learning how to defend ourselves from governments, corporations, and malicious i
 
 See also:
 
-* [What is security culture?](https://crimethinc.com/2004/11/01/what-is-security-culture)
-* [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators and undercovers.
 * [15 questions to uncover undercover cops in your group](http://undercoverresearch.net/1260-2/)
-* [Security Culture for Activists](http://www.ruckus.org/downloads/RuckusSecurityCultureForActivists.pdf)
 * [A First Look at Digital Security](https://www.accessnow.org/cms/assets/uploads/2016/11/A-first-look-at-digital-security.pdf)
+* [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators and undercovers.
+* [Security Culture for Activists](http://www.ruckus.org/downloads/RuckusSecurityCultureForActivists.pdf)
+* [SproutDistro: An Activist's Guide To Information Security](https://ia601909.us.archive.org/32/items/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+* [What is security culture?](https://crimethinc.com/2004/11/01/what-is-security-culture)
