@@ -97,6 +97,10 @@ Abbreviation for "physical security."
 
 # S
 
+## [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)
+
+See also [phishing](#phishing).
+
 ## SIGINT
 
 Abbreviation for "signals intelligence." See [Signals intelligence](#signals-intelligence).
@@ -114,6 +118,8 @@ Initialism for "Tactics, Techniques, and Procedures."
 # V
 
 # W
+
+## [Watering hole attack](https://en.wikipedia.org/wiki/Watering_hole_attack)
 
 # X
 
