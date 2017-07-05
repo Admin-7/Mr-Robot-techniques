@@ -107,6 +107,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. Something you have (possession; e.g., a physical [security token](https://en.wikipedia.org/wiki/Security_token) such as a [YubiKey](https://www.yubico.com/))
     1. Something you are (biometrics; e.g., a [retinal scan](https://en.wikipedia.org/wiki/Retinal_scan))
 * [`john` password cracker](http://www.openwall.com/john/)
+  * [Mr. Robot Trains the Trainers password cracking lab: "Strengthening passwords to defend against `john`"](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john/README.md)
 * Microwaving electronics:
   * debatable way of destroying info on a hard drive ([use a drill instead](https://www.theguardian.com/uk-news/2014/jan/31/footage-released-guardian-editors-snowden-hard-drives-gchq));
   * microwaving can destroy transistors on chips;
