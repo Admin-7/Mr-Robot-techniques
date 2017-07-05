@@ -35,6 +35,14 @@ Terminology, explained.
 
 # C
 
+## [Capture the flag](https://en.wikipedia.org/wiki/Capture_the_flag)
+
+See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security).
+
+## CTF
+
+See [capture the flag](#capture-the-flag).
+
 # D
 
 # E
