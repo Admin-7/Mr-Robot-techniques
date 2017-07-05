@@ -28,6 +28,10 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   Tim Tomes, aka "LaNMaSteR53," introduces `recon-ng`, a free and open source software toolkit for performing OSINT gathering and reconnaissance tasks ahead of penetration tests. The tool is now a staple of online investigators and has hundreds of contributed modules and plugins. Its similarity to and tight integration with Metasploit makes it easy to learn and use for numerous common penetration testing tasks.
 
+* [Physical Security on the Front Lines by Deviant Ollam](https://www.youtube.com/watch?v=bWGOpd-N9JA)
+
+  This talk gives a look at some of the more novel ways that people can gain rapid entry using cursory tactics, many of which ignore lock cylinders entirely! As always, tactical and military analogies will be employed to make direct connections between INFOSEC and any other engagement where assailants must be kept at bay for as long as possible using the resources you have available. Remember the "Three R's" of Physical Security? How about the "Three B's" of tactical defense? If you don't, you'll learn them this time.
+
 # Triage
 
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
