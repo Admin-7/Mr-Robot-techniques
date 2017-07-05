@@ -95,6 +95,12 @@ Abbreviation for "physical security."
 
 # S
 
+## SIGINT
+
+Abbreviation for "signals intelligence." See [Signals intelligence](#signals-intelligence).
+
+## [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence)
+
 # T
 
 ## TTP
