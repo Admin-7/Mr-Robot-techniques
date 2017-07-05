@@ -36,3 +36,65 @@ Terminology, explained.
 # C
 
 # D
+
+# E
+
+# F
+
+# G
+
+# H
+
+# I
+
+## [Indicator of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
+
+## INFOSEC
+
+Abbreviation for "information security."
+
+## IOC
+
+See [Indicator of Compromise](#indicator-of-compromise).
+
+# J
+
+# K
+
+# L
+
+# M
+
+# N
+
+# O
+
+# P
+
+## PHYSEC
+
+Abbreviation for "physical security."
+
+# Q
+
+# R
+
+# S
+
+# T
+
+## TTP
+
+Initialism for "Tactics, Techniques, and Procedures."
+
+# U
+
+# V
+
+# W
+
+# X
+
+# Y
+
+# Z
