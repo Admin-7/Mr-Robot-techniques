@@ -77,6 +77,12 @@ See [Indicator of Compromise](#indicator-of-compromise).
 
 # O
 
+## [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
+
+## OSINT
+
+Abbreviation for "open-source intelligence," or "open-sources intelligence." See [open-source intelligence](#open-source-intelligence).
+
 # P
 
 ## PHYSEC
