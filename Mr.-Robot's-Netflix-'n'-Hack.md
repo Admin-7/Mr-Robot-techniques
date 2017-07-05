@@ -3,7 +3,7 @@
 * Tagline: Let Mr. Robot teach you how to hack—and how to stop hackers from hacking you!
 * Description: Watch an episode of "[Mr. Robot](http://www.imdb.com/title/tt4158110/)," a TV show dramatizing the lives of rogue hackers in NYC with unparalleled technical accuracy, and then get an introduction to how the tools, techniques, and procedures ("[TTPs](http://forensicswiki.org/wiki/Cyber_Threat_Intelligence#TTP)") shown in the episode work in real life. After we watch an episode of the show, we'll discuss the tools used, get them installed on our laptops, and try them out. When we meet next, we'll show one another what we've learned, and continue with the next episode. By the end of the 10 week first season, you'll have gotten a hands-on tour of various tools in the [Kali Linux](https://www.kali.org/) penetration testing distro, and a better sense of how to separate fiction from reality in contemporary hacking dramas in pop culture. We'll finish by tackling [a Mr. Robot themed hacking challenge](https://www.vulnhub.com/entry/mr-robot-1,151/) so you can practice what you've learned, and maybe even join a [[hacking team|CTF team]].
 * Facilitating: [[How to facilitate Mr. Robot's Netflix 'n' Hack]]
-* See also [[InfoSec]], [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/#readme), [🌐 GeekWire's "Mr. Robot Rewind" series](http://www.geekwire.com/tag/mr-robot/) (*contains spoilers*).
+* See also: [[InfoSec]], [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/#readme), [🌐 GeekWire's "Mr. Robot Rewind" series](http://www.geekwire.com/tag/mr-robot/) (*contains spoilers*), [[Glossary]].
 
 Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see if this is a show you might enjoy watching and learning from:
 
@@ -21,10 +21,11 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 
 # Week 1 (S01E01)
 
-* [Tor](https://torproject.org/)
+* [Tor](https://torproject.org/), a commonly used privacy-enhancing and censorship circumvention internetworking tool
   * [Onion routing](https://en.wikipedia.org/wiki/Onion_routing),
   * ["Onion services" (formerly known as "hidden services")](https://www.torproject.org/docs/hidden-services.html.en)
   * "[Deep Web](https://www.youtube.com/watch?v=CHOjbPI-B8E)" sites ([how to search](http://deep-web.org/how-to-research/deep-web-search-engines/), check out [The Hidden Wiki](https://thehiddenwiki.org/))
+  * [OnionShare](https://onionshare.org/) sets up an ephemeral Onion service for filesharing; read [Secretly sharing files with OnionShare and Tor Browser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md).
 * [RUDY attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack#R-U-Dead-Yet.3F_.28RUDY.29)
   * [Incapsula's DDoS Attack Glossary entry for "RUDY attack"](https://www.incapsula.com/ddos/attack-glossary/rudy-r-u-dead-yet.html)
 * "Good at reading people" (social engineering…a [blog post](https://web.archive.org/web/20020125012547/http://www.securityfocus.com/cgi-bin/infocus.pl?id=1527) to maybe read, also a book [The Art of Deception](http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf), see also: [Freedom Downtime](https://www.youtube.com/watch?v=qMzRRVgEuWc))
@@ -32,7 +33,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * "Can I borrow your phone?" (also deleted the outgoing call log)  
   ![Elliot deletes outgoing call history, :robot: screenshot 📷](https://web.archive.org/web/20170219210213/https://i.imgur.com/OitLffX.jpg)
   * "This is Sam from Bank of E fraud department."
-* `ping`
+* [`ping`](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29) is the "*p*acket *in*formation *g*roper"
 * Password cracking:  
   ![Output of Elliot's password cracking script, :robot: screenshot 📷](https://web.archive.org/web/20170219205412/https://i.imgur.com/jVXUP0W.jpg)
   * An important distinction between online versus offline attacks.
@@ -91,12 +92,6 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [DeepSound](http://jpinsoft.net/deepsound/)  
   ![Screenshot of using a music stegonographic tool, :robot: screenshot 📷](https://web.archive.org/web/20170219213216/https://i.imgur.com/PxgQwy9.jpg)
   * Not shown in the episode, but [PixelKnot](https://guardianproject.info/apps/pixelknot/) for steganographic data in images.
-
-During post-show discussion, we brought up:
-
-* [OnionShare](https://onionshare.org/)
-* [BeEF](http://beefproject.com/)
-* NAT/PAT tables and a bit about [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal) ("NAT punching")
 
 # Week 2 (S01E02)
 
@@ -198,6 +193,8 @@ During post-show discussion, we brought up:
   * In modern-day, read "[Highly Effective Gmail Phishing Technique Being Exploited](https://www.wordfence.com/blog/2017/01/gmail-phishing-data-uri/)"
   * [PhishTank](https://www.phishtank.com/) is a public clearinghouse cataloguing known or suspected phishing sites.
   * [Phish5](https://phish5.com/) is a commercial service that lets you easily create phishing campaigns to target users of your own domains for educational purposes.
+  * [BeEF](http://beefproject.com/), the free software Browser Exploitation Framework, can be used to launch one-off phishing attacks against "hooked" Web browsers.
+  * [KingPhisher](https://github.com/securestate/king-phisher) is free software that operates entire phishing campaigns and offers its own phishing toolkit. 
 * [Android device "rooting"](https://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone) in order to install [commercial phone spyware](https://boingboing.net/2017/02/22/misogyny-with-a-business-model.html):  
   ![Tyrell inserts a microSD card loaded with spyware into Anwar's Android phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235510/https://i.imgur.com/QLyjMts.jpg)  
   ![Tyrell launches a rooting app on Anwar's phone, :robot: screenshot 📷](https://web.archive.org/web/20170317235502/https://i.imgur.com/tCUtRnm.jpg)  
