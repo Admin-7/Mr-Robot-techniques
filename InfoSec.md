@@ -252,6 +252,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
