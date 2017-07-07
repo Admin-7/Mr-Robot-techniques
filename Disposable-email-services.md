@@ -11,7 +11,7 @@ A **disposable email service** (sometimes also called a "**temporary email addre
 > 📝 Note to the editors: please keep this list alphabetized. Thank you! :)
 
 * [FakeMailGenerator.com](http://www.fakemailgenerator.com/)
-* [GuerrillaMail.com](https://www.guerrillamail.com/) - Temporary addresses for anti-spam purposes; [do not use this service for "anonymous email."](https://web.archive.org/web/20151029140147/https://www.guerrillamail.com/blog/statement-on-harvard-incident/)
+* [GuerrillaMail.com](https://www.guerrillamail.com/) - Temporary addresses for anti-spam purposes; [do not use GuerrillaMail for "anonymous email."](https://web.archive.org/web/20151029140147/https://www.guerrillamail.com/blog/statement-on-harvard-incident/)
 * [Mailinator.com](https://www.mailinator.com/)
 * [NowMyMail.com](http://nowmymail.com/)
 
