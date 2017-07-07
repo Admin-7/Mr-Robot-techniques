@@ -32,6 +32,10 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   This talk gives a look at some of the more novel ways that people can gain rapid entry using cursory tactics, many of which ignore lock cylinders entirely! As always, tactical and military analogies will be employed to make direct connections between INFOSEC and any other engagement where assailants must be kept at bay for as long as possible using the resources you have available. Remember the "Three R's" of Physical Security? How about the "Three B's" of tactical defense? If you don't, you'll learn them this time.
 
+* [Don't Fuck It Up! by Zoz - DEF CON 22](https://www.youtube.com/watch?v=J1q4Ir2J8P8)
+
+  Learn how not to fuck up covering your tracks on the Internet, using burner phones, collaborating with other dissidents and more. If you have anything to hide, and all of us do, pay attention and Don't. Fuck. It. Up! [Zoz introduces his idea of The 7 Deadly Fuckups, "what makes you a candidate for getting busted,"](https://www.youtube.com/watch?v=J1q4Ir2J8P8&t=11m56s) and urges anyone getting up to any kind of mischief to take their OPSEC seriously. Remember, "using a tool badly or stupidly can be worse than not using the tool at all. […] Two questions when it comes to tools: 'should I use it?' And, 'how should I use it?' […I]f your life or your freedom depend on it, don't trust one single element. This includes Tor and lots of other tools in your communication chain. Do your tradecraft analysis."
+
 # Triage
 
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
