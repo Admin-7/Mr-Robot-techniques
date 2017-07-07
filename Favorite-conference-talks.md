@@ -41,6 +41,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
 
 * Deanonymizing Dark Web websites, BSidesVancouver May 2017 https://www.youtube.com/watch?v=ShrZ4B9R3NQ
+* Black Hat 2013 - Exploiting Network Surveillance Cameras Like a Hollywood Hacker https://www.youtube.com/watch?v=B8DjTcANBx0
 
 * * *
 
