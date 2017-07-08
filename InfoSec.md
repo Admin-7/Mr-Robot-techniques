@@ -163,7 +163,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)
 
-  "[T]his application can be used by mobile security enthusiasts and students to learn or review the basics of mobile application security."
+  "[T]his application can be used by mobile security enthusiasts and students to learn or review the basics of mobile application security." Supplemental guides can be found on [the author's site's DVIA page](https://n0where.net/damn-vulnerable-ios-app-dvia/).
 
 # Lesson plans and guidance
 
