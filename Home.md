@@ -3,23 +3,23 @@
 The AnarchoTechNYC wiki is **an evolving workspace of shared knowledge with a focus on building anti-fascist tools, and supporting our communities** against settler-colonial, imperialist, and authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
 
 * [Welcome guides](#welcome-guides) - Newcomers may want to start here.
-* [Activities and events](#activities-and-events) - ongoing or semi-regular events we help make happen.
-* [Accomplices and allies](#accomplices-and-allies) - friends and comrades intimately involved in our work. Check 'em out! :)
+* [Activities and events](#activities-and-events) - Ongoing or semi-regular events we help make happen.
+* [Accomplices and allies](#accomplices-and-allies) - Friends and comrades intimately involved in our work. Check 'em out! :)
 
 # [[Welcome guides]]
 
 If you're looking to get involved, consider exploring this wiki! There's plenty here for you to expand, critique, and share. Since there's a lot here, this list suggests a few pages to start from:
 
-* [[New member orientation guide]] - A self-paced walk-through to familiarize yourself with how we stay in touch.
+* [[New member orientation guide]] - Self-paced walk-through to familiarize yourself with how we stay in touch.
 * [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
 
 # [[Activities and events]]
 
 One of the best parts of AnarchoTechNYC are the regular activities and traditions that tech antifa folks have created over the years. Some are ongoing activities while others are one-offs, but any can be revived and new ones created by *you* at any time! Some of our more consistent activities are listed below, but be sure to check out the [[Activities and events]] portal page for a full list.
 
-* [[Capture The Flag (CTF) gaming|CTF team]] - An irregular cybersecurity study group participating in online wargaming competitions.
-* [[Cyborg clinic]] - holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
-* [[Lockpicking club]] - A locksport practice session and meditative discussion circle.
+* [[Capture The Flag (CTF) gaming|CTF team]] - Irregular cybersecurity study group participating in online wargaming competitions.
+* [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
+* [[Lockpicking club]] - Locksport practice session and meditative discussion circle.
 * [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
 
 Our events are **always free** to attend, but we do need your help to sustain our activities. If you have the means, please consider [donating via PayPal](https://www.paypal.me/AnarchoTechNYC), [BitCoin](bitcoin:17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr?label=AnarchoTechNYC), or with cash in person. (There will almost certainly be a large glass tip jar.) For more details, please read [Donations and support](#donations-and-support).
