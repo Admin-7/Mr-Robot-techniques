@@ -36,6 +36,10 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   Learn how not to fuck up covering your tracks on the Internet, using burner phones, collaborating with other dissidents and more. If you have anything to hide, and all of us do, pay attention and Don't. Fuck. It. Up! [Zoz introduces his idea of The 7 Deadly Fuckups, "what makes you a candidate for getting busted,"](https://www.youtube.com/watch?v=J1q4Ir2J8P8&t=11m56s) and urges anyone getting up to any kind of mischief to take their OPSEC seriously. Remember, "using a tool badly or stupidly can be worse than not using the tool at all. […] Two questions when it comes to tools: 'should I use it?' And, 'how should I use it?' […I]f your life or your freedom depend on it, don't trust one single element. This includes Tor and lots of other tools in your communication chain. Do your tradecraft analysis."
 
+* [Advanced SQL Injection, by Joseph McCray - DEF CON 17](https://www.youtube.com/watch?v=rdyQoUNeXSg)
+
+  Manually testing for SQL injection vulnerabilities will still expose many problems that automated vulnerability scanners report as not exploitable. In his "Advanced SQL Injection" talk, Joe talks about the difference between SQLi in [[deliberately vulnerable systems|InfoSec#deliberately-vulnerable-systems]] like [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) versus what it takes to exploit SQLi vulnerabilities in the real world. He details how to perform manual discovery of injection points, manual enumeration of database internals, and manual techniques for evading IDS/IPS/WAF defenses. The key takeaway: always do at least some manual SQLi testing so you can be sure your automated, black box vuln scanners have not missed anything.
+
 # Triage
 
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
