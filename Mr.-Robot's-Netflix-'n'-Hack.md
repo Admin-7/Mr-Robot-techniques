@@ -389,8 +389,7 @@ During post-show discussion, we brought up:
 * AllSafe uses Windows 8(?) for its office desktop computers
 * [Multifunction printers](https://en.wikipedia.org/wiki/Multifunction_printer) can do more than you might think! Privacy issues and network vulnerabilities:
   ![Angela prints her research documents with one of AllSafe's printers, :robot: screenshot 📷](https://web.archive.org/web/20170411220804/https://i.imgur.com/fcWrqHP.jpg)
-  * [Printer steganography](https://en.wikipedia.org/wiki/Printer_steganography)
-  * "Tracking dots" are used to link a printed document with the device that printed it:
+  * "Tracking dots" (aka [Printer steganography](https://en.wikipedia.org/wiki/Printer_steganography)) are used to link a printed document with the device that printed it:
     * [Is Your Printer Spying On You?](https://www.eff.org/issues/printers)
     * [List of printers which do or do not display tracking dots](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots)
     * [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
