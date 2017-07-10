@@ -387,20 +387,19 @@ During post-show discussion, we brought up:
   * `btscanner` is included in many [penetration testing distros](https://github.com/enaqx/awesome-pentest#penetration-testing-distributions), including Elliot's choice, [Kali Linux](https://www.kali.org/)
   * [Blog post with links to various Bluetooth tools](https://web.archive.org/web/20161024111000/http://www.kalilinuxdojo.com/2015/10/hack-bluetooth-and-other-wireless-tools.html)
 * AllSafe uses Windows 8(?) for its office desktop computers
-* [Multifunction printers](https://en.wikipedia.org/wiki/Multifunction_printer) can do more than you might think! Privacy issues and network vulnerability:
+* [Multifunction printers](https://en.wikipedia.org/wiki/Multifunction_printer) can do more than you might think! Privacy issues and network vulnerabilities:
   ![Angela prints her research documents with one of AllSafe's printers, :robot: screenshot 📷](https://web.archive.org/web/20170411220804/https://i.imgur.com/fcWrqHP.jpg)
   * [Printer steganography](https://en.wikipedia.org/wiki/Printer_steganography)
-  * EFF's privacy advocacy:
+  * "Tracking dots" are used to link a printed document with the device that printed it:
     * [Is Your Printer Spying On You?](https://www.eff.org/issues/printers)
     * [List of printers which do or do not display tracking dots](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots)
     * [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
-  * Article, [Government Uses Color Laser Printer Technology to Track Documents](http://www.pcworld.com/article/118664/article.html)
-  * Real-life example: [How the NSA tracked down and arrested the alleged Russian hacking story leaker, Reality Leigh Winner](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html)
-  * Printers are often a vulnerable device on corporate networks:
-    * Article, [Exploiting Corporate Printers](http://resources.infosecinstitute.com/exploiting-corporate-printers/)
-    * Blog post, [Printer Exploitation in Corporate Environments](https://www.hackingloops.com/printer-exploitation-in-corporate-environments/)
-    * Check out the [Hacking-Printers.net](http://hacking-printers.net/) wiki.
-    * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme)
+    * Article, [Government Uses Color Laser Printer Technology to Track Documents](http://www.pcworld.com/article/118664/article.html)
+    * Real-life example: [How the NSA tracked down and arrested the alleged Russian hacking story leaker, Reality Leigh Winner](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html)
+  * Printers are often a vulnerable device on corporate networks, read [Exploiting Corporate Printers](http://resources.infosecinstitute.com/exploiting-corporate-printers/) and [Printer Exploitation in Corporate Environments](https://www.hackingloops.com/printer-exploitation-in-corporate-environments/)
+    * Real-life example, "[Rooting a Printer: From Security Bulletin to Remote Code Execution](https://www.tenable.com/blog/rooting-a-printer-from-security-bulletin-to-remote-code-execution)" by Tenable Security.
+    * [Hacking-Printers.net](http://hacking-printers.net/) wiki is a great resource.
+    * [PRET, the Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET#readme) is penetration testing framework targeting networked printers.
 * Angela uses an iPhone :)
   ![Angela opens her iPhone's home screen to check a missed call, :robot: screenshot 📷](https://web.archive.org/web/20170411221239/https://i.imgur.com/RNWv775.jpg)
   * Check out [Apple's iOS Security Guide](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
