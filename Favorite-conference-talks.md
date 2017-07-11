@@ -50,6 +50,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 * DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse https://www.youtube.com/watch?v=oHf1vD5_b5I
 * Black Hat USA 2013 - Lessons from Surviving a 300Gbps Denial of Service Attack https://www.youtube.com/watch?v=w04ZAXftQ_Y
 * Blackhat - 2010 How to Hack Millions of Routers https://www.youtube.com/watch?v=0duYxPIx8gU
+* 111 Attacking EvilCorp Anatomy of a Corporate Hack https://www.youtube.com/watch?v=nJSMJyRNvlM
 
 * * *
 
