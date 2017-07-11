@@ -48,6 +48,8 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 * Black Hat 2013 - Exploiting Network Surveillance Cameras Like a Hollywood Hacker https://www.youtube.com/watch?v=B8DjTcANBx0
 * Hacktivity 2012 - Joe McCray - Big Bang Theory - Pentesting high security environments https://www.youtube.com/watch?v=qBVThFwdYTc
 * DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse https://www.youtube.com/watch?v=oHf1vD5_b5I
+* Black Hat USA 2013 - Lessons from Surviving a 300Gbps Denial of Service Attack https://www.youtube.com/watch?v=w04ZAXftQ_Y
+* Blackhat - 2010 How to Hack Millions of Routers https://www.youtube.com/watch?v=0duYxPIx8gU
 
 * * *
 
