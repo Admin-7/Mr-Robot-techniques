@@ -16,7 +16,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   Why is the overwhelming majority of networked software still not secure, despite all effort to the contrary? In this talk we'll draw a direct connection between this ubiquitous insecurity and basic computer science concepts of Turing completeness and theory of languages. We will show how well-meant protocol designs are doomed to their implementations becoming clusters of 0day, and will show where to look for these 0day. We will also discuss simple principles of how to avoid designing such protocols.
 
-* [SecureDrop: Leaking safely to modern news organizations](https://media.libreplanet.org/u/libreplanet/m/securedrop-leaking-safely-to-modern-news-organizations/) (LibrePlanet 2017)
+* [SecureDrop: Leaking safely to modern news organizations - LibrePlanet 2017](https://media.libreplanet.org/u/libreplanet/m/securedrop-leaking-safely-to-modern-news-organizations/)
 
   Learn how [Freedom of the Press Foundation](https://freedom.press/) maintains a free software anonymous whistleblowing platform used by major news organizations, called [SecureDrop](https://securedrop.org/). Senior DevOps Engineer for the SecureDrop project, Conor Schaefer, outlines the project's history, provides an overview of its current architecture, and discusses the challenges of managing a largely decentralized platform with high security requirements.
 
@@ -40,12 +40,15 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
   Manually testing for SQL injection vulnerabilities will still expose many problems that automated vulnerability scanners report as not exploitable. In his "Advanced SQL Injection" talk, Joe talks about the difference between SQLi in [[deliberately vulnerable systems|InfoSec#deliberately-vulnerable-systems]] like [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) versus what it takes to exploit SQLi vulnerabilities in the real world. He details how to perform manual discovery of injection points, manual enumeration of database internals, and manual techniques for evading IDS/IPS/WAF defenses. The key takeaway: always do at least some manual SQLi testing so you can be sure your automated, black box vuln scanners have not missed anything.
 
+* [Exploiting Network Surveillance Cameras Like a Hollywood Hacker, by Craig Heffner - Black Hat 2013](https://www.youtube.com/watch?v=B8DjTcANBx0)
+
+  You don't need to buy expensive cameras to find exploitable vulnerabilities in them. Moreover, *very* expensive cameras have trivially exploitable remote code execution vulnerabilities. Using `binwalk`, IDA Pro, and several other basic [reverse engineering tools](https://github.com/enaqx/awesome-pentest#reverse-engineering-tools), former National Security Agency analyst Craig Heffner describes how he (and you!) can pwn some very popular, and very expensive, Internet-connected security cameras.
+
 # Triage
 
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
 
 * Deanonymizing Dark Web websites, BSidesVancouver May 2017 https://www.youtube.com/watch?v=ShrZ4B9R3NQ
-* Black Hat 2013 - Exploiting Network Surveillance Cameras Like a Hollywood Hacker https://www.youtube.com/watch?v=B8DjTcANBx0
 * Hacktivity 2012 - Joe McCray - Big Bang Theory - Pentesting high security environments https://www.youtube.com/watch?v=qBVThFwdYTc
 * DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse https://www.youtube.com/watch?v=oHf1vD5_b5I
 * Black Hat USA 2013 - Lessons from Surviving a 300Gbps Denial of Service Attack https://www.youtube.com/watch?v=w04ZAXftQ_Y
