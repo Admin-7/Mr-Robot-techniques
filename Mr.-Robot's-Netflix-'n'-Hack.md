@@ -405,6 +405,7 @@ During post-show discussion, we brought up:
 * Sprinkling USB thumbdrives in the parking lot  
   ![Darlene drops USB thumbdrives in the police station's parking lot, :robot: screenshot 📷](https://web.archive.org/web/20170411221611/https://i.imgur.com/NNZ3Lkd.jpg)
   * Read, "[Almost Half of Dropped USB Sticks Will Get Plugged In](https://nakedsecurity.sophos.com/2016/04/08/almost-half-of-dropped-usb-sticks-will-get-plugged-in/)"
+  * [Yet Another "People Plug in Strange USB Sticks" Story](https://www.schneier.com/blog/archives/2011/06/yet_another_peo.html)
   * Real-life example: [Russian hackers infiltrated NATO using cheap retail thumbdrives](https://web.archive.org/web/20170311014501/https:/twitter.com/Mathew__Clayton/status/837605847257792512/photo/1)
 * Plugging in USB devices can unleash malware  
   ![A cop plugs in a stray USB drive to his work computer claiming to be an "eTunes" gift card, :robot: screenshot 📷](https://web.archive.org/web/20170411222314/https://i.imgur.com/TB9V9ao.jpg)  
