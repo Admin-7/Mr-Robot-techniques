@@ -190,6 +190,12 @@ This section contains a curated, ordered list of supplementary educational conte
 1. [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)  
     A free textbook developed for use in Stanford's and New York University's computer science and mathematics departments covering cryptography. A beginning reader can read though the book to learn how cryptographic systems work and why they are secure. Some knowledge of basic algebra and probability is assumed but you do not need prior experience with graduate-level mathematics courses to utilize this book. (See also [Coursera.org's Cryptography I course](https://www.coursera.org/learn/crypto), taught by one of this book's co-authors.) Use this text if you are already well-versed with the material covered in "Crypto 101" (above).
 
+## Other lesson options
+
+* [Internet Security - Weaknesses and Targets (WT 2016/17)](https://www.tele-task.de/archive/series/overview/1130/)
+
+  Lectures by Prof. Dr. Christoph Meinel on "Internet Security - Weaknesses and Targets" gives a detailed introduction on problems concerning Internet and intranet security. After starting with some remarks on risk analysis and computer crimes, security weaknesses and targets are discussed in detail. The lecture concludes with the discussion on possibilities to detect attacks and intrusions and ethical issuses are introduced as well.
+
 # For defenders
 
 * [PrivacyTools.io](https://privacytools.io/)
