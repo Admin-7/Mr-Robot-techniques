@@ -14,7 +14,7 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 1. [Labs and practice VMs](#labs-and-practice-vms)
     1. [Deliberately vulnerable systems](#deliberately-vulnerable-systems)
 1. [Lesson plans and guidance](#lesson-plans-and-guidance)
-  * [More lesson material](#More-lesson-material)
+    * [More lesson material](#More-lesson-material)
 1. [For defenders](#for-defenders)
 1. [Other lists](#other-lists)
 
