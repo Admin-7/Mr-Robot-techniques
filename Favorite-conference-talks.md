@@ -42,7 +42,11 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
 * [Exploiting Network Surveillance Cameras Like a Hollywood Hacker, by Craig Heffner - Black Hat 2013](https://www.youtube.com/watch?v=B8DjTcANBx0)
 
-  You don't need to buy expensive cameras to find exploitable vulnerabilities in them. Moreover, *very* expensive cameras have trivially exploitable remote code execution vulnerabilities. Using `binwalk`, IDA Pro, and several other basic [reverse engineering tools](https://github.com/enaqx/awesome-pentest#reverse-engineering-tools), former National Security Agency analyst Craig Heffner describes how he (and you!) can pwn some very popular, and very expensive, Internet-connected security cameras.
+  You don't need to buy expensive cameras to find exploitable vulnerabilities in them. Moreover, *very* expensive cameras have trivially exploitable remote code execution vulnerabilities. Using `binwalk`, IDA Pro, and several other basic [reverse engineering tools](https://github.com/enaqx/awesome-pentest#reverse-engineering-tools), former National Security Agency analyst Craig Heffner describes how he (and you!) can pwn some very popular, and very expensive, Internet-connected "security" cameras.
+
+* [Hacking the Wireless World with Software Defined Radio - Black Hat Europe 2014](https://www.youtube.com/watch?v=N0p3_ES2dBU)
+
+  "What sorts of RF transactions take place in RFID systems, such as toll booths, building security and vehicular keyless entry? […] Wireless systems, and their radio signals, are everywhere: consumer, corporate, government, amateur - widely deployed and often vulnerable. If you have ever wondered what sort of information is buzzing around you, this talk will introduce how you can dominate the RF spectrum by 'blindly' analysing any signal, and then begin reverse engineering it from the physical layer up. I will demonstrate how these techniques can be applied to dissect and hack RF communications systems, such as those above, using open source software and cheap radio hardware. In addition, I'll show how long-term radio data gathering can be used to crack poorly-implemented encryption schemes, such as the Radio Data Service's Traffic Message Channel.
 
 # Triage
 
