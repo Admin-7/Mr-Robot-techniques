@@ -1,6 +1,10 @@
 > [[Wiki|Home]] ▸ **Software Defined Radio**
 
-📝 This is a drafting pad, simply notes at the moment. I'm learning a lot about this specific technology and don't know enough to teach, so I'm currently just compiling my own research (in public). Please don't consider this recommendations of "good" educational material, especially if you're coming from the much-more polished [[InfoSec]] page(s).
+* * *
+
+> 📝 **WORK IN PROGRESS**: This is a drafting pad, simply notes at the moment. I'm learning a lot about this specific technology and don't know enough to teach, so I'm currently just compiling my own research (in public). Please don't consider this recommendations of "good" educational material, especially if you're coming from the much-more polished [[InfoSec]] page(s).
+
+* * *
 
 * [Hak5 playlist: Software Defined Radio](https://www.youtube.com/playlist?list=PLBmFDs_1nZfBN2x5dbFXO7RfcwVGrqQy-)
 
