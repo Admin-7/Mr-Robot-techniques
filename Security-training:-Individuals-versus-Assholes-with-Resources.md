@@ -88,3 +88,5 @@ Before you dive too deeply into this practice material, you should first explore
 * Take a headset (headphones + microphone), chop off the wiring below the sensors, and plug that in to your headset jack to frustrate audio recordings.
 * Avoid transmitting or storing sensitive info such as credit card numbers on old devices that you can't keep up-to-date, use a different device for that
 * Check or [double-check the HTTPS lock icon's exact fingerprint](https://www.grc.com/fingerprints.htm) for important sites like PayPal or Facebook
+* When charging your devices over a USB connection, use a USB "condom" ([data blocking adapter](http://www.portablepowersupplies.co.uk/portapow-fast-charge-data-block-usb-adaptor/)) to ensure only power flows into (or out of) the device
+  * [Protect your devices with a $10 USB Condom](http://www.zdnet.com/article/protect-your-devices-with-a-10-usb-condom/)
