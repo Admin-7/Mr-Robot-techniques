@@ -3,6 +3,15 @@
 Terminology, linked and explained.
 
 1. [A](#a)
+
+## [Amplitude-shift keying](https://en.wikipedia.org/wiki/Amplitude-shift_keying)
+
+See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying](#phase-shift-keying).
+
+## ASK
+
+Acronym for [amplitude-shift keying](#amplitude-shift-keying).
+
 1. [B](#b)
 1. [C](#c)
 1. [D](#d)
@@ -61,6 +70,14 @@ Initialism for [Federal Communications Commission](#federal-communications-commi
 
 ## [Federal Communications Commission](https://fcc.gov/)
 
+## [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying)
+
+See also [amplitude-shift keying](#amplitude-shift-keying), [phase-shift keying](#phase-shift-keying).
+
+## FSK
+
+Initialism for [frequency-shift keying](#frequency-shift-keying).
+
 # G
 
 ## [GNU](https://www.gnu.org/)
@@ -99,6 +116,12 @@ See [Indicator of Compromise](#indicator-of-compromise).
 
 # L
 
+## LAN
+
+Initialism for [local area network](#local-area-network).
+
+## [Local area network](https://simple.wikipedia.org/wiki/Local_area_network)
+
 # M
 
 ## MHz
@@ -117,11 +140,24 @@ Abbreviation for "open-source intelligence," or "open-sources intelligence." See
 
 # P
 
+## [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying)
+
+See also [amplitude-shift keying](#amplitude-shift-keying), [frequency-shift keying](#frequency-shift-keying).
+
 ## [Phishing](https://simple.wikipedia.org/wiki/Phishing)
 
 ## [[PHYSEC]]
 
 Abbreviation for "physical security."
+
+## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
+
+## PSK
+
+Initialism for one of:
+
+* [phase-shift keying](#phase-shift-keying)
+* [pre-shared key](#pre-shared-key)
 
 # Q
 
