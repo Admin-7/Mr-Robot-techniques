@@ -18,6 +18,12 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Week 7 (S01E07)](#week-7-s01e07)
 * [Week 8 (S01E08)](#week-8-s01e08)
 * [Week 9 (S01E09)](#week-9-s01e09)
+* [Week 10 (S01E10)](#week-10-s01e10)
+* [Week 11 (S02E01)](#week-11-s02e01)
+* [Week 12 (S02E02)](#week-12-s02e02)
+* [Week 13 (S02E03)](#week-13-s02e03)
+* [Week 14 (S02E04)](#week-14-s02e04)
+* [Week 15 (S02E05)](#week-15-s02e05)
 
 # Week 1 (S01E01)
 
@@ -546,3 +552,8 @@ During post-show discussion, we brought up:
 # Week 9 (S01E09)
 
 > 🚧 TK-TODO
+
+# Week 15 (S02E05)
+
+* Femtocell
+  * [DEF CON 21 presentation: Traffic Interception and Remote Mobile Phone Cloning with a Compromised CDMA Femtocell](https://www.youtube.com/watch?v=gfcq8clu1RI)
