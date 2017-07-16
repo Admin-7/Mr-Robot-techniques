@@ -3,15 +3,6 @@
 Terminology, linked and explained.
 
 1. [A](#a)
-
-## [Amplitude-shift keying](https://en.wikipedia.org/wiki/Amplitude-shift_keying)
-
-See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying](#phase-shift-keying).
-
-## ASK
-
-Acronym for [amplitude-shift keying](#amplitude-shift-keying).
-
 1. [B](#b)
 1. [C](#c)
 1. [D](#d)
@@ -39,6 +30,14 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 1. [Z](#z)
 
 # A
+
+## [Amplitude-shift keying](https://en.wikipedia.org/wiki/Amplitude-shift_keying)
+
+See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying](#phase-shift-keying).
+
+## ASK
+
+Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 # B
 
