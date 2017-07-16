@@ -45,6 +45,12 @@ See [capture the flag](#capture-the-flag).
 
 # D
 
+## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
+
+## DVB-T
+
+Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast-terrestrial).
+
 # E
 
 # F
