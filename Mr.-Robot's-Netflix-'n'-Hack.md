@@ -555,6 +555,26 @@ During post-show discussion, we brought up:
 
 > 🚧 TK-TODO
 
+# Week 10 (S01E10)
+
+> 🚧 TK-TODO
+
+# Week 11 (S02E01)
+
+> 🚧 TK-TODO
+
+# Week 12 (S02E02)
+
+> 🚧 TK-TODO
+
+# Week 13 (S02E03)
+
+> 🚧 TK-TODO
+
+# Week 14 (S02E04)
+
+> 🚧 TK-TODO
+
 # Week 15 (S02E05)
 
 * Femtocell
