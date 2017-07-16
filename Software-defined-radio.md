@@ -22,8 +22,8 @@
 
 ### Hardware
 
-* RTL-SDR.com
-* HackRF
+* [RTL-SDR](http://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - Inexpensive (~$20), common peripheral based on the R820T2 chipset, which has a frequency range of  24 – 1766 MHz.
+* [HackRF](https://greatscottgadgets.com/hackrf/) - Open source hardware platform that can be used as a USB peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz.
 
 ### Software
 
