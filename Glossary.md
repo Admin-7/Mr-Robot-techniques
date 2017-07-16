@@ -31,6 +31,12 @@ Terminology, linked and explained.
 
 # A
 
+## [Amplitude modulation](https://simple.wikipedia.org/wiki/Amplitude_modulation)
+
+## AM
+
+Initialism for [amplitude modulation](#amplitude-modulation).
+
 ## [Amplitude-shift keying](https://en.wikipedia.org/wiki/Amplitude-shift_keying)
 
 See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying](#phase-shift-keying).
