@@ -220,7 +220,19 @@ Initialism for "Tactics, Techniques, and Procedures."
 
 # U
 
+## [Universal Serial Bus](https://simple.wikipedia.org/wiki/USB)
+
+## [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral)
+
 ## [UNIX](https://simple.wikipedia.org/wiki/Unix)
+
+## USB
+
+Initialism for [Universal Serial Bus](#universal-serial-bus).
+
+## USRP
+
+Initialism for [Universal Software Radio Peripheral](#universal-software-radio-peripheral).
 
 # V
 
