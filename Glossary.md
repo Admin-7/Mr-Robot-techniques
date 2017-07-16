@@ -49,7 +49,19 @@ See [capture the flag](#capture-the-flag).
 
 # F
 
+## FCC
+
+Initialism for [Federal Communications Commission](#federal-communications-commission).
+
+## [Federal Communications Commission](https://fcc.gov/)
+
 # G
+
+## [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
+
+## GUI
+
+Acronym for [Graphical User Interface](#graphical-user-interface).
 
 # H
 
@@ -95,6 +107,10 @@ Abbreviation for "physical security."
 
 # R
 
+## RX
+
+In the context of [[radio|Roftware defined radio]], abbreviation for "receive." Contrast with [TX](#tx).
+
 # S
 
 ## [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)
@@ -108,6 +124,10 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 ## [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence)
 
 # T
+
+## TX
+
+In the context of [[radio|Software defined radio]], abbreviation for "transmit."
 
 ## TTP
 
