@@ -188,7 +188,7 @@ In the context of [[radio|Roftware defined radio]], abbreviation for "receive." 
 
 ## [[Software defined radio]]
 
-## [SDR]
+## SDR
 
 Initialism for [Software Defined Radio](#software-defined-radio).
 
