@@ -59,13 +59,25 @@ See [capture the flag](#capture-the-flag).
 
 # D
 
+## [Device under test](https://en.wikipedia.org/wiki/Device_under_test)
+
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
+
+## DUT
+
+Initialism for [device under test](#device-under-test). Also known as [equipment under test](#equipment-under-test), [unit under test](#unit-under-test).
 
 ## DVB-T
 
 Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast---terrestrial).
 
 # E
+
+## [Equipment under test](https://en.wikipedia.org/wiki/Device_under_test)
+
+## EUT
+
+Initialism for [equipment under test](#equipment-under-test). Also known as [device under test](#device-under-test), [unit under test](#unit-under-test).
 
 # F
 
@@ -220,6 +232,10 @@ Initialism for "Tactics, Techniques, and Procedures."
 
 # U
 
+## [Unit under test](https://en.wikipedia.org/wiki/Device_under_test)
+
+Initialism for [unit under test](#unit-under-test). Also known as [equipment under test](#equipment-under-test), [device under test](#device-under-test).
+
 ## [Universal Serial Bus](https://simple.wikipedia.org/wiki/USB)
 
 ## [Universal Software Radio Peripheral](https://en.wikipedia.org/wiki/Universal_Software_Radio_Peripheral)
@@ -238,7 +254,19 @@ Initialism for [Universal Software Radio Peripheral](#universal-software-radio-p
 
 # W
 
+## WAN
+
+Acronym for [wide area network](#wide-area-network).
+
 ## [Watering hole attack](https://en.wikipedia.org/wiki/Watering_hole_attack)
+
+## [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network)
+
+## [Wireless local area network](https://simple.wikipedia.org/wiki/Wireless_LAN)
+
+## WLAN
+
+Initialism for [wireless local area network](#wireless-local-area-network).
 
 # X
 
