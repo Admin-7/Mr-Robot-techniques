@@ -73,7 +73,13 @@ Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast-
 
 Initialism for [Federal Communications Commission](#federal-communications-commission).
 
+## FM
+
+Initialism for [frequency modulation](#frequency-modulation).
+
 ## [Federal Communications Commission](https://fcc.gov/)
+
+## [Frequency modulation](https://simple.wikipedia.org/wiki/Frequency_modulation)
 
 ## [Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying)
 
