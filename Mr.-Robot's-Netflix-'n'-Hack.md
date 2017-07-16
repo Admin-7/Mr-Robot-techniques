@@ -9,7 +9,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 
 [![Mr. Robot Season 1, extended trailer](http://img.youtube.com/vi/U94litUpZuc/0.jpg)](http://www.youtube.com/watch?v=U94litUpZuc)
 
-1. Season 1
+1. [🌐 Season 1](https://www.imdb.com/title/tt4158110/episodes?season=1)
     1. [Week 1 (S01E01)](#week-1-s01e01)
     1. [Week 2 (S01E02)](#week-2-s01e02)
     1. [Week 3 (S01E03)](#week-3-s01e03)
@@ -20,7 +20,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. [Week 8 (S01E08)](#week-8-s01e08)
     1. [Week 9 (S01E09)](#week-9-s01e09)
     1. [Week 10 (S01E10)](#week-10-s01e10)
-1. Season 2
+1. [🌐 Season 2](https://www.imdb.com/title/tt4158110/episodes?season=2)
     1. [Week 11 (S02E01)](#week-11-s02e01)
     1. [Week 12 (S02E02)](#week-12-s02e02)
     1. [Week 13 (S02E03)](#week-13-s02e03)
