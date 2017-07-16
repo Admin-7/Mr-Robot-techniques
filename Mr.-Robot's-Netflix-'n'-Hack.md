@@ -9,21 +9,23 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 
 [![Mr. Robot Season 1, extended trailer](http://img.youtube.com/vi/U94litUpZuc/0.jpg)](http://www.youtube.com/watch?v=U94litUpZuc)
 
-* [Week 1 (S01E01)](#week-1-s01e01)
-* [Week 2 (S01E02)](#week-2-s01e02)
-* [Week 3 (S01E03)](#week-3-s01e03)
-* [Week 4 (S01E04)](#week-4-s01e04)
-* [Week 5 (S01E05)](#week-5-s01e05)
-* [Week 6 (S01E06)](#week-6-s01e06)
-* [Week 7 (S01E07)](#week-7-s01e07)
-* [Week 8 (S01E08)](#week-8-s01e08)
-* [Week 9 (S01E09)](#week-9-s01e09)
-* [Week 10 (S01E10)](#week-10-s01e10)
-* [Week 11 (S02E01)](#week-11-s02e01)
-* [Week 12 (S02E02)](#week-12-s02e02)
-* [Week 13 (S02E03)](#week-13-s02e03)
-* [Week 14 (S02E04)](#week-14-s02e04)
-* [Week 15 (S02E05)](#week-15-s02e05)
+1. Season 1
+    1. [Week 1 (S01E01)](#week-1-s01e01)
+    1. [Week 2 (S01E02)](#week-2-s01e02)
+    1. [Week 3 (S01E03)](#week-3-s01e03)
+    1. [Week 4 (S01E04)](#week-4-s01e04)
+    1. [Week 5 (S01E05)](#week-5-s01e05)
+    1. [Week 6 (S01E06)](#week-6-s01e06)
+    1. [Week 7 (S01E07)](#week-7-s01e07)
+    1. [Week 8 (S01E08)](#week-8-s01e08)
+    1. [Week 9 (S01E09)](#week-9-s01e09)
+    1. [Week 10 (S01E10)](#week-10-s01e10)
+1. Season 2
+    1. [Week 11 (S02E01)](#week-11-s02e01)
+    1. [Week 12 (S02E02)](#week-12-s02e02)
+    1. [Week 13 (S02E03)](#week-13-s02e03)
+    1. [Week 14 (S02E04)](#week-14-s02e04)
+    1. [Week 15 (S02E05)](#week-15-s02e05)
 
 # Week 1 (S01E01)
 
