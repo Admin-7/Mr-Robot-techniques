@@ -170,6 +170,12 @@ Initialism for one of:
 * [phase-shift keying](#phase-shift-keying)
 * [pre-shared key](#pre-shared-key)
 
+## [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation)
+
+## PWM
+
+Initialism for [pulse-width modulation](#pulse-width modulation).
+
 # Q
 
 # R
