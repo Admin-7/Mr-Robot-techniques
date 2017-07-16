@@ -192,6 +192,12 @@ Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 # R
 
+## [Radio frequency](https://simple.wikipedia.org/wiki/Radio_frequency)
+
+## RF
+
+Initialism for [radio frequency](#radio-frequency).
+
 ## RX
 
 In the context of [[radio|Roftware defined radio]], abbreviation for "receive." Contrast with [TX](#tx).
