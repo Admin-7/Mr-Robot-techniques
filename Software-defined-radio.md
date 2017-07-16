@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ **Software Defined Radio**
+> [[Wiki|Home]] ▸ **Software defined radio**
 
 * * *
 
@@ -19,6 +19,7 @@
 # Awesome List (DRAFT)
 
 * [FCC.io](https://fcc.io/) - Simple search and URL shortener for FCC ID queries.
+* [/r/RTLSDR](https://www.reddit.com/r/RTLSDR/) - Low-cost software defined radio (RTL2832 SDR) community.
 
 * * *
 
