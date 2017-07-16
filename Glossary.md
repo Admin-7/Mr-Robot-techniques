@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **Glossary**
 
-Terminology, explained.
+Terminology, linked and explained.
 
 1. [A](#a)
 1. [B](#b)
@@ -65,6 +65,12 @@ Acronym for [Graphical User Interface](#graphical-user-interface).
 
 # H
 
+## [Hertz](https://simple.wikipedia.org/wiki/Hertz)
+
+## Hz
+
+Abbreviation for [Hertz](#hertz).
+
 # I
 
 ## [Indicator of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
@@ -84,6 +90,10 @@ See [Indicator of Compromise](#indicator-of-compromise).
 # L
 
 # M
+
+## MHz
+
+Abbreviation for megahertz. See also [Hertz](#hertz).
 
 # N
 
