@@ -174,7 +174,7 @@ Initialism for one of:
 
 ## PWM
 
-Initialism for [pulse-width modulation](#pulse-width modulation).
+Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 # Q
 
