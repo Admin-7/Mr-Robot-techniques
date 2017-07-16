@@ -63,6 +63,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 * Blackhat - 2010 How to Hack Millions of Routers https://www.youtube.com/watch?v=0duYxPIx8gU
 * 111 Attacking EvilCorp Anatomy of a Corporate Hack https://www.youtube.com/watch?v=nJSMJyRNvlM
 * Defcon 21 - Traffic Interception and Remote Mobile Phone Cloning with a Compromised CDMA Femtocell https://www.youtube.com/watch?v=gfcq8clu1RI
+* DEFCON 20: Can You Track Me Now? Government And Corporate Surveillance Of Mobile Geo-Location Data https://www.youtube.com/watch?v=NjuhdKUH6U4
 
 * * *
 
