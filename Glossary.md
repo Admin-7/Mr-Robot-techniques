@@ -49,7 +49,7 @@ See [capture the flag](#capture-the-flag).
 
 ## DVB-T
 
-Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast-terrestrial).
+Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast---terrestrial).
 
 # E
 
