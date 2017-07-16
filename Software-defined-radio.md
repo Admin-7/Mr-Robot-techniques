@@ -18,8 +18,27 @@
 
 # Awesome List (DRAFT)
 
-* [FCC.io](https://fcc.io/) - Simple search and URL shortener for FCC ID queries.
+## Tools
+
+### Hardware
+
+* RTL-SDR.com
+* HackRF
+
+### Software
+
+* [GQRX](http://gqrx.dk/) - Open source SDR receiver available for GNU/Linux and macOS.
+* [SDR#](http://sdrsharp.com/) - SDR receiver package for Windows.
+* [rtl_fm](http://manpages.ubuntu.com/manpages/trusty/man1/rtl_fm.1.html) - Simple FM demodulator for RTL2832 based DVB-T receivers.
+* [GNU Radio](https://gnuradio.org) - Free and open-source toolkit for software radio.
+
+## Online communities
+
 * [/r/RTLSDR](https://www.reddit.com/r/RTLSDR/) - Low-cost software defined radio (RTL2832 SDR) community.
+
+## UNCATEGORIZED (FOR NOW)
+
+* [FCC.io](https://fcc.io/) - Simple search and URL shortener for FCC ID queries.
 
 * * *
 
