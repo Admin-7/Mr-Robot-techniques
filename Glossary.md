@@ -57,6 +57,10 @@ Initialism for [Federal Communications Commission](#federal-communications-commi
 
 # G
 
+## [GNU](https://www.gnu.org/)
+
+Recursive initialism for "GNU's Not UNIX." See also [UNIX](#unix).
+
 ## [Graphical User Interface](https://simple.wikipedia.org/wiki/Graphical_user_interface)
 
 ## GUI
@@ -123,6 +127,12 @@ In the context of [[radio|Roftware defined radio]], abbreviation for "receive." 
 
 # S
 
+## [[Software defined radio]]
+
+## [SDR]
+
+Initialism for [Software Defined Radio](#software-defined-radio).
+
 ## [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)
 
 See also [phishing](#phishing).
@@ -150,6 +160,8 @@ In the context of [[radio|Software defined radio]], abbreviation for "transmit."
 Initialism for "Tactics, Techniques, and Procedures."
 
 # U
+
+## [UNIX](https://simple.wikipedia.org/wiki/Unix)
 
 # V
 
