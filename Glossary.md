@@ -57,7 +57,7 @@ Initialism for [Federal Communications Commission](#federal-communications-commi
 
 # G
 
-## [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
+## [Graphical User Interface](https://simple.wikipedia.org/wiki/Graphical_user_interface)
 
 ## GUI
 
@@ -97,9 +97,9 @@ Abbreviation for "open-source intelligence," or "open-sources intelligence." See
 
 # P
 
-## [Phishing](https://en.wikipedia.org/wiki/Phishing)
+## [Phishing](https://simple.wikipedia.org/wiki/Phishing)
 
-## PHYSEC
+## [[PHYSEC]]
 
 Abbreviation for "physical security."
 
@@ -122,6 +122,12 @@ See also [phishing](#phishing).
 Abbreviation for "signals intelligence." See [Signals intelligence](#signals-intelligence).
 
 ## [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence)
+
+## [Structured query language](https://simple.wikipedia.org/wiki/SQL)
+
+## SQL
+
+Initialism for [Structured Query Languge](#structured-query-language).
 
 # T
 
