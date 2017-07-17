@@ -205,7 +205,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [Me and My Shadow](https://myshadow.org/)
 
-  Start here if you're unconvinced that you "have something to hide." This site offers an accessible deep-dive into research about the data industry, how advertisers and communication service providers (like [Facebook](https://myshadow.org/lost-in-small-print/facebooks-data-policy) and [Google](https://myshadow.org/lost-in-small-print/googles-privacy-policy)) track you online, what they do with your information, and what you can do about it. It includes several [short privacy guides](https://myshadow.org/increase-your-privacy) along with a helpful [interactive visualization breaking down which activity leaves what type of data trail](https://myshadow.org/trace-my-shadow).
+  Start here if you're unconvinced that you "have something to hide." This site offers an accessible deep-dive into research about the data industry, how advertisers and communication service providers (like [Facebook](https://myshadow.org/lost-in-small-print/facebooks-data-policy) and [Google](https://myshadow.org/lost-in-small-print/googles-privacy-policy)) track you online, what they do with your information, and what you can do about it. It includes several [short privacy guides](https://myshadow.org/increase-your-privacy) along with a helpful [interactive visualization breaking down which activity leaves what type of data trail](https://myshadow.org/trace-my-shadow) and even an "[8-day data detox](https://myshadow.org/detox)" plan.
 
 * [DIY Feminist Cybersecurity](https://hackblossom.org/resources/)
 
