@@ -153,6 +153,12 @@ Abbreviation for megahertz. See also [Hertz](#hertz).
 
 # N
 
+## [National Security Agency](https://simple.wikipedia.org/wiki/National_Security_Agency)
+
+## NSA
+
+Initialism for [National Security Agency](#national-security-agency).
+
 # O
 
 ## [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
@@ -228,13 +234,20 @@ Initialism for [Structured Query Languge](#structured-query-language).
 
 # T
 
-## TX
+## [Technology Transfer Program](https://web.archive.org/web/20170606155618/https://www.nsa.gov/what-we-do/research/technology-transfer/)
 
-In the context of [[radio|Software defined radio]], abbreviation for "transmit."
+See also [@NationalSecurityAgency on GitHub](https://github.com/NationalSecurityAgency).
 
 ## TTP
 
-Initialism for "Tactics, Techniques, and Procedures."
+Initialism for one of
+
+* "Tactics, Techniques, and Procedures"
+* [Technology Transfer Program](#technology-transfer-program)
+
+## TX
+
+In the context of [[radio|Software defined radio]], abbreviation for "transmit."
 
 # U
 
