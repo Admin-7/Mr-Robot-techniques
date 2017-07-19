@@ -278,3 +278,4 @@ See also:
 
 * related pages: [[Security culture]], [[PhySec]]
 * [NYC-InfoSec.com](https://www.nyc-infosec.com/), a calendar of infosec-related events in the New York City area.
+* [New York Security Community](http://nysec.isis.poly.edu/), an informal meetup of infosec professionals in NYC.
