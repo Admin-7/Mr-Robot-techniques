@@ -20,10 +20,15 @@ Resources and initiatives expanding our capacity for physical self- and communit
 
   A physical space in Brooklyn that offers free self-defense, fitness, and skill share classes 7 days a week.
 
+* [Physical Culture Collective](https://www.physicalculturecollective.com/)
+
+  Martial arts and strength and conditioning studio focusing on athletic development and fun movement for people of all skill levels.
+
 # Training and gear
 
 * [Surveillance Detection On Yourself](https://protectioncircle.org/2016/05/25/surveillance-detection-on-yourself/) - How to determine if you're being followed, especially by people who don't want you to notice that you've got a tail.
 * [How to gear up for a protest](http://www.hopesandfears.com/hopes/city/how-to-gear-up/216551-what-to-wear-protest) - A visual primer on what to wear at a protest that may turn violent.
+* [Self Defense Starter Kit](https://selfdefensestarterkit.com/) - Videos and pocket guides showing numerous essential self-defense techniques including verbal de-escalation tips.
 
 # Other lists
 
