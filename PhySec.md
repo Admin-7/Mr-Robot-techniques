@@ -16,21 +16,11 @@ Resources and initiatives expanding our capacity for physical self- and communit
 
 # Gyms
 
-* [PopGym](https://popgym.org/)
+* [PopGym](https://popgym.org/) - free self-defense, fitness, and skill share classes 7 days a week.
 
-  A physical space in Brooklyn that offers free self-defense, fitness, and skill share classes 7 days a week.
-
-* [Physical Culture Collective](https://www.physicalculturecollective.com/)
-
-  Martial arts and strength and conditioning studio focusing on athletic development and fun movement for people of all skill levels.
-
-* [Traditional Okinawan Karate of Brooklyn](http://tokarate.com/)
-
-  Affordable Karate dojo with dedicated classes for queer folk and women.
-
-* [Revolutionary Fitness](http://www.revolutionaryfitness.org/)
-
-  Radical fitness training.
+* [Physical Culture Collective](https://www.physicalculturecollective.com/) - Martial arts and strength and conditioning studio focusing on athletic development and fun movement for people of all skill levels.
+* [Traditional Okinawan Karate of Brooklyn](http://tokarate.com/) - Affordable Karate dojo with dedicated classes for queer folk and women.
+* [Revolutionary Fitness](http://www.revolutionaryfitness.org/) - Radical fitness training.
 
 # Training and gear
 
