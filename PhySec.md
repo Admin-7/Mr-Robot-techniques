@@ -28,6 +28,10 @@ Resources and initiatives expanding our capacity for physical self- and communit
 
   Affordable Karate dojo with dedicated classes for queer folk and women.
 
+* [Revolutionary Fitness](http://www.revolutionaryfitness.org/)
+
+  Radical fitness training.
+
 # Training and gear
 
 * [Surveillance Detection On Yourself](https://protectioncircle.org/2016/05/25/surveillance-detection-on-yourself/) - How to determine if you're being followed, especially by people who don't want you to notice that you've got a tail.
