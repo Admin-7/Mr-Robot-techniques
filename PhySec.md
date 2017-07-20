@@ -24,6 +24,10 @@ Resources and initiatives expanding our capacity for physical self- and communit
 
   Martial arts and strength and conditioning studio focusing on athletic development and fun movement for people of all skill levels.
 
+* [Traditional Okinawan Karate of Brooklyn](http://tokarate.com/)
+
+  Affordable Karate dojo with dedicated classes for queer folk and women.
+
 # Training and gear
 
 * [Surveillance Detection On Yourself](https://protectioncircle.org/2016/05/25/surveillance-detection-on-yourself/) - How to determine if you're being followed, especially by people who don't want you to notice that you've got a tail.
