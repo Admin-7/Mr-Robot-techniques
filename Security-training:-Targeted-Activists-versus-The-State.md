@@ -85,3 +85,4 @@ Before you dive too deeply into this practice material, you should first explore
 * "Use encrypted email." (OpenPGP/GPG/PGP)
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
+* [Create an anonymous Signal phone number with Android](https://yawnbox.com/2015/03/14/create-an-anonymous-textsecure-and-redphone-phone-number/)
