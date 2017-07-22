@@ -23,7 +23,7 @@ Our Gitter chat room is configured to show the following "Welcome message" to us
 
 > 📝 Please do try to keep this text synchronized with the actual welcome message in the room. :) ❤️
 
-Not all chatters can change the welcome message. If you can't, and you'd like to propose a change to it, you're welcome to edit the text below:
+Not all chatters can change the welcome message. If you can't, and you'd like to propose a change to it, you're welcome to edit the text below, or [open a new issue ticket](https://github.com/AnarchoTechNYC/meta/issues/new) with your suggestions:
 
 > This is a general purpose chat room for [AnarchoTechNYC](https://github.com/AnarchoTechNYC), your friendly neighborhood anarchist tech collective. Come on in and introduce yourself! Stick around even if you don't get a response immediately; sometimes we're just not at our keyboards.
 > 
