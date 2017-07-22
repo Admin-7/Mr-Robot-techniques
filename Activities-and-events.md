@@ -10,9 +10,9 @@ There is a near-constant buzz of organizing activity in New York City. In additi
 
 Activities are things to do with your fellow antifa comrades that are happening on a(t least a semi-)regular basis at AnarchoTechNYC meetings/spaces. More details are available on a given event's wiki page.
 
-* [[Capture The Flag (CTF) gaming|CTF team]] - Irregular cybersecurity study group participating in online wargaming competitions.
-* [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it
-* [[Fight training]] - Recurring self-defense workshop with dedicated variants for women and people who are gender non-conforming.
+* [[Capture The Flag (CTF) gaming|CTF team]] - Cybersecurity study group participating in online wargaming competitions.
+* [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
+* [[Fight training]] - Recurring physical self-defense workshop with dedicated variants for women and people who are gender non-conforming.
 * [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
 * [[Lockpicking club]] - Locksport practice session and meditative discussion circle.
 
