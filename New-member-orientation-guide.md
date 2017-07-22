@@ -20,7 +20,7 @@ If you're reading this, you're already here! GitHub is a Web-based collaboration
 1. If you don't already have a GitHub account, [sign up for one here](https://github.com/join).
     * Be certain you select the *free* plan. There's no need to give GitHub any money.
     * You'll need an email address that you can check; you can [[use a disposable (temporary) email address|Disposable email services]] if you need the added privacy.
-1. Tell someone at the tech collective meeting what your GitHub username is. That person will add you to the AnarchoTechNYC "organization" on GitHub.
+1. Tell someone at the meeting or event you're at what your GitHub username is. That person will add you to the AnarchoTechNYC "organization" on GitHub.
 1. You will get an email asking you accept your invitation to join the GitHub organization. Confirm this, and you're in.
 
 # Signal
