@@ -252,6 +252,16 @@ Initialism for one of:
 
 # M
 
+## MAN
+
+When in all capital letters, an acronym for [metropolitan area network](#metropolitan-area-network).
+
+When in all lowercase letters, abbreviation for "manual." See [man page](#man-page).
+
+## [Man page](https://en.wikipedia.org/wiki/Man_page)
+
+## [Metropolitan area network](https://simple.wikipedia.org/wiki/Metropolitan_area_network)
+
 ## MHz
 
 Abbreviation for megahertz. See also [Hertz](#hertz).
