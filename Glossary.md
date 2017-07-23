@@ -89,9 +89,15 @@ Initialism for [equipment under test](#equipment-under-test). Also known as [dev
 
 # F
 
+## [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+
 ## FCC
 
 Initialism for [Federal Communications Commission](#federal-communications-commission).
+
+## FFT
+
+Initialism for [fast Fourier transform](#fast-fourier-transform).
 
 ## FM
 
