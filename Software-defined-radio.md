@@ -8,6 +8,8 @@
 
 # "Learn from…"
 
+> 📝 Editor's note: This list is not quite ordered but does attempt to provide a "from top to bottom/from start to finish" sorting for the complete beginner.
+
 * [Software Defined Radio - An Introduction](https://www.youtube.com/watch?v=kWfU1G3Jq4w)
 
   An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR.
@@ -19,6 +21,10 @@
 * [Software Defined Radio (SDR) Tutorials, by Michael Ossmann](http://greatscottgadgets.com/sdr/)
 
   This ongoing video series will be a complete course in Software Defined Radio (SDR). In this course, you'll build flexible SDR applications using GNU Radio through exercises that will help you learn the fundamentals of Digital Signal Processing (DSP) needed to master SDR. For the over-the-air exercises, you'll need a HackRF One or other SDR peripheral, such as an inexpensive RTL-SDR. (See [#hardware](#hardware).)
+
+* [GNU Radio Tutorials: Labs 1–5, by Balint Seeber](https://files.ettus.com/tutorials/labs/Lab_1-5.pdf)
+
+  Slide deck that contains some very important information regarding GNURadio. This has exercises and lessons so that participants can try them at their own pace.
 
 * [Technician Ham Radio License, by David Casler](https://www.youtube.com/playlist?list=PL07A7D1C9D7BF7F48)
 
