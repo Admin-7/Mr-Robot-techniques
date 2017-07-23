@@ -43,7 +43,7 @@ Initialism for [analog-to-digital converter](#analog-to-digital-converter).
 
 ## ADSB
 
-Initialism for [automatic depedent surveillance – broadcast](#automatic-dependent-surveillance_%E2%80%93-broadcast).
+Initialism for [automatic depedent surveillance – broadcast](#automatic-dependent-surveillance--broadcast).
 
 ## AGC
 
