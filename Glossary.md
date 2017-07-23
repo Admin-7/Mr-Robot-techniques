@@ -59,9 +59,15 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security).
 
+## [Continuous wave](https://en.wikipedia.org/wiki/Continuous_wave)
+
 ## CTF
 
 See [capture the flag](#capture-the-flag).
+
+## CW
+
+Initialism for [continuous wave](#continuous-wave).
 
 # D
 
