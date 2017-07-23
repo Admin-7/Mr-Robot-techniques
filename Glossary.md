@@ -327,7 +327,7 @@ Initialism for [radio frequency](#radio-frequency).
 
 ## RX
 
-In the context of [[radio|Roftware defined radio]], abbreviation for "receive." Contrast with [TX](#tx).
+In the context of [[radio|Software defined radio]], abbreviation for "receive." Contrast with [TX](#tx).
 
 # S
 
