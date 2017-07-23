@@ -18,7 +18,7 @@
 
 * [Software Defined Radio (SDR) Tutorials, by Michael Ossmann](http://greatscottgadgets.com/sdr/)
 
-  This ongoing video series will be a complete course in Software Defined Radio (SDR). In this course, you'll build flexible SDR applications using GNU Radio through exercises that will help you learn the fundamentals of Digital Signal Processing (DSP) needed to master SDR. For the over-the-air exercises, you'll need a HackRF One or other SDR peripheral, such as an inexpensive RTL-SDR. (See [[#hardware]].)
+  This ongoing video series will be a complete course in Software Defined Radio (SDR). In this course, you'll build flexible SDR applications using GNU Radio through exercises that will help you learn the fundamentals of Digital Signal Processing (DSP) needed to master SDR. For the over-the-air exercises, you'll need a HackRF One or other SDR peripheral, such as an inexpensive RTL-SDR. (See [#hardware](#hardware).)
 
 * [Technician Ham Radio License, by David Casler](https://www.youtube.com/playlist?list=PL07A7D1C9D7BF7F48)
 
