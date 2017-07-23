@@ -69,6 +69,14 @@ See [capture the flag](#capture-the-flag).
 
 Initialism for [continuous wave](#continuous-wave).
 
+## CW-L
+
+Initialism for [continuous wave](#continuous-wave) - lower.
+
+## CW-U
+
+Initialism for [continuous wave](#continuous-wave) - upper.
+
 # D
 
 ## [Decimation](https://en.wikipedia.org/wiki/Decimation_%28signal_processing%29)
