@@ -320,7 +320,7 @@ Initialism for [wideband frequency modulation](#wideband-frequency-modulation).
 
 ## [Wideband frequency modulation](https://en.wikipedia.org/wiki/Frequency_modulation#Radio)
 
-A form of frequency modulation (FM) that operates across a wider bandwidth.
+A form of [frequency modulation (FM)](#frequency-modulation) that operates across a wider bandwidth.
 
 ## [Wireless local area network](https://simple.wikipedia.org/wiki/Wireless_LAN)
 
