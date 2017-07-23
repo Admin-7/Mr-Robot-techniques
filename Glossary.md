@@ -41,6 +41,10 @@ Abbreviation for [analog-to-digital converter](#analog-to-digital-converter).
 
 Initialism for [analog-to-digital converter](#analog-to-digital-converter).
 
+## ADSB
+
+Initialism for [automatic depedent surveillance – broadcast](#automatic-dependent-surveillance_%E2%80%93-broadcast).
+
 ## AGC
 
 Initialism for [automatic gain control](#automatic-gain-control).
@@ -58,6 +62,8 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 ## ASK
 
 Acronym for [amplitude-shift keying](#amplitude-shift-keying).
+
+## [Automatic dependent surveillance – broadcast](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast)
 
 ## [Automatic gain control](https://en.wikipedia.org/wiki/Automatic_gain_control)
 
