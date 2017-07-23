@@ -64,6 +64,7 @@
 
 * [FCC.io](https://fcc.io/) - Simple search and URL shortener for FCC ID queries.
 * [RadioReference Frequency Database](https://www.radioreference.com/apps/db/) - World's largest freely accessible radio frequency lookup database.
+* [Signal Identification Guide](https://www.sigidwiki.com/) - Crowdsourced database of signal recordings to help identify radio signals through example sounds and waterfall images.
 * [ADSB Receiver](http://hiz.ch/index.php/home/adsb-receiver) - Android app providing an all-in-one ADSB decoder. (A limited tool, but a fun demo.)
 * [ADSB Receiver Project](https://www.adsbreceiver.net/) - Zero-hardware-required software package that creates a self-hosted Web-based ADSB portal site on a Debian system. (Not SDR specific but fun to know about.)
 
