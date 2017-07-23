@@ -8,7 +8,7 @@ There is a near-constant buzz of organizing activity in New York City. In additi
 
 # Activities
 
-Activities are things to do with your fellow antifa comrades that are happening on a(t least a semi-)regular basis at AnarchoTechNYC meetings/spaces. More details are available on a given event's wiki page.
+Activities are things to do with your fellow antifa comrades that are happening on a(t least a semi-)regular basis at affiliated meetings/spaces. More details are available on a given event's wiki page.
 
 * [[Capture The Flag (CTF) gaming|CTF team]] - Cybersecurity study group participating in online wargaming competitions.
 * [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
