@@ -85,6 +85,8 @@ Initialism for [continuous wave](#continuous-wave) - upper.
 
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
 
+## [Duplex](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
+
 ## DUT
 
 Initialism for [device under test](#device-under-test). Also known as [equipment under test](#equipment-under-test), [unit under test](#unit-under-test).
@@ -109,6 +111,12 @@ Initialism for [equipment under test](#equipment-under-test). Also known as [dev
 
 Initialism for [Federal Communications Commission](#federal-communications-commission).
 
+## FDX
+
+Abbreviation for [full-duplex](#full-duplex).
+
+## [Federal Communications Commission](https://fcc.gov/)
+
 ## FFT
 
 Initialism for [fast Fourier transform](#fast-fourier-transform).
@@ -116,8 +124,6 @@ Initialism for [fast Fourier transform](#fast-fourier-transform).
 ## FM
 
 Initialism for [frequency modulation](#frequency-modulation).
-
-## [Federal Communications Commission](https://fcc.gov/)
 
 ## [Frequency modulation](https://simple.wikipedia.org/wiki/Frequency_modulation)
 
@@ -128,6 +134,8 @@ See also [amplitude-shift keying](#amplitude-shift-keying), [phase-shift keying]
 ## FSK
 
 Initialism for [frequency-shift keying](#frequency-shift-keying).
+
+## [Full-duplex](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29#Full_duplex)
 
 # G
 
@@ -142,6 +150,12 @@ Recursive initialism for "GNU's Not UNIX." See also [UNIX](#unix).
 Acronym for [Graphical User Interface](#graphical-user-interface).
 
 # H
+
+## [Half-duplex](https://en.wikipedia.org/wiki/Duplex_(telecommunications)#Half_duplex)
+
+## HDX
+
+Abbreviation for "[half-duplex](#half-duplex)."
 
 ## [Hertz](https://simple.wikipedia.org/wiki/Hertz)
 
