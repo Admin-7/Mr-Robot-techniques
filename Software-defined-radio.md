@@ -18,7 +18,7 @@
 
   The male co-host of this show, Darren Kitchen, behaves like a classic techbro prick and his explanations aren't great but there is some decent beginner-level information here in a playlist that is sorted sensibly (from basic to advanced). The real value is in paying attention to the female co-host's (Shannon Morse's) learning process, which seems like it begins to carve a learning path for newbies like me.
 
-# [Basics of IQ Signals and IQ modulation & demodulation - A tutorial](https://www.youtube.com/watch?v=h_7d-m1ehoY)
+* [Basics of IQ Signals and IQ modulation & demodulation - A tutorial](https://www.youtube.com/watch?v=h_7d-m1ehoY)
 
   This video presents an introductory tutorial on IQ signals - their definition, and some of the ways that they are used to both create / generate modulated RF signals, and demodulate / analyze RF signals. IQ signals are most often used in the transmit and receive paths of Software Define Radios (SDR). A [PDF of the drawings](http://www.qsl.net/w/w2aew/youtube/Basics_IQ_signals_modulation.pdf).
 
