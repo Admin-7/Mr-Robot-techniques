@@ -59,6 +59,8 @@ See [capture the flag](#capture-the-flag).
 
 # D
 
+## [Decimation](https://en.wikipedia.org/wiki/Decimation_%28signal_processing%29)
+
 ## [Device under test](https://en.wikipedia.org/wiki/Device_under_test)
 
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
