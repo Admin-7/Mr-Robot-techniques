@@ -12,7 +12,7 @@
 
 * [Software Defined Radio - An Introduction](https://www.youtube.com/watch?v=kWfU1G3Jq4w)
 
-  An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR. (Here's a [video of the same presentation, about a year later](https://www.youtube.com/watch?v=Wjik-PjJA1w).)
+  An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR hardware, and live demonstrations of how to use SDR.
 
 * [Hak5 playlist: Software Defined Radio](https://www.youtube.com/playlist?list=PLBmFDs_1nZfBN2x5dbFXO7RfcwVGrqQy-)
 
