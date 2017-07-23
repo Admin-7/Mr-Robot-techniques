@@ -61,7 +61,7 @@
 
 * [SDR Touch](http://sdrtouch.com/) - Freeware radio spectrum viewer app for Android.
 * [SDRoid](http://sdr-labs.com/software/sdroid) - Free software radio spectrum viewer app for Android.
-* [RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Free 
+* [RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Free software radio frequency spectrum analyzer for Android.
 
 ## Online communities
 
