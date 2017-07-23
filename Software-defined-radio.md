@@ -16,6 +16,10 @@
 
   The male co-host of this show, Darren Kitchen, behaves like a classic techbro prick and his explanations aren't great but there is some decent beginner-level information here in a playlist that is sorted sensibly (from basic to advanced). The real value is in paying attention to the female co-host's (Shannon Morse's) learning process, which seems like it begins to carve a learning path for newbies like me.
 
+* [Software Defined Radio (SDR) Tutorials, by Michael Ossmann](http://greatscottgadgets.com/sdr/)
+
+  This ongoing video series will be a complete course in Software Defined Radio (SDR). In this course, you'll build flexible SDR applications using GNU Radio through exercises that will help you learn the fundamentals of Digital Signal Processing (DSP) needed to master SDR. For the over-the-air exercises, you'll need a HackRF One or other SDR peripheral, such as an inexpensive RTL-SDR. (See [[#hardware]].)
+
 * [Technician Ham Radio License, by David Casler](https://www.youtube.com/playlist?list=PL07A7D1C9D7BF7F48)
 
   The ARRL is a licensing body that administers examinations and awards credentials for legal compliance in operating radio transmitters (it is generally safe and legal to passively receive radio signals, i.e., to listen to electro-magnetic spectrum radiation, but it is not legal to transmit, i.e., to speak using the same mechanism, i.e., EM/radio). This video series is a "teach-to-the-test" free course by a long-time licensed ham radio operator that for the most basic of these licenses, the "Tech" exam. The next exam is the "[General](https://www.youtube.com/playlist?list=PL0R9jy9LZw_35KimLiSIOH0YdNtCeYcRe)" license and finally the "[Amateur Extra](https://www.youtube.com/playlist?list=PL0R9jy9LZw_3CHCH-5A8faeIA-H3e4ZNC)" license.
