@@ -80,4 +80,4 @@
 
 See also:
 
-* related pages: [[Favorite conference talks]] has several videos dealing with "wireless" and "radio" hacking, worth watching.
+* related pages: [[Favorite conference talks]] has several videos dealing with "wireless" and "radio" hacking, worth watching, and [[Glossary]] for the definition and direct links to many obscure radio terms and jargon.
