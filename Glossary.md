@@ -312,7 +312,15 @@ Acronym for [wide area network](#wide-area-network).
 
 ## [Watering hole attack](https://en.wikipedia.org/wiki/Watering_hole_attack)
 
+## WFM
+
+Initialism for [wideband frequency modulation](#wideband-frequency-modulation).
+
 ## [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network)
+
+## [Wideband frequency modulation](https://en.wikipedia.org/wiki/Frequency_modulation#Radio)
+
+A form of frequency modulation (FM) that operates across a wider bandwidth.
 
 ## [Wireless local area network](https://simple.wikipedia.org/wiki/Wireless_LAN)
 
