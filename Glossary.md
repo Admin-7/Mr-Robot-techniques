@@ -143,9 +143,17 @@ Abbreviation for [Hertz](#hertz).
 
 Abbreviation for "information security."
 
+## [In-phase and quadrature components](https://en.wikipedia.org/wiki/In-phase_and_quadrature_components)
+
+See also [National Instruments: What is I/Q data?](https://www.ni.com/tutorial/4805/en/)
+
 ## IOC
 
 See [Indicator of Compromise](#indicator-of-compromise).
+
+## I/Q
+
+Abbreviation for "[in-phase and quadrature components](#in-phase-and-quadrature-components)."
 
 # J
 
