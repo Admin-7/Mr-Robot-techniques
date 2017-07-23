@@ -33,6 +33,10 @@ Terminology, linked and explained.
 
 ## [Amplitude modulation](https://simple.wikipedia.org/wiki/Amplitude_modulation)
 
+## AGC
+
+Initialism for [automatic gain control](#automatic-gain-control).
+
 ## AM
 
 Initialism for [amplitude modulation](#amplitude-modulation).
@@ -44,6 +48,8 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 ## ASK
 
 Acronym for [amplitude-shift keying](#amplitude-shift-keying).
+
+## [Automatic gain control](https://en.wikipedia.org/wiki/Automatic_gain_control)
 
 # B
 
@@ -233,6 +239,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 ## SQL
 
 Initialism for [Structured Query Languge](#structured-query-language).
+
+## [Squelch](https://en.wikipedia.org/wiki/Squelch)
 
 # T
 
