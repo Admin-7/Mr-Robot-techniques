@@ -8,6 +8,10 @@
 
 # "Learn from…"
 
+* [Software Defined Radio - An Introduction](https://www.youtube.com/watch?v=kWfU1G3Jq4w)
+
+  An introductory overview of Software Defined Radio (SDR) is given by Schuyler St. Leger at Desert Code Camp at Chandler-Gilbert Community College. The hour-long talk covers what SDR is and how it differs from hardware radio, SDR hardware available today, software tools to use with SDR HW, and live demonstrations of how to use SDR.
+
 * [Hak5 playlist: Software Defined Radio](https://www.youtube.com/playlist?list=PLBmFDs_1nZfBN2x5dbFXO7RfcwVGrqQy-)
 
   The male co-host of this show, Darren Kitchen, behaves like a classic techbro prick and his explanations aren't great but there is some decent beginner-level information here in a playlist that is sorted sensibly (from basic to advanced). The real value is in paying attention to the female co-host's (Shannon Morse's) learning process, which seems like it begins to carve a learning path for newbies like me.
