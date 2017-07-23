@@ -168,7 +168,18 @@ Abbreviation for "[in-phase and quadrature components](#in-phase-and-quadrature-
 
 Initialism for [local area network](#local-area-network).
 
+## [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base)
+
 ## [Local area network](https://simple.wikipedia.org/wiki/Local_area_network)
+
+## [Lower sideband](https://en.wikipedia.org/wiki/Single-sideband_modulation#Bandpass_filtering)
+
+## LSB
+
+Initialism for one of:
+
+* [Linux Standard Base](#linux-standard-base)
+* [Lower sideband](#lower-sideband)
 
 # M
 
