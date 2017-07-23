@@ -214,6 +214,12 @@ Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 ## [Radio frequency](https://simple.wikipedia.org/wiki/Radio_frequency)
 
+## RBW
+
+Initialism for [resolution bandwidth](#resolution-bandwidth).
+
+## [Resolution bandwidth](https://en.wikipedia.org/wiki/Spectrum_analyzer#Resolution_bandwidth)
+
 ## RF
 
 Initialism for [radio frequency](#radio-frequency).
