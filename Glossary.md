@@ -31,7 +31,15 @@ Terminology, linked and explained.
 
 # A
 
+## A-to-D
+
+Abbreviation for [analog-to-digital converter](#analog-to-digital-converter).
+
 ## [Amplitude modulation](https://simple.wikipedia.org/wiki/Amplitude_modulation)
+
+## ADC
+
+Initialism for [analog-to-digital converter](#analog-to-digital-converter).
 
 ## AGC
 
@@ -44,6 +52,8 @@ Initialism for [amplitude modulation](#amplitude-modulation).
 ## [Amplitude-shift keying](https://en.wikipedia.org/wiki/Amplitude-shift_keying)
 
 See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying](#phase-shift-keying).
+
+## [Analog-to-digital converter](https://simple.wikipedia.org/wiki/Analog-to-digital_converter)
 
 ## ASK
 
@@ -79,11 +89,27 @@ Initialism for [continuous wave](#continuous-wave) - upper.
 
 # D
 
+## [Digital-to-analog converter](https://simple.wikipedia.org/wiki/Digital-to-analog_converter)
+
+## D-to-A
+
+Abbreviation for [digital-to-analog converter](#digital-to-analog-converter).
+
+## DAC
+
+Acronym for [digital-to-analog converter](#digital-to-analog-converter).
+
 ## [Decimation](https://en.wikipedia.org/wiki/Decimation_%28signal_processing%29)
 
 ## [Device under test](https://en.wikipedia.org/wiki/Device_under_test)
 
+## [Digital signal processing](https://simple.wikipedia.org/wiki/Digital_signal_processing)
+
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
+
+## DSP
+
+Initialism for [digital signal processing](#digital-signal-processing).
 
 ## [Duplex](https://en.wikipedia.org/wiki/Duplex_%28telecommunications%29)
 
@@ -175,8 +201,9 @@ Abbreviation for "information security."
 
 See also:
 
-* [Digital Signal Processing: What is IQ Data?](https://dsp.stackexchange.com/a/38214)
-* [National Instruments: What is I/Q data?](https://www.ni.com/tutorial/4805/en/)
+1. [Digital Signal Processing: What is IQ Data?](https://dsp.stackexchange.com/a/38214)
+1. [I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
+1. [National Instruments: What is I/Q data?](https://www.ni.com/tutorial/4805/en/)
 
 ## IOC
 
