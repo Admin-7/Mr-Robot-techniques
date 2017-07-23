@@ -198,7 +198,13 @@ Initialism for [local area network](#local-area-network).
 
 ## [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base)
 
+## LNA
+
+Initialism for [low-noise amplifier](#low-noise-amplifier).
+
 ## [Local area network](https://simple.wikipedia.org/wiki/Local_area_network)
+
+## [Low-noise amplifier](https://en.wikipedia.org/wiki/Low-noise_amplifier)
 
 ## [Lower sideband](https://en.wikipedia.org/wiki/Single-sideband_modulation#Bandpass_filtering)
 
@@ -342,6 +348,17 @@ Initialism for [Universal Serial Bus](#universal-serial-bus).
 Initialism for [Universal Software Radio Peripheral](#universal-software-radio-peripheral).
 
 # V
+
+## [Variable-gain amplifier](https://en.wikipedia.org/wiki/Variable-gain_amplifier)
+
+## [Video Graphics Array](https://en.wikipedia.org/wiki/Video_Graphics_Array)
+
+## VGA
+
+Initialism for one of:
+
+* [Variable-gain amplifier](#variable-gain-amplifier)
+* [Video Graphics Array](#video-graphics-array)
 
 # W
 
