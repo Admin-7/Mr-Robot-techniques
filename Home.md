@@ -15,10 +15,11 @@ If you're looking to get involved, consider exploring this wiki! There's plenty 
 
 # [[Activities and events]]
 
-One of the best parts of AnarchoTechNYC are the regular activities and traditions that tech antifa folks have created over the years. Some are ongoing activities while others are one-offs, but any can be revived and new ones created by *you* at any time! Some of our more consistent activities are listed below, but be sure to check out the [[Activities and events]] portal page for a full list.
+Antifa folks have created numerous regular activities and traditions over the years. Some are ongoing activities while others are one-offs, but any can be revived and new ones created by *you* at any time! Some more consistent activities we are affiliated with are listed below, but be sure to check out the [[Activities and events]] portal page for a full list.
 
 * [[Capture The Flag (CTF) gaming|CTF team]] - Irregular cybersecurity study group participating in online wargaming competitions.
 * [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
+* [[Fight training]] - Gain confidence in using our bodies to protect our loved ones and neighbors.
 * [[Lockpicking club]] - Locksport practice session and meditative discussion circle.
 * [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
 
