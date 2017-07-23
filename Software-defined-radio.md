@@ -36,25 +36,32 @@
 
 # Awesome List (DRAFT)
 
-## Tools
-
-### Hardware
+## Hardware
 
 * [RTL-SDR](http://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - Inexpensive (~$20), common peripheral based on the R820T2 chipset, which has a frequency range of  24 – 1766 MHz.
 * [HackRF](https://greatscottgadgets.com/hackrf/) - Open source hardware platform that can be used as a USB peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz.
 * [BladeRF](https://www.nuand.com/) - SDR transciever capable of full-duplex, very wide spectrum analysis and transmission with an integrated field-programmable gate array (FPGA).
 
-### Software
+## Software
+
+### Cross-platform
 
 * [GQRX](http://gqrx.dk/) - Open source SDR receiver available for GNU/Linux and macOS.
-* [SDR#](http://sdrsharp.com/) - Freeware, proprietary SDR receiver package for the Windows operating system.
-* [HDSDR](http://www.hdsdr.de/) - Freeware, proprietary SDR spectrum analyzer for the Windows operating system.
 * [rtl_fm](http://manpages.ubuntu.com/manpages/trusty/man1/rtl_fm.1.html) - Simple FM demodulator for RTL2832 based DVB-T receivers.
 * [GNU Radio](https://gnuradio.org) - Free and open-source toolkit for software radio.
 * [GrOsmoSDR](https://osmocom.org/projects/sdr/wiki/GrOsmoSDR) - Versatile library that provides a GNU Radio Companion block for interfacing with numerous SDR hardware devices.
 * [Linad](http://www.sm5bsz.com/linuxdsp/linrad.htm) - Free software, cross-platform radio spectrum viewer and digital signal processing (DSP) program.
+
+### Windows
+
+* [SDR#](http://sdrsharp.com/) - Freeware, proprietary SDR receiver package for the Windows operating system.
+* [HDSDR](http://www.hdsdr.de/) - Freeware, proprietary SDR spectrum analyzer for the Windows operating system.
+
+### Android
+
 * [SDR Touch](http://sdrtouch.com/) - Freeware radio spectrum viewer app for Android.
 * [SDRoid](http://sdr-labs.com/software/sdroid) - Free software radio spectrum viewer app for Android.
+* [RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Free 
 
 ## Online communities
 
