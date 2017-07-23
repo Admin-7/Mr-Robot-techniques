@@ -49,7 +49,7 @@
 * [GQRX](http://gqrx.dk/) - Open source SDR receiver available for GNU/Linux and macOS.
 * [rtl_fm](http://manpages.ubuntu.com/manpages/trusty/man1/rtl_fm.1.html) - Simple FM demodulator for RTL2832 based DVB-T receivers.
 * [GNU Radio](https://gnuradio.org) - Free and open-source toolkit for software radio.
-* [GrOsmoSDR](https://osmocom.org/projects/sdr/wiki/GrOsmoSDR) - Versatile library that provides a GNU Radio Companion block for interfacing with numerous SDR hardware devices.
+* [GrOsmoSDR](https://osmocom.org/projects/sdr/wiki/GrOsmoSDR) - Versatile library providing a GNURadio Companion block for numerous SDR devices as well as standalone apps, such as the `osmocom_fft` spectrum browser.
 * [Linad](http://www.sm5bsz.com/linuxdsp/linrad.htm) - Free software, cross-platform radio spectrum viewer and digital signal processing (DSP) program.
 
 ### Windows
