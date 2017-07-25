@@ -270,6 +270,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 * [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
 * [NetSec Focus - Learning Resources](https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/htmlview)
+* [MalwareAnalysis.Tools](http://malwareanalysis.tools/)
 * [Sneakerhax's Getting Started Resources](https://github.com/sneakerhax/Resources/blob/master/links/getting-started.md)
 
 ***
