@@ -268,6 +268,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
+* [Black Hat Arsenal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
 * [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
 * [NetSec Focus - Learning Resources](https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/htmlview)
 * [MalwareAnalysis.Tools](http://malwareanalysis.tools/)
