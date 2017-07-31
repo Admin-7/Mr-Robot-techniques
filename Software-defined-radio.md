@@ -38,7 +38,7 @@
 
 ## Hardware
 
-* [RTL-SDR](http://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - Inexpensive (~$20), common peripheral based on the R820T2 chipset, which has a frequency range of  24 – 1766 MHz. (Also available from [HakShop](https://hakshop.com/collections/wireless-gear/products/software-defined-radio-kit-rtl-sdr) and [AdaFruit](https://www.adafruit.com/product/1497).)
+* [RTL-SDR](http://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - Inexpensive (~$20), common peripheral based on the R820T2 chipset, which has a frequency range of  24 – 1766 MHz. (Also available from [HakShop](https://hakshop.com/collections/wireless-gear/products/software-defined-radio-kit-rtl-sdr), [AdaFruit](https://www.adafruit.com/product/1497), and [NooElec](https://www.nooelec.com/store/sdr.html).)
 * [HackRF](https://greatscottgadgets.com/hackrf/) - Open source hardware platform that can be used as a USB peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz.
 * [BladeRF](https://www.nuand.com/) - SDR transciever capable of full-duplex, very wide spectrum analysis and transmission with an integrated field-programmable gate array (FPGA).
 
