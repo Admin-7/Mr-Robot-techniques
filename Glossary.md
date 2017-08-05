@@ -337,7 +337,7 @@ Acronym for [surface acoustic wave](#surface-acoustic-wave).
 
 ## [SAW filter](https://en.wikipedia.org/wiki/Electronic_filter#SAW_filters)
 
-Short for "[surface acoustic wave](#surface-acoustic-wave) filter," a form of electronic filter.
+Short for "[surface acoustic wave](#surface-acoustic-wave) filter," a form of [electronic filter](https://simple.wikipedia.org/wiki/Electronic_filter).
 
 ## [[Software defined radio]]
 
