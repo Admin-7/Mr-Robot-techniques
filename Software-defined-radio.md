@@ -80,6 +80,8 @@
 * [ADSB Receiver](http://hiz.ch/index.php/home/adsb-receiver) - Android app providing an all-in-one ADSB decoder. (A limited tool, but a fun demo.)
 * [ADSB Receiver Project](https://www.adsbreceiver.net/) - Zero-hardware-required software package that creates a self-hosted Web-based ADSB portal site on a Debian system. (Not SDR specific but fun to know about.)
 * [Antenna-Theory.com](http://www.antenna-theory.com/) - Website for learning about and understanding antennas, written by a practicing antenna engineer.
+* [Parts.IO](https://parts.io/) - Distributor-independent searchable database for finding electronic components from various manufacturers.
+* [DigiKey](https://www.digikey.com/) - World's largest selection of electronic components available for immediate shipment; search for "RF filter" and 
 
 * * *
 
