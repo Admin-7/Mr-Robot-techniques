@@ -347,6 +347,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 
 ## [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence)
 
+## [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
+
 ## [Structured query language](https://simple.wikipedia.org/wiki/SQL)
 
 ## SQL
@@ -357,7 +359,7 @@ Initialism for [Structured Query Languge](#structured-query-language).
 
 ## SWM
 
-Initialism for [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
+Initialism for [Single Wire Multiswitch](#single-wire-multiswitch).
 
 # T
 
