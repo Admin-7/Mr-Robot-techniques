@@ -141,6 +141,14 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   A set of challenges in categories such as cryptography, steganography, and Web exploitation "cover[ing] the exploits listed in the OWASP Top 10 Project [to] teach members the many other types of exploits that are found in today's applications; thus, helping them to become better programmers in the mean time."
 
+* [WTHack - OnlineCTF.com](https://www.onlinectf.com/)
+
+  A user-submitted collection of practice problems in various categories. Accounts are free, and anyone can post problems, solve problems, or share news about CTFs. Similar in functionality to [CTFLearn](https://ctflearn.com/).
+
+* [HackCenter](https://hackcenter.com/)
+
+  A free-to-use "training platform designed to teach anyone the actionable skills needed to be effective in cybersecurity." Built by ForAllSecure, Inc., which provides cybersecurity training services, the site serves as an industry recruiting tool by running competitive CTFs. Usefully, the hacking challenges remain accessible and solvable after the competitions have ended, making the site akin to the explicitly educational [PicoCTF](https://picoctf.com/). Consider signing up with a fake name and other false details to avoid being marketed at down the line.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
