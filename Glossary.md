@@ -355,6 +355,10 @@ Initialism for [Structured Query Languge](#structured-query-language).
 
 ## [Squelch](https://en.wikipedia.org/wiki/Squelch)
 
+## SWM
+
+Initialism for [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
+
 # T
 
 ## [Technology Transfer Program](https://web.archive.org/web/20170606155618/https://www.nsa.gov/what-we-do/research/technology-transfer/)
