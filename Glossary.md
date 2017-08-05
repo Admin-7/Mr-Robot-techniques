@@ -331,6 +331,14 @@ In the context of [[radio|Software defined radio]], abbreviation for "receive." 
 
 # S
 
+## SAW
+
+Acronym for [surface acoustic wave](#surface-acoustic-wave).
+
+## [SAW filter](https://en.wikipedia.org/wiki/Electronic_filter#SAW_filters)
+
+Short for "[surface acoustic wave](#surface-acoustic-wave) filter," a form of electronic filter.
+
 ## [[Software defined radio]]
 
 ## SDR
@@ -356,6 +364,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 Initialism for [Structured Query Languge](#structured-query-language).
 
 ## [Squelch](https://en.wikipedia.org/wiki/Squelch)
+
+## [Surface acoustic wave](https://en.wikipedia.org/wiki/Surface_acoustic_wave)
 
 ## SWM
 
