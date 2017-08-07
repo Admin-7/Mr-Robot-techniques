@@ -152,6 +152,14 @@ Initialism for [equipment under test](#equipment-under-test). Also known as [dev
 
 # F
 
+## False set
+
+In lock picking, a false set is one several possible positions in which a pin is blocking the plug of a lock from rotating. See [overset](#overset), [underset](#underset).
+
+Further information:
+
+* [Locksport International Guide to Lock Picking, page 12](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) (page 14 of the PDF)
+
 ## [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
 ## FCC
@@ -295,6 +303,10 @@ Initialism for [National Security Agency](#national-security-agency).
 
 Abbreviation for "open-source intelligence," or "open-sources intelligence." See [open-source intelligence](#open-source-intelligence).
 
+## Overset
+
+See [false set](#false-set).
+
 # P
 
 ## [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying)
@@ -402,6 +414,10 @@ Initialism for one of
 In the context of [[radio|Software defined radio]], abbreviation for "transmit."
 
 # U
+
+## Underset
+
+See [false set](#false-set).
 
 ## [Unit under test](https://en.wikipedia.org/wiki/Device_under_test)
 
