@@ -71,6 +71,19 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 # B
 
+## Binder
+
+Colloquial form of "[binding pin](#binding-pin)."
+
+## Binding pin
+
+In lock picking, the pin in a pin-tumbler lock that is currently pressed against the core of the lock and preventing the plug from rotating.
+
+Further information:
+
+* [Binding Pin Explained - YouTube](https://www.youtube.com/watch?v=fOIg6G8p_0o)
+* [Binding - LockWiki](http://lockwiki.com/index.php/Binding)
+
 # C
 
 ## [Capture the flag](https://en.wikipedia.org/wiki/Capture_the_flag)
