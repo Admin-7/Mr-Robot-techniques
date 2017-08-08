@@ -83,6 +83,7 @@
 * [Parts.IO](https://parts.io/) - Distributor-independent searchable database for finding electronic components from various manufacturers.
 * [DigiKey](https://www.digikey.com/) - World's largest selection of electronic components available for immediate shipment; search for "RF filter."
 * [Telco Antenna](https://www.telcoantennas.com.au/) - Australia-based retailer of carrier-grade antenna equipment who also publish a number of [useful guides](https://telcoantennas.com.au/site/guides), such as a [Guide to Antenna Cables and Connectors](https://telcoantennas.com.au/site/guide-antenna-cables-connectors).
+* [Wireless Networking in the Developing World](http://wndw.net/) - Free book about designing, implementing, and maintaining low-cost wireless networks.
 
 * * *
 
