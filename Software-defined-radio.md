@@ -56,6 +56,7 @@
 * [GrOsmoSDR](https://osmocom.org/projects/sdr/wiki/GrOsmoSDR) - Versatile library providing a GNURadio Companion block for numerous SDR devices as well as standalone apps, such as the `osmocom_fft` spectrum browser.
 * [Linrad](http://www.sm5bsz.com/linuxdsp/linrad.htm) - Free software, cross-platform radio spectrum viewer and digital signal processing (DSP) program.
 * [baudline](http://baudline.com/) - Powerful signal analyzer designed for scientific visualization.
+* [Universal Radio Hacker (URH)](https://github.com/jopohl/urh) - Software for investigating unknown wireless protocols.
 
 ### Windows
 
