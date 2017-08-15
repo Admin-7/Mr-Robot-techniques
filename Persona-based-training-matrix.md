@@ -206,3 +206,4 @@ For our purposes, "The State" is an attacker persona that combines multinational
 * [Penetration Testers’ Guide to Windows 10 Privacy & Security](https://hackernoon.com/the-2017-pentester-guide-to-windows-10-privacy-security-cf734c510b8d)
 * [Security Without Borders's Windows HardenTools](https://github.com/securitywithoutborders/hardentools)
 * https://github.com/ghacksuserjs/ghacks-user.js
+* https://github.com/drduh/macOS-Security-and-Privacy-Guide
