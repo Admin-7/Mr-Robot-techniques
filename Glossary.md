@@ -71,6 +71,8 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 # B
 
+## [Belling-Lee connector](https://en.wikipedia.org/wiki/Belling-Lee_connector)
+
 ## Binder
 
 Colloquial form of "[binding pin](#binding-pin)."
