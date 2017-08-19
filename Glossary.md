@@ -152,6 +152,12 @@ Initialism for [equipment under test](#equipment-under-test). Also known as [dev
 
 # F
 
+## F connector
+
+Short for [F-type connector](#f-type-connector).
+
+## [F-type connector](https://en.wikipedia.org/wiki/F_connector)
+
 ## False set
 
 In lock picking, a false set is one several possible positions in which a pin is blocking the plug of a lock from rotating; for instance, a pin that is [overset](#overset) (pushed too far) or one that is [underset](#underset) (not pushed far enough) is set to be "false set."
@@ -281,6 +287,12 @@ When in all lowercase letters, abbreviation for "manual." See [man page](#man-pa
 
 ## [Man page](https://en.wikipedia.org/wiki/Man_page)
 
+## [Micro coaxial](https://en.wikipedia.org/wiki/MCX_connector)
+
+## MCX
+
+Initialism for [micro coaxial](#micro-coaxial).
+
 ## [Metropolitan area network](https://simple.wikipedia.org/wiki/Metropolitan_area_network)
 
 ## MHz
@@ -382,6 +394,10 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 
 ## [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
 
+## SMA
+
+Initialism for [SubMiniature version A](#subminiature-version-a).
+
 ## [Structured query language](https://simple.wikipedia.org/wiki/SQL)
 
 ## SQL
@@ -389,6 +405,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 Initialism for [Structured Query Languge](#structured-query-language).
 
 ## [Squelch](https://en.wikipedia.org/wiki/Squelch)
+
+## [SubMiniature version A](https://en.wikipedia.org/wiki/SMA_connector)
 
 ## [Surface acoustic wave](https://en.wikipedia.org/wiki/Surface_acoustic_wave)
 
