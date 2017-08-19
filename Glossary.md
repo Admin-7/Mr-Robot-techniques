@@ -228,6 +228,14 @@ Abbreviation for [Hertz](#hertz).
 
 # I
 
+## IEC
+
+Initialism for [International Electrotechnical Commission](#international-electrotechnical-commission).
+
+## IEC PAL
+
+Colloquial term for [Belling-Lee connector](#belling-lee-connector). See also: [IEC](#iec), [PAL](#pal).
+
 ## [Indicator of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
 
 ## INFOSEC
@@ -241,6 +249,8 @@ See also:
 1. [Digital Signal Processing: What is IQ Data?](https://dsp.stackexchange.com/a/38214)
 1. [I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
 1. [National Instruments: What is I/Q data?](https://www.ni.com/tutorial/4805/en/)
+
+## [International Electrotechnical Commission](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission)
 
 ## IOC
 
@@ -322,6 +332,12 @@ Abbreviation for "open-source intelligence," or "open-sources intelligence." See
 See [false set](#false-set).
 
 # P
+
+## PAL
+
+Initialism for [Phase Alternation Line](#phase-alternation-line).
+
+## [Phase Alternating Line](https://en.wikipedia.org/wiki/PAL)
 
 ## [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying)
 
