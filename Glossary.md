@@ -71,6 +71,8 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 # B
 
+## [Bayonet Neill–Concelman](https://en.wikipedia.org/wiki/BNC_connector)
+
 ## [Belling-Lee connector](https://en.wikipedia.org/wiki/Belling-Lee_connector)
 
 ## Binder
@@ -85,6 +87,10 @@ Further information:
 
 * [Binding Pin Explained - YouTube](https://www.youtube.com/watch?v=fOIg6G8p_0o)
 * [Binding - LockWiki](http://lockwiki.com/index.php/Binding)
+
+## BNC
+
+Initialism for [Bayonet Neill–Concelman](#bayonet-neill-concelman).
 
 # C
 
