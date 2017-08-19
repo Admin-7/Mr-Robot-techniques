@@ -335,7 +335,7 @@ See [false set](#false-set).
 
 ## PAL
 
-Initialism for [Phase Alternation Line](#phase-alternation-line).
+Initialism for [Phase Alternating Line](#phase-alternating-line).
 
 ## [Phase Alternating Line](https://en.wikipedia.org/wiki/PAL)
 
