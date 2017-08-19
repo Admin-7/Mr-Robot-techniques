@@ -85,6 +85,9 @@
 * [DigiKey](https://www.digikey.com/) - World's largest selection of electronic components available for immediate shipment; search for "RF filter."
 * [Telco Antenna](https://www.telcoantennas.com.au/) - Australia-based retailer of carrier-grade antenna equipment who also publish a number of [useful guides](https://telcoantennas.com.au/site/guides), such as a [Guide to Antenna Cables and Connectors](https://telcoantennas.com.au/site/guide-antenna-cables-connectors).
 * [Wireless Networking in the Developing World](http://wndw.net/) - Free book about designing, implementing, and maintaining low-cost wireless networks.
+* [How Does Radio Encryption Work?](https://web.archive.org/web/20170819195701/https://quality2wayradios.com/store/two-way-radio-help/Encryption-Basics-Help) - A basic overview of the most common types of radio encryption.
+* [Radio Encryption Protocols](https://web.archive.org/web/20170819201452/http://www.radioreference.com/trunked/stuff/encrypt.html) - A slightly more in-depth look at radio encryption protocols.
+* [Over-The-Air-Rekeying](https://archive.is/JCoo0) - On OTAR, which is the common name for the method of transmitting, or remotely transferring, changing, or updating, data signal encryption "code" keys in telecommunication, control, navigation, or other secure information systems by conveying the keys via encrypted electronic communication channels (“over the air”). It is also referred to as Over-the-Air Transfer (OTAT), or Over-the-Air-Distribution (OTAD) depending on type.
 
 * * *
 
