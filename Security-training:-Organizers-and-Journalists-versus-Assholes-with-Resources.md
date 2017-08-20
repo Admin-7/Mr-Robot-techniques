@@ -82,3 +82,4 @@ Before you dive too deeply into this practice material, you should first explore
 * Use [Tor](https://torproject.org/) to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
 * Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
+* Turn off all logging by the services you run you don't regularly look at. (Configure per-service or using [`logrotate(8)`](https://linux.die.net/man/8/logrotate) `rotate 0` and `shred` configuration options.)
