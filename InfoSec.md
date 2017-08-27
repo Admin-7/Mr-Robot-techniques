@@ -209,7 +209,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [PrivacyTools.io](https://privacytools.io/)
 
-  Simply start at the top and read down the page for an introduction to various privacy tools and relevant legal concepts. Each section provides a limited set of specific recommendations to follow up on. This is as brief a guided introduction to privacy issues and what to do about them as it gets.
+  Simply start at the top and read down the page for an introduction to various privacy tools and relevant legal concepts. Each section provides a limited set of specific recommendations to follow up on. This is as brief a guided introduction to privacy issues and what to do about them as it gets. (For a more complete reference of privacy-enhancing software, see [PRISM-Break.org](https://prism-break.org/).)
 
 * [Me and My Shadow](https://myshadow.org/)
 
