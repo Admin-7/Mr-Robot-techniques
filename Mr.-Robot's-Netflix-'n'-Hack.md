@@ -401,6 +401,7 @@ During post-show discussion, we brought up:
     * [Is Your Printer Spying On You?](https://www.eff.org/issues/printers)
     * [Incomplete list of printers which do or do not display tracking dots](https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots)
     * [How to find printer tracking dots](http://www.instructables.com/id/Yellow-Dots-of-Mystery-Is-Your-Printer-Spying-on-/)
+    * [Seeing Yellow - how to find printer dots, and how to complain about it](http://www.seeingyellow.com/)
     * [Tracking Dot Decoding Guide](https://w2.eff.org/Privacy/printers/docucolor/)
     * Article, [Government Uses Color Laser Printer Technology to Track Documents](http://www.pcworld.com/article/118664/article.html)
     * Real-life example: [How the NSA tracked down and arrested the alleged Russian hacking story leaker, Reality Leigh Winner](http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html)
