@@ -273,6 +273,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
