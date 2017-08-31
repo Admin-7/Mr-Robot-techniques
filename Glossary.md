@@ -321,6 +321,12 @@ Abbreviation for megahertz. See also [Hertz](#hertz).
 
 ## [National Security Agency](https://simple.wikipedia.org/wiki/National_Security_Agency)
 
+## [Network function virtualization](https://en.wikipedia.org/wiki/Network_functions_virtualization)
+
+## NFV
+
+Initialism for [network functions virtualization](#network-function-virtualization).
+
 ## NSA
 
 Initialism for [National Security Agency](#national-security-agency).
@@ -402,6 +408,10 @@ Short for "[surface acoustic wave](#surface-acoustic-wave) filter," a form of [e
 
 ## [[Software defined radio]]
 
+## SDN
+
+Initialism for [software-defined networking](#software-defined-networking).
+
 ## SDR
 
 Initialism for [Software Defined Radio](#software-defined-radio).
@@ -421,6 +431,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 ## SMA
 
 Initialism for [SubMiniature version A](#subminiature-version-a).
+
+## [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 ## [Structured query language](https://simple.wikipedia.org/wiki/SQL)
 
@@ -485,12 +497,18 @@ Initialism for [Universal Software Radio Peripheral](#universal-software-radio-p
 
 ## [Video Graphics Array](https://en.wikipedia.org/wiki/Video_Graphics_Array)
 
+## [Virtualized network function](https://en.wikipedia.org/wiki/Network_function_virtualization)
+
 ## VGA
 
 Initialism for one of:
 
 * [Variable-gain amplifier](#variable-gain-amplifier)
 * [Video Graphics Array](#video-graphics-array)
+
+## VNF
+
+Initialism for [virtualized network function](#virtualized-network-function).
 
 # W
 
