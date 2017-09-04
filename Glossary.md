@@ -71,6 +71,10 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 # B
 
+## [Base station subsystem](https://e.wikipedia.org/wiki/Base_station_subsystem)
+
+## [Base transceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
+
 ## [Bayonet Neill–Concelman](https://en.wikipedia.org/wiki/BNC_connector)
 
 ## [Belling-Lee connector](https://en.wikipedia.org/wiki/Belling-Lee_connector)
@@ -91,6 +95,14 @@ Further information:
 ## BNC
 
 Initialism for [Bayonet Neill–Concelman](#bayonet-neill-concelman).
+
+## BSS
+
+Initialism for [base station subsystem](#base-station-subsystem).
+
+## BTS
+
+Initialism for [base transceiver station](#base-transceiver-station).
 
 # C
 
