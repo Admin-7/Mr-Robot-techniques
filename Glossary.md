@@ -71,7 +71,9 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 # B
 
-## [Base station subsystem](https://e.wikipedia.org/wiki/Base_station_subsystem)
+## [Base station controller](https://en.wikipedia.org/wiki/Base_station_subsystem#Base_station_controller)
+
+## [Base station subsystem](https://en.wikipedia.org/wiki/Base_station_subsystem)
 
 ## [Base transceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
 
@@ -95,6 +97,10 @@ Further information:
 ## BNC
 
 Initialism for [Bayonet Neill–Concelman](#bayonet-neill-concelman).
+
+## BSC
+
+Initialism for [base station controller](#base-station-controller).
 
 ## BSS
 
