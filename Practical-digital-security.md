@@ -3,7 +3,7 @@
 * Tagline: A computer security workshop for people who don't want to have to care about computer security.
 * Description: Learning how to stay safe online is on many people’s minds, but how do you start this process? With so many tools and suggestions from “experts,” how do you know which tool to use, when, and in what situation? This workshop will clear a path for you to continue your own security education. While not required, please bring your mobile phone and laptop if you have them to immediately use what you've learned. This session is intended for beginners but more experienced participants are also welcomed.
 * Time required: ~2.5 hours
-* Equipment needed: Whiteboard
+* Equipment needed: Whiteboard, projector (optional)
 * See also: [[Persona-based training matrix]]
 
 # How to facilitate "Practical Digital Security" workshops
