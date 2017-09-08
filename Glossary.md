@@ -367,6 +367,8 @@ See [false set](#false-set).
 
 Initialism for [Phase Alternating Line](#phase-alternating-line).
 
+## [Personally identifiable information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
+
 ## [Phase Alternating Line](https://en.wikipedia.org/wiki/PAL)
 
 ## [Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying)
@@ -374,6 +376,10 @@ Initialism for [Phase Alternating Line](#phase-alternating-line).
 See also [amplitude-shift keying](#amplitude-shift-keying), [frequency-shift keying](#frequency-shift-keying).
 
 ## [Phishing](https://simple.wikipedia.org/wiki/Phishing)
+
+## PII
+
+Initialism for [personally identifiable information](#personally-identifiable-information). See also [sensitive personal information](#sensitive-personal-information).
 
 ## [[PHYSEC]]
 
@@ -434,6 +440,8 @@ Initialism for [software-defined networking](#software-defined-networking).
 
 Initialism for [Software Defined Radio](#software-defined-radio).
 
+## [Sensitive personal information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
+
 ## [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)
 
 See also [phishing](#phishing).
@@ -451,6 +459,10 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 Initialism for [SubMiniature version A](#subminiature-version-a).
 
 ## [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
+
+## SPI
+
+Initialism for [sensitive personal information](#sensitive-personal-information).
 
 ## [Structured query language](https://simple.wikipedia.org/wiki/SQL)
 
