@@ -15,6 +15,7 @@ Activities are things to do with your fellow antifa comrades that are happening 
 * [[Fight training]] - Recurring physical self-defense workshop with dedicated variants for women and people who are gender non-conforming.
 * [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
 * [[Lockpicking club]] - Locksport practice session and meditative discussion circle.
+* [[Offensive and Defensive Doxing]] - Practice using public information to compile a dossier on targets, and learn how to protect your personal information from trolls and worse.
 * [[Radio club]] - Explore the invisible world of electro-magnetic radiation, aka radio transmissions.
 
 # Events
