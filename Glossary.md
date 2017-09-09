@@ -154,6 +154,16 @@ Acronym for [digital-to-analog converter](#digital-to-analog-converter).
 
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
 
+## [Doxing](https://en.wikipedia.org/wiki/Doxing)
+
+## Doxxing
+
+Alternative spelling for [doxing](#doxing). Sometimes used to indicate information obtained is more sensitive than "simple doxing."
+
+## Doxxxing
+
+Alternative spelling for [doxing](#doxing). Sometimes used to indicate information obtained is of a sexual nature.
+
 ## DSP
 
 Initialism for [digital signal processing](#digital-signal-processing).
