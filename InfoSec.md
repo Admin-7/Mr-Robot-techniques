@@ -225,7 +225,11 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [Crash Override Network // Resources](http://www.crashoverridenetwork.com/resources.html)
 
-  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxxing](http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](http://www.endrevengeporn.org/online-removal/).
+  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxing](http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](http://www.endrevengeporn.org/online-removal/).
+
+* [Feminist Frequency: Speak Up and Stay Safe(r)](https://onlinesafety.feministfrequency.com/en/)
+
+  "This guide is for anyone who fears they might be targeted, or who is already under attack, for speaking their mind online, but is especially designed for women, people of color, trans and genderqueer people, and everyone else whose existing oppressions are made worse by digital violence. It details best security practices for social media, email, online gaming, website platforms, and ensuring privacy of personal information online, as well as the documentation and reporting of harassment, and caring for yourself emotionally during an online attack. You don’t need any specialized knowledge to use this guide – just basic computer and internet skills." Pair with the Crash Override Network's Prevent Doxing guide, linked above.
 
 * [Surveillance Self-Defense](https://ssd.eff.org/)
 
