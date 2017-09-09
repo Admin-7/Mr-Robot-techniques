@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[InfoSec]] ▸ **Doxing**
 
-See also: [Offensive and Defensive Doxing].
+See also: [[Offensive and Defensive Doxing]].
 
 * * *
 
