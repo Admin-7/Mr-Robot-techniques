@@ -149,6 +149,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   A free-to-use "training platform designed to teach anyone the actionable skills needed to be effective in cybersecurity." Built by ForAllSecure, Inc., which provides cybersecurity training services, the site serves as an industry recruiting tool by running competitive CTFs. Usefully, the hacking challenges remain accessible and solvable after the competitions have ended, making the site akin to the explicitly educational [PicoCTF](https://picoctf.com/). Consider signing up with a fake name and other false details to avoid being marketed at down the line.
 
+* [ROP Emporium](https://ropemporium.com/)
+
+  Learn return-oriented programming through a series of challenges designed to teach ROP techniques in isolation, with minimal reverse-engineering and bug-hunting. Includes a beginner's guide to help newcomers learn the basics of ROP techniques, and a set of increasingly difficult challenges. Good for practicing how to write this specific kind of exploit development.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
