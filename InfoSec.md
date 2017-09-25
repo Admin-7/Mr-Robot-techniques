@@ -153,6 +153,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Learn return-oriented programming through a series of challenges designed to teach ROP techniques in isolation, with minimal reverse-engineering and bug-hunting. Includes a beginner's guide to help newcomers learn the basics of ROP techniques, and a set of increasingly difficult challenges. Good for practicing how to write this specific kind of exploit development.
 
+* [RPISEC's Modern Binary Exploitation](https://github.com/RPISEC/MBE) (CSCI 4968)
+
+  This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in Spring 2015. This was a university course developed and run solely by students to teach skills in vulnerability research, reverse engineering, and binary exploitation.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
