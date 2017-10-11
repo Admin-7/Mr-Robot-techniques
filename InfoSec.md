@@ -233,7 +233,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [Crash Override Network // Resources](http://www.crashoverridenetwork.com/resources.html)
 
-  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxing](http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](http://www.endrevengeporn.org/online-removal/).
+  A meta-list of additional resources written, compiled, and maintained by the Crash Override Network, including links to purpose-built guides such as [Prevent Doxing](http://www.crashoverridenetwork.com/preventingdoxing.html) and additional pointers to third-party explainers, such as the [Nonconsensual Intimate Images ("Revenge Porn") Removal Guide](https://www.cybercivilrights.org/online-removal/).
 
 * [Feminist Frequency: Speak Up and Stay Safe(r)](https://onlinesafety.feministfrequency.com/en/)
 
