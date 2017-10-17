@@ -74,10 +74,11 @@ Before you dive too deeply into this practice material, you should first explore
 ## Practices
 
 * Audit your webserver for information disclosure vulns ([a thorough treatment of webdev security things](https://github.com/FallibleInc/security-guide-for-developers)):
-  * Turn off "directory listings" on your webserver
-  * [WordPress users should follow these guidelines](http://www.wpbeginner.com/wordpress-security/)
+    * Turn off "directory listings" on your webserver
+    * [WordPress users should follow these guidelines](http://www.wpbeginner.com/wordpress-security/)
 * Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 * Prevent spoofing of emails claiming to be from your domain by [implementing DKIM](https://scotthelme.co.uk/email-security-dkim/) for email services you provide
+    * Use [DKIM Verifier for Thunderbird](https://addons.mozilla.org/thunderbird/addon/dkim-verifier/) to test your (or anyone else's) DKIM setup.
 * On your server(s), use [LetsEncrypt](https://letsencrypt.org/) to enable TLS connections (for Web+Mail+any hosted service)
 * Use [Tor](https://torproject.org/) to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
