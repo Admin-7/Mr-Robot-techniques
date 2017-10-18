@@ -79,6 +79,7 @@ Before you dive too deeply into this practice material, you should first explore
 * Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
 * Turn on "automatic updates" for software you use.
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
+    * Use [DKIM Verifier for Thunderbird](https://addons.mozilla.org/thunderbird/addon/dkim-verifier/) to further test that email you receive is authentic (and not spam or phishing scams).
 * turn off "show remote images/content" and other "preview" features in your mail, RSS reader, etc apps
 * Turn off auto-play on videos, etc.
 * Adblockers (uBlock Origin, etc.)
