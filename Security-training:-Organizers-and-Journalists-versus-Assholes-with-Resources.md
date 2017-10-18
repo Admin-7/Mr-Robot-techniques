@@ -78,7 +78,8 @@ Before you dive too deeply into this practice material, you should first explore
     * [WordPress users should follow these guidelines](http://www.wpbeginner.com/wordpress-security/)
 * Use alternatives to Google Docs such as pad.RiseUp.net or share.RiseUp.net, etc.
 * Prevent spoofing of emails claiming to be from your domain by [implementing DKIM](https://scotthelme.co.uk/email-security-dkim/) for email services you provide
-    * Use [DKIM Verifier for Thunderbird](https://addons.mozilla.org/thunderbird/addon/dkim-verifier/) to test your (or anyone else's) DKIM setup.
+    * Use the [ValiMail Domain Checker](http://www.valimail.com/dmarc/domain-checker) to check that your domain is correctly configured to be able to accept and relay validated/authenticated email.
+    * Use [DKIM Verifier for Thunderbird](https://addons.mozilla.org/thunderbird/addon/dkim-verifier/) to test your (or anyone else's) DKIM setup in your email client.
 * On your server(s), use [LetsEncrypt](https://letsencrypt.org/) to enable TLS connections (for Web+Mail+any hosted service)
 * Use [Tor](https://torproject.org/) to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
