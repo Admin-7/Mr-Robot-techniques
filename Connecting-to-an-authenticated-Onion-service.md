@@ -67,7 +67,7 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
     1. Tap the *Client cookies* menu item. The Client cookies activity screen will appear.
     1. Tap the compose button on the bottom-right of the screen.
     1. In the *.onion* field, enter the full Onion address (including the `.onion` suffix) of your Onion service.
-    1. In the *Auth cookie* field, enter the full authentication cookie value as you received it.
+    1. In the *Auth cookie* field, enter the full authentication cookie value as you received it. (The authentication cookie value is the third item in the `HidServAuth` configuration line, [described above](#overview).)
     1. Tap the *Save* button.
     1. Tap the back button (&larr;) in the top-left corner of the screen to return to Orbot's main activity screen.
 1. Restart Orbot:
