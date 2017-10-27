@@ -26,7 +26,7 @@ You will need to add this configuration line to your Tor's configuration file, c
 **Do this** to connect to a stealth Onion service:
 
 1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
-1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, harass them until they send you your access credentials. :) 
+1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, poke them until they send you your access credentials. :) 
 1. Locate the `torrc` file that you need to edit. The location of this file is slightly different depending on your computer's operating system:
     * In *macOS*, edit `~/Library/Application Support/TorBrowser-Data/Tor/torrc`.
         1. Open a new Finder window.
