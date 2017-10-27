@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ **Connecting to a stealth Onion service**
+> [[Wiki|Home]] ▸ [[Tor]] ▸ [[Onion services]] ▸ **Connecting to a stealth Onion service**
 
 A stealth Onion service is a certain kind of [Tor hidden service](https://www.torproject.org/docs/hidden-services.html.en) that requires clients (you) to supply an authentication token (basically, a password) before responding to incoming connection requests. This page describes how to configure your software to connect to such a service.
 
