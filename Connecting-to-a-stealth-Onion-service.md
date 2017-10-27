@@ -35,11 +35,11 @@ You will need to add this configuration line to your Tor's configuration file, c
         1. The `torrc` file will be one of the files in the window that opens.
     * In *Windows*, edit `C:\Users\[user]\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc`.
     * In *GNU/Linux*, edit `~/[path_to_tor_browser]/Browser/TorBrowser/Data/Tor/torrc`.
-1. Open the `torrc` file with a text editor, such as Notepad on Windows or TextEdit.app on macOS. Any text editor will do. However, *Microsoft Word and other programs that expect rich text formatting, will not work*.
+1. Open the `torrc` file with a text editor, such as Notepad on Windows or TextEdit.app on macOS. Any text editor will do. However, *Microsoft Word and other programs that expect rich text formatting will not work*.
 1. Paste the configuration line you received from the Onion service operator on a line by itself in the `torrc` file.
 1. Save the `torrc` file.
 1. Restart (quit and re-launch) Tor Browser.
 
 > 💡 🔰 Do not put these credentials anywhere even remotely public. This includes sending yourself the credentials via e-mail. Saving these credentials anywhere that they could be obtained, by anyone else, defeats the entire purpose. And that would be silly.
 
-After re-opening Tor Browser, you should now be able to connect to the `.onion` address described in your `torrc` file (assuming the Onion service is, of course, a website).
+After re-opening Tor Browser, you should now be able to connect to the `.onion` address described in your `torrc` file (assuming, of course, that the Onion service is a website).
