@@ -59,7 +59,7 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 
 **Do this** to connect to an authenticated Onion service from your Android-based phone:
 
-1. Install [Orbot](https://guardianproject.info/apps/orbot/). You can acquire Orbot from the Google Play Store or, preferably, from [F-Droid](https://f-droid.org/), a free software app store that offers most of the same apps as the Google Play Store, but free of charge.
+1. Install [Orbot](https://guardianproject.info/apps/orbot/). You can acquire Orbot from the Google Play Store or, preferably, from [F-Droid](https://f-droid.org/), a [Free Software](https://www.gnu.org/philosophy/free-sw.html) app store that offers most of the same apps as the Google Play Store, but free of charge.
 1. Install [Orfox](https://guardianproject.info/apps/orfox/). You can acquire Orfox from the Google Play Store or, preferably, from F-Droid.
 1. Configure Orbot:
     1. Tap the vertical ellipse menu at the top-right.
