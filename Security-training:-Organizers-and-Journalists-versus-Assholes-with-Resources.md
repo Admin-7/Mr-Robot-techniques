@@ -81,6 +81,7 @@ Before you dive too deeply into this practice material, you should first explore
     * Use the [ValiMail Domain Checker](http://www.valimail.com/dmarc/domain-checker) to check that your domain is correctly configured to be able to accept and relay validated/authenticated email.
     * Use [DKIM Verifier for Thunderbird](https://addons.mozilla.org/thunderbird/addon/dkim-verifier/) to test your (or anyone else's) DKIM setup in your email client.
 * On your server(s), use [LetsEncrypt](https://letsencrypt.org/) to enable TLS connections (for Web+Mail+any hosted service)
+    * Specify a [CAA (Certificate Authority Authorization) DNS record](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) for your domain to assert only your CA of choice (like Let's Encrypt) should issue certificates for your domain.
 * Use [Tor](https://torproject.org/) to hide your physical-world location
 * Consider placing your own domain behind CloudFlare to hide your server's origin
 * Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
