@@ -4,6 +4,13 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 
 > 💡 🔰 If you are trying to use Tor as a file sharing tool, consider following the instructions in [Secretly sharing files with OnionShare and TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md#readme) instead. [OnionShare's "Advanced" options will automate the server-side portion of creating a stealth Onion service](https://github.com/micahflee/onionshare/wiki/Stealth-Onion-Services).
 
+# Contents
+
+1. [Overview](#overview)
+1. [Procedure](#procedure)
+    1. [Laptop or desktop computer](#laptop-or-desktop-computer)
+    1. [Android-based mobile device](#android-based-mobile-device)
+
 # Overview
 
 To connect to an authenticated Onion service, you must first acquire the access credentials (your personalized password) from whoever operates the service. This will likely be a human that you know. You will need to communicate with them (perhaps using [Signal](https://signal.org/)?) to learn what your access credentials will be. Once acquired, your access credentials will look something like the following line of text:
