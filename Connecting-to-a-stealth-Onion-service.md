@@ -12,12 +12,12 @@ To connect to a stealth Onion service, you must first acquire the access credent
 HidServAuth 1234567890abcdefg.onion abcdef01234567890+/K A description here
 ```
 
-This is a Tor configuration directive (a [`HidServAuth` directive](https://www.torproject.org/docs/tor-manual.html#HidServAuth)) and it breaks down as follows:
+This is a Tor configuration directive (a [`HidServAuth` directive](https://www.torproject.org/docs/tor-manual.html#HidServAuth)). It has four parts, separated by spaces, and it breaks down as follows:
 
-* `HidServAuth` - Designates that whatever comes next is the hidden service authentication credentials.
-* `1234567890abcdefg.onion` - Tells Tor which site the credentials you'll supply should be given to.
-* `abcdef01234567890+/K` - The authentication cookie value (the password) itself.
-* `A description here` - Optionally, you can include a descriptive comment to let *you* know for which site or service these credentials are intended.
+1. `HidServAuth` - Designates that whatever comes next is the hidden service authentication credentials.
+1. `1234567890abcdefg.onion` - Tells Tor which site the credentials you'll supply should be given to.
+1. `abcdef01234567890+/K` - The authentication cookie value (the password) itself.
+1. `A description here` - Optionally, you can include a descriptive comment to let *you* know for which site or service these credentials are intended.
 
 You will need to add this configuration line to your Tor's configuration file, called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
 
