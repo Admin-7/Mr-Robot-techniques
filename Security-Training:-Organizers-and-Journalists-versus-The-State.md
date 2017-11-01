@@ -82,6 +82,7 @@ Before you dive too deeply into this practice material, you should first explore
   * Have a Jabber+OMEMO fallback for Signal (for the truly frightening case where Signal is censored)
 * [Secure your SSH servers](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
 * Use [DNS CAA](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization) records to help cut down on TLS certificate spoofing.
+* Monitor [Certificate Transparency (CT) logs](https://scotthelme.co.uk/certificate-transparency-an-introduction/) to be notified of spoofed (faked) TLS certificates for your domain.
 * Use Tor!!!!!11! (or a VPN)
 * Host sites somewhere safe (privacytools.io)
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
