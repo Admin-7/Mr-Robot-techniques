@@ -79,4 +79,5 @@ There are no prerequisites. The material presented on this page is *relevant to 
 * Remove "saved fingers" (fingerprint scans) from your smartphone's memory, i.e., use a PIN or passphrase, or if you do choose to use a fingerprint, use only one or two finger's prints. (The more fingers you add, the easier it is for someone who is not you to use *their* fingerprint to open your device.)
   * [About Touch ID on iPhone and iPad (Apple iOS)](https://support.apple.com/en-ca/HT201371)
 * Use a password manager (and all that that entails!)
-  * Do the same for "password reset questions" (i.e., don't answer such questions honestly or with info that is posted to social media)
+  * Use strong passwords. Most password managers will help you generate these, and the main thing is that they should be long. If it's a password you will sometimes have to type in (i.e. your password manager cannot fill it in for you on a particular machine), use a long passphrase with words, words will be easier for you to type than a bunch of random characters.
+  * Generate random passphrases for your "password reset questions". Don't answer such questions honestly, because basic facts like where you went to school or your spouse's name can generally be found on social networks and data brokers.
