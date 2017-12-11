@@ -91,3 +91,4 @@ Before you dive too deeply into this practice material, you should first explore
 * Check or [double-check the HTTPS lock icon's exact fingerprint](https://www.grc.com/fingerprints.htm) for important sites like PayPal or Facebook
 * When charging your devices over a USB connection, use a USB "condom" ([data blocking adapter](http://www.portablepowersupplies.co.uk/portapow-fast-charge-data-block-usb-adaptor/)) to ensure only power flows into (or out of) the device
   * [Protect your devices with a $10 USB Condom](http://www.zdnet.com/article/protect-your-devices-with-a-10-usb-condom/)
+* Enable [DNS over TLS](https://tools.ietf.org/html/rfc7858) support in your client devices, if available.
