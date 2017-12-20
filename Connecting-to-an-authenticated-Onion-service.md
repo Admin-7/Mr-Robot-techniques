@@ -4,6 +4,8 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 
 > 💡 🔰 If you are trying to use Tor as a file sharing tool, consider following the instructions in [Secretly sharing files with OnionShare and TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md#readme) instead. [OnionShare's "Advanced" options will automate the server-side portion of creating a stealth Onion service](https://github.com/micahflee/onionshare/wiki/Stealth-Onion-Services).
 
+> 💡 🌐 [See the Tor project's own site for instructions on configuring unauthenticated Onion services](https://www.torproject.org/docs/tor-onion-service).
+
 # Contents
 
 1. [Overview](#overview)
