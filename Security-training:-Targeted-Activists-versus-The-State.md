@@ -86,3 +86,6 @@ Before you dive too deeply into this practice material, you should first explore
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
 * [Create an anonymous Signal phone number with Android](https://yawnbox.com/2015/03/14/create-an-anonymous-textsecure-and-redphone-phone-number/)
+* Completely disable the Intel ME subsystem in your hardware:
+    * [Step-by-step guide to disabling the Intel Management Engine (Gentoo Wiki)](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+    * [me_cleaner](https://github.com/corna/me_cleaner)
