@@ -83,3 +83,7 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 1. Type in the Onion service URL (including the `.onion` suffix) into Orfox's Web address bar, then press *Go* on your software keyboard.
 
 You should now be able to connect to the `.onion` address that you configured in Orbot's "Hidden Services" menu (assuming, of course, that the Onion service is a website).
+
+## Apple iOS device
+
+At the time of this writing, iOS cannot connect to authenticated Onion services. When available, [iCepa](https://github.com/iCepa/iCepa) may make it possible to connect to Onion services on devices running Apple's iOS.
