@@ -56,7 +56,7 @@ The exact procedure for setting up your Tor client to connect to a Tor server's 
 1. Save the `torrc` file.
 1. Restart (quit and re-launch) Tor Browser.
 
-After re-opening Tor Browser, you should now be able to connect to the `.onion` address described in your `torrc` file (assuming, of course, that the Onion service is a website).
+After re-opening Tor Browser, you should now be able to connect to the `.onion` address described in your `torrc` file (assuming, of course, that the Onion service hosts a website).
 
 ## Android-based mobile device
 
