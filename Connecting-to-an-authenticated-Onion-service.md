@@ -31,7 +31,7 @@ This is a Tor configuration directive (a [`HidServAuth` directive](https://www.t
 1. `A description here` - Optionally, you can include a descriptive comment to let *you* know for which site or service these credentials are intended.
     > 🔰 💡 If the Onion service is particularly sensitive, avoid including personally identifying information in the comment. For example, `Chris's message board` is an unsafe description. A better one might simply be, `Message board`.
 
-On a typical computer such as a laptop or desktop workstation, you will need to add this configuration line to your Tor's configuration file, called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen. If you are using an Android-based mobile phone, you'll enter the Onion address and the authentication cookie value into an actual settings screen.
+On a typical computer such as a [laptop or desktop workstation, you will need to add this configuration line to your Tor's configuration file](#laptop-or-desktop-computer), called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen. If you are [using an Android-based mobile phone](#android-based-mobile-device), you'll enter the Onion address and the authentication cookie value into an actual settings screen.
 
 # Procedure
 
