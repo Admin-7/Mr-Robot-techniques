@@ -12,6 +12,7 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 1. [Procedure](#procedure)
     1. [Laptop or desktop computer](#laptop-or-desktop-computer)
     1. [Android-based mobile device](#android-based-mobile-device)
+    1. [Apple iOS device](#apple-ios-device)
 
 # Overview
 
