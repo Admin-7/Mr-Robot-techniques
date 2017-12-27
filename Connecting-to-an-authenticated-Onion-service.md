@@ -43,13 +43,14 @@ The exact procedure for setting up your Tor client to connect to a Tor server's 
 1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
 1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, poke them until they send you your access credentials. :) 
 1. Locate the `torrc` file that you need to edit. The location of this file is slightly different depending on your computer's operating system:
+    > 🔰 In the following file paths, the `~` character or the `%HOMEDRIVE%%HOMEPATH%` sequence refers to "wherever your home folder is."
     * In *macOS*, edit `~/Library/Application Support/TorBrowser-Data/Tor/torrc`.
         1. Open a new Finder window.
         1. From the *Go* menu, select *Go to folder…*
         1. In the *Go to the folder* text box, paste `~/Library/Application Support/TorBrowser-Data/Tor/` and press the *Go* button.
         1. The `torrc` file will be one of the files in the window that opens.
-    * In *Windows*, edit `C:\Users\[user]\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc`.
     * In *GNU/Linux*, edit `~/[path_to_tor_browser]/Browser/TorBrowser/Data/Tor/torrc`.
+    * In *Windows*, edit `"%HOMEDRIVE%%HOMEPATH%"\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc`.
 1. Open the `torrc` file with a text editor, such as Notepad on Windows or TextEdit.app on macOS. Any text editor will do. However, *Microsoft Word and other programs that expect rich text formatting will not work*.
 1. Paste the configuration line you received from the Onion service operator on a line by itself in the `torrc` file.
 1. Save the `torrc` file.
