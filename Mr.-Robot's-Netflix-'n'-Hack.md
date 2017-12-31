@@ -582,3 +582,7 @@ During post-show discussion, we brought up:
 
 * Femtocell
   * [DEF CON 21 presentation: Traffic Interception and Remote Mobile Phone Cloning with a Compromised CDMA Femtocell](https://www.youtube.com/watch?v=gfcq8clu1RI)
+
+# Week ?? (S03E02)
+
+* Rootkit Hunter http://rkhunter.sourceforge.net/
