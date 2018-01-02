@@ -278,6 +278,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
+* [awesome-macos](https://github.com/iCHAIT/awesome-macOS)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [awesome-osint](https://github.com/jivoi/awesome-osint)
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
@@ -301,5 +302,6 @@ This section contains a curated, ordered list of supplementary educational conte
 See also:
 
 * related pages: [[Security culture]], [[PhySec]]
-* [NYC-InfoSec.com](https://www.nyc-infosec.com/), a calendar of infosec-related events in the New York City area.
-* [New York Security Community](http://nysec.isis.poly.edu/), an informal meetup of infosec professionals in NYC.
+* [NYC-InfoSec.com](https://www.nyc-infosec.com/) - Calendar of infosec-related events in the New York City area.
+* [New York Security Community](http://nysec.isis.poly.edu/)- Informal meetup of infosec professionals in NYC.
+* [Objective-See.com](https://objective-see.com/) - Security-focused tools specifically designed for Apple's macOS.
