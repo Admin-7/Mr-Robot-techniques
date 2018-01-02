@@ -590,4 +590,4 @@ During post-show discussion, we brought up:
 # Week ?? (S03E09)
 
 * [Volatility](https://github.com/volatilityfoundation/volatility/)
-  ![Elliot using Volatility, :robot: screenshot 📷](https://web.archive.org/web/20180102044147/https://i.imgur.com/xpjaytH.jpg)
+  ![Elliot using Volatility, :robot: screenshot 📷](https://web.archive.org/web/20180102044147if_/https://i.imgur.com/xpjaytH.jpg)
