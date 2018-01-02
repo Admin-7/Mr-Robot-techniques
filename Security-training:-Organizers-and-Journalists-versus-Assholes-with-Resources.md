@@ -87,3 +87,4 @@ Before you dive too deeply into this practice material, you should first explore
 * Replace Facebook (or other similar) group chats with secure messenger (e.g., Signal) group chats
 * Turn off all logging by the services you run you don't regularly look at. (Configure per-service or using [`logrotate(8)`](https://linux.die.net/man/8/logrotate) `rotate 0` and `shred` configuration options.)
 * [Test RSA keys you've generated against the ROCA vulnerability](https://keychest.net/roca) and re-key if necessary.
+* Use a hardware second factor (an "authentication dongle") on [sites that support hardware-enforced second factor authentication support](http://www.dongleauth.info/).
