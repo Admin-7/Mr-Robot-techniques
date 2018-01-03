@@ -20,7 +20,7 @@ There are reasons I distrust and dislike protonmail, but they are a bit "misty" 
 
 Protonmail is problematic for a few reasons. The biggest one in my mind is the way they advertise themselves. "Encrypted mail!" They say, but what they don't tell the average person (whom they are targeting with their ads and aesthetic) is how encryption actually *works*. Namely, that you can't have encrypted correspondence without there being an *end to end* exchange of some kind. Be that a keypairing, as in the case of PGP/GPG, or in the case of an encrypted server, such as RiseUp or Protonmail. However, these two things are totally different things. When you use PGP/GPG, your message is encrypted. Meaning that only the recipient can read it. This exchange is automatically handled by Protonmail *only* when both users are using it.
 
-Notice that this is a service that one can use anywhere, even on Gmail, if they are applying GPG themselves.
+Notice that this (private email contents) is a capability that one can use anywhere, even on Gmail, if they are applying GPG themselves.
 
 Their first tagline is "secure email based in switzerland" but the actual team behind the company are Americans based outta harvard and caltech, with significant funding from the valley.  So the "based in" is partially about the press history and also that their servers literally live in Switzerland.
 
