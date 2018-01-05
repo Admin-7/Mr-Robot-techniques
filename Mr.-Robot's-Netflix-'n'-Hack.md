@@ -557,22 +557,21 @@ During post-show discussion, we brought up:
 # Week 9 (S01E09)
 
 * "Vintage" technology!
-    ![Mr. Robot store inventory](https://i.imgur.com/6VJaslU.jpg)
+    ![Wide shot of the Mr. Robot showroom floor, :robot: screenshot 📷](https://i.imgur.com/6VJaslU.jpg)
     * [Super Nintendo Entertainment System](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
-    ![Super Nintendo Entertainment System (SNES)](https://i.imgur.com/cRZdY10.jpg)
+    ![Several Super Nintendo Entertainment Systems (SNES) and game cartridges on display at the Mr. Robot storefront, :robot: screenshot 📷](https://i.imgur.com/cRZdY10.jpg)
     * [NEC POWERMATE 433D](https://en.wikipedia.org/wiki/NEC#Products)
-    ![NEC POWERMATE 433D](https://i.imgur.com/UGAIPq7.jpg)
+    ![An old NEC POWERMATE 433D desktop computer on display in the Mr. Robot storefront, :robot: screenshot 📷](https://i.imgur.com/UGAIPq7.jpg)
     * [Floppy disks](https://en.wikipedia.org/wiki/Floppy_disk)
-    ![Floppy disks!! :D](https://i.imgur.com/O31caxo.jpg)
+    ![Mr. Robot repurposing floppy disks, :robot: screenshot 📷](https://i.imgur.com/O31caxo.jpg)
     * "Pentium 90," probably means an [Intel Pentium-branded PC](https://en.wikipedia.org/wiki/Pentium#Pentium), which earlier on ran at ~90Mhz
 * Gideon: "They hacked us, you know that, it's been all over the news. Normally a company could get through this, but we're a *cybersecurity* company!" Similar situations in real life:
     * [Spy Tech Company 'Hacking Team' Gets Hacked](https://motherboard.vice.com/en_us/article/gvye3m/spy-tech-company-hacking-team-gets-hacked)
     * [Stratfor](https://en.wikipedia.org/wiki/Stratfor#2011_hacking_incident)
 * Angela compulsively refreshes ["Google News"](https://news.google.com)
-  ![Angela searches for news on Terry Colby](https://i.imgur.com/W3Nyy1H.jpg)
-
+  ![Angela searches for news on Terry Colby, :robot: screenshot 📷](https://i.imgur.com/W3Nyy1H.jpg)
 * Gideon uses [Thunderbird](https://www.mozilla.org/en-US/thunderbird/), apparently on Windows.
-  ![Thunderbird on Windows](https://i.imgur.com/TdhWWL4.jpg)
+  ![Thunderbird on Windows, :robot: screenshot 📷](https://i.imgur.com/TdhWWL4.jpg)
 
 
 # Week 10 (S01E10)
