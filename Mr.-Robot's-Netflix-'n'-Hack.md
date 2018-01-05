@@ -566,9 +566,8 @@ During post-show discussion, we brought up:
     ![Floppy disks!! :D](https://i.imgur.com/O31caxo.jpg)
     * "Pentium 90," probably means an [Intel Pentium-branded PC](https://en.wikipedia.org/wiki/Pentium#Pentium), which earlier on ran at ~90Mhz
 * Gideon: "They hacked us, you know that, it's been all over the news. Normally a company could get through this, but we're a *cybersecurity* company!" Similar situations in real life:
-    * [Spy Tech Company 'Hacking Team' Gets Hacked](https://motherboard.vice.com/en_us/article/gvye3m/spy-tech-company-hacking-team-gets-hacked
+    * [Spy Tech Company 'Hacking Team' Gets Hacked](https://motherboard.vice.com/en_us/article/gvye3m/spy-tech-company-hacking-team-gets-hacked)
     * [Stratfor](https://en.wikipedia.org/wiki/Stratfor#2011_hacking_incident)
-
 * Angela compulsively refreshes ["Google News"](https://news.google.com)
   ![Angela searches for news on Terry Colby](https://i.imgur.com/W3Nyy1H.jpg)
 
