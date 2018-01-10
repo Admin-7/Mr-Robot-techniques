@@ -570,6 +570,8 @@ A form of [frequency modulation (FM)](#frequency-modulation) that operates acros
 
 ## [Wireless local area network](https://simple.wikipedia.org/wiki/Wireless_LAN)
 
+## [Wireshark](https://www.wireshark.org/)
+
 ## WLAN
 
 Initialism for [wireless local area network](#wireless-local-area-network).
