@@ -301,7 +301,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 See also:
 
-* related pages: [[Security culture]], [[PhySec]]
+* related pages: [[Security culture]], [[NetSec]], [[PhySec]]
 * [NYC-InfoSec.com](https://www.nyc-infosec.com/) - Calendar of infosec-related events in the New York City area.
 * [New York Security Community](http://nysec.isis.poly.edu/)- Informal meetup of infosec professionals in NYC.
 * [Objective-See.com](https://objective-see.com/) - Security-focused tools specifically designed for Apple's macOS.
