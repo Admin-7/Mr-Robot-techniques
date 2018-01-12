@@ -85,6 +85,7 @@ Before you dive too deeply into this practice material, you should first explore
 * Adblockers (uBlock Origin, etc.)
 * Clear cookies (cookie-clearing/whitelisting plugins)
 * Signal (because of authentication, not just for encryption)
+    * [How to Use Signal Without a Phone Number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
 * Tape or a sticker over your webcam to frustrate video recording. (Cheap and easy!)
 * Take a headset (headphones + microphone), chop off the wiring below the sensors, and plug that in to your headset jack to frustrate audio recordings.
 * Avoid transmitting or storing sensitive info such as credit card numbers on old devices that you can't keep up-to-date, use a different device for that
