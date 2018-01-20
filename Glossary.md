@@ -240,6 +240,14 @@ Initialism for [frequency-shift keying](#frequency-shift-keying).
 
 Recursive initialism for "GNU's Not UNIX." See also [UNIX](#unix).
 
+## GPS
+
+Initialism for [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System).
+
+## GPX
+
+Abbreviation for [GPX Exchange Format](https://en.wikipedia.org/wiki/GPS_eXchange_Format).
+
 ## [Graphical User Interface](https://simple.wikipedia.org/wiki/Graphical_user_interface)
 
 ## GUI
@@ -289,6 +297,8 @@ See also:
 ## IOC
 
 See [Indicator of Compromise](#indicator-of-compromise).
+
+## [Isochrone map](https://en.wikipedia.org/wiki/Isochrone_map)
 
 ## I/Q
 
@@ -394,6 +404,10 @@ Initialism for [personally identifiable information](#personally-identifiable-in
 ## [[PHYSEC]]
 
 Abbreviation for "physical security."
+
+## POI
+
+Initialism for "[point of interest](https://en.wikipedia.org/wiki/Point_of_interest)."
 
 ## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
 
