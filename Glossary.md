@@ -242,11 +242,15 @@ Recursive initialism for "GNU's Not UNIX." See also [UNIX](#unix).
 
 ## GPS
 
-Initialism for [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System).
+Initialism for [Global Positioning System](#global-positioning-system).
+
+## [GPS Exchange Format](https://en.wikipedia.org/wiki/GPS_eXchange_Format)
 
 ## GPX
 
-Abbreviation for [GPX Exchange Format](https://en.wikipedia.org/wiki/GPS_eXchange_Format).
+Abbreviation for [GPS Exchange Format](#gps-exchange-format).
+
+## [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System)
 
 ## [Graphical User Interface](https://simple.wikipedia.org/wiki/Graphical_user_interface)
 
@@ -407,7 +411,9 @@ Abbreviation for "physical security."
 
 ## POI
 
-Initialism for "[point of interest](https://en.wikipedia.org/wiki/Point_of_interest)."
+Initialism for "[point of interest](#point-of-interest)."
+
+## [Point of interest](https://en.wikipedia.org/wiki/Point_of_interest)
 
 ## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
 
