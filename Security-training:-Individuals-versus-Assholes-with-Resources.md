@@ -76,7 +76,7 @@ Before you dive too deeply into this practice material, you should first explore
   * [For Twitter](https://myshadow.org/how-to-increase-your-privacy-on-twitter)
   * [For Google](https://myaccount.google.com/security#connectedapps)
   * [For Facebook](https://www.facebook.com/settings?tab=applications)
-* Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the three major credit
+* Possibly put a [credit freeze](https://en.wikipedia.org/wiki/Credit_freeze) on your credit line at the four major credit bureaus. Follow [these instructions](https://krebsonsecurity.com/2015/06/how-i-learned-to-stop-worrying-and-embrace-the-security-freeze/).
 * Turn on "automatic updates" for software you use.
 * Don't click on links in emails you didn't solicit yourself; when you get an email "from PayPal" asking to verify your account *close* the email, *open* a Web browser yourself, and *manually* type `paypal.com` into the address bar, yourself, don't just click the link.
     * Use [DKIM Verifier for Thunderbird](https://addons.mozilla.org/thunderbird/addon/dkim-verifier/) to further test that email you receive is authentic (and not spam or phishing scams).
