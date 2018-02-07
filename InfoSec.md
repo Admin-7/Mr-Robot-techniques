@@ -161,6 +161,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in Spring 2015. This was a university course developed and run solely by students to teach skills in vulnerability research, reverse engineering, and binary exploitation.
 
+* [Network Forensics Puzzle Contest](https://forensicscontest.com/)
+
+  Set of network forensics puzzles run as part of regular contests.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
