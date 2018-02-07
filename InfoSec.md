@@ -129,6 +129,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   A set of increasingly difficult hacking "levels."
 
+* [Hacker101](https://www.hacker101.com/)
+
+  Free class for Web security structured as a set of video lessons, some covering multiple topics, some covering a single one. Additionally, there are coursework levels where you can hunt for bugs and experiment with exploitation in practice. As you work through the video content, try out the coursework to see what you can find!
+
 * [W3Challs](https://w3challs.com/)
 
   Mostly a community site and forum, but has a number of categorized challenges as well, including a couple entirely about writing Web scraping programs.
