@@ -175,6 +175,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 * [FuzzySecurity: Tutorials](https://www.fuzzysecurity.com/tutorials.html)
 * [Hacking Lab](https://www.hacking-lab.com)
 * [PentestIT Labs](https://lab.pentestit.ru/)
+* [Janos Gyerik's "Hacking contest on a Live CD"](http://www.janosgyerik.com/hacking-contest-on-a-live-cd/)
 
 ## Deliberately vulnerable systems
 
