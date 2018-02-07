@@ -297,6 +297,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 * [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
 * [Black Hat Arsenal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
+* [CapTF.com's Practice CTF List](http://captf.com/practice-ctf/)
 * [NetSec Focus - Learning Resources](https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/htmlview)
 * [MalwareAnalysis.Tools](http://malwareanalysis.tools/)
 * [Security Now Curricula](http://wiki.twit.tv/wiki/Talk:Security_Now#Curricula)
