@@ -4,18 +4,19 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 
 > 📝 Editor's note: Please keep this list alphabetized for ease of reference, and focus on groups who have shown an interest in actual collaboration, not just a link-dump of groups we know exist. (Thank you!)
 
-* [ActSecure](https://actsecure.org/) - a loose collection of technologists working to help activists secure themselves before, during, and after actions.
-* [A World Without Police](http://aworldwithoutpolice.org) - an online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
-* [Better Angels Collective](https://betterangels.github.io/) - a wholly virtual "anarchist collective creating liberatory software."
-* [Between the lines](http://betweenthelines.github.io/) - a small collective with a focus on creating tools/notes on privacy and protest.
-* [CMU Tech4Society](https://tech4society.slack.com/) - a student-run organizing committee at Carnegie Mellon University hosting cybersecurity clinics.
-* [Crypto Harlem](http://rdewald.com/cryptoharlem/) - a group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
-* [CryptoParty NYC](https://www.cryptoparty.in/nyc) - a decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
-* [Edgeryders](https://edgeryders.eu/) - an umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
+* [ActSecure](https://actsecure.org/) - Loose collection of technologists working to help activists secure themselves before, during, and after actions.
+* [A World Without Police](http://aworldwithoutpolice.org) - Online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
+* [Better Angels Collective](https://betterangels.github.io/) - Wholly virtual "anarchist collective creating liberatory software."
+* [Between the lines](http://betweenthelines.github.io/) - Small collective with a focus on creating tools/notes on privacy and protest.
+* [CMU Tech4Society](https://tech4society.slack.com/) - Student-run organizing committee at Carnegie Mellon University hosting cybersecurity clinics.
+* [Crypto Harlem](http://rdewald.com/cryptoharlem/) - Group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
+* [CryptoParty NYC](https://www.cryptoparty.in/nyc) - Decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
+* [Edgeryders](https://edgeryders.eu/) - Umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
 * [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
-* [PopGym](http://popgym.org/) - a project working towards opening a physical space offering free self-defense classes.
-* [Restore the 4th](https://restorethe4th.com/) - a non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
+* [PopGym](http://popgym.org/) - Project working towards opening a physical space offering free self-defense classes.
+* [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
+* [Shift-CTRL Space](https://shiftctrl.space/) - Amalgamation of Autonomist and Anarchist activists organizing technology-cetnered projects to cultivate autonomy connect grassroots organizers with free technology resources.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
-* [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - an Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
-* [Woodbine Health Autonomy Collective](http://woodbine.nyc/) - a nexus of several autonomously organizing groups uniting against the end of the world.
+* [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
+* [Woodbine Health Autonomy Collective](http://woodbine.nyc/) - Nexus of several autonomously organizing groups uniting against the end of the world.
