@@ -434,11 +434,17 @@ Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 # R
 
+## [Radio Data System](https://en.wikipedia.org/wiki/Radio_Data_System)
+
 ## [Radio frequency](https://simple.wikipedia.org/wiki/Radio_frequency)
 
 ## RBW
 
 Initialism for [resolution bandwidth](#resolution-bandwidth).
+
+## RDS
+
+Initialism for [Radio Data System](#radio-data-system).
 
 ## [Resolution bandwidth](https://en.wikipedia.org/wiki/Spectrum_analyzer#Resolution_bandwidth)
 
