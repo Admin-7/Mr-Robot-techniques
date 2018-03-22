@@ -284,6 +284,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-forensics](https://github.com/Cugu/awesome-forensics)
 * [awesome-hacking](https://github.com/jekil/awesome-hacking)
 * [awesome-hacking (meta-list)](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [awesome-hacking-tools](https://github.com/m4ll0k/Awesome-Hacking-Tools)
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
