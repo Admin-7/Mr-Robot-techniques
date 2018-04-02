@@ -31,7 +31,7 @@ If you don't have a smartphone or tablet, sadly, you can't use Signal. In that c
 
 **Do this:**
 
-1. Using your smartphone's web browser, go to [https://whispersystems.org/](https://whispersystems.org/).
+1. Using your smartphone's web browser, go to [https://signal.org/](https://signal.org/).
 1. Find the "*Install*" link (probably in the navbar), and click on the icon for your platform. This will take you to the appropriate app store.
 1. Look at the byline and confirm that the app is published by "Open Whisper Systems." If it is, click *Install*.
 1. Launch the app and run through its registration process. If you have any trouble, come to a meeting and we'll help you troubleshoot it.
