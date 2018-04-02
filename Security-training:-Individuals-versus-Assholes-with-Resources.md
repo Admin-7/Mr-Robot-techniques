@@ -94,3 +94,4 @@ Before you dive too deeply into this practice material, you should first explore
   * [Protect your devices with a $10 USB Condom](http://www.zdnet.com/article/protect-your-devices-with-a-10-usb-condom/)
 * Enable [DNS over TLS](https://tools.ietf.org/html/rfc7858) support in your client devices, if available. [DNS over HTTPS (TRR-DoH) instructions for Firefox](https://www.ghacks.net/2018/03/20/firefox-dns-over-https-and-a-worrying-shield-study/).
 * If you use the Chrome Web browser, [enable strict site isolation](https://support.google.com/chrome/answer/7623121?hl=en).
+* Use a client-side encryption tool ([Cryptomator](https://cryptomator.org/), etc.) for storing your files in cloud services such as Google Drive or Dropbox.
