@@ -1,1 +1,0 @@
-See https://github.com/betterangels/better-angels/wiki/Tech-open-office-hours
