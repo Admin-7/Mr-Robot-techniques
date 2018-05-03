@@ -310,6 +310,8 @@ Abbreviation for "[in-phase and quadrature components](#in-phase-and-quadrature-
 
 # J
 
+## [Jump server](https://en.wikipedia.org/wiki/Jump_server)
+
 # K
 
 # L
@@ -458,9 +460,16 @@ In the context of [[radio|Software defined radio]], abbreviation for "receive." 
 
 # S
 
+## [Secure admin workstation](https://msdn.microsoft.com/en-us/library/mt186538.aspx)
+
+See also [jump server](#jump-server).
+
 ## SAW
 
-Acronym for [surface acoustic wave](#surface-acoustic-wave).
+Initialism for:
+
+* [Secure admin workstation](#secure-admin-workstation).
+* [surface acoustic wave](#surface-acoustic-wave).
 
 ## [SAW filter](https://en.wikipedia.org/wiki/Electronic_filter#SAW_filters)
 
