@@ -460,7 +460,7 @@ In the context of [[radio|Software defined radio]], abbreviation for "receive." 
 
 # S
 
-## [Secure admin workstation](https://msdn.microsoft.com/en-us/library/mt186538.aspx)
+## [Secure admininstrator workstation](https://msdn.microsoft.com/en-us/library/mt186538.aspx)
 
 See also [jump server](#jump-server).
 
