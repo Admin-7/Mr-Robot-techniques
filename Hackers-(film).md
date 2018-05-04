@@ -12,6 +12,10 @@
 ![A … screenshot 📷 ](https://web.archive.org/web/20180504075919/https://i.imgur.com/2FMC4nS.jpg)
 * Another reference, more fictional, to dBase.  
 ![A … screenshot 📷 ](https://web.archive.org/web/20180504075930/https://i.imgur.com/jUo5E96.jpg)
+* [Dumpster diving](https://en.wikipedia.org/wiki/Social_Hacking#Dumpster_Diving).  
+![A … screenshot 📷 ](https://web.archive.org/web/20180504083038/https://i.imgur.com/YfJsUug.jpg)
+* A physical [network tap](https://en.wikipedia.org/wiki/Network_tap).  
+![A … screenshot 📷 ](https://web.archive.org/web/20180504083111/https://i.imgur.com/wFXRUki.jpg)
 
 * * *
 
