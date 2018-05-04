@@ -2,6 +2,8 @@
 
 * Kate Libby's "Student Record" displayed in [Classic Mac OS](https://en.wikipedia.org/wiki/Classic_Mac_OS)  
 ![… screenshot 📷](https://web.archive.org/web/20180504075810/https://i.imgur.com/bgPppwT.jpg)
+* Making a connection via [FTP](https://simple.wikipedia.org/wiki/FTP) to the "bank customer dbase" system:  
+![… screenshot 📷](https://web.archive.org/web/20180504153256if_/https://i.imgur.com/HkMuBTf.jpg)
 * "5 Exchanges", i.e., major telecom company's [private branch exchange](https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange), including [Pacific Bell](https://en.wikipedia.org/wiki/Pacific_Bell) (of course, the "Internet" is not an exchange)  
 ![… screenshot 📷](https://web.archive.org/web/20180504075830/https://i.imgur.com/RjDoxNW.jpg)
 * Stylized [`tshark`](https://en.wikipedia.org/wiki/Wireshark) output showing [the beginning of a TCP conversation](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Connection_establishment)  
