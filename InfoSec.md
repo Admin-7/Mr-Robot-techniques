@@ -293,6 +293,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
 * [awesome-macos](https://github.com/iCHAIT/awesome-macOS)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [awesome-network-automation](https://github.com/networktocode/awesome-network-automation)
 * [awesome-osint](https://github.com/jivoi/awesome-osint)
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
