@@ -279,6 +279,7 @@ This section contains a curated, ordered list of supplementary educational conte
 # Other lists
 
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
+* [awesome-ai-security](https://github.com/RandomAdversary/Awesome-AI-Security)
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)
