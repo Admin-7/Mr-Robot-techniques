@@ -288,6 +288,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-hacking-tools](https://github.com/m4ll0k/Awesome-Hacking-Tools)
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
+* [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
 * [awesome-macos](https://github.com/iCHAIT/awesome-macOS)
