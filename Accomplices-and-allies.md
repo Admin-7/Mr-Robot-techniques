@@ -17,6 +17,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
 * [Shift-CTRL Space](https://shiftctrl.space/) - Amalgamation of Autonomist and Anarchist activists organizing technology-centered projects to cultivate autonomy and connect grassroots organizers with free technology resources.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
+* [T4Tech](https://www.meetup.com/t4tech-Free-Coding-Workshop-for-Trans-Folks/) - Group for transgender and allied people to learn about web development and related fields.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
 * [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
 * [Woodbine Health Autonomy Collective](http://woodbine.nyc/) - Nexus of several autonomously organizing groups uniting against the end of the world.
