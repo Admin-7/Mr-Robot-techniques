@@ -89,3 +89,4 @@ Before you dive too deeply into this practice material, you should first explore
 * Completely disable the Intel ME subsystem in your hardware:
     * [Step-by-step guide to disabling the Intel Management Engine (Gentoo Wiki)](https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
     * [me_cleaner](https://github.com/corna/me_cleaner)
+* Enable the [Speculative store bypass disable (SSBD) bit](https://blogs.technet.microsoft.com/srd/2018/05/21/analysis-and-mitigation-of-speculative-store-bypass-cve-2018-3639/) in your BIOS/UFI/firmware/hardware systems.
