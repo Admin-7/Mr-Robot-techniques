@@ -110,6 +110,8 @@ Initialism for [base station subsystem](#base-station-subsystem).
 
 Initialism for [base transceiver station](#base-transceiver-station).
 
+## [Bump key](https://en.wikipedia.org/wiki/Lock_bumping)
+
 # C
 
 ## [Capture the flag](https://en.wikipedia.org/wiki/Capture_the_flag)
