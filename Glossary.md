@@ -118,6 +118,12 @@ Initialism for [base transceiver station](#base-transceiver-station).
 
 See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security).
 
+## CLLI
+
+Initialism for [Common Language Location Identifier](#common-language-location-identifier).
+
+## [Common Language Location Identifier](https://en.wikipedia.org/wiki/CLLI_code)
+
 ## [Continuous wave](https://en.wikipedia.org/wiki/Continuous_wave)
 
 ## CTF
@@ -365,6 +371,10 @@ Abbreviation for megahertz. See also [Hertz](#hertz).
 
 # N
 
+## NANP
+
+Initialism for [North American Numbering Plan](#north-american-numbering-plan).
+
 ## [National Security Agency](https://simple.wikipedia.org/wiki/National_Security_Agency)
 
 ## [Network function virtualization](https://en.wikipedia.org/wiki/Network_functions_virtualization)
@@ -372,6 +382,8 @@ Abbreviation for megahertz. See also [Hertz](#hertz).
 ## NFV
 
 Initialism for [network functions virtualization](#network-function-virtualization).
+
+## [North American Numbering Plan](https://en.wikipedia.org/wiki/North_American_Numbering_Plan)
 
 ## NSA
 
@@ -427,6 +439,12 @@ Initialism for one of:
 
 * [phase-shift keying](#phase-shift-keying)
 * [pre-shared key](#pre-shared-key)
+
+## PSTN
+
+Initialism for [Public switched telephone network](#public-switched-telephone-network).
+
+## [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
 
 ## [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation)
 
