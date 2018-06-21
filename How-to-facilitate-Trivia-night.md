@@ -27,7 +27,7 @@ The following equipment is needed for a successful Trivia night:
 
 # Checklist
 
-## T-1 hour
+## T-1 day
 
 1. Create a FBCTF server for the evening. For example, using [FBCTF's standard Vagrant startup](https://github.com/facebook/fbctf/wiki/Quick-Setup-Guide#standard-vagrant-startup):
 ```sh
@@ -38,7 +38,7 @@ quick_setup start_vagrant prod
 ```
 1. Login as the admin.
 1. Define the Quiz ("Trivia") questions:
-    1. Add quiz levels… 🚧 TK-TODO
+    1. Enter the trivia questions as Quiz Levels in the admin interface.
 1. Set the Game Configuration options:
     1. Set Registration options:
         1. Turn registration *ON*.
@@ -46,8 +46,19 @@ quick_setup start_vagrant prod
         1. Turn on *Custom Logo*
         1. Set Custom Organization to the name of the venue at which the event is played.
         1. Set the Custom Byline to `by ShiftCTRL.space`
-1. Enter the trivia questions as Quiz Levels in the admin interface.
 1. Ensure all Quiz Levels are set to *OFF*.
+
+# T-60 minutes
+
+1. Connect the FBCTF server computer to the digital projector.
+1. Make the FBCTF server available to the event's WLAN if not already done. For example:
+    1. Forward the host's port `8443` to the guest's port `443`.
+
+# T-30 minutes
+
+1. Turn Scoring *ON* in the admin interface.
+1. Advertise the game system to the event venue. For example, shout:
+  > Hey everyone, we'll be hosting Trivia night; to play, point your web browser on your laptop or phone to `https://<THE_IP_ADDRESS_HERE>:8443` and don't worry about the certificate error. ;)
 
 ## T-0
 
