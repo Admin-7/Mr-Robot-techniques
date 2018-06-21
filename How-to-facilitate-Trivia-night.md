@@ -48,13 +48,13 @@ The following equipment is needed for a successful Trivia night:
         1. Set the Custom Byline to `by ShiftCTRL.space`
 1. Ensure all Quiz Levels are set to *OFF*.
 
-# T-60 minutes
+## T-60 minutes
 
 1. Connect the FBCTF server computer to the digital projector.
 1. Make the FBCTF server available to the event's WLAN if not already done. For example:
     1. Forward the host's port `8443` to the guest's port `443`.
 
-# T-30 minutes
+## T-30 minutes
 
 1. Turn Scoring *ON* in the admin interface.
 1. Advertise the game system to the event venue. For example, shout:
