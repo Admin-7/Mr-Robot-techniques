@@ -5,12 +5,25 @@ Thanks for volunteering to facilitate Trivia night!
 Trivia night is a digitized equivalent of a classic bar trivia game.
 
 1. [Goals](#goals)
+1. [Variations](#variations)
 1. [Requirements](#requirements)
 1. [Checklist](#checklist)
 
 # Goals
 
 > 🚧 TK-TODO
+
+# Variations
+
+The FBCTF platform provides numerous options and settings to play games in a variety of ways. Depending on the physical-world context, some variations will be infeasible to play. For example, Trivia night played at an *actual bar* will mean most participants only have access to smartphones, not laptops, which cannot interact with the FBCTF interface. In this context, use the [classic bar trivia](#classic-bar-trivia) variation.
+
+## Classic bar trivia
+
+In this variation
+
+* teams are directed to an Etherpad or other shared document editing tool,
+* there are no bonuses for first or fast captures (successful answers),
+* questions are announced and enabled in the game interface individually, as "rounds."
 
 # Requirements
 
