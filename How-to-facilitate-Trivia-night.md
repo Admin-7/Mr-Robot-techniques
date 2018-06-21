@@ -58,7 +58,7 @@ quick_setup start_vagrant prod
 
 1. Turn Scoring *ON* in the admin interface.
 1. Advertise the game system to the event venue. For example, shout:
-  > Hey everyone, we'll be hosting Trivia night; to play, point your web browser on your laptop or phone to `https://<THE_IP_ADDRESS_HERE>:8443` and don't worry about the certificate error. ;)
+    > Hey everyone, we'll be hosting Trivia night; to play, point your web browser on your laptop or phone to `https://<THE_IP_ADDRESS_HERE>:8443` and don't worry about the certificate error. ;)
 1. Encourage everyone to register a team of their own or join up with (sit next to?) players in a fellow team.
 
 ## T-0
