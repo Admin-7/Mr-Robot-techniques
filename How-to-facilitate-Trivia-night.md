@@ -43,9 +43,9 @@ The following equipment is needed for a successful Trivia night:
     1. Set Registration options:
         1. Turn registration *ON*.
     1. Set branding:
-        1. Turn on *Custom Logo*
+        1. Turn on *Custom Logo* (because we don't really care to advertise for Facebook, now do we?)
         1. Set Custom Organization to the name of the venue at which the event is played.
-        1. Set the Custom Byline to `by ShiftCTRL.space`
+        1. Set the Custom Byline to something of your choosing.
 1. Ensure all Quiz Levels are set to *OFF*.
 
 ## T-60 minutes
