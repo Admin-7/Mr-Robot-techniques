@@ -49,7 +49,7 @@ The following equipment is needed for a successful Trivia night:
     source ./extra/lib.sh
     quick_setup start_vagrant prod
     ```
-1. Login as the admin.
+1. Login as the `admin` user. Passwords are automatically generated when provisioning a new server and are reported on `stdout` when doing so. Be sure you save the generated password or you may need to re-provision the server.
 1. Define the Quiz ("Trivia") questions:
     1. Enter the trivia questions as Quiz Levels in the admin interface.
 1. Set the Game Configuration options:
