@@ -8,6 +8,7 @@ Trivia night is a digitized equivalent of a classic bar trivia game.
 1. [Variations](#variations)
 1. [Requirements](#requirements)
 1. [Checklist](#checklist)
+1. [Suggested questions](#suggested-questions)
 
 # Goals
 
@@ -78,3 +79,22 @@ The following equipment is needed for a successful Trivia night:
 
 1. Click on *Begin Game* in the admin interface.
 1. When the game admins are ready to ask the first question, enable the first Quiz level, lather rinse and repeat.
+
+# Suggested questions
+
+> 📝 As the headline implies, these are suggestions. Feel free to use your own. :)
+> 
+> When editing this list, please retain the quiz format:
+>
+> ```
+> ## Quiz title
+> 
+> Quiz question?
+> 
+> * Answer: `The answer. (Case insensitive.)`
+> * Points: `Numeric point value`
+> * Bonus: `Numeric bonus point value`
+> * Bonus-Dec: `Numeric bonus decrement point value`
+> * Hint: `A helpful hint.`
+> * Hint Penalty: `Numeric penalty in points for accessing the hint`
+> ```
