@@ -45,7 +45,7 @@ The following equipment is needed for a successful Trivia night:
 1. Create a FBCTF server for the evening. For example, using [FBCTF's standard Vagrant startup](https://github.com/facebook/fbctf/wiki/Quick-Setup-Guide#standard-vagrant-startup):
     ```sh
     git clone https://github.com/facebook/fbctf.git
-    cd fbctf.git
+    cd fbctf
     source ./extra/lib.sh
     quick_setup start_vagrant prod
     ```
