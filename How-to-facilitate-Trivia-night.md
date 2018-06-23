@@ -135,7 +135,7 @@ F) Signal servers go down
 * Bonus: `0`
 * Bonus-Dec: `0`
 * Hint: `What is "end-to-end encryption" for?`
-* Hint Penality: `10`
+* Hint Penalty: `10`
 * Factoid: Signal is an app for smartphones famous for its invention of the Signal protocol, which standardized  "end-to-end encryption" across popular Communication Service Providers (CSPs) like Facebook. End-to-end encryption will not protect against a device compromise because a device compromise infects a single, specific piece of software and if that software is your phone, the malware on your device can read your messages while they are still unencrypted in the Signal app's memory space.
 
 ## FU HODL GANG
