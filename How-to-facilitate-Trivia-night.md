@@ -104,12 +104,12 @@ The following equipment is needed for a successful Trivia night:
 
 Which of the following are email providers that automatically and by default encrypt all of your outgoing email?
 
-A) GMail
-B) RiseUp
-C) ProtonMail
-D) Mailinator
-E) None of the above
-F) All of the above
+A) GMail  
+B) RiseUp  
+C) ProtonMail  
+D) Mailinator  
+E) None of the above  
+F) All of the above  
 
 * Answer: `E`
 * Points: `15`
@@ -123,12 +123,12 @@ F) All of the above
 
 Under what conditions would the [Signal Private Messenger](https://signal.org/) app not be able to protect the confidentiality of your messages?
 
-A) Device compromise
-B) Legal subpoena
-C) Network eavesdropping
-D) Compromised Signal server
-E) Rogue Signal server
-F) Signal servers go down
+A) Device compromise  
+B) Legal subpoena  
+C) Network eavesdropping  
+D) Compromised Signal server  
+E) Rogue Signal server  
+F) Signal servers go down  
 
 * Answer: `A`
 * Points: `25`
