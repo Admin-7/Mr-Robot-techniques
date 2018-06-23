@@ -34,7 +34,7 @@ The following equipment is needed for a successful Trivia night:
 * [ ] A projector or large screen (large enough for easy viewing by a group of 20 or so).
 * [ ] Adapter cabling for the A/V setup, if necessary.
 * [ ] Access to decent Wi-Fi; the digital scorecards are accessed over the venue's WLAN to the trivia server (FBCTF server).
-* [ ] A list of prepared trivia questions, complete with:
+* [ ] A list of [prepared trivia questions](#suggested-questions), complete with:
     * [ ] Point values per question
     * [ ] Optionally, a single hint for each question
     * [ ] Optionally, a hint penalty in points for each question's hint
@@ -134,9 +134,9 @@ F) Signal servers go down
 * Points: `25`
 * Bonus: `0`
 * Bonus-Dec: `0`
-* Hint: `What is "end-to-end encryption' for?"`
+* Hint: `What is "end-to-end encryption" for?`
 * Hint Penality: `10`
-* Factoid: `Signal is an app for smartphones famous for its invention of the Signal protocol, which standardized  "end-to-end encryption" across popular Communication Service Providers (CSPs) like Facebook. End-to-end encryption will not protect against a device compromise because a device compromise infects a single, specific piece of software and if that software is your phone, the malware on your device can read your messages while they are still unencrypted in the Signal app's memory space.`
+* Factoid: Signal is an app for smartphones famous for its invention of the Signal protocol, which standardized  "end-to-end encryption" across popular Communication Service Providers (CSPs) like Facebook. End-to-end encryption will not protect against a device compromise because a device compromise infects a single, specific piece of software and if that software is your phone, the malware on your device can read your messages while they are still unencrypted in the Signal app's memory space.
 
 ## FU HODL GANG
 
@@ -150,7 +150,7 @@ What year was the first cryptocurrency company founded?
 * Hint Penalty: `3`
 * Factoid: Intrepid academic cryptographer [David Chaum founded his own company called DigiCash in 1990](https://en.wikipedia.org/w/index.php?title=Digital_currency&oldid=846948568#History). DigiCash was known as "e-cash" at the time and used public key cryptography to assign addressees to transactions, in very much the same process that BitCoin addresses are generated today.
 
-## WITTY TITLE HERE?
+## Easy Dox
 
 You get a disappearing Signal message from your friend informing you of a new "alt-right" group whose website claims it is active in your neighborhood. Your friend wants to know the legal identities of the site operators. What is the first tool you run?
 
