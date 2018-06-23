@@ -97,4 +97,67 @@ The following equipment is needed for a successful Trivia night:
 > * Bonus-Dec: `Numeric bonus decrement point value`
 > * Hint: `A helpful hint.`
 > * Hint Penalty: `Numeric penalty in points for accessing the hint`
+> * Factoid: An interesting fact or other neat thing to know about why the answer is correct.
 > ```
+
+## Encrypted email services
+
+Which of the following are email providers that automatically and by default encrypt all of your outgoing email?
+
+A) GMail
+B) RiseUp
+C) ProtonMail
+D) Mailinator
+E) None of the above
+F) All of the above
+
+* Answer: `E`
+* Points: `15`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `"Automatically and by default" means the original, 'factory settings' configuration of the service. "All outgoing email" means email that gets copied to your Sent folder.`
+* Hint Penalty: `5`
+* Factoid: No existing service (known to the game organizer) automatically encrypts email to all possible recipients because encrypted email communications requires the prior exchange of 'public keys.' ProtonMail, too, will not encrypt email you send to non-ProtonMail users unless you manually perform the encryption process yourself. There is an emerging standard called [AutoCrypt](https://autocrypt.org/) that attempts to solve this problem in a vendor-neutral manner.
+
+## "Aren't you worried about Signal not being secure?"
+
+Under what conditions would the [Signal Private Messenger](https://signal.org/) app not be able to protect the confidentiality of your messages?
+
+A) Device compromise
+B) Legal subpoena
+C) Network eavesdropping
+D) Compromised Signal server
+E) Rogue Signal server
+F) Signal servers go down
+
+* Answer: `A`
+* Points: `25`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `What is "end-to-end encryption' for?"`
+* Hint Penality: `10`
+* Factoid: `Signal is an app for smartphones famous for its invention of the Signal protocol, which standardized  "end-to-end encryption" across popular Communication Service Providers (CSPs) like Facebook. End-to-end encryption will not protect against a device compromise because a device compromise infects a single, specific piece of software and if that software is your phone, the malware on your device can read your messages while they are still unencrypted in the Signal app's memory space.`
+
+## FU HODL GANG
+
+What year was the first cryptocurrency company founded?
+
+* Answer: `1990`
+* Points: `5`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `The same technology that makes BitCoin addresses possible, public key encryption, was used in this early attempt as well.`
+* Hint Penalty: `3`
+* Factoid: Intrepid academic cryptographer [David Chaum founded his own company called DigiCash in 1990](https://en.wikipedia.org/w/index.php?title=Digital_currency&oldid=846948568#History). DigiCash was known as "e-cash" at the time and used public key cryptography to assign addressees to transactions, in very much the same process that BitCoin addresses are generated today.
+
+## WITTY TITLE HERE?
+
+You get a disappearing Signal message from your friend informing you of a new "alt-right" group whose website claims it is active in your neighborhood. Your friend wants to know the legal identities of the site operators. What is the first tool you run?
+
+* Answer: `whois`
+* Points: `25`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `Who is the registered domain owner?`
+* Hint Penalty: `15`
+* Factoid: The [`whois` utility ](https://explainshell.com/explain/1/whois) is a command-line program that looks up the names of people responsible for maintaining certain Internet resources, such as a domain name or IP address. Naive Website administrators will neglect to hide their legal information from the global WHOIS database, which they register with when reserving a domain name.
