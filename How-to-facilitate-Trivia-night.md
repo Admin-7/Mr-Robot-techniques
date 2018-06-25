@@ -161,3 +161,22 @@ You get a disappearing Signal message from your friend informing you of a new "a
 * Hint: `Who is the registered domain owner?`
 * Hint Penalty: `15`
 * Factoid: The [`whois` utility ](https://explainshell.com/explain/1/whois) is a command-line program that looks up the names of people responsible for maintaining certain Internet resources, such as a domain name or IP address. Naive Website administrators will neglect to hide their legal information from the global WHOIS database, which they register with when reserving a domain name.
+
+## What's in a lock icon?
+
+When your Web browser displays a healthy green lock icon near the address bar, indicating that certain portions of your Web browsing activity have been "secured," which of the following are nevertheless visible to a passive, third-party eavesdropper?
+
+A) The entire URL you are loading.  
+B) The page contents.  
+C) Your IP address.  
+D) The page contents and your IP address.  
+E) The Web browser you are using.
+F) The domain name of the site you are visiting and your IP address.
+
+* Answer: `F`
+* Points: `25`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `The lock icon signifies the use of HTTPS, which indicates the use of TLS to encapsulate HTTP protocol traffic. What must remain unencrypted on the outside of the TLS wrapper in order for your Web browser to receive a sensible reply?`
+* Hint Penalty: `10`
+* Factoid: The lock icon in Web browsers signify that your request to view a given webpage, and the webpage itself was delivered to you, inside a locked package. However, you must still write the address (the domain name) of the website that you want to view on the outside of the package, or the delivery system known as the Internet cannot ferry your request to the website, nor the website's response back to you, successfuly. This means a passive third-party can learn which domain names you're visiting regardless of whether those domains have a lock icon or not in your Web browser window.
