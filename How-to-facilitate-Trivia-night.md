@@ -100,7 +100,7 @@ The following equipment is needed for a successful Trivia night:
 > * Factoid: An interesting fact or other neat thing to know about why the answer is correct.
 > ```
 
-## Encrypted email services
+## Weasel words
 
 Which of the following are email providers that automatically and by default encrypt all of your outgoing email?
 
