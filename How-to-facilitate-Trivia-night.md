@@ -170,7 +170,7 @@ A) The entire URL you are loading.
 B) The page contents.  
 C) Your IP address.  
 D) The page contents and your IP address.  
-E) The Web browser you are using.
+E) The Web browser you are using.  
 F) The domain name of the site you are visiting and your IP address.
 
 * Answer: `F`
