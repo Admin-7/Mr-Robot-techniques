@@ -140,7 +140,7 @@ F) Signal servers go down
 
 ## FU HODL GANG
 
-What year was the first cryptocurrency company founded?
+In what year was the first commercial digital currency company founded?
 
 * Answer: `1990`
 * Points: `5`
