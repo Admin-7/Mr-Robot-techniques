@@ -180,3 +180,15 @@ F) The domain name of the site you are visiting and your IP address.
 * Hint: `The lock icon signifies the use of HTTPS, which indicates the use of TLS to encapsulate HTTP protocol traffic. What must remain unencrypted on the outside of the TLS wrapper in order for your Web browser to receive a sensible reply?`
 * Hint Penalty: `10`
 * Factoid: The lock icon in Web browsers signify that your request to view a given webpage, and the webpage itself was delivered to you, inside a locked package. However, you must still write the address (the domain name) of the website that you want to view on the outside of the package, or the delivery system known as the Internet cannot ferry your request to the website, nor the website's response back to you, successfuly. This means a passive third-party can learn which domain names you're visiting regardless of whether those domains have a lock icon or not in your Web browser window.
+
+## Rumpelstiltskin
+
+The three inventors of this critical technology had the initials RR, AS, and LA. What first name does the "L" refer to?
+
+* Answer: `Leonard`
+* Points: `25`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: ``
+* Hint Penalty: ``
+* Factoid: The [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29), published in 1977, was authored by Ron Rivest, Adi Shamir, and *L*eonard Adleman.
