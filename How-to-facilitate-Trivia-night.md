@@ -197,11 +197,11 @@ The three inventors of this critical technology had the initials RR, AS, and LA.
 
 You are creating your profile on a hip, new dating site. You prefer to fudge the facts on some of the profile fields (age, weight, etc.) when asked. What is the strictest possible legal penalty you could face if your embellishments are discovered by an overzealous State prosecutor?
 
-A) Misdemeanor conviction
+A) Misdemeanor conviction  
 B) Felony conviction and 5 years  
 C) Felony conviction and 10 years  
 D) Felony conviction and 20 years  
-E) You must pay a fine
+E) You must pay a fine  
 F) Account suspension
 
 * Answer: `D`
