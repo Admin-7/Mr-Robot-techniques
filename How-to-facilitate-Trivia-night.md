@@ -117,7 +117,7 @@ F) All of the above
 * Bonus-Dec: `0`
 * Hint: `"Automatically and by default" means the original, 'factory settings' configuration of the service. "All outgoing email" means email that gets copied to your Sent folder.`
 * Hint Penalty: `5`
-* Factoid: No existing service (known to the game organizer) automatically encrypts email to all possible recipients because encrypted email communications requires the prior exchange of 'public keys.' ProtonMail, too, will not encrypt email you send to non-ProtonMail users unless you manually perform the encryption process yourself. There is an emerging standard called [AutoCrypt](https://autocrypt.org/) that attempts to solve this problem in a vendor-neutral manner.
+* Factoid: No existing service (known to the game organizer) automatically encrypts email to all possible recipients because standards for encrypted email communications require the prior exchange of public keys. ProtonMail, too, will not encrypt email you send to non-ProtonMail users unless you manually perform the encryption process yourself using an add-on like [Mailvelope](https://mailvelope.com/). There is an emerging standard called [AutoCrypt](https://autocrypt.org/) that attempts to solve this problem in a vendor-neutral manner.
 
 ## "Aren't you worried about Signal not being secure?"
 
