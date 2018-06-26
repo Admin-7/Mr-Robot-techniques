@@ -192,3 +192,22 @@ The three inventors of this critical technology had the initials RR, AS, and LA.
 * Hint: ``
 * Hint Penalty: ``
 * Factoid: The [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29), published in 1977, was authored by Ron Rivest, Adi Shamir, and *L*eonard Adleman.
+
+## TOS;DR
+
+You are creating your profile on a hip, new dating site. You prefer to fudge the facts on some of the profile fields (age, weight, etc.) when asked. What is the strictest possible legal penalty you could face if your embellishments are discovered by an overzealous State prosecutor?
+
+A) Misdemeanor conviction
+B) Felony conviction and 5 years  
+C) Felony conviction and 10 years  
+D) Felony conviction and 20 years  
+E) You must pay a fine
+F) Account suspension
+
+* Answer: `D`
+* Points: `15`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `Supplying fake information in the process of using a computer system may legally constitute computer fraud.`
+* Hint Penalty: `6`
+* Factoid: Most websites gleefully accept whatever information you provide for your profiles, and even the strict ones (Facebook names, anyone?) tend not to rise to the level of a legal suit. However, the fine print in the Terms of Service clauses of almost every website forbid misrepresenting yourself or your information to the site, creating a legal cascade effect that can lead all the way to a Computer Fraud and Abuse Act (CFAA) violation, which is a felony carrying a maximum sentence of 20 years in prison under the harshest conditions. This is a prime example of the regime of universal criminality plaguing contemporary technology law, a [regime that the United States Department of Justice regularly attempts to strengthen](https://www.cnet.com/news/doj-lying-on-match-com-needs-to-be-a-crime/).
