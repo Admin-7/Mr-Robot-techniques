@@ -241,4 +241,39 @@ F) Neither VPN or Tor; there are far better tools available
 * Bonus-Dec: `0`
 * Hint: `It's not paranoia if they're really out to get you.`
 * Hint Penalty: `10`
-* Factoid: A VPN, or Virtual Private Network, is not intended to offer anonymity to its users. It merely offers safe passage to a destination across an unsafe pathway. On the other hand, Tor is not intended to provide safe passage, merely anonymity. Therefore, for the highest security guarantees, you should use both Tor and a VPN. However, the order is important. If you connect to the VPN before you connect to Tor, then the VPN provider knows who you are because Tor has not yet gotten a chance to anonymize you. Meanwhile, anyone watching you can see that you're connecting to Tor. For this reason, you should use a Tor bridge, which is a server designed not to look like a Tor server, then use that to connect Tor first so that your connection is anonymized, then exit the Tor network destined for the VPN server, and finally use the VPN to connect to your ultimate destination.
+* Factoid: A VPN, or Virtual Private Network, is not intended to offer anonymity to its users. It merely offers safe passage to a destination across an unsafe pathway. On the other hand, Tor is not intended to provide safe passage, merely anonymity. Therefore, for the highest security guarantees, you should use both Tor and a VPN. However, the order is important. If you connect to the VPN before you connect to Tor, then the VPN provider knows who you are because Tor has not yet gotten a chance to anonymize you. Meanwhile, anyone watching you can see that you're connecting to Tor. For this reason, you should use a Tor bridge, which is a server designed not to look like a Tor server, then use that to connect to Tor first so that your connection is anonymized, then exit the Tor network destined for the VPN server, and finally use the VPN to connect to your ultimate destination.
+
+## Little Bobby tables
+
+You get a frantic call from your friend who runs a campaign website saying that their homepage has been replaced with a hateful message. During your forensic analysis of the victim site's Web server logs, you see the following snippet:
+
+```
+200.123.45.67 - - [02/Jul/2018:22:07:14 -0500] "GET / HTTP/1.1" 200 487
+200.123.45.67 - - [02/Jul/2018:22:22:02 -0500] "GET /index.aspx?page=contact HTTP/1.1" 200 23049
+200.123.45.67 - - [02/Jul/2018:22:22:24 -0500] "GET /index.aspx?page=' HTTP/1.1" 500 23513
+200.123.45.67 - - [02/Jul/2018:22:22:09 -0500] "GET /index.aspx?page=' or 1=1--  HTTP/1.1" 200 23381
+29.231.97.105 - - [02/Jul/2018:22:18:56 -0500] "GET / HTTP/1.1" 200 487
+29.231.97.105 - - [02/Jul/2018:22:19:23 -0500] "GET /index.aspx?page=contact HTTP/1.1" 200 23049
+```
+
+Based on this log snippet, what is the most salient course of action you should advise your friend to take?
+
+A) Fix the homepage, but there is no other action needed because the cross-site scripting (XSS) attack is temporary.
+
+B) Fix the homepage and reset all user passwords because the SQL injection attack may have comrpomised the site's database.
+
+C) Completely wipe the server and rebuild the database and website from from a backup, because the SQL injection attack has likely granted the attacker full control over the website.
+
+D) Completely wipe the server, patch the `index.aspx` script, rebuild the database and website from a backup, and send emails to every subscribed user informing them that their user account details may have been leaked, because the SQL injection attack has likely granted the attacker full control over the website.
+
+E) Restore the website files from a recent backup to fix the homepage, and then change all user passwords, but retain the current database.
+
+F) Fix the homepage and then change hosting providers because the host you are using is vulnerable to HTML injection attacks.
+
+* Answer: `D`
+* Points: `35`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `At what line in the log is the first indication of an error present?`
+* Hint Penalty: `15`
+* Factoid: This logfile is an Apache common log format snippet that shows two different clients, one coming from IP address 200.123.45.67 and the other coming from 29.231.97.105, browsing the website. Every request succeeds with a `200` error code (the second to last number in the log file's lines), except for line 3 in the snippet, which shows a Web server error (HTTP error code 500). The requested URL at this line ends in an apostrophe (`'`), a common SQL injection probe. The next request shows a successful SQL injection by adding `or 1=1-- ` to the URL. Successful SQL injection attacks can completely take over a vulnerable server, meaning that the attacker effectively has administrative access to the entire Website and possibly also the computer on which the website is hosted. This severity of compromise calls for a complete wipe of the affected server and a careful rebuild after patching the discovered vulnerability. 
