@@ -223,3 +223,22 @@ In the Tor onion routing scheme, a packet must traverse a minimum number of Tor 
 * Hint: `How many different types of Tor nodes are there?`
 * Hint Penalty: `15`
 * Factoid: The Tor network is a kind of "mix network," or [mixnet](https://en.wikipedia.org/wiki/Mix_network), which accepts incoming packets from many sources and jumbles them together before returning them to the regular Internet (known as the "clearnet"), so that it's difficult to tell which sender sent which outgoing message. In order for the Tor network itself to be unaware of a given packet's sender and receiver, the packet must traverse at least three independent Tor servers. These are known as the entry node, the middle or relay node, and the exit node. In this construction, the entry node is aware of the packet's source, but not its destination. The middle node is unaware of both the packet's source and its destination. The exit node is aware of the packet's destination, but not its source. Using this three-hop scheme, no single Tor server participating in the network is aware of both the source and the destination of any given packet being carried by the network.
+
+## VPN vs. Tor
+
+For reasons, you require an extraordinarily secure and anonymous connection to the public Internet. At your disposal is the Tor network, a VPN provider, and a C2 server you can use for any purpose. Which of the following configurations do you use for maximum security and the highest anonymity guarantees to build your connection?
+
+A) VPN only; VPNs are safer than Tor  
+B) Tor only; Tor is safer than a VPN  
+C) Both: connect to the VPN first, then anonymize your connection through Tor  
+D) Both: connect to Tor first, then secure your connection through the VPN  
+E) Both, plus a Tor bridge on the C2 server: connect to the Tor bridge first, then the Tor network, then the VPN  
+F) Neither VPN or Tor; there are far better tools available
+
+* Answer: `E`
+* Points: `30`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `It's not paranoia if they're really out to get you.`
+* Hint Penalty: `10`
+* Factoid: A VPN, or Virtual Private Network, is not intended to offer anonymity to its users. It merely offers safe passage to a destination across an unsafe pathway. On the other hand, Tor is not intended to provide safe passage, merely anonymity. Therefore, for the highest security guarantees, you should use both Tor and a VPN. However, the order is important. If you connect to the VPN before you connect to Tor, then the VPN provider knows who you are because Tor has not yet gotten a chance to anonymize you. Meanwhile, anyone watching you can see that you're connecting to Tor. For this reason, you should use a Tor bridge, which is a server designed not to look like a Tor server, then use that to connect Tor first so that your connection is anonymized, then exit the Tor network destined for the VPN server, and finally use the VPN to connect to your ultimate destination.
