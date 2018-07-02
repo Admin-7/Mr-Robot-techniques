@@ -189,9 +189,9 @@ The three inventors of this critical technology had the initials RR, AS, and LA.
 * Points: `25`
 * Bonus: `0`
 * Bonus-Dec: `0`
-* Hint: ``
-* Hint Penalty: ``
-* Factoid: The [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29), published in 1977, was authored by Ron Rivest, Adi Shamir, and *L*eonard Adleman.
+* Hint: `An equivalent technology was independently invented by a second trio about a decade prior but was classified for many years.`
+* Hint Penalty: `10`
+* Factoid: The [RSA cryptosystem](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29), the most ubiquitous public-key cryptography algorithm used today and published way back in 1977, was authored by Ron Rivest, Adi Shamir, and *L*eonard Adleman. However, a second trio that included James H. Ellis, Clifford Cocks, and Malcolm Williamson, working for the United Kingdom's national intelligence agency, the Government Communications Headquarters (GCHQ), independently developed effectively equivalent algorithms as early as 1970. Their report, [titled "The Possibility of Non-Secret Digital Encryption,"](https://www.gchq.gov.uk/sites/default/files/document_files/CESG_Research_Report_No_3006_0.pdf), was classified at the time of Rivest, Shamir, and Adleman's publication, cementing the academics' place in history and forever overshadowing the government employees' fame.
 
 ## TOS;DR
 
@@ -211,3 +211,15 @@ F) Account suspension
 * Hint: `Supplying fake information in the process of using a computer system may legally constitute computer fraud.`
 * Hint Penalty: `6`
 * Factoid: Most websites gleefully accept whatever information you provide for your profiles, and even the strict ones (Facebook names, anyone?) tend not to rise to the level of a legal suit. However, the fine print in the Terms of Service clauses of almost every website forbid misrepresenting yourself or your information to the site, creating a legal cascade effect that can lead all the way to a Computer Fraud and Abuse Act (CFAA) violation, which is a felony carrying a maximum sentence of 20 years in prison under the harshest conditions. This is a prime example of the regime of universal criminality plaguing contemporary technology law, a [regime that the United States Department of Justice regularly attempts to strengthen](https://www.cnet.com/news/doj-lying-on-match-com-needs-to-be-a-crime/).
+
+## Ogres are like onions
+
+In the Tor onion routing scheme, a packet must traverse a minimum number of Tor servers (a "hop") in order to protect both the sender (its source) and the receiver (the destination) from eavesdroppers outside of the Tor network and within the network itself. What is the minimum number of hops through the Tor network a packet must take in order to have this quality of protection?
+
+* Answer: `3`
+* Points: `30`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `How many different types of Tor nodes are there?`
+* Hint Penalty: `15`
+* Factoid: The Tor network is a kind of "mix network," or [mixnet](https://en.wikipedia.org/wiki/Mix_network), which accepts incoming packets from many sources and jumbles them together before returning them to the regular Internet (known as the "clearnet"), so that it's difficult to tell which sender sent which outgoing message. In order for the Tor network itself to be unaware of a given packet's sender and receiver, the packet must traverse at least three independent Tor servers. These are known as the entry node, the middle or relay node, and the exit node. In this construction, the entry node is aware of the packet's source, but not its destination. The middle node is unaware of both the packet's source and its destination. The exit node is aware of the packet's destination, but not its source. Using this three-hop scheme, no single Tor server participating in the network is aware of both the source and the destination of any given packet being carried by the network.
