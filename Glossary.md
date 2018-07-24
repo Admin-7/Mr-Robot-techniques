@@ -445,6 +445,10 @@ Initialism for "[point of interest](#point-of-interest)."
 
 ## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
 
+## Privilege elevation
+
+See [privilege escalation](#privilege-escalation).
+
 ## [Privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
 
 ## PSK
