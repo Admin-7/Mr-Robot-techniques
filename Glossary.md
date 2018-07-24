@@ -188,7 +188,19 @@ Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast-
 
 # E
 
+## Elevation of Privilege
+
+Synonym for [privilege elevation](#privilege-elevation).
+
+## EoP
+
+Initialism for [Elevation of Privilege](#elevation-of-privilege) or [Escalation of Privilege](#escalation-of-privilege).
+
 ## [Equipment under test](https://en.wikipedia.org/wiki/Device_under_test)
+
+## Escalation of Privilege
+
+Synonym for [privilege escalation](#privilege-escalation).
 
 ## EUT
 
@@ -432,6 +444,8 @@ Initialism for "[point of interest](#point-of-interest)."
 ## [Point of interest](https://en.wikipedia.org/wiki/Point_of_interest)
 
 ## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
+
+## [Privilege escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
 
 ## PSK
 
