@@ -144,6 +144,12 @@ Initialism for [continuous wave](#continuous-wave) - upper.
 
 # D
 
+## dBFS
+
+Initialism for [decibels relative to full scale](#decibels-relative-to-full-scale)
+
+## [Decibels relative to full scale](https://en.wikipedia.org/wiki/DBFS)
+
 ## [Digital-to-analog converter](https://simple.wikipedia.org/wiki/Digital-to-analog_converter)
 
 ## D-to-A
