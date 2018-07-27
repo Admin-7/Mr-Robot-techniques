@@ -15,6 +15,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 * [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
 * [PopGym](http://popgym.org/) - Project working towards opening a physical space offering free self-defense classes.
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
+* [Rethink LinkNYC](http://rethinklink.nyc/) - Anti-surveillance advocacy group in New York City.
 * [Shift-CTRL Space](https://shiftctrl.space/) - Amalgamation of Autonomist and Anarchist activists organizing technology-centered projects to cultivate autonomy and connect grassroots organizers with free technology resources.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
 * [T4Tech](https://www.meetup.com/t4tech-Free-Coding-Workshop-for-Trans-Folks/) - Group for transgender and allied people to learn about web development and related fields.
