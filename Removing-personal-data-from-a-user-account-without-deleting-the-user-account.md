@@ -9,7 +9,7 @@ Delete application data from "inside-out," meaning, erase things in this order:
 ## MacOS notes
 
 1. Delete ~/Library/Caches
-  * This can also just be used to reclaim some disk space, it's usually pretty sizable.
+    * This can also just be used to reclaim some disk space, it's usually pretty sizable.
 1. Delete ~/Library/Preferences/*plists (of relevant applications)
 1. Delete ~/Library/Logs
 1. Securely delete files from a MacOS machine: `rm -rfP ~/.Trash/*`
@@ -20,5 +20,5 @@ Delete application data from "inside-out," meaning, erase things in this order:
 1. Remove non-browser application cookies: `~/Library/Cookies`
 1. Delete old passwords from `Keychain Access.app`
 1. Clear all the "Recent items" menus that you can think of:
-  * Apple Menu -> Recent Items -> Clear
-  * Finder -> Go -> Recent Folders -> Clear
+    * Apple Menu -> Recent Items -> Clear
+    * Finder -> Go -> Recent Folders -> Clear
