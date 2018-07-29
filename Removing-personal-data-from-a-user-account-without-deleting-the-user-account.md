@@ -1,5 +1,7 @@
 > [[Wiki|Home]] ▸ **Removing personal data from a user account without deleting the user account**
 
+> 🚧 📝 This is just a notes dump from a recent session. Please don't consider this in any way thorough. You're welcome to add to it, tho! ([Open an issue](https://github.com/AnarchoTechNYC/issues/new) if you do not have edit access to our wiki.)
+
 Delete application data from "inside-out," meaning, erase things in this order:
 
 1. First the application itself to remove its data (browser cookies, etc.), then
