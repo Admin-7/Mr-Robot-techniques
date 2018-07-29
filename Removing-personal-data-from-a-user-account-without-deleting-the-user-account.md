@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ **Activities and events**
+> [[Wiki|Home]] ▸ **Removing personal data from a user account without deleting the user account**
 
 Delete application data from "inside-out," meaning, erase things in this order:
 
