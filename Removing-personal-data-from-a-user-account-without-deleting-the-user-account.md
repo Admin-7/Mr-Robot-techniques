@@ -4,7 +4,7 @@
 
 Delete application data from "inside-out," meaning, erase things in this order:
 
-1. First the application itself to remove its data (browser cookies, etc.), then
+1. First use the application's interface itself to remove its own data (browser cookies, etc.), then
 1. use the file explorer/Finder to remove application's files, then
 1. use the file explorer/Finder to delete the application itself.
 
