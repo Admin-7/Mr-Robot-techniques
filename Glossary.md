@@ -504,6 +504,10 @@ In the context of [[radio|Software defined radio]], abbreviation for "receive." 
 
 # S
 
+## SAE
+
+Initialism for [simultaneous authentication of equals](#simultaneous-authentication-of-equals).
+
 ## [Secure admininstrator workstation](https://msdn.microsoft.com/en-us/library/mt186538.aspx)
 
 See also [jump server](#jump-server).
@@ -540,6 +544,8 @@ See also [phishing](#phishing).
 Abbreviation for "signals intelligence." See [Signals intelligence](#signals-intelligence).
 
 ## [Signals intelligence](https://en.wikipedia.org/wiki/Signals_intelligence)
+
+## [Simultaneous authentication of equals](https://en.wikipedia.org/wiki/IEEE_802.11s#Peer_authentication_methods)
 
 ## [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
 
