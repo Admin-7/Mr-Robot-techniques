@@ -409,7 +409,13 @@ Initialism for [National Security Agency](#national-security-agency).
 
 # O
 
+## OE
+
+Initialism for [opportunistic encryption](#opportunistic-encryption).
+
 ## [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
+
+## [Opportunistic encryption](https://en.wikipedia.org/wiki/Opportunistic_encryption)
 
 ## OSINT
 
@@ -418,6 +424,10 @@ Abbreviation for "open-source intelligence," or "open-sources intelligence." See
 ## Overset
 
 See [false set](#false-set).
+
+## OWE
+
+Initialism for [Opportunistic Wireless Encryption, RFC 8110](https://tools.ietf.org/html/rfc8110).
 
 # P
 
