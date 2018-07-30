@@ -417,6 +417,10 @@ Initialism for [opportunistic encryption](#opportunistic-encryption).
 
 ## [Opportunistic encryption](https://en.wikipedia.org/wiki/Opportunistic_encryption)
 
+## Opportunistic Wireless Encryption
+
+See [RFC 8110](https://tools.ietf.org/html/rfc8110).
+
 ## OSINT
 
 Abbreviation for "open-source intelligence," or "open-sources intelligence." See [open-source intelligence](#open-source-intelligence).
@@ -427,7 +431,7 @@ See [false set](#false-set).
 
 ## OWE
 
-Initialism for [Opportunistic Wireless Encryption, RFC 8110](https://tools.ietf.org/html/rfc8110).
+Initialism for [Opportunistic Wireless Encryption](#opportunistic-wireless-encryption).
 
 # P
 
