@@ -118,9 +118,15 @@ Initialism for [base transceiver station](#base-transceiver-station).
 
 See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security).
 
+## CDMA
+
+Initialism for [code-division multiple access](#code-division-multiple-access).
+
 ## CLLI
 
 Initialism for [Common Language Location Identifier](#common-language-location-identifier).
+
+## [Code-division multiple access](https://en.wikipedia.org/wiki/Code-division_multiple_access)
 
 ## [Common Language Location Identifier](https://en.wikipedia.org/wiki/CLLI_code)
 
@@ -262,6 +268,8 @@ Initialism for [frequency-shift keying](#frequency-shift-keying).
 
 # G
 
+## [Global System for Mobile communications](https://en.wikipedia.org/wiki/GSM)
+
 ## [GNU](https://www.gnu.org/)
 
 Recursive initialism for "GNU's Not UNIX." See also [UNIX](#unix).
@@ -279,6 +287,10 @@ Abbreviation for [GPS Exchange Format](#gps-exchange-format).
 ## [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System)
 
 ## [Graphical User Interface](https://simple.wikipedia.org/wiki/Graphical_user_interface)
+
+## GSM
+
+Initialism for [Global System for Mobile communications](#global-system-for-mobile-communications).
 
 ## GUI
 
@@ -387,6 +399,18 @@ Initialism for [micro coaxial](#micro-coaxial).
 
 Abbreviation for megahertz. See also [Hertz](#hertz).
 
+## MIMO
+
+Initialism for [multiple-input and multiple-output](#multiple-input-and-multiple-output).
+
+## MU-MIMO
+
+Initialism for [multi-user MIMO](#multi-user-mimo).
+
+## [Multi-user MIMO](https://en.wikipedia.org/wiki/Multi-user_MIMO)
+
+## [Multiple-input and multiple-output](https://simple.wikipedia.org/wiki/MIMO)
+
 # N
 
 ## NANP
@@ -413,6 +437,14 @@ Initialism for [National Security Agency](#national-security-agency).
 
 Initialism for [opportunistic encryption](#opportunistic-encryption).
 
+## OFDM
+
+Initialism for [orthogonal frequency-division multiplexing](#orthogonal-frequency-division-multiplexing).
+
+## OFDMA
+
+Initialism for [orthogonal frequency-division multiple access](#orthogonal-frequency-division-multiple-access).
+
 ## [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
 
 ## [Opportunistic encryption](https://en.wikipedia.org/wiki/Opportunistic_encryption)
@@ -420,6 +452,10 @@ Initialism for [opportunistic encryption](#opportunistic-encryption).
 ## Opportunistic Wireless Encryption
 
 See [RFC 8110](https://tools.ietf.org/html/rfc8110).
+
+## [Orthogonal frequency-division multiple access](https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiple_access)
+
+## [Orthogonal frequency-division multiplexing](https://simple.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing)
 
 ## OSINT
 
