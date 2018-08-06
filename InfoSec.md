@@ -304,6 +304,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [awesome-tor](https://github.com/ajvb/awesome-tor)
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
