@@ -1,26 +1,22 @@
 > [[Wiki|Home]] ▸ [[GPG and PGP]] ▸ **Signing git commits using GPG keys**
 
+**Signing Git commits using GPG keys** is the process of using a cryptography identity to assert that a given change to a piece of software was made by a given individual, organization, or other entity. This is accomplished by associating a (cryptographic) [digital signature](https://simple.wikipedia.org/wiki/Digital_signature) with the commit (software patch) itself. Other users of the software (like you) can then validate that the software being patched was modified only by sources they trust.
+
+> 🔰📖 GPG is also known as _PGP_. For the purposes of this guide, we will be referring to the tool as **GPG**. For further information on the difference between the initialisms, see [[GPG and PGP]].
+
 # Contents
 
-1. [Note](#note)
 1. [Overview](#overview)
 1. [Procedure](#procedure)
     1. [Generating a GPG keypair](#generating-a-gpg-keypair)
     1. [Configuring git](#configuring-git)
-
-### Notes:
-
-1. This guide is intended to be a supplemental or alternative guide to the guides provided by GitHub, which are also great and included in the [References](#references) section here. This guide includes a few other details regarding encryption and opsec which those guides don't include.
-
-1. GPG is also known as PGP, and while there _are_ historical differences between what these acronyms mean and where they originated, the technology to which they both refer to is essentially the same thing. For the purposes of this guide, we will be referring to the tool as **GPG**, simply because that is what [[GitHub]] refers to, and since most of you reading are probably going to be using GitHub for your [[git]] commits anyway, this will keep the language consist between this guide and the ones GitHub provides.
-
-For more comprehensive information on GPG/PGP and the difference between the acronyms, see [[GPG and PGP]].
+1. [See also](#see-also)
 
 # Overview
 
-The first thing we need to do to be able to sign our git commits is to first have keys with which to sign those commits. This means we need to _generate_ our own GPG key pairs before we can tell git about them (makes sense, right?). For the purposes of this guide, we are going to be using the slightly newer GPG `gpg2` tool.
+The first thing we need to do to be able to sign our git commits is to first have keys with which to sign those commits. This means we need to _generate_ our own GPG key pairs before we can tell git about them. For the purposes of this guide, we are going to be using the slightly newer GPG `gpg2` tool.
 
-# Procedure:
+# Procedure
 
 The exact process for generating a good GPG keypair, followed by telling git which one to use, with opsec considerations included.
 
@@ -100,7 +96,7 @@ For example:
 
 And that's it! You're done! :sparkle:
 
-## References
+# See also
 
 * [GitHub Help: Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
 
