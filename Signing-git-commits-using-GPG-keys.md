@@ -78,7 +78,7 @@ The key you just created isn't likely to be the only key you ever make. Now that
 
 1. Take a look, using `ls -a`, in your git directory. You will see the [[hidden directory]] `.git`. If you do a quick `ls .git`, you'll also see a file called `config`. This is the file that will be edited when you use the command `git config`. This config file is specific to this project.
 
-> :bulb:🔰 Most guides will tell you to use the command `git config` with the `--global` option. This is supposed to simplify your use, but this means that everything you do with `git` on your current computer user account will be signed using this key, which includes the information associated with that key, which is a potential opsec risk if you're trying to keep one GitHub account relatively separate from another. Like you probably don't want to use your anti-cop GitHub with your work GitHub, unless your boss is down. :black_flag:
+> :bulb:🔰 Most guides will tell you to use the command `git config` with the `--global` option. This is supposed to simplify your use, but this means that everything you do with `git` on your current computer user account will be signed using this key, which includes the information associated with that key, which is a potential opsec risk if you're trying to keep one GitHub account relatively separate from another. Like you probably don't want to use your anti-cop GPG key info with your work GPG key info, unless your boss is down. :black_flag:
 
 1. To assign your new GPG key to this git project, first find the long "name" for that key. Use the command:
 
