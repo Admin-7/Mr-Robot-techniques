@@ -107,5 +107,7 @@ For example:
 And that's it! You're done! :sparkle:
 
 ## References
-[GitHub Help: Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
-[Github Help: Telling Git about your GPG key](https://help.github.com/articles/telling-git-about-your-gpg-key/)
+
+* [GitHub Help: Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
+
+* [Github Help: Telling Git about your GPG key](https://help.github.com/articles/telling-git-about-your-gpg-key/)
