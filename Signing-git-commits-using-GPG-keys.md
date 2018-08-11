@@ -10,9 +10,9 @@
 
 ### Notes:
 
-This guide is intended to be a supplemental or alternative guide to the guides provided by GitHub, which are also great and included in the [References](#references) section here. This guide includes a few other details regarding encryption and opsec which those guides don't include.
+1. This guide is intended to be a supplemental or alternative guide to the guides provided by GitHub, which are also great and included in the [References](#references) section here. This guide includes a few other details regarding encryption and opsec which those guides don't include.
 
-GPG is also known as PGP, and while there _are_ historical differences between what these acronyms mean and where they originated, the technology to which they both refer to is essentially the same thing. For the purposes of this guide, we will be referring to the tool as **GPG**, simply because that is what [[GitHub]] refers to, and since most of you reading are probably going to be using GitHub for your [[git]] commits anyway, this will keep the language consist between this guide and the ones GitHub provides.
+1. GPG is also known as PGP, and while there _are_ historical differences between what these acronyms mean and where they originated, the technology to which they both refer to is essentially the same thing. For the purposes of this guide, we will be referring to the tool as **GPG**, simply because that is what [[GitHub]] refers to, and since most of you reading are probably going to be using GitHub for your [[git]] commits anyway, this will keep the language consist between this guide and the ones GitHub provides.
 
 For more comprehensive information on GPG/PGP and the difference between the acronyms, see [[GPG and PGP]].
 
