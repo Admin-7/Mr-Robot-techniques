@@ -28,6 +28,8 @@ The first thing we need to do to be able to sign our git commits is to first hav
 
 # Procedure:
 
+The exact process for generating a good GPG keypair, followed by telling git which one to use, with opsec considerations included.
+
 ## Generating a GPG keypair
 
 The exact procedure for generating GPG keys on the command line, and then configuring git to use whichever GPG key you'd like to use to sign commits.
