@@ -19,7 +19,7 @@
 
 In brief, to sign Git commits with a GPG key, you must first have (or generate) a GPG key pair. Each GPG key pair is uniquely identified by a *fingerprint* (also called a *key ID*), which is represented by a string of 40 hexadecimal characters. The GPG keys you have access to are stored on your computer in a structure called a GPG *keyring*. To view your keyring from a command line you invoke the `gpg` command-line program with the `--list-keys` or `--list-secret-keys` options to list all keys in your keyring or only the keys to which you have an associated private ("secret") part, respectively.
 
-Once you have a GPG key, you must then inform the `git` program on your computer to use the key of your choice when signing commits. Finally, you must ensure that your invocations to the [`git commit` command](https://git-scm.com/docs/git-commit) tell git to sign the commit. This is most easily accomplished by aliasing `git commit` to `git commit --gpg-sign` or an equivalent.
+Once you have a GPG key, you must then inform the `git` program on your computer to use the key of your choice when signing commits. Finally, you must ensure that your invocations to the [`git commit` command](https://git-scm.com/docs/git-commit) tell Git to sign the commit. This is most easily accomplished by aliasing `git commit` to `git commit --gpg-sign` or an equivalent.
 
 Additionally, if you plan on using this key for a project hosted by GitHub.com, you will need a GitHub account. See our [[New member orientation guide § GitHub|New member orientation guide#github]] advice for instructions on creating a personal and/or pseudonymous GitHub account.
 
@@ -82,7 +82,7 @@ Continue to the next steps to simplify this command line quite a bit.
     git config user.signingKey C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
     ```
 
-> :beginner: :warning: Many Git and GPG guides will tell you to use the command `git config` with the `--global` option to write the configuration into your home directory's `.gitconfig` file. Their advice is intened to simplify your use of `git`, but means that your key selection will apply by default (i.e., every commit will be signed using this key unless a specific project's `.git/config` file overrides that selection). This can be a potential operational security risk if you're trying to keep one GitHub account relatively separate from another. This is why we prefer the use of per-repository configurations over user-account global configurations.
+> :beginner: :warning: Many Git and GPG guides will tell you to use the command `git config` with the `--global` option to write the configuration into your home directory's `.gitconfig` file. Their advice is intened to simplify your use of `git`, but means that your key selection will apply by default (i.e., every commit will be signed using this key unless a specific project's `.git/config` file overrides that selection). This can be a potential operational security risk if you're trying to keep one GitHub account relatively separate from another. This is why we prefer the use of per-repository configurations over user account ("global") configurations.
 
 You can now sign commits with your newly generated key by invoking `git` with the `-S` or `--gpg-sign` option, without the need to pass your key ID on the command line. For example:
 
