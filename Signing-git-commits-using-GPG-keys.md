@@ -83,7 +83,7 @@ git config user.signingKey C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
 
 > :beginner: :warning: Many Git and GPG guides will tell you to use the command `git config` with the `--global` option to write the configuration into your home directory's `.gitconfig` file. Their advice is intened to simplify your use of `git`, but means that your key selection will apply by default (i.e., every commit will be signed using this key unless a specific project's `.git/config` file overrides that selection. This can be a potential operational security risk if you're trying to keep one GitHub account relatively separate from another. This is why we prefer the use of per-repository configurations over user-account global configurations.
 
-You can now sign sign commits with your newly generated key by invoking `git` with the `-S` or `--gpg-sign` option, without the need to pass your key ID on the command line. For example:
+You can now sign commits with your newly generated key by invoking `git` with the `-S` or `--gpg-sign` option, without the need to pass your key ID on the command line. For example:
 
 ```sh
 git commit -S
@@ -101,7 +101,7 @@ The above is enough to automatically select your configured signing key and crea
 git config alias.cs "commit -S"
 ```
 
-You can now sign sign commits with your newly generated key by invoking `git` with your new alias:
+You can now sign commits with your newly generated key by invoking `git` with your new alias:
 
 ```sh
 git cs
