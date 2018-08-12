@@ -55,7 +55,7 @@ The following outlines the exact process for generating a good GPG keypair, foll
 1. Confirm your chosen expiry date.
 1. Enter the details of your chosen cryptographic identity. If you're using this key to sign commits on a public repository, or on GitHub generally, try to match the information that you've already given GitHub (or whatever service), so that you're not unnecessarily giving out more personal information than needed.
 1. Finally, choose a (strong!) password to protect the private portion of your GPG keypair.
-> :beginner::bulb: Choosing strong passwords is always important, so we strongly encourage the use of a password/secrets management application such as [LastPassss](https://lastpass.com/) or KeePass. Most password managers also feature the ability to generate strong passwords.
+> :beginner::bulb: Choosing strong passwords is always important, so we strongly encourage the use of a password/secrets management application such as [LastPass](https://lastpass.com/) or KeePass. Most password managers also feature the ability to generate strong passwords.
 
 Repeat the above step for each independent identity you wish to create. For instance, if you have a distinct "professional" GitHub account separate from a "personal" or "activist" GitHub account, make a dedicated GPG key for each account. **Take care not to pollute one of your identities with artifacts from the other.** At worst, this will de-anonymize you. At best, it will offer an adversary additional information with which to correlate your behaviors across your various (no-longer-secret) identities.
 
