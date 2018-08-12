@@ -281,7 +281,7 @@ Based on this log snippet, what is the most salient course of action you should 
 
 A) Fix the homepage, but there is no other action needed because the cross-site scripting (XSS) attack is temporary.
 
-B) Fix the homepage and reset all user passwords because the SQL injection attack may have comrpomised the site's database.
+B) Fix the homepage and reset all user passwords because the SQL injection attack may have compromised the site's database.
 
 C) Completely wipe the server and rebuild the database and website from from a backup, because the SQL injection attack has likely granted the attacker full control over the website.
 
