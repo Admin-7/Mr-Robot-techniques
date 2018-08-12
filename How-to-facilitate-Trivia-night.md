@@ -247,7 +247,7 @@ In the Tor onion routing scheme, a packet must traverse a minimum number of Tor 
 
 ## VPN vs. Tor
 
-For reasons, you require an extraordinarily secure and anonymous connection to the public Internet. At your disposal is the Tor network, a VPN provider, and a C2 server you can use for any purpose. Which of the following configurations do you use for maximum security and the highest anonymity guarantees to build your connection?
+For reasons, you require an extraordinarily secure and anonymous connection to the public Internet. At your disposal is the Tor network, a VPN provider, and a C2 (Command and Control) server you can use for any purpose. Which of the following configurations do you use for maximum security and the highest anonymity guarantees to build your connection?
 
 A) VPN only; VPNs are safer than Tor  
 B) Tor only; Tor is safer than a VPN  
