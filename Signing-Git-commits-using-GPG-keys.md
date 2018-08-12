@@ -17,7 +17,7 @@
 
 # Overview
 
-In brief, to sign Git commits with a GPG key, you must first have (or generate) a GPG key pair. Each GPG key pair is uniquely identified by a *fingerprint* (also called a *key ID*), which is represented by a string of 40 hexadecimal characters. The GPG keys you have access to are stored on your computer in a structure called a GPG *keyring*. To view your keyring from a command line you invoke the `gpg` command-line program with the `--list-keys` or `--list-secret-keys`, to list all keys in your keyring or only the keys to which you have an associate private ("secret") part.
+In brief, to sign Git commits with a GPG key, you must first have (or generate) a GPG key pair. Each GPG key pair is uniquely identified by a *fingerprint* (also called a *key ID*), which is represented by a string of 40 hexadecimal characters. The GPG keys you have access to are stored on your computer in a structure called a GPG *keyring*. To view your keyring from a command line you invoke the `gpg` command-line program with the `--list-keys` or `--list-secret-keys` options to list all keys in your keyring or only the keys to which you have an associated private ("secret") part, respectively.
 
 Once you have a GPG key, you must then inform the `git` program on your computer to use the key of your choice when signing commits. Finally, you must ensure that your invocations to the [`git commit` command](https://git-scm.com/docs/git-commit) tell git to sign the commit. This is most easily accomplished by aliasing `git commit` to `git commit --gpg-sign` or an equivalent.
 
