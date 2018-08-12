@@ -72,14 +72,14 @@ Continue to the next steps to simplify this command line quite a bit.
 > :bulb: This step is optional, but recommended.
 
 1. Find the fingerprint of the GPG key you'd like to use to sign commits with.
-```sh
-gpg --list-secret-keys --keyid-format LONG
-```
+    ```sh
+    gpg --list-secret-keys --keyid-format LONG
+    ```
 1. Navigate to the folder containing your Git project.
 1. Inform `git` of the GPG key you'd like to use to sign commits to this project. Assuming your GPG key ID is `C42F2F04C42D489E23DD71CE07EFAA28AB94BC85`, you would invoke `git config` as follows:
-```sh
-git config user.signingKey C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
-```
+    ```sh
+    git config user.signingKey C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
+    ```
 
 > :beginner: :warning: Many Git and GPG guides will tell you to use the command `git config` with the `--global` option to write the configuration into your home directory's `.gitconfig` file. Their advice is intened to simplify your use of `git`, but means that your key selection will apply by default (i.e., every commit will be signed using this key unless a specific project's `.git/config` file overrides that selection. This can be a potential operational security risk if you're trying to keep one GitHub account relatively separate from another. This is why we prefer the use of per-repository configurations over user-account global configurations.
 
@@ -97,9 +97,9 @@ The above is enough to automatically select your configured signing key and crea
 
 1. Navigate to the folder containing your Git project.
 1. Configure a `git` alias:
-```
-git config alias.cs "commit -S"
-```
+    ```
+    git config alias.cs "commit -S"
+    ```
 
 You can now sign commits with your newly generated key by invoking `git` with your new alias:
 
