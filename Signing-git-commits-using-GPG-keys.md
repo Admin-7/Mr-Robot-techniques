@@ -11,7 +11,7 @@
 1. [Overview](#overview)
 1. [Procedure](#procedure)
     1. [Step 1: Generate a GPG keypair](#step-1-generate-a-gpg-keypair)
-    1. [Step 2: Configure git](#step-2-configure-git-or-a-specific-git-project)
+    1. [Step 2: Configure Git or a specific Git project](#step-2-configure-git-or-a-specific-git-project)
     1. [Step 3: Set a git commit alias](#step-3-set-a-git-commit-alias)
 1. [See also](#see-also)
 
@@ -67,7 +67,7 @@ git commit --gpg-sign=C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
 
 Continue to the next steps to simplify this command line quite a bit.
 
-## Step 2: Configure git or a specific git project
+## Step 2: Configure Git or a specific Git project
 
 > :bulb: This step is optional, but recommended.
 
