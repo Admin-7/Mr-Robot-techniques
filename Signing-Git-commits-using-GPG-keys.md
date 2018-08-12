@@ -44,6 +44,7 @@ The following outlines the exact process for generating a good GPG keypair, foll
             ```sh
             sudo apt update && sudo apt install gnupg2
             ```
+        1. Windows users can install [GPG4Win](https://www.gpg4win.org/), which installs a command line executable as well as equivalent GUI tools.
 1. Initiate the interactive key generation process, which will prompt you for specifics about your desired new key:
     ```sh
     gpg --full-gen-key
