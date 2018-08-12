@@ -51,15 +51,18 @@ The following equipment is needed for a successful Trivia night:
     quick_setup start_vagrant prod
     ```
 1. Login as the `admin` user. Passwords are automatically generated when provisioning a new server and are reported on `stdout` when doing so. Be sure you save the generated password or you may need to re-provision the server.
-1. Define the Quiz ("Trivia") questions:
-    1. Enter the trivia questions as Quiz Levels in the admin interface.
 1. Set the Game Configuration options:
     1. Set Registration options:
         1. Turn registration *ON*.
-    1. Set branding:
+    1. Set Game options:
+        1. **Default bonus**: `0`
+        1. **Default bonus dec**: `0`
+    1. Set Branding options:
         1. Turn on *Custom Logo* (because we don't really care to advertise for Facebook, now do we?)
         1. Set Custom Organization to the name of the venue at which the event is played.
         1. Set the Custom Byline to something of your choosing.
+1. Define the Quiz ("Trivia") questions:
+    1. Enter the trivia questions as Quiz Levels in the admin interface.
 1. Ensure all Quiz Levels are set to *OFF*.
 
 ## T-60 minutes
