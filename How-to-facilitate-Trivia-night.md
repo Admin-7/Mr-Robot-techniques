@@ -68,15 +68,31 @@ The following equipment is needed for a successful Trivia night:
 ## T-60 minutes
 
 1. Connect the FBCTF server computer to the digital projector.
+
+### Standard setup
+
 1. Make the FBCTF server available to the event's WLAN if not already done. For example:
     1. Forward the host's port `8443` to the guest's port `443`.
+
+### Bar setup
+
+> TK-TODO
 
 ## T-30 minutes
 
 1. Turn Scoring *ON* in the admin interface.
+
+### Standard setup
+
 1. Advertise the game system to the event venue. For example, shout:
     > Hey everyone, we'll be hosting Trivia night; to play, point your web browser on your laptop or phone to `https://<THE_IP_ADDRESS_HERE>:8443` and don't worry about the certificate error. ;)
 1. Encourage everyone to register a team of their own or join up with (sit next to?) players in a fellow team.
+
+### Bar setup
+
+1. Advertise the game to the event venue. For example, shout:
+    > Hey everyone, we'll be hosting Hacker Trivia night! We'll be coming 'round to ask you for your team names. If you wanna play, just send an email from the email you told us about to `$CHOSEN_EMAIL_HERE`.
+    We suggest using an email from one of hte [[disposable email services]].
 
 ## T-0
 
