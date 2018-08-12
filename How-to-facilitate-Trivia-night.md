@@ -92,7 +92,7 @@ The following equipment is needed for a successful Trivia night:
 
 1. Advertise the game to the event venue. For example, shout:
     > Hey everyone, we'll be hosting Hacker Trivia night! We'll be coming 'round to ask you for your team names. If you wanna play, just send an email from the email you told us about to `$CHOSEN_EMAIL_HERE`.
-    We suggest using an email from one of hte [[disposable email services]].
+1. In a new browser tab, load an email interface, such as one of the [[disposable email services]].
 
 ## T-0
 
