@@ -4,100 +4,112 @@
 
 > 🔰📖 GPG is also known as _PGP_. For the purposes of this guide, we will be referring to the tool as **GPG**. For further information on the difference between the initialisms, see [[GPG and PGP]].
 
+> :beginner: :bulb: This procedure requires the use of a command line. If you are unfamiliar with the command line, we recommend you take some time to work through the excellent [Taming the Terminal](https://www.bartbusschots.ie/s/blog/taming-the-terminal/) series.
+
 # Contents
 
 1. [Overview](#overview)
 1. [Procedure](#procedure)
-    1. [Generating a GPG keypair](#generating-a-gpg-keypair)
-    1. [Configuring git](#configuring-git)
+    1. [Step 1: Generate a GPG keypair](#step-1-generate-a-gpg-keypair)
+    1. [Step 2: Configure git](#step-2-configure-git-or-a-specific-git-project)
+    1. [Step 3: Set a git commit alias](#step-3-set-a-git-commit-alias)
 1. [See also](#see-also)
 
 # Overview
 
-The first thing we need to do to be able to sign our git commits is to first have keys with which to sign those commits. This means we need to _generate_ our own GPG key pairs before we can tell git about them. For the purposes of this guide, we are going to be using the slightly newer GPG `gpg2` tool.
+In brief, to sign git commits with a GPG key, you must first have (or generate) a GPG key pair. Each GPG key pair is uniquely identified by a *fingerprint* (also called a *key ID*), which is a string of 40 hexadecimal characters. The GPG keys you have access to are stored on your computer in a structure called a GPG *keyring*. To view your keyring from a command line
+
+Once you have a GPG key, you must then inform the `git` program on your computer to use the key of your choice when signing commits. Finally, you must ensure that your invocations to the `git commit` command tell git to sign the commit. This is most easily accomplished by creating aliasing `git commit` to [`git commit --gpg-sign`]().
+
+Additionally, if you plan on using this key for a project hosted by GitHub.com, you will need a GitHub account. See our [[New member orientation guide § GitHub|New member orientation guide#github]] advice for instructions on creating a personal and/or pseudonymous GitHub account.
 
 # Procedure
 
-The exact process for generating a good GPG keypair, followed by telling git which one to use, with opsec considerations included.
+The following outlines the exact process for generating a good GPG keypair, followed by telling `git` which one to use, with opsec considerations included. We assume you will be performing these steps from a laptop or desktop computer. You _can_ generate GPG keys from mobile devices such as Android smartphones, but we find it difficult to write code from a mobile device. :)
 
-## Generating a GPG keypair
+> :bulb: For information regarding GPG key generation on an Android device, see [[GPG and PGP]].
 
-The exact procedure for generating GPG keys on the command line, and then configuring git to use whichever GPG key you'd like to use to sign commits.
+## Step 1: Generate a GPG keypair
 
-1. Open your Terminal.
+> :beginner::warning: Your GPG key, just like the username and password combination to your account, can reveal your identity (because it _is_ an identity). Therefore, we recommended making different GPG keys for each of your GitHub (or GitLab, etc.) accounts that you wish to compartmentalize from one another. In other words, do not use your personal GPG key with your pseudonymous GitHub account, or vice versa. We are, of course, assuming you probably don't want to sign your day job's code commits with your anti-cop GPG key, unless your boss is down. :black_flag:
 
-1. We're going to need a tool called `gpg` or `gpg2` in order to create our keypair. If you do not already have `gpg2`, you can install it using your package manager (such as `apt` or `yum`), or, for the absolutely most up-to-date version, [you can download it straight from GnuPG here](https://www.gnupg.org/download/index.html).
+1. Ensure you have the `gpg` (or `gpg2`) program installed. In a terminal, enter:
+    ```sh
+    gpg --version
+    ```
+    > 🔰 💡 If you do not have a `gpg` binary in your path, check for `gpg2 --version`, as some systems install the program under this slightly different name.
+    1. If you do not already have `gpg` or `gpg2`, install it:
+        1. macOS users can install GPG via [MacPorts](https://www.macports.org/) using `port install gnupg2`, via [Homebrew](https://brew.sh/) using `brew install gnupg`, or with a graphical user interface from [GPGTools.org](https://gpgtools.org/).
+        1. GNU/Linux users can install GPG via their operating system's default package repositories. Users of Debian-based GNU/Linux distributions such as Ubuntu:
+            ```sh
+            sudo apt update && sudo apt install gnupg2
+            ```
+1. Initiate the interactive key generation process, which will prompt you for specifics about your desired new key:
+    ```sh
+    gpg2 --full-gen-key
+    ```
+1. Select a type of key. We suggest making an RSA keypair (typically also the default).
+> :bulb: It is possible to sign commits with different types of GPG keys, however, as of this writing, GitHub itself suggests using RSA keys with 4096 bits, so that's what we'll stick with this for the time being. A 4096-bit long RSA key secure enough for these purposes.
+1. Select a key length. Type in `4096` and hit `Enter` to make a 4096-bit long key.
+1. Select how long you want this key to be valid for. Pick a time frame that makes sense for the use of the key; 2 years, for example, is long enough to be useful but not so long as to risk perpetual use if a vulnerability should be found or a compromise should occur later on.
+1. Confirm your chosen expiry date.
+1. Enter the details of your chosen cryptographic identity. If you're using this key to sign commits on a public repository, or on GitHub generally, try to match the information that you've already given GitHub (or whatever service), so that you're not unnecessarily giving out more personal information than needed.
+1. Finally, choose a (strong!) password to protect the private portion of your GPG keypair.
+> :beginner::bulb: Choosing strong passwords is always important, so we strongly encourage the use of a password/secrets management application such as [LastPassss](https://lastpass.com/) or KeePass. Most password managers also feature the ability to generate strong passwords.
 
-1. To see whether you have `gpg2` installed, or to check what version of `gpg2` you have, type:
+Repeat the above step for each independent identity you wish to create. For instance, if you have a distinct "professional" GitHub account separate from a "personal" or "activist" GitHub account, make a dedicated GPG key for each account. **Take care not to pollute one of your identities with artifacts from the other.** At worst, this will de-anonymize you. At best, it will offer an adversary additional information with which to correlate your behaviors across your various (no-longer-secret) identities.
 
-    `gpg2 --version`
+You can now sign sign commits with your newly generated key by invoking `git` with the `-S` or `--gpg-sign` option, passing your key ID as the value to the `-S` or `--gpg-sign` options. For example:
 
-This will give you some information about your version of `gpg2`, including what kinds of encryption it can use, such as [[RSA]].
+```sh
+git commit --gpg-sign=C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
+```
 
-> ⚠️ 🔰 Encryption geeks, please note that git by default uses `gpg`, not `gpg2`. This means things that are specifically supported by `gpg2`, such as newer ciphers like ed25519, are not supported by default. You may [change this setting](https://stackoverflow.com/questions/34766123/signing-commit-with-openpgp-subkey-fails#34767663), but as it is not ubiquitous and GitHub itself suggests using RSA keys with 4096 bits, we're going to stick with this for this guide and it is recommended to use these settings as well for the time being. RSA with 4096 bits is perfectly secure for these purposes.
+Continue to the next steps to simplify this command line quite a bit.
 
-> 💡 🔰 You may have generated some GPG keys sometime in the past, perhaps if you have learned about GPG in the past. To take a look at the keys you currently have, if you do have any, use the command `gpg2 --list-secret-keys`. This will show you a list of the keys on your machine. **Even if you have keys already,** it's a good idea to generate a new one specifically for the purpose of signing git commits. It's also recommended to make different keys per GitHub (or GitLab, etc.) account, especially if your account information on those services differs from one account to the other. This is just a good way of keeping things clean and well-organized.
+## Step 2: Configure git or a specific git project
 
-2. You'll be using a good password to secure your key Before you start this process, it's a good idea to make the password you'll be using **before** you begin the key generation process, and copy and paste it into your clipboard, or put it into a text editor and place it near the edge of your screen so you can type it in when prompted. 
+> :bulb: This step is optional, but recommended.
 
-> 💡 🔰 If you don't already use a password manager such as [LastPass](https://lastpass.com), it's recommended to install one. Most password managers come with a password generator, which you can use to create strong passwords.
+1. Find the fingerprint of the GPG key you'd like to use to sign commits with.
+```sh
+gpg --list-secret-keys --keyid-format LONG
+```
+1. Navigate to the folder containing your Git project.
+1. Inform `git` of the GPG key you'd like to use to sign commits to this project. Assuming your GPG key ID is `C42F2F04C42D489E23DD71CE07EFAA28AB94BC85`, you would invoke `git config` as follows:
+```sh
+git config user.signingKey C42F2F04C42D489E23DD71CE07EFAA28AB94BC85
+```
 
-3. In your Terminal, use the following command to initiate the interactive `gpg2` key generation process:
+> :beginner: :warning: Many Git and GPG guides will tell you to use the command `git config` with the `--global` option to write the configuration into your home directory's `.gitconfig` file. Their advice is intened to simplify your use of `git`, but means that your key selection will apply by default (i.e., every commit will be signed using this key unless a specific project's `.git/config` file overrides that selection. This can be a potential operational security risk if you're trying to keep one GitHub account relatively separate from another. This is why we prefer the use of per-repository configurations over user-account global configurations.
 
-`gpg2 --full-gen-key`
+You can now sign sign commits with your newly generated key by invoking `git` with the `-S` or `--gpg-sign` option, without the need to pass your key ID on the command line. For example:
 
-4. You will be prompted to select a type of key. For the purposes of this guide, we'll be making an RSA keypair, which means both our public and our private key will be using RSA for encryption. Since this is the default selection, you can hit `Enter`, or else type `1` to be explicit.
+```sh
+git commit -S
+```
 
-5. RSA keys can be between 1024 and 4096 bits long, with 2048 being the default for `gpg2`. 4096 bits gives us the longest and most secure key, so we want that. Go ahead and type in `4096` and hit `Enter`.
+The above is enough to automatically select your configured signing key and create a GPG-signed commit.
 
-6. You'll now be asked how long you want this key to be valid for. This is largely a personal choice,  but if you're really planning on using this key out in the world, you want to pick a time frame that makes sense for the use of the key. 2 years, for example, is an okay time frame for our use of signing git commits. Not too long, but gives us enough time to use the key without needing to regenerate it soon.
+## Step 3: Set a git commit alias
 
-7. You'll be given a specific date of expiry based on the length you specified, which you can then confirm.
+> :bulb: This step is purely optional.
 
-8. Now you'll be prompted for some details about yourself. If you're using this key to sign commits on a public repo, or on GitHub generally, try to match the information that you've already given GitHub (or whatever service), so that you're not unnecessarily giving out more personal information than needed.
+1. Navigate to the folder containing your Git project.
+1. Configure a `git` alias:
+```
+git config alias.cs "commit -S"
+```
 
-> :exclamation: Before proceeding to the next step, get ready with your password for the GPG key for the next step; either copy it to your clipboard or put it into a text editor near the edge of your screen.
+You can now sign sign commits with your newly generated key by invoking `git` with your new alias:
 
-9. Once you've finished filling out this information, you'll be prompted for the password to secure this key. Go ahead and paste or type in your **strong** password.
+```sh
+git cs
+```
 
-10. `gpg2` will now tell you that it needs to generate entropy in order to generate the encryption cipher. This will take a little longer based on how many bits you designated (in this case, a 4096 bit key will take a little longer than a smaller, less complex key). It's a good idea to interact with your computer in various ways so that the Random Number Generator can generate enough randomness to make your key more random and thus stronger.
-
-> :construction: TK-TODO: Add a little more info on entropy?
-
-## Configuring git
-
-The key you just created isn't likely to be the only key you ever make. Now that we have our key, we need to tell git which key we want to use to sign our commits.
-
-1. Go back to the Terminal.
-
-1. Navigate to the git directory containing the project with which you want to use GPG signed commits.
-
-1. Take a look, using `ls -a`, in your git directory. You will see the [[hidden directory]] `.git`. If you do a quick `ls .git`, you'll also see a file called `config`. This is the file that will be edited when you use the command `git config`. This config file is specific to this project.
-
-> :bulb:🔰 Most guides will tell you to use the command `git config` with the `--global` option. This is supposed to simplify your use, but this means that everything you do with `git` on your current computer user account will be signed using this key, which includes the information associated with that key, which is a potential opsec risk if you're trying to keep one GitHub account relatively separate from another. Like you probably don't want to use your anti-cop GPG key info with your work GPG key info, unless your boss is down. :black_flag:
-
-1. To assign your new GPG key to this git project, first find the long "name" for that key. Use the command:
-
-`gpg2 --list-secret-keys --keyid-format LONG`
-
-To show the private keys. Find the one you want to use for your git commits (usually the last in the list, being the most recently generated).
-
-On the lefthand side, you'll see a line that begins with `sec`, and then `rsa4096` (if you did in fact decide to go with RSA format with 4096 bits). **After** the slash, you'll see a 16-character identification number, followed by the date of the key's creation. Copy the 16-character identifier.
-
-1. Now, still in your git directory, use the command:
-
-`git config user.signingkey` followed by a space, and then the 16-character identifier.
-
-For example:
-
-`git config user.signingkey G73JN7HFN2HGK90D`
-
-**Note:** That is not a real key identifier. Come on, now.
-
-And that's it! You're done! :sparkle:
+The above is now enough to enable GPG commit signing with your pre-configured chosen key.
 
 # See also
 
 * [GitHub Help: Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
-
 * [Github Help: Telling Git about your GPG key](https://help.github.com/articles/telling-git-about-your-gpg-key/)
