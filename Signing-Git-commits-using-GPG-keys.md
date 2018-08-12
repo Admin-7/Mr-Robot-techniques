@@ -37,7 +37,7 @@ The following outlines the exact process for generating a good GPG keypair, foll
     ```sh
     gpg --version
     ```
-    > 🔰 💡 If you do not have a `gpg` binary in your path, check for `gpg2 --version`, as some systems install the program under this slightly different name.
+    > 🔰 💡 If you do not have a `gpg` binary in your shell's search path, check for `gpg2 --version`, as some systems install the program under this slightly different name.
     1. If you do not already have `gpg` or `gpg2`, install it:
         1. macOS users can install GPG via [MacPorts](https://www.macports.org/) using `port install gnupg2`, via [Homebrew](https://brew.sh/) using `brew install gnupg`, or with a graphical user interface from [GPGTools.org](https://gpgtools.org/).
         1. GNU/Linux users can install GPG via their operating system's default package repositories. Users of Debian-based GNU/Linux distributions such as Ubuntu:
@@ -46,7 +46,7 @@ The following outlines the exact process for generating a good GPG keypair, foll
             ```
 1. Initiate the interactive key generation process, which will prompt you for specifics about your desired new key:
     ```sh
-    gpg2 --full-gen-key
+    gpg --full-gen-key
     ```
 1. Select a type of key. We suggest making an RSA keypair (typically also the default).
     > :bulb: It is possible to sign commits with different types of GPG keys, however, as of this writing, GitHub itself suggests using RSA keys with 4096 bits, so that's what we'll stick with this for the time being. A 4096-bit long RSA key is secure enough for these purposes.
