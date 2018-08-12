@@ -96,7 +96,7 @@ The above is enough to automatically select your configured signing key and crea
 > :bulb: This step is purely optional.
 
 1. Navigate to the folder containing your Git project.
-1. Configure a `git` alias:
+1. [Configure a `git` alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases):
     ```
     git config alias.cs "commit -S"
     ```
