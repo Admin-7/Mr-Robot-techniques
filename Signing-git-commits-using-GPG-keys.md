@@ -111,5 +111,5 @@ The above is now enough to enable GPG commit signing with your pre-configured ch
 
 # See also
 
-* [GitHub Help: Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
-* [Github Help: Telling Git about your GPG key](https://help.github.com/articles/telling-git-about-your-gpg-key/)
+* [:globe_with_meridians: GitHub Help: Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/)
+* [:globe_with_meridians: Github Help: Telling Git about your GPG key](https://help.github.com/articles/telling-git-about-your-gpg-key/)
