@@ -61,7 +61,7 @@ The following equipment is needed for a successful Trivia night:
         1. Turn on *Custom Logo* (because we don't really care to advertise for Facebook, now do we?)
         1. Set Custom Organization to the name of the venue at which the event is played.
         1. Set the Custom Byline to something of your choosing.
-1. Define the Quiz ("Trivia") questions:
+1. Define the [Quiz ("Trivia") questions](#suggested-questions):
     1. Enter the trivia questions as Quiz Levels in the admin interface.
 1. Ensure all Quiz Levels are set to *OFF*.
 
