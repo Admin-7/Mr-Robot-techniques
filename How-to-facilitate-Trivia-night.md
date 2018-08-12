@@ -102,6 +102,8 @@ The following equipment is needed for a successful Trivia night:
 > * Hint Penalty: `Numeric penalty in points for accessing the hint`
 > * Factoid: An interesting fact or other neat thing to know about why the answer is correct.
 > ```
+>
+> 🔰 If you cannot edit this page, suggest a new question to us by [posting a new issue](https://github.com/AnarchoTechNYC/meta/issues/new).
 
 ## Weasel words
 
