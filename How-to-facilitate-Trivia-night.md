@@ -298,3 +298,15 @@ F) Fix the homepage and then change hosting providers because the host you are u
 * Hint: `At what line in the log is the first indication of an error present?`
 * Hint Penalty: `15`
 * Factoid: This logfile is an Apache common log format snippet that shows two different clients, one coming from IP address 200.123.45.67 and the other coming from 29.231.97.105, browsing the website. Every request succeeds with a `200` error code (the second to last number in the log file's lines), except for line 3 in the snippet, which shows a Web server error (HTTP error code 500). The requested URL at this line ends in an apostrophe (`'`), a common [SQL injection](https://en.wikipedia.org/wiki/SQL_injection) probe. The next request shows a successful SQL injection by adding `or 1=1-- ` to the URL. Successful SQL injection attacks can completely take over a vulnerable server, meaning that the attacker effectively has administrative access to the entire Website and possibly also the computer on which the website is hosted. This severity of compromise calls for a complete wipe of the affected server and a careful rebuild after patching the discovered vulnerability. 
+
+## Special secure delivery
+
+When sending encrypted e-mails using S/MIME, your mail program may write additional metadata on the metaphorical envelope of your e-mail that describes the quality of security applied to the message. What is the recommended way for an e-mail program to describe that an S/MIME-encrypted message was encrypted, but not signed?
+
+* Answer: `smime-type=enveloped-data`
+* Points: `35`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `RFC 3851 describes the "Secure/Multipurpose Internet Mail Extensions" message specification.`
+* Hint Penalty: `15`
+* Factoid: S/MIME is one of two commonly used e-mail privacy schemes. It is most often used in corporate environments. If you work for a large company and were given a "work phone," your phone may already be configured to send internal company e-mails wrapped inside S/MIME "envelopes." When sending the e-mail, your phone takes what you wrote, encrypts your message, and then prepends some information about the message itself, such as the addressee, the `Subject` line, and the fact that the message is encrypted using your S/MIME certificate. The latter is denoted by a `Content-Type` header with the media type `application` and the subtype `pkcs7-mime`. Although not required, many e-mail programs also add the `smime-type` parameter. A value of `enveloped-data` means that the message was encrypted, but not signed.
