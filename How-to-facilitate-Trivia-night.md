@@ -266,7 +266,7 @@ F) Neither VPN or Tor; there are far better tools available
 
 ## Little Bobby tables
 
-You get a frantic call from your friend who runs a campaign website saying that their homepage has been replaced with a hateful message. During your forensic analysis of the victim site's Web server logs, you see the following snippet:
+You get a frantic call from your friend who runs a campaign website saying their homepage has been replaced with a hateful message. During your analysis of the site's Web server logs, you see the following snippet:
 
 ```
 200.123.45.67 - - [02/Jul/2018:22:07:14 -0500] "GET / HTTP/1.1" 200 487
@@ -277,19 +277,14 @@ You get a frantic call from your friend who runs a campaign website saying that 
 29.231.97.105 - - [02/Jul/2018:22:19:23 -0500] "GET /index.aspx?page=contact HTTP/1.1" 200 23049
 ```
 
-Based on this log snippet, what is the most salient course of action you should advise your friend to take?
+What is the most salient course of action you should advise your friend to take?
 
-A) Fix the homepage, but there is no other action needed because the cross-site scripting (XSS) attack is temporary.
-
-B) Fix the homepage and reset all user passwords because the SQL injection attack may have compromised the site's database.
-
-C) Completely wipe the server and rebuild the database and website from from a backup, because the SQL injection attack has likely granted the attacker full control over the website.
-
-D) Completely wipe the server, patch the `index.aspx` script, rebuild the database and website from a backup, and send emails to every subscribed user informing them that their user account details may have been leaked, because the SQL injection attack has likely granted the attacker full control over the website.
-
-E) Restore the website files from a recent backup to fix the homepage, and then change all user passwords, but retain the current database.
-
-F) Fix the homepage and then change hosting providers because the host you are using is vulnerable to HTML injection attacks.
+A) Fixing the homepage is enough, as the XSS attack is temporary.
+B) Fix the homepage and reset all user passwords.
+C) Completely wipe the server and rebuild the database and website from a backup.
+D) Completely wipe the server, patch the `index.aspx` script, rebuild the database and website from a backup, and send emails to every subscribed user informing them of the breach.
+E) Restore the website files from a recent backup to fix the homepage, then change all user passwords, but retain the current database.
+F) Fix the homepage, then change hosting providers.
 
 * Answer: `D`
 * Points: `35`
@@ -297,7 +292,7 @@ F) Fix the homepage and then change hosting providers because the host you are u
 * Bonus-Dec: `0`
 * Hint: `At what line in the log is the first indication of an error present?`
 * Hint Penalty: `15`
-* Factoid: This logfile is an Apache common log format snippet that shows two different clients, one coming from IP address 200.123.45.67 and the other coming from 29.231.97.105, browsing the website. Every request succeeds with a `200` error code (the second to last number in the log file's lines), except for line 3 in the snippet, which shows a Web server error (HTTP error code 500). The requested URL at this line ends in an apostrophe (`'`), a common [SQL injection](https://en.wikipedia.org/wiki/SQL_injection) probe. The next request shows a successful SQL injection by adding `or 1=1-- ` to the URL. Successful SQL injection attacks can completely take over a vulnerable server, meaning that the attacker effectively has administrative access to the entire Website and possibly also the computer on which the website is hosted. This severity of compromise calls for a complete wipe of the affected server and a careful rebuild after patching the discovered vulnerability. 
+* Factoid: This logfile is an Apache common log format snippet that shows two different clients, one coming from IP address 200.123.45.67 and the other coming from 29.231.97.105, browsing the website. Every request succeeds with a `200` error code (the second to last number in the log file's lines), except for line 3 in the snippet, which shows a Web server error (HTTP error code 500). The requested URL at this line ends in an apostrophe (`'`), a common [SQL injection](https://en.wikipedia.org/wiki/SQL_injection) probe. The next request shows a further SQL injection probe by adding `or 1=1-- ` to the URL. Successful SQL injection attacks can completely take over a vulnerable server, meaning that the attacker effectively has administrative access to the entire Website and possibly also the computer on which the website is hosted. This severity of compromise calls for a complete wipe of the affected server and a careful rebuild after patching the discovered vulnerability. 
 
 ## Special secure delivery
 
