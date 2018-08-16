@@ -279,11 +279,11 @@ You get a frantic call from your friend who runs a campaign website saying their
 
 What is the most salient course of action you should advise your friend to take?
 
-A) Fixing the homepage is enough, as the XSS attack is temporary.
-B) Fix the homepage and reset all user passwords.
-C) Completely wipe the server and rebuild the database and website from a backup.
-D) Completely wipe the server, patch the `index.aspx` script, rebuild the database and website from a backup, and send emails to every subscribed user informing them of the breach.
-E) Restore the website files from a recent backup to fix the homepage, then change all user passwords, but retain the current database.
+A) Fixing the homepage is enough, as the XSS attack is temporary.  
+B) Fix the homepage and reset all user passwords.  
+C) Completely wipe the server and rebuild the database and website from a backup.  
+D) Completely wipe the server, patch the `index.aspx` script, rebuild the database and website from a backup, and send emails to every subscribed user informing them of the breach.  
+E) Restore the website files from a recent backup to fix the homepage, then change all user passwords, but retain the current database.  
 F) Fix the homepage, then change hosting providers.
 
 * Answer: `D`
