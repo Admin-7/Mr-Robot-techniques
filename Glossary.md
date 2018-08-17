@@ -583,6 +583,8 @@ Initialism for [software-defined networking](#software-defined-networking).
 
 Initialism for [Software Defined Radio](#software-defined-radio).
 
+## [Secure Shell](https://simple.wikipedia.org/wiki/Secure_Shell)
+
 ## [Sensitive personal information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
 
 ## [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)
@@ -616,6 +618,10 @@ Initialism for [sensitive personal information](#sensitive-personal-information)
 Initialism for [Structured Query Languge](#structured-query-language).
 
 ## [Squelch](https://en.wikipedia.org/wiki/Squelch)
+
+## SSH
+
+Initialism for [Secure Shell](#secure-shell).
 
 ## [SubMiniature version A](https://en.wikipedia.org/wiki/SMA_connector)
 
@@ -672,6 +678,12 @@ Initialism for [Universal Software Radio Peripheral](#universal-software-radio-p
 
 ## [Video Graphics Array](https://en.wikipedia.org/wiki/Video_Graphics_Array)
 
+## [Virtual machine](https://simple.wikipedia.org/wiki/Virtual_machine)
+
+## [Virtual memory](https://simple.wikipedia.org/wiki/Virtual_memory)
+
+## [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud)
+
 ## [Virtualized network function](https://en.wikipedia.org/wiki/Network_function_virtualization)
 
 ## VGA
@@ -684,6 +696,17 @@ Initialism for one of:
 ## VNF
 
 Initialism for [virtualized network function](#virtualized-network-function).
+
+## VM
+
+Initialsm for one of:
+
+* [Virtual machine](#virtual-machine)
+* [Virtual memory](#virtual-memory)
+
+## VPC
+
+Initialism for [virtual private cloud](#virtual-private-cloud).
 
 # W
 
