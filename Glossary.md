@@ -564,7 +564,7 @@ See also [jump server](#jump-server).
 
 ## SAW
 
-Initialism for:
+Initialism for one of:
 
 * [Secure admin workstation](#secure-admin-workstation).
 * [surface acoustic wave](#surface-acoustic-wave).
@@ -573,7 +573,9 @@ Initialism for:
 
 Short for "[surface acoustic wave](#surface-acoustic-wave) filter," a form of [electronic filter](https://simple.wikipedia.org/wiki/Electronic_filter).
 
-## [[Software defined radio]]
+## SBC
+
+Initialism for [single-board computer](#single-board-computer).
 
 ## SDN
 
@@ -599,6 +601,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 
 ## [Simultaneous authentication of equals](https://en.wikipedia.org/wiki/IEEE_802.11s#Peer_authentication_methods)
 
+## [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer)
+
 ## [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
 
 ## SMA
@@ -606,6 +610,8 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 Initialism for [SubMiniature version A](#subminiature-version-a).
 
 ## [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
+
+## [[Software-defined radio]]
 
 ## SPI
 
