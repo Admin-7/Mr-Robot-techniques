@@ -2,7 +2,7 @@
 
 Terminology, linked and explained.
 
-> 🔰 💡 Pro-tip: Keep this page open in a Web browser tab and use the "Find on page" feature (usually accessible by pressing `control`-`f`, or `⌘`-`f` on a typical macOS computer) to search for an acronym, initialism, or unfamiliar phrase.
+> 🔰 💡 Pro-tip: Keep this page open in a Web browser tab and use the "Find on page" feature (usually accessible by pressing `control`-`f`, or `⌘`-`f` on a typical macOS computer) to search for an acronym, initialism, or unfamiliar phrase as you encounter them on other pages in this wiki or elsewhere in our project materials.
 
 1. [A](#a)
 1. [B](#b)
