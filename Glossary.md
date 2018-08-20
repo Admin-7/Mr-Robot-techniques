@@ -202,7 +202,7 @@ Initialism for [device under test](#device-under-test). Also known as [equipment
 
 Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast---terrestrial).
 
-## [Dynamic Host Configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+## [Dynamic Host Configuration Protocol](https://simple.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 
 # E
 
