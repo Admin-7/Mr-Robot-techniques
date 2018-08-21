@@ -451,6 +451,10 @@ Initialism for [orthogonal frequency-division multiplexing](#orthogonal-frequenc
 
 Initialism for [orthogonal frequency-division multiple access](#orthogonal-frequency-division-multiple-access).
 
+## OODA loop
+
+Acronym for [observe, orient, decide, and act loop](https://en.wikipedia.org/wiki/OODA_loop).
+
 ## [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
 
 ## [Opportunistic encryption](https://en.wikipedia.org/wiki/Opportunistic_encryption)
