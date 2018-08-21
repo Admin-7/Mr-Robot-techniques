@@ -281,6 +281,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [awesome-ai-security](https://github.com/RandomAdversary/Awesome-AI-Security)
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
+* [awesome-aws](https://github.com/donnemartin/awesome-aws)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [awesome-cybersecurity-blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam)
 * [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
