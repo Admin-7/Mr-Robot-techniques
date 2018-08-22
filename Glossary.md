@@ -129,6 +129,10 @@ Initialism for one of:
 * critical incident management
 * coordinated incident management
 
+## CIS
+
+Initialism for *continuous integrated security*.
+
 ## CLLI
 
 Initialism for [Common Language Location Identifier](#common-language-location-identifier).
