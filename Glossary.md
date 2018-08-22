@@ -559,9 +559,15 @@ Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 Initialism for [resolution bandwidth](#resolution-bandwidth).
 
+## RCE
+
+Initialism for [remote code execution](#remote-code-execution).
+
 ## RDS
 
 Initialism for [Radio Data System](#radio-data-system).
+
+## [Remote code execution](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
 
 ## [Resolution bandwidth](https://en.wikipedia.org/wiki/Spectrum_analyzer#Resolution_bandwidth)
 
