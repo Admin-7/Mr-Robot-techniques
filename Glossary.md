@@ -652,9 +652,18 @@ Initialism for [Structured Query Languge](#structured-query-language).
 
 ## [Squelch](https://en.wikipedia.org/wiki/Squelch)
 
+## SSE
+
+Initialism for one of:
+
+* *Server Side Encryption*
+* [Streaming SIMD Extensions](#streaming-simd-extensions)
+
 ## SSH
 
 Initialism for [Secure Shell](#secure-shell).
+
+## [Streaming SIMD Extensions](https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions)
 
 ## [SubMiniature version A](https://en.wikipedia.org/wiki/SMA_connector)
 
