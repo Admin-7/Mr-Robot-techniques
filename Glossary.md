@@ -61,6 +61,10 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 
 ## [Analog-to-digital converter](https://simple.wikipedia.org/wiki/Analog-to-digital_converter)
 
+## ARN
+
+Initialism for *[Amazon resource name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html#genref-arns)*.
+
 ## ASK
 
 Acronym for [amplitude-shift keying](#amplitude-shift-keying).
