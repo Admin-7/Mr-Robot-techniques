@@ -122,6 +122,13 @@ See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_
 
 Initialism for [code-division multiple access](#code-division-multiple-access).
 
+## CIM
+
+Initialism for one of:
+
+* critical incident management
+* coordinated incident management
+
 ## CLLI
 
 Initialism for [Common Language Location Identifier](#common-language-location-identifier).
