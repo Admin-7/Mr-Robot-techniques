@@ -37,7 +37,10 @@ The following outlines the exact process for generating a good GPG keypair, foll
     ```sh
     gpg --version
     ```
-    > 🔰 💡 If you do not have a `gpg` binary in your shell's search path, check for `gpg2 --version`, as some systems install the program under this slightly different name.
+    > 🔰 💡 If you do not have a `gpg` binary in your shell's search path, check for `gpg2 --version`, as some systems install the program under this slightly different name. If you prefer to use `gpg2` over `gpg`, you'll also need to inform `git` to use this alternative name. This can be accomplished by setting the `gpg.program` Git configuration option:
+    > ```sh
+    > git config --global gpg.program gpg2
+    > ```
     1. If you do not already have `gpg` or `gpg2`, install it:
         1. macOS users can install GPG via [MacPorts](https://www.macports.org/) using `port install gnupg2`, via [Homebrew](https://brew.sh/) using `brew install gnupg`, or with a graphical user interface from [GPGTools.org](https://gpgtools.org/).
         1. GNU/Linux users can install GPG via their operating system's default package repositories. Users of Debian-based GNU/Linux distributions such as Ubuntu:
