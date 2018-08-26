@@ -185,11 +185,15 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
 
-  The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available for legal security and vulnerability testing of various kinds. Notable items include [Google Gruyere](http://google-gruyere.appspot.com/), the [Damn Vulnerable Web Application](http://www.dvwa.co.uk/), and [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project).
+  The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known intentionally vulnerable Web applications currently available for legal security and vulnerability testing of various kinds. Notable items include [Google Gruyere](http://google-gruyere.appspot.com/), the [Damn Vulnerable Web Application](http://www.dvwa.co.uk/), and [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project).
 
 * [Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)
 
   "[T]his application can be used by mobile security enthusiasts and students to learn or review the basics of mobile application security." Supplemental guides can be found on [the author's site's DVIA page](https://n0where.net/damn-vulnerable-ios-app-dvia/).
+
+* [Damn Vulnerable Router Firmware (DVRF)](https://github.com/praetorian-inc/DVRF)
+
+  "The goal of this project is to simulate a real world environment to help people learn about other CPU architectures outside of the x86_64 space. This project will also help people get into discovering new things about hardware." Supplemental guides can be found on the author's blog: [1](https://p16.praetorian.com/blog/getting-started-with-damn-vulnerable-router-firmware-dvrf-v0.1), [2](https://p16.praetorian.com/blog/reversing-and-exploiting-embedded-devices-part-1-the-software-stack).
 
 # Lesson plans and guidance
 
