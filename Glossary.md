@@ -333,11 +333,17 @@ Acronym for [Graphical User Interface](#graphical-user-interface).
 
 ## [Half-duplex](https://en.wikipedia.org/wiki/Duplex_(telecommunications)#Half_duplex)
 
+## [Hardware-assisted virtualization](https://en.wikipedia.org/wiki/Hardware-assisted_virtualization)
+
 ## HDX
 
 Abbreviation for "[half-duplex](#half-duplex)."
 
 ## [Hertz](https://simple.wikipedia.org/wiki/Hertz)
+
+## HVM
+
+Initialism for [hardware-assisted virtualization](#hardware-assisted-virtualization).
 
 ## Hz
 
