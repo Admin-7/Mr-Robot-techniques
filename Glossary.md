@@ -43,6 +43,8 @@ Abbreviation for [analog-to-digital converter](#analog-to-digital-converter).
 
 Initialism for [analog-to-digital converter](#analog-to-digital-converter).
 
+## [Address Resolution Protocol](https://simple.wikipedia.org/wiki/Address_Resolution_Protocol)
+
 ## ADSB
 
 Initialism for [automatic depedent surveillance – broadcast](#automatic-dependent-surveillance--broadcast).
@@ -64,6 +66,10 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 ## ARN
 
 Initialism for *[Amazon resource name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html#genref-arns)*.
+
+## ARP
+
+Acronym for [Address Resolution Protocol](#address-resolution-protocol).
 
 ## ASK
 
@@ -270,6 +276,12 @@ Abbreviation for [full-duplex](#full-duplex).
 ## FFT
 
 Initialism for [fast Fourier transform](#fast-fourier-transform).
+
+## FHRP
+
+Initialism for [first-hop redundancy protocol](#first-hop-redundancy-protocol).
+
+## [First-hop redundancy protocol](https://en.wikipedia.org/wiki/Category:First-hop_redundancy_protocols)
 
 ## FM
 
