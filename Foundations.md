@@ -28,10 +28,12 @@ If you don't know where to start *and* don't really know where to go in your stu
 
 ## General programming
 
-1. Exercises in Programming Style
+1. [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/)
+
+  A [companion code repository](https://github.com/crista/exercises-in-programming-style) is on GitHub.
 
 ## Web development
 
-1. Foundation Website Creation
-1. AdvancED CSS
-1. The New CSS Layout
+1. [Foundation Website Creation](https://www.worldcat.org/title/foundation-website-creation-with-css-xhtml-and-javascript/oclc/646766089)
+1. [AdvancED CSS](https://www.worldcat.org/title/advanced-css/oclc/500470223)
+1. [The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
