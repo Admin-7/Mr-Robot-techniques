@@ -13,6 +13,7 @@
 * [[Open source]]
 * [[Operating system]]
 * [[Password cracking]]
+* [[`passwd` file]]
 * [[SQL injection]]
 * [[Salted hash]]
 * [[Servers]]
