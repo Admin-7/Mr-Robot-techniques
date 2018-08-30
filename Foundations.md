@@ -25,6 +25,8 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[Tor]]
 * [[Torrents]]
 
+See also: [[Glossary]].
+
 # Contents
 
 1. [Suggested learning path](#suggested-learning-path)
