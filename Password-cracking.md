@@ -1,0 +1,1 @@
+See [Mr. Robot's Netflix 'n' Hack: Strengthening Passwords to Defend Against John](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john/README.md#strengthening-passwords-to-defend-against-john).
