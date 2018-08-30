@@ -6,6 +6,8 @@
 * [[DDOS]]
 * [[Internet]]
 * [[Malware]]
+* [[Open source]]
+* [[Operating system]]
 * [[SQL injection]]
 * [[Servers]]
 * [[Shell]]
