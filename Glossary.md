@@ -701,12 +701,15 @@ Initialism for [Single Wire Multiswitch](#single-wire-multiswitch).
 
 See also [@NationalSecurityAgency on GitHub](https://github.com/NationalSecurityAgency).
 
+## [Trusted third party](https://simple.wikipedia.org/wiki/Trusted_third_party)
+
 ## TTP
 
 Initialism for one of
 
-* "Tactics, Techniques, and Procedures"
+* [Tactics, Techniques, and Procedures](https://forensicswiki.org/wiki/Cyber_Threat_Intelligence#TTP)
 * [Technology Transfer Program](#technology-transfer-program)
+* [Trusted third party](#trusted-third-party)
 
 ## TX
 
