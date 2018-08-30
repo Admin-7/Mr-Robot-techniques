@@ -2,3 +2,5 @@
 
 * [[Bytes]]
 * [[Cryptographic hash]]
+* [[Terminal]]
+* [[Shell]]
