@@ -55,6 +55,6 @@ If you don't know where to start *and* don't really know where to go in your stu
 
 ## Information security
 
-Information security ("InfoSec") is the practice of protecting (possibly very sensitive) information from unauthorized or unintentional access, modification, or outright destruction. Our collective's work is atypical in that we make every attempt to discuss security-related concepts and considerations inline at every opportunity, which supports our [Train the Trainers](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/README.md) project. Nevertheless, we also offer a learning path and study guide for those interested in developing their InfoSec skills, specifically.
+Information security ("[[InfoSec]]") is the practice of protecting (possibly very sensitive) information from unauthorized or unintentional access, modification, or outright destruction. Our collective's work is atypical in that we make every attempt to discuss security-related concepts and considerations inline at every opportunity, which supports our [Train the Trainers](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/README.md) project. Nevertheless, we also offer a learning path and study guide for those interested in developing their InfoSec skills, specifically.
 
 See [[Getting started on InfoSec]] for InfoSec learning path recommendations.
