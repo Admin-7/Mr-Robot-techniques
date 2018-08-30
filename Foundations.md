@@ -1,5 +1,4 @@
-> 🚧 TK-TODO
-
-Part of the *Foundations* series.
+> [[Wiki|Home]] > :beginner: **Foundations**
 
 * [[Bytes]]
+* [[Cryptographic hash]]
