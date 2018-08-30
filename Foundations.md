@@ -4,7 +4,7 @@
 * [[Cryptographic hash]]
 * [[Dark web (dark net)]]
 * [[DDoS]]
-* [[Hash algorithms]]
+* [[Hash algorithms|Cryptographic hash]]
 * [[Internet]]
 * [[Malware]]
 * [[Open source]]
