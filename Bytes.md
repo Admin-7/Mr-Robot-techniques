@@ -2,7 +2,7 @@
 
 # What is a *byte*?
 
-If you've never encountered the term "8-bit byte" before, this part might be confusing. All an 8-bit byte means is "a group of 8 binary digits." Any single series of binary digits that we treat as a single value is called a "byte." The length of the series can technically be whatever you like, but is almost universally agreed to be exactly eight. Hence the 8 in "*8*-bit byte."
+If you've never encountered terms like "8-bit byte" before, they might be confusing. All an 8-bit byte means is "a group of 8 binary digits." Any single series of binary digits that we treat as a single value is called a "byte." The length of the series can technically be whatever you like, but is almost universally agreed to be exactly eight. Hence the 8 in "*8*-bit byte."
 
 Similarly, a *bit* is more verbosely termed a *binary digit*, and it's simply a number written in base 2. In base 2 numerical notation, the decimal (base ten) numbers `0` and `1` are written just as you'd expect (`0`, and `1`, respectively), but the number "two" is written as `10` (pronounced like "1 two and 0 ones"), not `2`. As you can see, we must group at least two bits together to represent the number "two," giving us a "2-bit byte." By the same logic, the number "three" is written as `11` in binary because this represents "1 two and 1 ones," which sums to three. We still only need two bits to do this. But continuing this pattern gives us `100` for "four" because this is "1 four, 0 twos, and 0 ones," and now we are forced to group at least three bits one after the other to represent the number we want to express, giving us "3-bit bytes."
 
