@@ -3,6 +3,7 @@
 The AnarchoTechNYC wiki is **an evolving workspace of shared knowledge with a focus on building anti-fascist tools, and supporting our communities** against settler-colonial, imperialist, and authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
 
 * [Welcome guides](#welcome-guides) - Newcomers may want to start here.
+* [Foundations](#foundations)
 * [Activities and events](#activities-and-events) - Ongoing or semi-regular events we help make happen.
 * [Accomplices and allies](#accomplices-and-allies) - Friends and comrades intimately involved in our work. Check 'em out! :)
 
@@ -12,6 +13,10 @@ If you're looking to get involved, consider exploring this wiki! There's plenty 
 
 * [[New member orientation guide]] - Self-paced walk-through to familiarize yourself with how we stay in touch.
 * [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
+
+# [[Foundations]]
+
+Just getting started with all this stuff? Check out some of the quick guides to foundational principles we've compiled here.
 
 # [[Activities and events]]
 
