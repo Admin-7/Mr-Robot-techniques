@@ -9,6 +9,7 @@
 * [[Malware]]
 * [[Open source]]
 * [[Operating system]]
+* [[Password cracking]]
 * [[SQL injection]]
 * [[Salted hash]]
 * [[Servers]]
