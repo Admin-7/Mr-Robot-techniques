@@ -462,7 +462,7 @@ Initialism for [North American Numbering Plan](#north-american-numbering-plan).
 
 ## NFV
 
-Initialism for [network functions virtualization](#network-function-virtualization).
+Initialism for [network function virtualization](#network-function-virtualization).
 
 ## [North American Numbering Plan](https://en.wikipedia.org/wiki/North_American_Numbering_Plan)
 
