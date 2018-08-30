@@ -2,9 +2,15 @@
 
 * [[Bytes]]
 * [[Cryptographic hash]]
-* [[Terminal]]
+* [[DDOS]]
+* [[Internet]]
+* [[Malware]]
+* [[SQL injection]]
+* [[Servers]]
 * [[Shell]]
+* [[Terminal]]
 * [[Tor]]
+* [[Torrents]]
 
 # Suggested learning path
 
