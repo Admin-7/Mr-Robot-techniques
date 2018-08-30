@@ -4,6 +4,7 @@
 * [[Configuration file]]
 * [[Cryptographic hash]]
 * [[DDoS]]
+* [[DHCP]]
 * [[Dark web (dark net)]]
 * [[Hash algorithms|Cryptographic hash]]
 * [[IP address]]
