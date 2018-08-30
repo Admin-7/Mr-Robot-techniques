@@ -2,6 +2,7 @@
 
 Our *Foundations* pages are designed to help you get up to speed quickly, or fill in gaps in fundamental knowledge areas. These explanations assume you have no prior knowledge or experience. Pair these pages with a [suggested learning path](#suggested-learning-path).
 
+* [[BitTorrent]]
 * [[Bytes]]
 * [[Configuration file]]
 * [[Cryptographic hash]]
