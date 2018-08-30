@@ -255,7 +255,7 @@ Short for [F-type connector](#f-type-connector).
 
 ## False set
 
-In lock picking, a false set is one several possible positions in which a pin is blocking the plug of a lock from rotating; for instance, a pin that is [overset](#overset) (pushed too far) or one that is [underset](#underset) (not pushed far enough) is set to be "false set."
+In lock picking, a false set is one of several possible positions in which a pin is blocking the plug of a lock from rotating; for instance, a pin that is [overset](#overset) (pushed too far) or one that is [underset](#underset) (not pushed far enough) is set to be "false set."
 
 Further information:
 
