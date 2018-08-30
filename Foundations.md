@@ -1,6 +1,7 @@
 > [[Wiki|Home]] ▸ :beginner: **Foundations**
 
 * [[Bytes]]
+* [[Configuration file]]
 * [[Cryptographic hash]]
 * [[DDoS]]
 * [[Dark web (dark net)]]
