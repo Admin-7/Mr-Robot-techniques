@@ -3,7 +3,7 @@
 * [[Bytes]]
 * [[Cryptographic hash]]
 * [[Dark web (dark net)]]
-* [[DDOS]]
+* [[DDoS]]
 * [[Internet]]
 * [[Malware]]
 * [[Open source]]
