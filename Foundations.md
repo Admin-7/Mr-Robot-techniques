@@ -4,6 +4,7 @@
 * [[Cryptographic hash]]
 * [[Terminal]]
 * [[Shell]]
+* [[Tor]]
 
 # Suggested learning path
 
