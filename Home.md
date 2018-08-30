@@ -37,7 +37,7 @@ Our events are **always free** to attend, but we do need your help to sustain ou
 
 There are many [[other groups|Accomplices and allies]] with whom we collaborate, share resources, and otherwise ally with. Check them out, get involved with them, or otherwise support the ones that resonate strongly with you. Of course, if you're in NYC, come to Anarcho-Tech Collective meetings, or any event, and say hi to some of us in person.
 
-You can find meeting and event details at [Anarchism.NYC](http://Anarchism.NYC/).
+You can find meeting and event details at [Anarchism.NYC](http://Anarchism.NYC/) and [TakeActionNYC.com](http://takeactionnyc.com/).
 
 # Donations and support
 
