@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **[[Foundations]]** ▸ **Tor**
 
-See also: [[dark web]].
+See also: [[Dark web]].
 
 # What is _tor_?
 
