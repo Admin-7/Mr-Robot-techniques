@@ -18,6 +18,12 @@
 * [[Tor]]
 * [[Torrents]]
 
+# Contents
+
+1. [Suggested learning path](#suggested-learning-path)
+    * [General programming](#general-programming)
+    * [Web development](#web-development)
+
 # Suggested learning path
 
 If you don't know where to start *and* don't really know where to go in your studies next, consider starting here:
