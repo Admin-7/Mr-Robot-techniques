@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ [[Foundations]] ▸ **Bytes**
+> [[Wiki|Home]] ▸ :beginner: [[Foundations]] ▸ **Bytes**
 
 # What is a *byte*?
 
