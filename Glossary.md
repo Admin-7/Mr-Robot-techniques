@@ -377,7 +377,7 @@ See also:
 
 ## IOC
 
-See [Indicator of Compromise](#indicator-of-compromise).
+Initialism for [Indicator of Compromise](#indicator-of-compromise).
 
 ## [Isochrone map](https://en.wikipedia.org/wiki/Isochrone_map)
 
