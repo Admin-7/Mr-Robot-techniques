@@ -1,4 +1,4 @@
-> [[Wiki|Home]] > :beginner: **Foundations**
+> [[Wiki|Home]] ▸ :beginner: **Foundations**
 
 * [[Bytes]]
 * [[Cryptographic hash]]
