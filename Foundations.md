@@ -32,6 +32,7 @@ See also: [[Glossary]].
 1. [Suggested learning path](#suggested-learning-path)
     * [General programming](#general-programming)
     * [Web development](#web-development)
+    * [Information security](#information-security)
 
 # Suggested learning path
 
@@ -43,9 +44,7 @@ If you don't know where to start *and* don't really know where to go in your stu
 
 ## General programming
 
-1. [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/)
-
-    A [companion code repository](https://github.com/crista/exercises-in-programming-style) is on GitHub.
+1. [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/) - A [companion code repository](https://github.com/crista/exercises-in-programming-style) is on GitHub.
 
 ## Web development
 
