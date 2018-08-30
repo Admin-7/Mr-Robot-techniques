@@ -49,7 +49,11 @@ If you don't know where to start *and* don't really know where to go in your stu
 
 ## Web development
 
-1. [Foundation Website Creation](https://www.worldcat.org/title/foundation-website-creation-with-css-xhtml-and-javascript/oclc/646766089)
+Web development ("[[WebDev]]") is a general term that describes the process of creating a Web site or Web application for publication on the Internet or for private use within an organization's intranet. Be careful not to confuse Web development with architecting digital infrastructure more generally; Web development can result in the creation of tools such as event calendars (like Google Calendar), contact lists (like Facebook friend lists), group chats (like Slack), or media streaming sites (like Spotify), but each of these capabilities can be accomplished without Web sites. For this reason ([[among others|Coding bootcamps considered harmful]]), we intentionally avoid focusing on Web development as a core skill.
+
+Nevertheless, the ubiquity of Web technologies such as HTML, CSS, and JavaScript means that a working knowledge of WebDev foundations can be very useful. Here, we present a heavily curated ordered list of suggested reading material to jumpstart your capabilities in this area.
+
+1. [Foundation Website Creation](https://www.worldcat.org/title/foundation-website-creation-with-css-xhtml-and-javascript/oclc/646766089) - Before you read any other Web development resource, read chapters 4, 5, and 6 of this book. Ignore the other chapters (as they focus primarily with business considerations and [general programming](#general-programming) information). These chapters will lay a foundation that is almost always missing from other reosurces on the topic.
 1. [AdvancED CSS](https://www.worldcat.org/title/advanced-css/oclc/500470223)
 1. [The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
 
