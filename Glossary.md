@@ -458,11 +458,22 @@ Initialism for [North American Numbering Plan](#north-american-numbering-plan).
 
 ## [National Security Agency](https://simple.wikipedia.org/wiki/National_Security_Agency)
 
+## NDP
+
+Initialism for one of:
+
+* [Neighbor Discovery Protocol](#neighbor-discovery-protocol)
+* [Nortel Discovery Protocol](#nortel-discovery-protocol)
+
+## [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
+
 ## [Network function virtualization](https://en.wikipedia.org/wiki/Network_functions_virtualization)
 
 ## NFV
 
 Initialism for [network function virtualization](#network-function-virtualization).
+
+## [Nortel Discovery Protocol](https://en.wikipedia.org/wiki/Nortel_Discovery_Protocol)
 
 ## [North American Numbering Plan](https://en.wikipedia.org/wiki/North_American_Numbering_Plan)
 
