@@ -637,6 +637,14 @@ Short for "[surface acoustic wave](#surface-acoustic-wave) filter," a form of [e
 
 Initialism for [single-board computer](#single-board-computer).
 
+## SCM
+
+Initialism for one of:
+
+* [Source control management](#source-control-management)
+* [Source code management](#source-code-management)
+* [Software configuration management](#software-configuration-management)
+
 ## SDN
 
 Initialism for [software-defined networking](#software-defined-networking).
@@ -669,9 +677,19 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 
 Initialism for [SubMiniature version A](#subminiature-version-a).
 
+## [Software configuration management](https://en.wikipedia.org/wiki/Software_configuration_management)
+
 ## [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 ## [[Software-defined radio]]
+
+## Source code management
+
+See [source control management](#source-control-management).
+
+## [Source control management](#version-control)
+
+See [version control](#version-control).
 
 ## SPI
 
@@ -753,6 +771,8 @@ Initialism for [Universal Software Radio Peripheral](#universal-software-radio-p
 # V
 
 ## [Variable-gain amplifier](https://en.wikipedia.org/wiki/Variable-gain_amplifier)
+
+## [Version control](https://en.wikipedia.org/wiki/Version_control)
 
 ## [Video Graphics Array](https://en.wikipedia.org/wiki/Video_Graphics_Array)
 
