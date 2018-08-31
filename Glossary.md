@@ -655,6 +655,10 @@ Initialism for [Software Defined Radio](#software-defined-radio).
 
 ## [Secure Shell](https://simple.wikipedia.org/wiki/Secure_Shell)
 
+## SemVer
+
+Abbreviation for [semantic versioning](https://semver.org/).
+
 ## [Sensitive personal information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
 
 ## [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)
