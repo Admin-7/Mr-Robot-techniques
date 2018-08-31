@@ -687,7 +687,7 @@ Initialism for [SubMiniature version A](#subminiature-version-a).
 
 See [source control management](#source-control-management).
 
-## [Source control management](#version-control)
+## Source control management
 
 See [version control](#version-control).
 
