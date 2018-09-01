@@ -780,6 +780,8 @@ Initialism for [Universal Software Radio Peripheral](#universal-software-radio-p
 
 ## [Video Graphics Array](https://en.wikipedia.org/wiki/Video_Graphics_Array)
 
+## [Virtual console](https://en.wikipedia.org/wiki/Virtual_console)
+
 ## [Virtual machine](https://simple.wikipedia.org/wiki/Virtual_machine)
 
 ## [Virtual memory](https://simple.wikipedia.org/wiki/Virtual_memory)
