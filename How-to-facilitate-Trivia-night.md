@@ -310,11 +310,11 @@ When sending encrypted e-mails using S/MIME, your mail program may write additio
 
 Which of the following are risks associated with using free Wi-Fi such as a hotspot at a café, restaurant, or park?
 
-A) You might connect to websites you didn't intend by succumbing to a machine-in-the-middle (MITM) attack.
-B) You might unknowingly install malware when connecting using a "captive portal" log on page.
-C) The other people using the same Wi-Fi network as you can see which websites you're visiting.
-D) You could be sharing your physical whereabouts and movement with advertising companies.
-E) None of the above; public Wi-Fi is always perfectly safe.
+A) You might connect to websites you didn't intend by succumbing to a machine-in-the-middle (MITM) attack.  
+B) You might unknowingly install malware when connecting using a "captive portal" log on page.  
+C) The other people using the same Wi-Fi network as you can see which websites you're visiting.  
+D) You could be sharing your physical whereabouts and movement with advertising companies.  
+E) None of the above; public Wi-Fi is always perfectly safe.  
 F) All of the above.
 
 * Answer: `F`
@@ -329,11 +329,11 @@ F) All of the above.
 
 You should consider clearing both your Web browser's "cache" and "cookies" when…
 
-A) …you need to free up more space on your hard disk drive.
-B) …you see a "Your connection is not secure" error when loading a web page.
-C) …a website you're visiting is loading but not working properly and you want to reload it "from scratch."
-D) …you are trying to stop targeted advertising from appearing on your Facebook page.
-E) …you want to hide your IP address from the website you are visiting.
+A) …you need to free up more space on your hard disk drive.  
+B) …you see a "Your connection is not secure" error when loading a web page.  
+C) …a website you're visiting is loading but not working properly and you want to reload it "from scratch."  
+D) …you are trying to stop targeted advertising from appearing on your Facebook page.  
+E) …you want to hide your IP address from the website you are visiting.  
 F) …a video or audio file is not loading quickly enough.
 
 * Answer: `C`
@@ -348,11 +348,11 @@ F) …a video or audio file is not loading quickly enough.
 
 Which of the following are examples of "phishing" attacks?
 
-A) You check your email to find one stating that your PayPal account will be deactivated unless you click on a re-activation link.
-B) You log on to a Wi-Fi hotspot to check your Facebook, but the green padlock is missing from your browser's Web address bar.
-C) You receive a voicemail informing you that you have won an all-expense paid cruise and giving you a number to dial to claim your prize.
-D) As you're reading your favorite blog, a pop-up appears informing you that your computer has a virus and offers a link to download an anti-virus program.
-E) You get a txt message from a friend with a very short link asking you if the photo behind the link is really you.
+A) You check your email to find one stating that your PayPal account will be deactivated unless you click on a re-activation link.  
+B) You log on to a Wi-Fi hotspot to check your Facebook, but the green padlock is missing from your browser's Web address bar.  
+C) You receive a voicemail informing you that you have won an all-expense paid cruise and giving you a number to dial to claim your prize.  
+D) As you're reading your favorite blog, a pop-up appears informing you that your computer has a virus and offers a link to download an anti-virus program.  
+E) You get a txt message from a friend with a very short link asking you if the photo behind the link is really you.  
 F) All of the above.
 
 * Answer: `F`
@@ -370,11 +370,11 @@ F) All of the above.
 
 Controlling many computers from a single keyboard simultaneously is something that many system administrators regularly do for legitimate purposes. However, when an attacker is doing something similar and the computers they are controlling don't legally belong to them, the computers they are controlling are part of…
 
-A) a DDoS attack.
-B) a kettle.
-C) a coven.
-D) a botnet.
-E) an OS.
+A) a DDoS attack.  
+B) a kettle.  
+C) a coven.  
+D) a botnet.  
+E) an OS.  
 F) SQL.
 
 * Answer: `D`
@@ -389,11 +389,11 @@ F) SQL.
 
 Which of the following activities would a hacker's botnet not be particularly well-suited to accomplish?
 
-A) Network reconnaisance.
-B) DDoS attacks.
-C) Data exfiltraion.
-D) Network proxying.
-E) Sending spam.
+A) Network reconnaisance.  
+B) DDoS attacks.  
+C) Data exfiltraion.  
+D) Network proxying.  
+E) Sending spam.  
 F) Compute parallelization.
 
 * Answer: `A`
