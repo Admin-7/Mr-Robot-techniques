@@ -176,6 +176,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * [Voice changer](https://en.wikipedia.org/wiki/Voice_changer) (voice disguising software)
 * Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"  
   ![Ollie is observed via his laptop's hacked webcam, :robot: screenshot 📷](https://web.archive.org/web/20170317230630/https://i.imgur.com/SVDpCdq.jpg)
+  * [IPv6 address(?)](https://github.com/AnarchoTechNYC/meta/wiki/IP-address) in the URL bar
 * Onion site ("hidden service") used as an IRC server  
   ![Screenshot of a Chinese IRC channel, :robot: screenshot 📷](https://web.archive.org/web/20170317230419/https://i.imgur.com/V08jbFH.jpg)
   * Use [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) to access such servers easily, if you know the `.onion` address
