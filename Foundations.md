@@ -4,7 +4,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 
 * [[BitTorrent]]
 * [[Bytes]]
-* [[Command line (CLI)]]
+* [[Command line interface (CLI)]]
 * [[Configuration file]]
 * [[Cryptographic hash]]
 * [[DDoS]]
