@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[GPG and PGP]] ▸ **Signing Git commits using GPG keys**
 
-**Signing Git commits using GPG keys** is the process of using a cryptography identity to assert that a given change to a piece of software was made by a given individual, organization, or other entity. This is accomplished by associating a (cryptographic) [digital signature](https://simple.wikipedia.org/wiki/Digital_signature) with the commit (software patch) itself. Other users of the software (like you) can then validate that the software being patched was modified only by sources they trust.
+**Signing Git commits using GPG keys** is the process of using a cryptographic identity to assert that a given change to a piece of software was made by a given individual, organization, or other entity. This is accomplished by associating a (cryptographic) [digital signature](https://simple.wikipedia.org/wiki/Digital_signature) with the commit (software patch) itself. Other users of the software (like you) can then validate that the software being patched was modified only by sources they trust.
 
 > 🔰📖 GPG is also known as _PGP_. For the purposes of this guide, we will be referring to the tool as **GPG**. For further information on the difference between the initialisms, see [[GPG and PGP]].
 
