@@ -4,11 +4,13 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 
 * [[BitTorrent]]
 * [[Bytes]]
+* [[Command line (CLI)]]
 * [[Configuration file]]
 * [[Cryptographic hash]]
 * [[DDoS]]
 * [[DHCP]]
 * [[Dark web (dark net)]]
+* [[Graphical user interface (GUI)]]
 * [[Hash algorithms|Cryptographic hash]]
 * [[IP address]]
 * [[Internet]]
