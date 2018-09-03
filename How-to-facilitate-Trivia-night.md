@@ -305,3 +305,101 @@ When sending encrypted e-mails using S/MIME, your mail program may write additio
 * Hint: `RFC 3851 describes the "Secure/Multipurpose Internet Mail Extensions" message specification.`
 * Hint Penalty: `15`
 * Factoid: S/MIME is one of two commonly used e-mail privacy schemes. It is most often used in corporate environments. If you work for a large company and were given a "work phone," your phone may already be configured to send internal company e-mails wrapped inside S/MIME "envelopes." When sending the e-mail, your phone takes what you wrote, encrypts your message, and then prepends some information about the message itself, such as the addressee, the `Subject` line, and the fact that the message is encrypted using your S/MIME certificate. The latter is denoted by a `Content-Type` header with the media type `application` and the subtype `pkcs7-mime`. Although not required, many e-mail programs also add the `smime-type` parameter. A value of `enveloped-data` means that the message was encrypted, but not signed.
+
+## More than you bargained for?
+
+Which of the following are risks associated with using free Wi-Fi such as a hotspot at a café, restaurant, or park?
+
+A) You might connect to websites you didn't intend by succumbing to a machine-in-the-middle (MITM) attack.
+B) You might unknowingly install malware when connecting using a "captive portal" log on page.
+C) The other people using the same Wi-Fi network as you can see which websites you're visiting.
+D) You could be sharing your physical whereabouts and movement with advertising companies.
+E) None of the above; public Wi-Fi is always perfectly safe.
+F) All of the above.
+
+* Answer: `F`
+* Points: `15`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: `Well, how safe are public water fountains?`
+* Hint Penalty: `5`
+* Factoid: Although publicly available Wi-Fi networks are generally safe, they are only as safe as any other public infrastructure, such as water fountains or mass transit stations. That said, many small business Wi-Fi networks have only implemented the most basic of security precautions, so it's relatively easy for a skilled attacker to trick you into visiting websites you didn't intend and eavesdropping on your digital conversations. Even secured Wi-Fi networks at shopping malls or other commercial venues often collect information like your computer's name hardware characteristics. They typically send this information to a central data broker to be added to a dossier about you as an individual, which records where you go when, among other things.
+
+## Cleaning the cookie jar
+
+You should consider clearing both your Web browser's "cache" and "cookies" when…
+
+A) …you need to free up more space on your hard disk drive.
+B) …you see a "Your connection is not secure" error when loading a web page.
+C) …a website you're visiting is loading but not working properly and you want to reload it "from scratch."
+D) …you are trying to stop targeted advertising from appearing on your Facebook page.
+E) …you want to hide your IP address from the website you are visiting.
+F) …a video or audio file is not loading quickly enough.
+
+* Answer: `C`
+* Points: `20`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: :construction: TK-TODO
+* Hint Penalty: `5`
+* Factoid: Your Web browser's "cache" is a pre-downloaded copy of images and other media used by websites you've frequented before. Your Web browser's "cookies" are information about the state of your browsing activity, such as which websites you're currently logged in to. While Web cookies are often used for tracking purposes, and clearing them has long been a naive way to try frustrating attempts to track you, simply clearing your cookies is nowhere near enough to make you untrackable online. Similarly, while clearing cache may temporarily restore some of your used disk space, it will result in sites you've frequently visited being slower and the space you reserved for the cache will soon be used up again. However, if you're troubleshooting a website or web application that's behaving weirdly, clearing your cache and cookies will "reset" some parts of your browsing session with the troublesome website.
+
+## Gone fishing
+
+Which of the following are examples of "phishing" attacks?
+
+A) You check your email to find one stating that your PayPal account will be deactivated unless you click on a re-activation link.
+B) You log on to a Wi-Fi hotspot to check your Facebook, but the green padlock is missing from your browser's Web address bar.
+C) You receive a voicemail informing you that you have won an all-expense paid cruise and giving you a number to dial to claim your prize.
+D) As you're reading your favorite blog, a pop-up appears informing you that your computer has a virus and offers a link to download an anti-virus program.
+E) You get a txt message from a friend with a very short link asking you if the photo behind the link is really you.
+F) All of the above.
+
+* Answer: `F`
+* Points: `15`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: 🚧 TK-TODO
+* Hint Penalty: `5`
+* Factoid: "Phishing" is a generic term that refers to a con whose goal is to acquire sensitive information. Since there are many ways to con people, phishing attacks can look like any number of different things, from emails to txt messages to in-person conversations. On a computer, the best way to avoid "getting phished" is to follow [these three simple rules](https://krebsonsecurity.com/2011/05/krebss-3-basic-rules-for-online-safety/): 
+    1. If you didn't go looking for it, don't install it. That virus warning is probably a virus, itself.
+    1. If you installed it, update it. Make sure you are using the most up to date version of your Web browser and any of its installed extensions or add-ons.
+    1. If you no longer need it, remove it. Each add-on, app, and other software installed on your computer represents a potential security risk, so if you don't need it, don't keep it around.
+
+## Alphabet soup
+
+Controlling many computers from a single keyboard simultaneously is something that many system administrators regularly do for legitimate purposes. However, when an attacker is doing something similar and the computers they are controlling don't legally belong to them, the computers they are controlling are part of…
+
+A) a DDoS attack.
+B) a kettle.
+C) a coven.
+D) a botnet.
+E) an OS.
+F) SQL.
+
+* Answer: `D`
+* Points: `15`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: 🚧 TK-TODO
+* Hint Penalty: `10`
+* Factoid: 🚧 TK-TODO
+
+## Easier than herding cats
+
+Which of the following activities would a hacker's botnet not be particularly well-suited to accomplish?
+
+A) Network reconnaisance.
+B) DDoS attacks.
+C) Data exfiltraion.
+D) Network proxying.
+E) Sending spam.
+F) Compute parallelization.
+
+* Answer: `A`
+* Points: `15`
+* Bonus: `0`
+* Bonus-Dec: `0`
+* Hint: 🚧 
+* Hint Penalty: 🚧 
+* Factoid: A botnet is fundamentally just many Internet-connected computers ("bots") that all talk to each other. Often, the more computers someone has, the more quickly they can accomplish tasks whose parts don't need to be performed sequentially, one after the other. For example, to scan the entire Internet, you can have one bot scan one part and another bot scan a different part, paralellizing the task. The more bots you have, the more you can chunk up the work, and the quicker you can complete the task. Likewise, having a lot of networked computers means you can use any of them, regardless of where it is physically located, which makes bots very useful as network proxies, which are often used to hide the source of cyber attacks. However, if an attacker is trying to exfiltrate data from a target network, how many computers they have doesn't really matter, because they need one (and only really need *one*) that can access the data they're looking to steal.
