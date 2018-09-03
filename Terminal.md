@@ -1,1 +1,1 @@
-See also [[command line]].
+See [[command line]].
