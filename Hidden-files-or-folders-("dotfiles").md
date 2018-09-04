@@ -1,3 +1,3 @@
-> [[Wiki|Home]] ▸ 🔰 [[Foundations]] ▸ **Hidden files or  folders ("dotfiles") **
+> [[Wiki|Home]] ▸ 🔰 [[Foundations]] ▸ **Hidden files or  folders ("dotfiles")**
 
 A "hidden folder" is not exactly hidden per se, it's just not shown by default. You can tell it's a hidden folder because its name begins with a single dot (`.`). These so-called "dotfiles" are omitted from directory listings such as when you invoke the `ls(1)` command, unless you explicitly ask for them to be shown by using the `-a` ("show all files") option. Hidden folders or files typically store configuration information that isn't usually relevant to someone's day-to-day use of their computer, but aren't special in any other way. Don't mistake a "hidden" folder for a folder that has actual security restrictions placed on it; they are not the same.
