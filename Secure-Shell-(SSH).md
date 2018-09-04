@@ -6,4 +6,4 @@ SSH servers are more common than you might think. Almost every computer has the 
 
 Of course, if *you* can access a machine's command line over SSH, so too can anyone else. This is why *securing* SSH access is so critically important. An SSH server is something like the "front door" to your computer. An unsecured SSH server on a network is by far the first thing most intruders look for. These days, if you put an SSH server up on the Internet, you'll see login attempts within minutes.
 
-> [Read next: Introduction to Securing (Virtualize) Secure Shell Servers :arrow_right:](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/practice-labs/introduction-to-securing-virtualized-secure-shell-servers/README.md)
+> [Read next: Introduction to Securing (Virtualized) Secure Shell Servers :arrow_right:](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/practice-labs/introduction-to-securing-virtualized-secure-shell-servers/README.md)
