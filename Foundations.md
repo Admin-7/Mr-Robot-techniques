@@ -12,6 +12,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[Dark web (dark net)]]
 * [[Graphical user interface (GUI)]]
 * [[Hash algorithms|Cryptographic hash]]
+* [[Hidden files or folders ("dotfiles")]]
 * [[IP address]]
 * [[Internet]]
 * [[Malware]]
