@@ -16,7 +16,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[IP address]]
 * [[Internet]]
 * [[Malware]]
-* [[Manual pages (`man` pages)]]
+* [[Manual pages (man pages)]]
 * [[Open source]]
 * [[Operating system]]
 * [[Password cracking]]
