@@ -301,6 +301,8 @@ Initialism for [frequency-shift keying](#frequency-shift-keying).
 
 # G
 
+## [Generic Security Services Application Program Interface](https://en.wikipedia.org/wiki/Generic_Security_Services_Application_Program_Interface)
+
 ## [Global System for Mobile communications](https://en.wikipedia.org/wiki/GSM)
 
 ## [GNU](https://www.gnu.org/)
@@ -324,6 +326,10 @@ Abbreviation for [GPS Exchange Format](#gps-exchange-format).
 ## GSM
 
 Initialism for [Global System for Mobile communications](#global-system-for-mobile-communications).
+
+## GSSAPI
+
+Initialism for [Generic Security Services Application Program Interface](#generic-security-services-application-program-interface).
 
 ## GUI
 
