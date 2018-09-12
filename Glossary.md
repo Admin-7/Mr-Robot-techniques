@@ -53,6 +53,10 @@ Initialism for [automatic depedent surveillance – broadcast](#automatic-depend
 
 Initialism for [automatic gain control](#automatic-gain-control).
 
+## ALU
+
+Initialism for [arithmetic logic unit](#arithmetic-logic-unit).
+
 ## AM
 
 Initialism for [amplitude modulation](#amplitude-modulation).
@@ -63,6 +67,10 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 
 ## [Analog-to-digital converter](https://simple.wikipedia.org/wiki/Analog-to-digital_converter)
 
+## [Application-specific integrated circuit](https://simple.wikipedia.org/wiki/Application-specific_integrated_circuit)
+
+## [Arithmetic logic unit](https://simple.wikipedia.org/wiki/Arithmetic_logic_unit)
+
 ## ARN
 
 Initialism for *[Amazon resource name](https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html#genref-arns)*.
@@ -70,6 +78,10 @@ Initialism for *[Amazon resource name](https://docs.aws.amazon.com/general/lates
 ## ARP
 
 Acronym for [Address Resolution Protocol](#address-resolution-protocol).
+
+## ASIC
+
+Initialism for [application-specific integrated circuit](#application-specific-integrated-circuit).
 
 ## ASK
 
@@ -90,6 +102,8 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 ## [Bayonet Neill–Concelman](https://en.wikipedia.org/wiki/BNC_connector)
 
 ## [Belling-Lee connector](https://en.wikipedia.org/wiki/Belling-Lee_connector)
+
+## [Big data](https://en.wikipedia.org/wiki/Big_data)
 
 ## Binder
 
@@ -171,9 +185,17 @@ Initialism for [continuous wave](#continuous-wave) - upper.
 
 # D
 
+## Database management system
+
+Term used to refer to a set of tools for interacting with a [database](https://simple.wikipedia.org/wiki/Database).
+
 ## dBFS
 
 Initialism for [decibels relative to full scale](#decibels-relative-to-full-scale)
+
+## DBMS
+
+Initialism for [database management system](#database-management-system).
 
 ## [Decibels relative to full scale](https://en.wikipedia.org/wiki/DBFS)
 
@@ -263,9 +285,17 @@ Further information:
 
 ## [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
+## FC
+
+Initialism for [Fibre Channel](#fibre-channel).
+
 ## FCC
 
 Initialism for [Federal Communications Commission](#federal-communications-commission).
+
+## FCoE
+
+Initialism for [Fibre Channel over Ethernet](#fibre-channel-over-ethernet).
 
 ## FDX
 
@@ -280,6 +310,10 @@ Initialism for [fast Fourier transform](#fast-fourier-transform).
 ## FHRP
 
 Initialism for [first-hop redundancy protocol](#first-hop-redundancy-protocol).
+
+## [Fibre Channel](https://simple.wikipedia.org/wiki/Fibre_Channel)
+
+## [Fibre Channel over Ethernet](https://en.wikipedia.org/wiki/Fibre_Channel_over_Ethernet)
 
 ## [First-hop redundancy protocol](https://en.wikipedia.org/wiki/Category:First-hop_redundancy_protocols)
 
@@ -411,6 +445,10 @@ Initialism for [low-noise amplifier](#low-noise-amplifier).
 
 ## [Local area network](https://simple.wikipedia.org/wiki/Local_area_network)
 
+## [Logical Volume Manager](https://en.wikipedia.org/wiki/Logical_Volume_Manager_%28Linux%29)
+
+## [Logical volume management](https://simple.wikipedia.org/wiki/Logical_volume_management)
+
 ## [Low-noise amplifier](https://en.wikipedia.org/wiki/Low-noise_amplifier)
 
 ## [Lower sideband](https://en.wikipedia.org/wiki/Single-sideband_modulation#Bandpass_filtering)
@@ -421,6 +459,13 @@ Initialism for one of:
 
 * [Linux Standard Base](#linux-standard-base)
 * [Lower sideband](#lower-sideband)
+
+## LVM
+
+Initialism for one of:
+
+* [Logical Volume Manager](#logical-volume-manager)
+* [Logical volume management](#logical-volume-management)
 
 # M
 
@@ -462,6 +507,10 @@ Initialism for [multi-user MIMO](#multi-user-mimo).
 
 Initialism for [North American Numbering Plan](#north-american-numbering-plan).
 
+## NAS
+
+Acronym for [network-attached storage](#network-attached-storage).
+
 ## [National Security Agency](https://simple.wikipedia.org/wiki/National_Security_Agency)
 
 ## NDP
@@ -472,6 +521,8 @@ Initialism for one of:
 * [Nortel Discovery Protocol](#nortel-discovery-protocol)
 
 ## [Neighbor Discovery Protocol](https://en.wikipedia.org/wiki/Neighbor_Discovery_Protocol)
+
+## [Network-attached storage](https://simple.wikipedia.org/wiki/Network-attached_storage)
 
 ## [Network function virtualization](https://en.wikipedia.org/wiki/Network_functions_virtualization)
 
@@ -596,9 +647,17 @@ Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 # R
 
+## R/W
+
+Abbreviation for "read/write."
+
 ## [Radio Data System](https://en.wikipedia.org/wiki/Radio_Data_System)
 
 ## [Radio frequency](https://simple.wikipedia.org/wiki/Radio_frequency)
+
+## RAID
+
+Acronym for [redundant array of independent disks](#redundant-array-of-independent-disks).
 
 ## RBW
 
@@ -611,6 +670,8 @@ Initialism for [remote code execution](#remote-code-execution).
 ## RDS
 
 Initialism for [Radio Data System](#radio-data-system).
+
+## [Redundant array of independent disks](https://simple.wikipedia.org/wiki/RAID)
 
 ## [Remote code execution](https://en.wikipedia.org/wiki/Arbitrary_code_execution)
 
@@ -629,6 +690,10 @@ In the context of [[radio|Software defined radio]], abbreviation for "receive." 
 ## SAE
 
 Initialism for [simultaneous authentication of equals](#simultaneous-authentication-of-equals).
+
+## SAN
+
+Acronym for [storage area network](#storage-area-network).
 
 ## [Secure admininstrator workstation](https://msdn.microsoft.com/en-us/library/mt186538.aspx)
 
@@ -710,6 +775,8 @@ See [version control](#version-control).
 ## SPI
 
 Initialism for [sensitive personal information](#sensitive-personal-information).
+
+## [Storage area network](https://simple.wikipedia.org/wiki/Storage_area_network)
 
 ## [Structured query language](https://simple.wikipedia.org/wiki/SQL)
 
