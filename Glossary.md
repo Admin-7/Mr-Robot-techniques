@@ -529,6 +529,10 @@ Initialism for [Opportunistic Wireless Encryption](#opportunistic-wireless-encry
 
 Initialism for [Phase Alternating Line](#phase-alternating-line).
 
+## PAM
+
+Acronym for [pluggable authentication module](#pluggable-authentication-module).
+
 ## [Personally identifiable information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
 
 ## [Phase Alternating Line](https://en.wikipedia.org/wiki/PAL)
@@ -546,6 +550,8 @@ Initialism for [personally identifiable information](#personally-identifiable-in
 ## [[PHYSEC]]
 
 Abbreviation for "physical security."
+
+## (Pluggable authentication module](https://en.wikipedia.org/wiki/Pluggable_authentication_module)
 
 ## POI
 
