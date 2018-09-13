@@ -493,9 +493,15 @@ Abbreviation for megahertz. See also [Hertz](#hertz).
 
 Initialism for [multiple-input and multiple-output](#multiple-input-and-multiple-output).
 
+## MLC
+
+Initialism for [multi-level cell](#multi-level-cell).
+
 ## MU-MIMO
 
 Initialism for [multi-user MIMO](#multi-user-mimo).
+
+## [Multi-level cell](https://en.wikipedia.org/wiki/Multi-level_cell)
 
 ## [Multi-user MIMO](https://en.wikipedia.org/wiki/Multi-user_MIMO)
 
@@ -752,7 +758,13 @@ Abbreviation for "signals intelligence." See [Signals intelligence](#signals-int
 
 ## [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer)
 
+## [Single-level cell](https://en.wikipedia.org/wiki/Multi-level_cell#Single-level_cell)
+
 ## [Single Wire Multiswitch](http://www.tech-faq.com/directv-swm.html)
+
+## SLC
+
+Initialism for [single-level cell](#single-level-cell).
 
 ## SMA
 
