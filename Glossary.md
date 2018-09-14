@@ -825,6 +825,12 @@ Initialism for [Single Wire Multiswitch](#single-wire-multiswitch).
 
 See also [@NationalSecurityAgency on GitHub](https://github.com/NationalSecurityAgency).
 
+## TOFU
+
+Acronym for [trust on first use](#trust-on-first-use).
+
+## [Trust on first use](https://en.wikipedia.org/wiki/Trust_on_first_use)
+
 ## [Trusted third party](https://simple.wikipedia.org/wiki/Trusted_third_party)
 
 ## TTP
