@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **Free shell account providers**
 
-A **shell account** is a user account on a computer that provides [[command line]] access. Free shell account providers typically offer restricted or limited resources via a command line interface to the public for educational and recreational purposes. Some providers are based around a community group or special interest and function more like alternative (old school, nostalgic) social media destinations.
+A **shell account** is a user account on a computer that provides [[command line|Command line interface (CLI)]] access. Free shell account providers typically offer restricted or limited resources via a command line interface to the public for educational and recreational purposes. Some providers are based around a community group or special interest and function more like alternative (old school, nostalgic) social media destinations.
 
 AnarchoTech NYC provides no such access of any kind. Therefore, the following is a list of *unaffiliated* and *unverified* free shell account providers. We make no claims and take no responsibility for the security, reliability, or availability of any information presented here.
 
