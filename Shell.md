@@ -6,4 +6,4 @@ Shells are usually either textual, in which case they are often called *command-
 
 A *shell account* is a registered user account that grants access to a shell. Shell accounts can often be obtained on public access computer systems free of charge (see [[free shell account providers]]), or are created for you by an employer or the administrator of shared computing resources such as shared servers (called "mainframes").
 
-> Read next: [Securing a Shell Account on a Shared Server](https://github.com/AnarchoTechNYC/meta/train-the-trainers/practice-labs/securing-a-shell-account-on-a-shared-server) :arrow_right:
+> [Read next: Securing a Shell Account on a Shared Server](https://github.com/AnarchoTechNYC/meta/train-the-trainers/practice-labs/securing-a-shell-account-on-a-shared-server) :arrow_right:
