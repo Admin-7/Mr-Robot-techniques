@@ -28,6 +28,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[Secure Shell (SSH)]]
 * [[Shell]]
 * [[Terminal]]
+* [[Transport Layer Security (TLS)]]
 * [[Tor]]
 * [[Torrents]]
 
