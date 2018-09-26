@@ -77,10 +77,6 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Learn how cryptosystems are built and how they are attacked. By the same creators as Microcorruption.
 
-* [Ghost in the Shellcode -- Pwn Adventure](http://pwnadventure.com)
-
-  The CTF has ended but the game server and clients are freely available. There's an MMO-style game that's vulnerable to tampering. I guess the idea is to proxy your connection through some code that will alter your requests and give you superpowers in-game. We could get the server running if a group of people is interested in playing together.
-
 * [Pwn Adventure](http://pwnadventure.com/)
 
   Pwn Adventure 3: Pwnie Island is a limited-release, first-person, true open-world MMORPG set on a beautiful island where anything could happen. That's because this game is intentionally vulnerable to all kinds of silly hacks! Flying, endless cash, and more are all one client change or network proxy away.
