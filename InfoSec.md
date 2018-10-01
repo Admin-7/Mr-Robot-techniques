@@ -53,7 +53,7 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
 * [PicoCTF](https://picoctf.com/)
 
-  An always-open game targeted for high school students but useful for anyone who is just starting out in computer security. Available games are [PicoCTF 2013](https://2013.picoctf.com/), [PicoCTF 2014](https://2014.picoctf.com/), and [PicoCTF 2017](https://2017.picoctf.com/).
+  An always-open game targeted for high school students but useful for anyone who is just starting out in computer security. Available games are [PicoCTF 2013](https://2013.picoctf.com/), [PicoCTF 2014](https://2014.picoctf.com/), [PicoCTF 2017](https://2017.picoctf.com/), and [PicoCTF 2018](https://2017.picoctf.com/).
 
 * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
 
