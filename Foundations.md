@@ -37,6 +37,7 @@ See also: [[Glossary]].
 # Contents
 
 1. [Suggested learning path](#suggested-learning-path)
+    * [System administration](#system-administration)
     * [General programming](#general-programming)
     * [Web development](#web-development)
     * [Information security](#information-security)
