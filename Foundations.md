@@ -49,6 +49,13 @@ If you don't know where to start *and* don't really know where to go in your stu
 
     Read this before you read anything else. Everything in the world of computer code is ultimately a way of expressing the full range of complex ideas a human being can imagine using nothing more complex than two words: "yes" and "no." And what is a computer "word?" This book explains it, and does it very well.
 
+## System administration
+
+Sometimes also referred to as "DevOps" these days, system administration is the practice of utilizing computer systems as infrastructural tooling to support the work of others who need to use those systems. System administrators ensure that information technology systems are available for use and are operating within acceptable parameters. Therefore, a system adminisrator is sometimes also referred to as a "system operator" or "sysop" for short. It is our collective's belief that this area of skill is among the most, if not *the* most, important area for radical technologists to develop.
+
+1. [Servers For Hackers](https://serversforhackers.com/)
+1. [Ansible for DevOps](https://www.ansiblefordevops.com/)
+
 ## General programming
 
 1. [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/) - A [companion code repository](https://github.com/crista/exercises-in-programming-style) is on GitHub.
