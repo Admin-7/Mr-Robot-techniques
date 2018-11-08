@@ -46,19 +46,19 @@ See also: [[Glossary]].
 
 If you don't know where to start *and* don't really know where to go in your studies next, consider starting here:
 
-1. [Code: The Hidden Language of Computer Hardware and Software](http://www.charlespetzold.com/code/)
-
-    Read this before you read anything else. Everything in the world of computer code is ultimately a way of expressing the full range of complex ideas a human being can imagine using nothing more complex than two words: "yes" and "no." And what is a computer "word?" This book explains it, and does it very well.
+1. [Code: The Hidden Language of Computer Hardware and Software](http://www.charlespetzold.com/code/) - How can a metal box emulate intelligent capabilities like decision making, memory and recollection of past events, or general problem-solving? This book answers that question by starting at the very beginning, which turns out not to be that long ago. Inside a computer, there are only two words, "yes" and "no," yet this is enough to express a bewildering range of ideas and activities. And what is a computer "word?" This book explains it, and does it very well. Read this before you read anything else.
 
 ## System administration
 
 Sometimes also referred to as "DevOps" these days, system administration is the practice of utilizing computer systems as infrastructural tooling to support the work of others who need to use those systems. System administrators ensure that information technology systems are available for use and are operating within acceptable parameters. Therefore, a system administrator is sometimes also referred to as a "system operator" or "sysop" for short. It is our collective's belief that this area of skill is among the most, if not *the* most, important area for radical technologists to develop.
 
-1. [Servers For Hackers](https://serversforhackers.com/)
-1. [Ansible for DevOps](https://www.ansiblefordevops.com/)
+1. [Servers For Hackers](https://serversforhackers.com/) - One of the basic building blocks of any digital infrastructure is the [[server|Servers]], literally a machine that services requests that are made of it. What that machine actually is, and what services it actually offers, is up to the system administrator to define, deploy, and maintain. This book takes a practical approach to configuring servers from their Operating System up to the applications running atop them, and goes in-depth on numerous popular programs like the Nginx HTTP server that provide services such as Web site publishing that almost every organization needs.
+1. [Ansible for DevOps](https://www.ansiblefordevops.com/) - Once a server is running ("provisioned"), it must be monitored to ensure that it keeps running. It must be protected from security vulnerabilities. Its data must be backed up to guard against disaster scenarios in which you (and your comrades) lose all your work. This is a lot of work when performed manually, especially as the number of servers you need to maintain increases. With Ansible, however, you can describe your digital infrastructure and the procedures you use for managing it as a set of text files ("playbooks") that can be automatically run through at your command, massively simplifying the process of provisioning, maintaining, patching, and monitoring large server fleets.
 1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 
 ## General programming
+
+In general, programming is the art of describing something about how the world is, or how you would like to see the world be in the future. Much like writing a book, this is a creative, generative process that requires as much imagination as it does logical and objective reasoning. This is why we (all used to) say that programs are "written," not "built." There is immense power in the ability to write computer programs, but be careful not to mistake this ability for an understanding of the environment in which those programs run. The latter is system administration, and our collective believes it is both more immediately useful and politically impactful to gain sysadmin skills than to join the ever-increasing ranks of computer programmers. That said, sysadmins benefit greatly from being able to act within a programmer's mindset and paradigm, so here we present a heavily curated list of resources useful for growing—but not startingout—as a programmer.
 
 1. [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/) - A [companion code repository](https://github.com/crista/exercises-in-programming-style) is on GitHub.
 
