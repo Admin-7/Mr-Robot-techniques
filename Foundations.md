@@ -52,10 +52,11 @@ If you don't know where to start *and* don't really know where to go in your stu
 
 ## System administration
 
-Sometimes also referred to as "DevOps" these days, system administration is the practice of utilizing computer systems as infrastructural tooling to support the work of others who need to use those systems. System administrators ensure that information technology systems are available for use and are operating within acceptable parameters. Therefore, a system adminisrator is sometimes also referred to as a "system operator" or "sysop" for short. It is our collective's belief that this area of skill is among the most, if not *the* most, important area for radical technologists to develop.
+Sometimes also referred to as "DevOps" these days, system administration is the practice of utilizing computer systems as infrastructural tooling to support the work of others who need to use those systems. System administrators ensure that information technology systems are available for use and are operating within acceptable parameters. Therefore, a system administrator is sometimes also referred to as a "system operator" or "sysop" for short. It is our collective's belief that this area of skill is among the most, if not *the* most, important area for radical technologists to develop.
 
 1. [Servers For Hackers](https://serversforhackers.com/)
 1. [Ansible for DevOps](https://www.ansiblefordevops.com/)
+1. [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 
 ## General programming
 
