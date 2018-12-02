@@ -67,6 +67,8 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 
 ## [Analog-to-digital converter](https://simple.wikipedia.org/wiki/Analog-to-digital_converter)
 
+## [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
+
 ## [Application-specific integrated circuit](https://simple.wikipedia.org/wiki/Application-specific_integrated_circuit)
 
 ## [Arithmetic logic unit](https://simple.wikipedia.org/wiki/Arithmetic_logic_unit)
@@ -437,6 +439,8 @@ Abbreviation for "[in-phase and quadrature components](#in-phase-and-quadrature-
 
 Initialism for [local area network](#local-area-network).
 
+## [Linux Security Modules](https://simple.wikipedia.org/wiki/Linux_Security_Modules)
+
 ## [Linux Standard Base](https://en.wikipedia.org/wiki/Linux_Standard_Base)
 
 ## LNA
@@ -459,6 +463,10 @@ Initialism for one of:
 
 * [Linux Standard Base](#linux-standard-base)
 * [Lower sideband](#lower-sideband)
+
+## LSM
+
+Initialism for [Linux Security Modules](#linux-security-modules).
 
 ## LVM
 
