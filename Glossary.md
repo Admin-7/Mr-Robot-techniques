@@ -223,6 +223,8 @@ Acronym for [digital-to-analog converter](#digital-to-analog-converter).
 
 Initialism for [Dynamic Host Configuration Protocol](#dynamic-host-configuration-protocol).
 
+## [Domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language)
+
 ## [Doxing](https://en.wikipedia.org/wiki/Doxing)
 
 ## Doxxing
@@ -232,6 +234,10 @@ Alternative spelling for [doxing](#doxing). Sometimes used to indicate informati
 ## Doxxxing
 
 Alternative spelling for [doxing](#doxing). Sometimes used to indicate information obtained is of a sexual nature.
+
+## DSL
+
+Initialism for [Domain-specific language](#domain-specific-language).
 
 ## DSP
 
