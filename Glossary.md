@@ -752,6 +752,10 @@ Initialism for [Software Defined Radio](#software-defined-radio).
 
 ## [Secure Shell](https://simple.wikipedia.org/wiki/Secure_Shell)
 
+## Secure Sockets Layer
+
+See [Transport Layer Security](#transport-layer-security)
+
 ## SemVer
 
 Abbreviation for [semantic versioning](https://semver.org/).
@@ -823,6 +827,10 @@ Initialism for one of:
 
 Initialism for [Secure Shell](#secure-shell).
 
+## SSL
+
+Initialism for [Secure Sockets Layer](#secure-sockets-layer).
+
 ## [Streaming SIMD Extensions](https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions)
 
 ## [SubMiniature version A](https://en.wikipedia.org/wiki/SMA_connector)
@@ -839,9 +847,15 @@ Initialism for [Single Wire Multiswitch](#single-wire-multiswitch).
 
 See also [@NationalSecurityAgency on GitHub](https://github.com/NationalSecurityAgency).
 
+## TLS
+
+Initialism for [Transport Layer Security](#transport-layer-security).
+
 ## TOFU
 
 Acronym for [trust on first use](#trust-on-first-use).
+
+## [Transport Layer Security](https://simple.wikipedia.org/wiki/Transport_Layer_Security)
 
 ## [Trust on first use](https://en.wikipedia.org/wiki/Trust_on_first_use)
 
