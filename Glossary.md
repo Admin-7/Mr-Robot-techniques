@@ -560,6 +560,10 @@ Initialism for [National Security Agency](#national-security-agency).
 
 # O
 
+## Object-Oriented Modeling
+
+See [Object-oriented analysis and design](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design).
+
 ## OE
 
 Initialism for [opportunistic encryption](#opportunistic-encryption).
@@ -575,6 +579,14 @@ Initialism for [orthogonal frequency-division multiple access](#orthogonal-frequ
 ## OODA loop
 
 Acronym for [observe, orient, decide, and act loop](https://en.wikipedia.org/wiki/OODA_loop).
+
+## OOM
+
+Acronym for one of:
+
+* [Out of memory](https://en.wikipedia.org/wiki/Out_of_memory), a pathological state of a computer operation
+* [Order of magnitude](https://simple.wikipedia.org/wiki/Order_of_magnitude), a measurement term
+* [Object-Oriented Modeling](#object-oriented-modeling)
 
 ## [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
 
