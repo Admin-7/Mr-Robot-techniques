@@ -67,7 +67,13 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 
 ## [Analog-to-digital converter](https://simple.wikipedia.org/wiki/Analog-to-digital_converter)
 
+## API
+
+Initialism for [application programming interface](#application-programming-interface).
+
 ## [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
+
+## [Application programming interface](https://simple.wikipedia.org/wiki/Application_programming_interface)
 
 ## [Application-specific integrated circuit](https://simple.wikipedia.org/wiki/Application-specific_integrated_circuit)
 
