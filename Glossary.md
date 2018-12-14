@@ -427,6 +427,14 @@ See also:
 
 Initialism for [Indicator of Compromise](#indicator-of-compromise).
 
+## IPC
+
+Initialism for one of:
+
+* [Instructions per cycle](https://en.wikipedia.org/wiki/Instructions_per_cycle)
+* [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
+* [IP camera](https://en.wikipedia.org/wiki/IP_camera)
+
 ## [Isochrone map](https://en.wikipedia.org/wiki/Isochrone_map)
 
 ## I/Q
