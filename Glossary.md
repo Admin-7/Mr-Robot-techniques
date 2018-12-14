@@ -415,6 +415,8 @@ Colloquial term for [Belling-Lee connector](#belling-lee-connector). See also: [
 
 ## [Indicator of Compromise](https://en.wikipedia.org/wiki/Indicator_of_compromise)
 
+## [Industry Standard Architecture](https://en.wikipedia.org/wiki/Industry_Standard_Architecture)
+
 ## INFOSEC
 
 Abbreviation for "information security."
@@ -440,6 +442,10 @@ Initialism for one of:
 * [Instructions per cycle](https://en.wikipedia.org/wiki/Instructions_per_cycle)
 * [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
 * [IP camera](https://en.wikipedia.org/wiki/IP_camera)
+
+## ISA
+
+Initialism for [Industry Standard Architecture](#industry-standard-architecture).
 
 ## [Isochrone map](https://en.wikipedia.org/wiki/Isochrone_map)
 
