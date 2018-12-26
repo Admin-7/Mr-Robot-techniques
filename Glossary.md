@@ -154,6 +154,10 @@ See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_
 
 Initialism for [code-division multiple access](#code-division-multiple-access).
 
+## CFI
+
+Initialism for [control-flow integrity](#control-flow-integrity).
+
 ## CIM
 
 Initialism for one of:
@@ -174,6 +178,8 @@ Initialism for [Common Language Location Identifier](#common-language-location-i
 ## [Common Language Location Identifier](https://en.wikipedia.org/wiki/CLLI_code)
 
 ## [Continuous wave](https://en.wikipedia.org/wiki/Continuous_wave)
+
+## [Control-flow integrity](https://en.wikipedia.org/wiki/Control-flow_integrity)
 
 ## CTF
 
