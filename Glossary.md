@@ -231,6 +231,8 @@ Acronym for [digital-to-analog converter](#digital-to-analog-converter).
 
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
 
+## [Digital Vinyl System](https://en.wikipedia.org/wiki/Vinyl_emulation_software)
+
 ## DHCP
 
 Initialism for [Dynamic Host Configuration Protocol](#dynamic-host-configuration-protocol).
@@ -264,6 +266,10 @@ Initialism for [device under test](#device-under-test). Also known as [equipment
 ## DVB-T
 
 Initialism for [Digital Video Broadcast - Terrestrial](#digital-video-broadcast---terrestrial).
+
+## DVS
+
+Initialism for [digital vinyl system](#digital-vinyl-system).
 
 ## [Dynamic Host Configuration Protocol](https://simple.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 
