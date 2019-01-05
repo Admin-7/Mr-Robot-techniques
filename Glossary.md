@@ -361,6 +361,8 @@ Initialism for [frequency-shift keying](#frequency-shift-keying).
 
 # G
 
+## [Generic Routing Encapsulation](https://en.wikipedia.org/wiki/Generic_Routing_Encapsulation)
+
 ## [Generic Security Services Application Program Interface](https://en.wikipedia.org/wiki/Generic_Security_Services_Application_Program_Interface)
 
 ## [Global System for Mobile communications](https://en.wikipedia.org/wiki/GSM)
@@ -382,6 +384,10 @@ Abbreviation for [GPS Exchange Format](#gps-exchange-format).
 ## [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System)
 
 ## [Graphical User Interface](https://simple.wikipedia.org/wiki/Graphical_user_interface)
+
+## GRE
+
+Initialism for [Generic Routing Encapsulation](#generic-routing-encapsulation).
 
 ## GSM
 
