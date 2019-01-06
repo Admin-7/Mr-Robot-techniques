@@ -311,6 +311,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
+* [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
