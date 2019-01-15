@@ -12,6 +12,7 @@ The AnarchoTechNYC collective is but one of a number of affinity groups organizi
 * [Crypto Harlem](http://rdewald.com/cryptoharlem/) - Group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
 * [CryptoParty NYC](https://www.cryptoparty.in/nyc) - Decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
 * [Edgeryders](https://edgeryders.eu/) - Umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
+* [Justice Duckling](http://justiceduckling.com/) - New York City’s protest calendar.
 * [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
 * [PopGym](http://popgym.org/) - Project working towards opening a physical space offering free self-defense classes.
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
