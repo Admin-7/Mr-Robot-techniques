@@ -314,6 +314,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
+* [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection)
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 * [awesome-tor](https://github.com/ajvb/awesome-tor)
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
