@@ -92,6 +92,8 @@ Before you dive too deeply into this practice material, you should first explore
 * Check or [double-check the HTTPS lock icon's exact fingerprint](https://www.grc.com/fingerprints.htm) for important sites like PayPal or Facebook
 * When charging your devices over a USB connection, use a USB "condom" ([data blocking adapter](http://www.portablepowersupplies.co.uk/portapow-fast-charge-data-block-usb-adaptor/)) to ensure only power flows into (or out of) the device
   * [Protect your devices with a $10 USB Condom](http://www.zdnet.com/article/protect-your-devices-with-a-10-usb-condom/)
-* Enable [DNS over TLS](https://tools.ietf.org/html/rfc7858) support in your client devices, if available. [DNS over HTTPS (TRR-DoH) instructions for Firefox](https://www.ghacks.net/2018/03/20/firefox-dns-over-https-and-a-worrying-shield-study/).
+* Enable [DNS over TLS](https://tools.ietf.org/html/rfc7858) support in your client devices, if available.
+  * [DNS over HTTPS (TRR-DoH) instructions for Firefox](https://www.ghacks.net/2018/03/20/firefox-dns-over-https-and-a-worrying-shield-study/).
+  * Install and enable the [1.1.1.1](https://1.1.1.1/) app for DNS-over-TLS or DNS-over-HTTPS support on Android and iOS devices.
 * If you use the Chrome Web browser, [enable strict site isolation](https://support.google.com/chrome/answer/7623121?hl=en).
 * Use a client-side encryption tool ([Cryptomator](https://cryptomator.org/), etc.) for storing your files in cloud services such as Google Drive or Dropbox.
