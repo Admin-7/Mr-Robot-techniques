@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[Tor]] ▸ [[Onion services]] ▸ **Connecting to an authenticated Onion service**
 
-An authenticated Onion service is a certain kind of [Tor "hidden service"](https://www.torproject.org/docs/onion-services) that requires clients (you) to supply an authentication token (basically, a password) before responding to incoming connection requests. There are a couple kinds of authenticated Onion services (`basic` or `stealth`). This page describes how to configure your software to connect to such a service, regardless of the Onion service's specific type.
+An authenticated Onion service is a certain kind of [Tor "hidden service"](https://www.torproject.org/docs/onion-services) that requires clients (you) to supply an authentication token (basically, a password) before responding to incoming connection requests. There are two different, incompatible Onion service versions that support client authentication: Version 2, and Version 3. This page covers both versions and describes how to tell one version apart from the other.
 
 > 💡 🔰 If you are trying to use Tor as a file sharing tool, consider following the instructions in [Secretly sharing files with OnionShare and TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md#readme) instead. [OnionShare's "Advanced" options will automate the server-side portion of creating a stealth Onion service](https://github.com/micahflee/onionshare/wiki/Stealth-Onion-Services).
 
@@ -8,15 +8,35 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 
 # Contents
 
-1. [Overview](#overview)
-1. [Procedure](#procedure)
-    1. [Laptop or desktop computer](#laptop-or-desktop-computer)
-    1. [Android-based mobile device](#android-based-mobile-device)
-    1. [Apple iOS device](#apple-ios-device)
+1. [Identifying the Onion service version](#identifying-the-onion-service-version)
+1. [Connecting to authenticated Version 3 Onion services](#connecting-to-authenticated-version-3-onion-services)
+1. [Connecting to authenticated Version 2 Onion services](#connecting-to-authenticated-version-2-onion-services)
+    1. [Overview](#overview)
+    1. [Procedure](#procedure)
+        1. [Laptop or desktop computer](#laptop-or-desktop-computer)
+        1. [Android-based mobile device](#android-based-mobile-device)
+        1. [Apple iOS device](#apple-ios-device)
 
-# Overview
+# Identifying the Onion service version
 
-To connect to an authenticated Onion service, you must first acquire the access credentials (your personalized password) from whoever operates the service. This will likely be a human that you know. You will need to communicate with them (perhaps using [Signal](https://signal.org/)?) to learn what your access credentials will be. Once acquired, your access credentials will look something like the following line of text:
+Before you attempt to configure your Tor to connect to an authenticated Onion service, you must first know which Onion service version you are connecting to. If the operator of the Onion service did not already tell you, then you may need to deduce this information for yourself. The simplest way to do so is to examine the Onion domain name you were given (the long string of letters and numbers that end in `.onion`).
+
+* Version 2 Onion services have `.onion` addresses that are sixteen (16) characters long before the `.onion` part.
+* Version 3 Onion services have `.onion` addresses that are fifty-six (56) characters long before the `.onion` part.
+
+Using the above rules, the length of the Onion domain name can tell you whether the Onion service you are going to be connecting to is a [Version 2](#connecting-to-authenticated-version-2-onion-services) or [Version 3](#connecting-to-authenticated-version-3-onion-services) Onion service.
+
+# Connecting to authenticated Version 3 Onion services
+
+> 🚧 TODO: Write up a basic V3 Onion service guide.
+
+# Connecting to authenticated Version 2 Onion services
+
+This section provides an overview as well as a step-by-step procedure for configuring your Tor client to connect to authenticated Version 2 Onion service servers.
+
+## Overview
+
+To connect to an authenticated Version 2 Onion service, you must first acquire the access credentials (your personalized password) from whoever operates the service. This will likely be a human that you know. You will need to communicate with them (perhaps using [Signal](https://signal.org/)?) to learn what your access credentials will be. Once acquired, your access credentials will look something like the following line of text:
 
 ```
 HidServAuth 1234567890abcdefg.onion abcdef01234567890+/K A description here
