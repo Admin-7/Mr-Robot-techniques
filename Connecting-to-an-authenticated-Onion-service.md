@@ -117,11 +117,47 @@ After this procedure is complete, you will have four files:
 1. `some-onion.auth_private`, which you must take responsibility for protecting (it is like your password), and
 1. `some-client.auth`, which you should share with the operator of the Onion service by sending the file to them (over a secure channel such as in a [Signal Private Messenger](https://Signal.org/) message, if possible).
 
+Next, you will protect your `.auth_private` file and inform your Tor software where to find it.
+
 ### Configuring a laptop or desktop computer for authenticated Version 3 Onion services
 
 **Do this** to connect to an authenticated Version 3 Onion service from your laptop or desktop computer:
 
-> 🚧 TODO: Describe configuring Tor with an Onion service keypair.
+1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
+1. Ensure you have a valid `.auth_private` file. You can either [generate one yourself](#generating-authentication-credentials-for-version-3-onion-services), or in some cases you may have already received one from the operator of your Onion service.
+1. Choose or make a sensible folder to store all of your Version 3 Onion service access credential files. For example, a folder called "`Onions`" in your home folder would work well.
+1. Move the `.auth_private` file into the folder you chose to store your Version 3 Onion service access credential files.
+1. Find the filesystem path of the folder you chose to store your Version 3 Onion service access credential files. Make a note of this filesystem path, as we'll use it in a future step.
+    * In *macOS*:
+        1. Single-click on the folder to select it.
+        1. From the menu bar, choose *File* &rarr; *Get Info*. The folder Info window will open.
+        1. Click on the *General* section's disclosure triangle to expose the General Information panel.
+        1. Select and copy the entire value of the *Where* line, as shown below, then paste it into your notes:  
+            ![Screenshot of the macOS Finder's "Get Info" window for a folder named "Onions" in a user's home folder.](https://i.imgur.com/vC8bNhl.png)
+        1. If the folder you chose was `Onions` in your home folder, your path will probably look something like `/Users/YOUR_USER_NAME/Onions`.
+    * In *GNU/Linux*, first use the `cd` command to go to the folder itself, then use [the `pwd` command](https://explainshell.com/explain?cmd=pwd) to find the full filesystem path of the folder. If the folder you chose was `Onions` in your home folder, your path will probably look something like `/home/YOUR_USER_NAME/Onions`.
+    * In *Windows*:
+        1. Right-click on the folder and choose *Properties* from the contextual menu.
+        1. In the *General* tab, find and copy the full value of the *Location* line.
+        1. If the folder you chose was `Onions` in your home folder, your path will probably look something like `C:\Users\YOUR_USER_NAME\Onions`.
+1. Locate the `torrc` file that you need to edit. The location of this file is slightly different depending on your computer's operating system:
+    > 🔰 In the following file paths, the `~` character or the `%HOMEDRIVE%%HOMEPATH%` sequence refers to "wherever your home folder is."
+    * In *macOS*, edit `~/Library/Application Support/TorBrowser-Data/Tor/torrc`.
+        1. Open a new Finder window.
+        1. From the *Go* menu, select *Go to folder…*
+        1. In the *Go to the folder* text box, paste `~/Library/Application Support/TorBrowser-Data/Tor/` and press the *Go* button.
+        1. The `torrc` file will be one of the files in the window that opens.
+    * In *GNU/Linux*, edit `~/[path_to_tor_browser]/Browser/TorBrowser/Data/Tor/torrc`.
+    * In *Windows*, edit `"%HOMEDRIVE%%HOMEPATH%"\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc`.
+1. Open the `torrc` file with a text editor, such as [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad) on Windows or [TextEdit.app](https://en.wikipedia.org/wiki/TextEdit) on macOS. Any [text editor](https://simple.wikipedia.org/wiki/Text_editor) will do. However, *Microsoft Word and other programs that expect rich text formatting will not work*.
+1. Add a line to the `torrc` file that begins with `ClientOnionAuthDir` and ends with the filesystem path of the folder you chose to store your Version 3 Onion service access credential files that you noted earlier. For example, on a macOS computer, the full line in your `torrc` file might look like this:
+    ```
+    ClientOnionAuthDir /Users/YOUR_USER_NAME/Onions
+    ```
+1. Save the `torrc` file.
+1. Restart (quit and re-launch) Tor Browser.
+
+After re-opening Tor Browser, you should now be able to connect to the `.onion` address described in your `.auth_private` file (assuming, of course, that the Onion service hosts a website).
 
 ### Configuring an Android-based mobile device for authenticated Version 3 Onion services
 
