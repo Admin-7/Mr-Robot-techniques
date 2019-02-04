@@ -34,15 +34,26 @@ This section provides an overview as well as a step-by-step procedure for config
 
 ## Overview for Version 3 Onion services
 
-> 🚧 TODO: Complete the overview for Version 3 Onion services.
-
 To connect to an authenticated Version 3 Onion service, you must first create a two-part access credential called a public/private keypair. Your access credential ("keypair") is so named because one part of the access credential is "public," which is to say that it is intended to be shared, while the other part is "private," which is to say that it is intended to remain a secret known only by you. The public and private portions of your access credential are special in that they function like a digital lock-and-key: the public part is the lock, which you will give to the Onion service operator so that the Onion service can lock any messages intended for you in such a way that only you can unlock them with your corresponding (secret and private!) key.
 
 You will generate and store these two parts of your access credential ("keypair") in two separate files. The public portion will ultimately reside in a file that ends with a `.auth` extension. The private portion will ultimately reside in a file of the same name, but ending with a `.auth_private` extension.
 
 > 💡🔰 In some situations, the Onion service operator may give you the private part of your keypair. This will arrive to as a small file with a `.auth_private` extension. In this case, you need not generate another one on your own and can safely skip to step TK in the procedure outlined below.
 
-Once you have your `.auth` and `.auth_private` files containing the public and private portion of your access credential, respectively, you will need to TK
+Once you have your `.auth` and `.auth_private` files containing the public and private portion of your access credential, respectively, you will need to ensure that your Tor client software knows where to find the `.auth_private` file. This is done by adding a configuration line to your Tor's configuration file](#laptop-or-desktop-computer), a file called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
+
+The configuration line you will add (or ensure already exists) will look something like this:
+
+```
+ClientOnionAuthDir /path/to/the/folder/containing/your/auth_private_files
+```
+
+This is a Tor configuration directive (a [`ClientOnionAuthDir` directive](https://www.torproject.org/docs/tor-manual.html#ClientOnionAuthDir)). It has two parts, separated by spaces, and it breaks down as follows:
+
+1. `ClientOnionAuthDir` - Designates that whatever comes next is the filesystem path to a directory containing `.auth_private` files.
+1. `/path/to/the/folder/containing/your/auth_private_files` - Tells Tor which folder to look inside of to find `.auth_private` files.
+
+On a typical computer such as a laptop or desktop workstation, you will need to add a configuration line such as this to your Tor's configuration file, called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
 
 ## Procedure for Version 3 Onion services
 
