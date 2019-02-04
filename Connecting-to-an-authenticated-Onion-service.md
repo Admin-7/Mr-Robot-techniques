@@ -69,7 +69,7 @@ Once generated, you can safely send the public portion of your keypair to the On
 
 > 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you already have an authentication credential and can skip this section.
 
-> ⚠️🔰 At the time of this writing, this procedure assumes the use of a POSIX computing environment, such as a MacOS or GNU/Linux computer, and knowledge of a [[command line|Command line interface (CLI)]]. If you cannot access such an environment, or if using a command line interface ("terminal prompt") on your computer is unfamiliar to you, we recommend that you request your authenticated Version 3 Onion service access credential from your Onion service operator. We hope that the Tor community will make it easier to generate Version 3 Onion service authentication credentials soon.
+> ⚠️🔰 At the time of this writing, this procedure assumes the use of a POSIX computing environment, such as a macOS or GNU/Linux computer, and knowledge of a [[command line|Command line interface (CLI)]]. If you cannot access such an environment, or if using a command line interface ("terminal prompt") on your computer is unfamiliar to you, we recommend that you request your authenticated Version 3 Onion service access credential from your Onion service operator. We hope that the Tor community will make it easier to generate Version 3 Onion service authentication credentials soon.
 
 **Do this** to generate a public/private keypair for use as an authenticated Version 3 Onion service access credential:
 
