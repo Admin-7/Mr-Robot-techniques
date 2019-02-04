@@ -10,9 +10,11 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 
 1. [Identifying the Onion service version](#identifying-the-onion-service-version)
 1. [Connecting to authenticated Version 3 Onion services](#connecting-to-authenticated-version-3-onion-services)
+    1. [Overview for Version 3 Onion services](#overview-for-version-3-onion-services)
+    1. [Procedure for Version 3 Onion services](#procedure-for-version-3-onion-services)
 1. [Connecting to authenticated Version 2 Onion services](#connecting-to-authenticated-version-2-onion-services)
-    1. [Overview](#overview)
-    1. [Procedure](#procedure)
+    1. [Overview for Version 2 Onion services](#overview-for-version-2-onion-services)
+    1. [Procedure for Version 2 Onion services](#procedure-for-version-2-onion-services)
         1. [Laptop or desktop computer](#laptop-or-desktop-computer)
         1. [Android-based mobile device](#android-based-mobile-device)
         1. [Apple iOS device](#apple-ios-device)
@@ -28,13 +30,29 @@ Using the above rules, the length of the Onion domain name can tell you whether 
 
 # Connecting to authenticated Version 3 Onion services
 
-> 🚧 TODO: Write up a basic V3 Onion service guide.
+This section provides an overview as well as a step-by-step procedure for configuring your Tor client to connect to authenticated Version 3 Onion service servers.
+
+## Overview for Version 3 Onion services
+
+> 🚧 TODO: Complete the overview for Version 3 Onion services.
+
+To connect to an authenticated Version 3 Onion service, you must first create a two-part access credential called a public/private keypair. Your access credential ("keypair") is so named because one part of the access credential is "public," which is to say that it is intended to be shared, while the other part is "private," which is to say that it is intended to remain a secret known only by you. The public and private portions of your access credential are special in that they function like a digital lock-and-key: the public part is the lock, which you will give to the Onion service operator so that the Onion service can lock any messages intended for you in such a way that only you can unlock them with your corresponding (secret and private!) key.
+
+You will generate and store these two parts of your access credential ("keypair") in two separate files. The public portion will ultimately reside in a file that ends with a `.auth` extension. The private portion will ultimately reside in a file of the same name, but ending with a `.auth_private` extension.
+
+> 💡🔰 In some situations, the Onion service operator may give you the private part of your keypair. This will arrive to as a small file with a `.auth_private` extension. In this case, you need not generate another one on your own and can safely skip to step TK in the procedure outlined below.
+
+Once you have your `.auth` and `.auth_private` files containing the public and private portion of your access credential, respectively, you will need to TK
+
+## Procedure for Version 3 Onion services
+
+> 🚧 TODO: Complete the procedure section for Version 3 Onion services.
 
 # Connecting to authenticated Version 2 Onion services
 
 This section provides an overview as well as a step-by-step procedure for configuring your Tor client to connect to authenticated Version 2 Onion service servers.
 
-## Overview
+## Overview for Version 2 Onion services
 
 To connect to an authenticated Version 2 Onion service, you must first acquire the access credentials (your personalized password) from whoever operates the service. This will likely be a human that you know. You will need to communicate with them (perhaps using [Signal](https://signal.org/)?) to learn what your access credentials will be. Once acquired, your access credentials will look something like the following line of text:
 
@@ -54,7 +72,7 @@ This is a Tor configuration directive (a [`HidServAuth` directive](https://www.t
 
 On a typical computer such as a [laptop or desktop workstation, you will need to add this configuration line to your Tor's configuration file](#laptop-or-desktop-computer), called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen. If you are [using an Android-based mobile phone](#android-based-mobile-device), you'll enter the Onion address and the authentication cookie value into an actual settings screen.
 
-# Procedure
+# Procedure for Version 2 Onion services
 
 The exact procedure for setting up your Tor client to connect to a Tor server's authenticated Version 2 Onion service varies slightly depending on the device you're using.
 
