@@ -42,7 +42,7 @@ To connect to an authenticated Version 3 Onion service, you must first create a 
 
 You will generate and store these two parts of your access credential ("keypair") in two separate files. The public portion will ultimately reside in a file that ends with `.auth`. The private portion will ultimately reside in a file ending with `.auth_private`.
 
-> 💡🔰 In some situations, the Onion service operator may give you the private part of your keypair. This will arrive to as a small file with a `.auth_private` extension. In this case, you need not generate another one on your own and can safely skip the [§ Generating authentication credentials for Version 3 Onion services](#generating-authentication-credentials-for-version-3-onion-services) section in [the procedure outlined below](#procedure-for-version-3-onion-services).
+> 💡🔰 In some situations, the Onion service operator may give you the private part of your keypair. This will arrive as a small file with a `.auth_private` extension. In this case, you need not generate another one on your own and can safely skip the [§ Generating authentication credentials for Version 3 Onion services](#generating-authentication-credentials-for-version-3-onion-services) section in [the procedure outlined below](#procedure-for-version-3-onion-services).
 
 Once you have your `.auth` and `.auth_private` files containing the public and private portion of your access credential, respectively, you will need to ensure that your Tor software knows where to find the `.auth_private` file. This is done by adding a configuration line to your Tor's configuration file, a file called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
 
