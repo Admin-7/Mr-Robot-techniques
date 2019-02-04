@@ -38,7 +38,7 @@ This section provides an overview as well as a step-by-step procedure for config
 
 ## Overview for Version 3 Onion services
 
-To connect to an authenticated Version 3 Onion service, you must first create a two-part access credential called a public/private keypair. Your access credential ("keypair") is so named because one part of the access credential is "public," which is to say that it is intended to be shared, while the other part is "private," which is to say that it is intended to remain a secret known only by you (or, more accurately, your computer). The public and private portions of your access credential are related in that they function like a digital lock-and-key: the public part is the lock and the private part is the corresponding key that "opens" the lock.
+To connect to an authenticated Version 3 Onion service, you must first create a two-part access credential called a public/private keypair. Your access credential ("keypair") is so named because one part of the access credential is "public," which is to say that it is intended to be shared, while the other part is "private," which is to say that it is intended to remain a secret known only by you (or, more accurately, your computer). The public and private portions of your access credential are related in that they function like a digital lock and key: the public part is the lock and the private part is the corresponding key that "opens" the lock.
 
 You will generate and store these two parts of your access credential ("keypair") in two separate files. The public portion will ultimately reside in a file that ends with `.auth`. The private portion will ultimately reside in a file ending with `.auth_private`.
 
