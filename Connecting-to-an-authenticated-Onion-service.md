@@ -12,12 +12,16 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 1. [Connecting to authenticated Version 3 Onion services](#connecting-to-authenticated-version-3-onion-services)
     1. [Overview for Version 3 Onion services](#overview-for-version-3-onion-services)
     1. [Procedure for Version 3 Onion services](#procedure-for-version-3-onion-services)
+        1. [Generating authentication credentials for Version 3 Onion services](#generating-authentication-credentials-for-version-3-onion-services)
+        1. [Configuring a laptop or desktop computer for authenticated Version 3 Onion services](#configuring-a-laptop-or-desktop-computer-for-authenticated-version-3-onion-services)
+        1. [Configuring an Android-based mobile device for authenticated Version 3 Onion services](#configuring-an-android-based-mobile-device-for-authenticated-version-3-onion-services)
+        1. [Configuring an Apple iOS device for Version 3 authenticated Onion services](#configuring-an-apple-ios-device-for-authenticated-version-3-onion-services)
 1. [Connecting to authenticated Version 2 Onion services](#connecting-to-authenticated-version-2-onion-services)
     1. [Overview for Version 2 Onion services](#overview-for-version-2-onion-services)
     1. [Procedure for Version 2 Onion services](#procedure-for-version-2-onion-services)
-        1. [Laptop or desktop computer](#laptop-or-desktop-computer)
-        1. [Android-based mobile device](#android-based-mobile-device)
-        1. [Apple iOS device](#apple-ios-device)
+        1. [Configuring a laptop or desktop computer for authenticated Version 2 Onion services](#configuring-a-laptop-or-desktop-computer-for-authenticated-version-2-onion-services)
+        1. [Configuring an Android-based mobile device for authenticated Version 2 Onion services](#configuring-an-android-based-mobile-device-for-authenticated-version-2-onion-services)
+        1. [Configuring an Apple iOS device for Version 2 authenticated Onion services](#configuring-an-apple-ios-device-for-authenticated-version-2-onion-services)
 
 # Identifying the Onion service version
 
@@ -34,13 +38,13 @@ This section provides an overview as well as a step-by-step procedure for config
 
 ## Overview for Version 3 Onion services
 
-To connect to an authenticated Version 3 Onion service, you must first create a two-part access credential called a public/private keypair. Your access credential ("keypair") is so named because one part of the access credential is "public," which is to say that it is intended to be shared, while the other part is "private," which is to say that it is intended to remain a secret known only by you. The public and private portions of your access credential are special in that they function like a digital lock-and-key: the public part is the lock, which you will give to the Onion service operator so that the Onion service can lock any messages intended for you in such a way that only you can unlock them with your corresponding (secret and private!) key.
+To connect to an authenticated Version 3 Onion service, you must first create a two-part access credential called a public/private keypair. Your access credential ("keypair") is so named because one part of the access credential is "public," which is to say that it is intended to be shared, while the other part is "private," which is to say that it is intended to remain a secret known only by you (or, more accurately, your computer). The public and private portions of your access credential are related in that they function like a digital lock-and-key: the public part is the lock and the private part is the corresponding key that "opens" the lock.
 
-You will generate and store these two parts of your access credential ("keypair") in two separate files. The public portion will ultimately reside in a file that ends with a `.auth` extension. The private portion will ultimately reside in a file of the same name, but ending with a `.auth_private` extension.
+You will generate and store these two parts of your access credential ("keypair") in two separate files. The public portion will ultimately reside in a file that ends with `.auth`. The private portion will ultimately reside in a file ending with `.auth_private`.
 
-> 💡🔰 In some situations, the Onion service operator may give you the private part of your keypair. This will arrive to as a small file with a `.auth_private` extension. In this case, you need not generate another one on your own and can safely skip to step TK in the procedure outlined below.
+> 💡🔰 In some situations, the Onion service operator may give you the private part of your keypair. This will arrive to as a small file with a `.auth_private` extension. In this case, you need not generate another one on your own and can safely skip the [§ Generating authentication credentials for Version 3 Onion services](#generating-authentication-credentials-for-version-3-onion-services) section in [the procedure outlined below](#procedure-for-version-3-onion-services).
 
-Once you have your `.auth` and `.auth_private` files containing the public and private portion of your access credential, respectively, you will need to ensure that your Tor client software knows where to find the `.auth_private` file. This is done by adding a configuration line to your Tor's configuration file](#laptop-or-desktop-computer), a file called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
+Once you have your `.auth` and `.auth_private` files containing the public and private portion of your access credential, respectively, you will need to ensure that your Tor software knows where to find the `.auth_private` file. This is done by adding a configuration line to your Tor's configuration file, a file called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
 
 The configuration line you will add (or ensure already exists) will look something like this:
 
@@ -50,14 +54,82 @@ ClientOnionAuthDir /path/to/the/folder/containing/your/auth_private_files
 
 This is a Tor configuration directive (a [`ClientOnionAuthDir` directive](https://www.torproject.org/docs/tor-manual.html#ClientOnionAuthDir)). It has two parts, separated by spaces, and it breaks down as follows:
 
-1. `ClientOnionAuthDir` - Designates that whatever comes next is the filesystem path to a directory containing `.auth_private` files.
+1. `ClientOnionAuthDir` - Designates that whatever comes next is the location of a folder containing `.auth_private` files.
 1. `/path/to/the/folder/containing/your/auth_private_files` - Tells Tor which folder to look inside of to find `.auth_private` files.
 
-On a typical computer such as a laptop or desktop workstation, you will need to add a configuration line such as this to your Tor's configuration file, called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen.
+Although the folder containing your `.auth_private` files can be anywhere you like and can contain other files in addition to your `.auth_private` files, we suggest that you create a new folder for the exclusive purpose of storing your private `.auth_private` files.
 
 ## Procedure for Version 3 Onion services
 
-> 🚧 TODO: Complete the procedure section for Version 3 Onion services.
+As described in the [Overview for Version 3 Onion services](#overview-for-version-3-onion-services), access credentials for Version 3 Onion services are composed of a public/private keypair and are ideally created by you, the client, so that the Onion service operator need not ever have access to your Onion service private key. The [§ Generating authentication credentials for Version 3 Onion services](#generating-authentication-credentials-for-version-3-onion-services) section, below, offers a step-by-step guide for generating such a keypair.
+
+Once generated, you can safely send the public portion of your keypair to the Onion service operator (ideally over a secure channel such as [Signal](https://Signal.org/)). Finally, you will inform your Tor software where to find the private portion of your keypair.
+
+### Generating authentication credentials for Version 3 Onion services
+
+> 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you already have an authentication credential and can skip this section.
+
+> ⚠️🔰 At the time of this writing, this procedure assumes the use of a POSIX computing environment, such as a MacOS or GNU/Linux computer, and knowledge of a [[command line|Command line interface (CLI)]]. If you cannot access such an environment, or if using a command line interface ("terminal prompt") on your computer is unfamiliar to you, we recommend that you request your authenticated Version 3 Onion service access credential from your Onion service operator. We hope that the Tor community will make it easier to generate Version 3 Onion service authentication credentials soon.
+
+**Do this** to generate a public/private keypair for use as an authenticated Version 3 Onion service access credential:
+
+1. On a laptop or desktop computer, ensure you have [OpenSSL](https://www.openssl.org/) 1.1 or later installed. [Links to ready-to-use OpenSSL distributions are available from the OpenSSL wiki](https://wiki.openssl.org/index.php/Binaries). Many GNU/Linux computers already have OpenSSL installed.
+1. On the same laptop or desktop computer, ensure you have [Base64](https://en.wikipedia.org/wiki/Base64) and [Base32](https://en.wikipedia.org/wiki/Base32) encoding and decoding utilities available, such as those provided by [the `basez` package](https://pkgs.org/download/basez) or an equivalent.
+1. Using OpenSSL 1.1 or later, generate a new X25519 private key. This will produce a [PEM](https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail)-encoded private key file, `private-key.pem`:
+    ```sh
+    openssl genpkey -algorithm x25519 -out private-key.pem
+    ```
+1. Using the newly generated private key file, generate a corresponding public key file, `public-key.pem`:
+    ```sh
+    openssl pkey -in private-key.pem -pubout -outform PEM -out public-key.pem
+    ```
+1. Now that you have both the private and public parts of your keypair, first convert the private part from its PEM-encoded format into a Base32 encoded string for use in your Tor client’s `.auth_private` file:
+    ```sh
+    cat private-key.pem | \
+        grep -v " PRIVATE KEY" | \
+        basez --base64pem --decode | \
+        tail --bytes 32 | \
+        basez --base32 | \
+        tr -d '=' > some-onion.auth_private # You can change `some-onion` to a name more meaningful to you.
+    ```
+1. At this point, the `some-onion.auth_private` file (which you can rename if you like) contains only the private key itself, so we need to prepend the Onion domain (without the `.onion` top-level domain), a colon (`:`), the keyword `descriptor`, another field-delimiting colon, and the key type keyword `x25519`, followed by a final colon. For example, if the Onion address for which this private key will be used to authenticate this client is `p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`, the final `.auth_private` file could be constructed like this:
+    ```sh
+    echo -n "p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd:descriptor:x25519:" | \
+        cat - some-onion.auth_private
+    ```
+1. Finally, prepare the `.auth` public key file for the Onion service operator by performing a similar preparatory procedure:
+    ```sh
+    # Prepare the initial `.auth` file.
+    cat public-key.pem | \
+        grep -v " PUBLIC KEY" | \
+        basez --base64pem --decode | \
+        tail --bytes 32 | \
+        basez --base32 | \
+        tr -d '=' > some-client.auth
+    # Prepend the Tor descriptor fields to the base32-encoded bytes in the `.auth` file.
+    echo -n "descriptor:x25519:" | cat - some-client.auth
+    ```
+
+After this procedure is complete, you will have four files:
+
+1. `private-key.pem`, which can be deleted,
+1. `public-key.pem`, which can also be deleted,
+1. `some-onion.auth_private`, which you must take responsibility for protecting (it is like your password), and
+1. `some-client.auth`, which you should share with the operator of the Onion service.
+
+### Configuring a laptop or desktop computer for authenticated Version 3 Onion services
+
+**Do this** to connect to an authenticated Version 3 Onion service from your laptop or desktop computer:
+
+> 🚧 TODO: Describe configuring Tor with an Onion service keypair.
+
+### Configuring an Android-based mobile device for authenticated Version 3 Onion services
+
+At the time of this writing, Android cannot connect to authenticated Version 3 Onion services. When available, [Orbot](https://www.torproject.org/docs/android.html) may make it possible to connect to authenticated Version 3 Onion services on Android-based mobile devices.
+
+### Configuring an Apple iOS device for authenticated Version 3 Onion services
+
+At the time of this writing, iOS cannot connect to authenticated Version 3 Onion services. When available, [iCepa](https://github.com/iCepa/iCepa) may make it possible to connect to Onion services on devices running Apple's iOS.
 
 # Connecting to authenticated Version 2 Onion services
 
@@ -83,11 +155,11 @@ This is a Tor configuration directive (a [`HidServAuth` directive](https://www.t
 
 On a typical computer such as a [laptop or desktop workstation, you will need to add this configuration line to your Tor's configuration file](#laptop-or-desktop-computer), called `torrc`. The configuration file tells Tor certain things about how it should operate, exactly like a settings screen. If you are [using an Android-based mobile phone](#android-based-mobile-device), you'll enter the Onion address and the authentication cookie value into an actual settings screen.
 
-# Procedure for Version 2 Onion services
+## Procedure for Version 2 Onion services
 
 The exact procedure for setting up your Tor client to connect to a Tor server's authenticated Version 2 Onion service varies slightly depending on the device you're using.
 
-## Laptop or desktop computer
+### Configuring a laptop or desktop computer for authenticated Version 2 Onion services
 
 **Do this** to connect to an authenticated Version 2 Onion service from your laptop or desktop computer:
 
@@ -109,7 +181,7 @@ The exact procedure for setting up your Tor client to connect to a Tor server's 
 
 After re-opening Tor Browser, you should now be able to connect to the `.onion` address described in your `torrc` file (assuming, of course, that the Onion service hosts a website).
 
-## Android-based mobile device
+### Configuring an Android-based mobile device for authenticated Version 2 Onion Services
 
 **Do this** to connect to an authenticated Version 2 Onion service from your Android-based phone:
 
@@ -134,6 +206,6 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 
 You should now be able to connect to the `.onion` address that you configured in Orbot's "Hidden Services" menu (assuming, of course, that the Onion service is a website).
 
-## Apple iOS device
+### Configuring an Apple iOS device for authenticated Version 2 Onion services
 
-At the time of this writing, iOS cannot connect to authenticated Onion services. When available, [iCepa](https://github.com/iCepa/iCepa) may make it possible to connect to Onion services on devices running Apple's iOS.
+At the time of this writing, iOS cannot connect to authenticated Version 2 Onion services. When available, [iCepa](https://github.com/iCepa/iCepa) may make it possible to connect to Onion services on devices running Apple's iOS.
