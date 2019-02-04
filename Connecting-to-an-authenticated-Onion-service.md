@@ -56,11 +56,11 @@ On a typical computer such as a [laptop or desktop workstation, you will need to
 
 # Procedure
 
-The exact procedure for setting up your Tor client to connect to a Tor server's authenticated Onion service varies slightly depending on the device you're using.
+The exact procedure for setting up your Tor client to connect to a Tor server's authenticated Version 2 Onion service varies slightly depending on the device you're using.
 
 ## Laptop or desktop computer
 
-**Do this** to connect to an authenticated Onion service from your laptop or desktop computer:
+**Do this** to connect to an authenticated Version 2 Onion service from your laptop or desktop computer:
 
 1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
 1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, poke them until they send you your access credentials. :) 
@@ -82,7 +82,7 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 
 ## Android-based mobile device
 
-**Do this** to connect to an authenticated Onion service from your Android-based phone:
+**Do this** to connect to an authenticated Version 2 Onion service from your Android-based phone:
 
 1. Install [Orbot](https://guardianproject.info/apps/orbot/). You can acquire Orbot from the Google Play Store or, preferably, from [F-Droid](https://f-droid.org/), a [Free Software](https://www.gnu.org/philosophy/free-sw.html) app store that offers most of the same apps as the Google Play Store, but free of charge.
 1. Install [Orfox](https://guardianproject.info/apps/orfox/). You can acquire Orfox from the Google Play Store or, preferably, from F-Droid.
