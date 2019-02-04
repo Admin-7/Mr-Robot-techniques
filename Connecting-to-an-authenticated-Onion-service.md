@@ -115,7 +115,7 @@ After this procedure is complete, you will have four files:
 1. `private-key.pem`, which can be deleted,
 1. `public-key.pem`, which can also be deleted,
 1. `some-onion.auth_private`, which you must take responsibility for protecting (it is like your password), and
-1. `some-client.auth`, which you should share with the operator of the Onion service.
+1. `some-client.auth`, which you should share with the operator of the Onion service by sending the file to them (over a secure channel such as in a [Signal Private Messenger](https://Signal.org/) message, if possible).
 
 ### Configuring a laptop or desktop computer for authenticated Version 3 Onion services
 
