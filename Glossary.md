@@ -660,6 +660,10 @@ Initialism for [Phase Alternating Line](#phase-alternating-line).
 
 Acronym for [pluggable authentication module](#pluggable-authentication-module).
 
+## PEM
+
+Initialism for [Privacy-Enhanced Mail](#privacy-enhanced-mail).
+
 ## [Personally identifiable information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
 
 ## [Phase Alternating Line](https://en.wikipedia.org/wiki/PAL)
@@ -687,6 +691,8 @@ Initialism for "[point of interest](#point-of-interest)."
 ## [Point of interest](https://en.wikipedia.org/wiki/Point_of_interest)
 
 ## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
+
+## [Privacy-Enhanced Mail](https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail)
 
 ## Privilege elevation
 
