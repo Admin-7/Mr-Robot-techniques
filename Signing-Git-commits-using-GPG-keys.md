@@ -53,7 +53,7 @@ The following outlines the exact process for generating a good GPG keypair, foll
     gpg --full-gen-key
     ```
 1. Select a type of key. We suggest making an RSA keypair (typically also the default).
-    > :bulb: It is possible to sign commits with different types of GPG keys, however, as of this writing, GitHub itself suggests using RSA keys with 4096 bits. A 4096-bit long RSA key is secure enough for these purposes.
+    > :bulb: It is possible to sign commits with different types of GPG keys, however, as of this writing, GitHub itself suggests using RSA keys that are 4096 bits long. A 4096-bit long RSA key is secure enough for these purposes.
 1. Select a key length. Type in `4096` and hit `Enter` to make a 4096-bit long key.
 1. Select how long you want this key to be valid for. Pick a time frame that makes sense for the use of the key; 2 years, for example, is long enough to be useful but not so long as to risk perpetual use if a vulnerability should be found or a compromise should occur later on.
 1. Confirm your chosen expiry date.
