@@ -97,7 +97,7 @@ Once generated, you can safely send the public portion of your keypair to the On
     echo -n "p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd:descriptor:x25519:" | \
         cat - some-onion.auth_private
     ```
-1. Finally, prepare the `.auth` public key file for the Onion service operator by performing a similar preparatory procedure:
+1. Finally, prepare the `.auth` public key file for the Onion service operator by performing a similar preparatory procedure. For the public key's `.auth` file, you should omit the Onion address itself and merely need to prepend the keyword `descriptor`, a field-delimiting colon (`:`), the key type keyword `x25519`, and a final field-delimiting colon:
     ```sh
     # Prepare the initial `.auth` file.
     cat public-key.pem | \
