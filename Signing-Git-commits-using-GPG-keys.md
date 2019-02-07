@@ -2,7 +2,7 @@
 
 **Signing Git commits using GPG keys** is the process of using a cryptographic identity to assert that a given change to a piece of software was made by a given individual, organization, or other entity. This is accomplished by associating a (cryptographic) [digital signature](https://simple.wikipedia.org/wiki/Digital_signature) with the commit (software patch) itself. Other users of the software (like you) can then validate that the software being patched was modified only by sources they trust.
 
-> 🔰📖 GPG is also known as _PGP_. For the purposes of this guide, we will be referring to the tool as **GPG**. For further information on the difference between the initialisms, see [[GPG and PGP]].
+> 🔰📖 GPG is also known as *PGP*. For the purposes of this guide, we will be referring to the tool as **GPG**. For further information on the difference between the initialisms, see [[GPG and PGP]].
 
 > :beginner: :bulb: This procedure requires the use of a command line. If you are unfamiliar with the command line, we recommend you take some time to work through the excellent [Taming the Terminal](https://www.bartbusschots.ie/s/blog/taming-the-terminal/) series.
 
@@ -25,11 +25,11 @@ Additionally, if you plan on using this key for a project hosted by GitHub.com, 
 
 # Procedure
 
-The following outlines the exact process for generating a good GPG keypair, followed by telling `git` which one to use, with opsec considerations included. We assume you will be performing these steps from a laptop or desktop computer. You _can_ generate GPG keys from mobile devices such as Android smartphones, but we find it difficult to write code from a mobile device. :)
-
-> :bulb: For information regarding GPG key generation on an Android device, see [[GPG and PGP]].
+The following outlines the exact process for generating a good GPG keypair, followed by telling `git` which one to use, with [[operational security|OPSEC]] considerations included. We assume you will be performing these steps from a laptop or desktop computer. You *can* [generate GPG keys from mobile devices such as Android smartphones](https://www.openkeychain.org/), but we find it difficult to write code from a mobile device. :)
 
 ## Step 1: Generate a GPG keypair
+
+Before you can use a GPG key, you must have one to use. This section describes the process for generating an OpenPGP-compatible keypair (i.e., a GPG keypair) that can be used by all standards-compliant GPG or PGP programs, such as `git`.
 
 > :beginner::warning: Your GPG key, just like the username and password combination to your account, can reveal your identity (because it _is_ an identity). Therefore, we recommended making different GPG keys for each of your GitHub (or GitLab, etc.) accounts that you wish to compartmentalize from one another. In other words, do not use your personal GPG key with your pseudonymous GitHub account, or vice versa. We are, of course, assuming you probably don't want to sign your day job's code commits with your anti-cop GPG key, unless your boss is down. :black_flag:
 
@@ -73,6 +73,8 @@ Continue to the next steps to simplify this command line quite a bit.
 
 ## Step 2: Configure Git or a specific Git project
 
+Once you have a GPG keypair with which to use to sign commits, you may want to configure your installation of the Git source code management tool, or a specific Git repository, to automatically use that key when you commit changes to the code.
+
 > :bulb: This step is optional, but recommended.
 
 1. Find the fingerprint of the GPG key you'd like to use to sign commits with.
@@ -97,10 +99,12 @@ The above is enough to automatically select your configured signing key and crea
 
 ## Step 3: Set a git commit alias
 
+To further reduce repetitive typing, some people choose to set up a [Git command alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases).
+
 > :bulb: This step is purely optional.
 
 1. Navigate to the folder containing your Git project.
-1. [Configure a `git` alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases):
+1. Configure a `git` alias:
     ```
     git config alias.cs "commit -S"
     ```
