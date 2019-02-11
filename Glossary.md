@@ -423,6 +423,10 @@ Abbreviation for [Hertz](#hertz).
 
 # I
 
+## ICH
+
+Initialism for [I/O Controller Hub](#io-controller-hub).
+
 ## IEC
 
 Initialism for [International Electrotechnical Commission](#international-electrotechnical-commission).
@@ -452,6 +456,8 @@ See also:
 ## IOC
 
 Initialism for [Indicator of Compromise](#indicator-of-compromise).
+
+## [I/O Controller Hub](https://en.wikipedia.org/wiki/I%2FO_Controller_Hub)
 
 ## IPC
 
@@ -660,6 +666,8 @@ Initialism for [Phase Alternating Line](#phase-alternating-line).
 
 Acronym for [pluggable authentication module](#pluggable-authentication-module).
 
+## [PCI IDE ISA Xcelerator](https://en.wikipedia.org/wiki/PCI_IDE_ISA_Xcelerator)
+
 ## PEM
 
 Initialism for [Privacy-Enhanced Mail](#privacy-enhanced-mail).
@@ -677,6 +685,10 @@ See also [amplitude-shift keying](#amplitude-shift-keying), [frequency-shift key
 ## PII
 
 Initialism for [personally identifiable information](#personally-identifiable-information). See also [sensitive personal information](#sensitive-personal-information).
+
+## PIIX
+
+Initialism for [PCI IDE ISA Xcelerator](#pci-ide-isa-xcelerator).
 
 ## [[PHYSEC]]
 
