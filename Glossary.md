@@ -721,6 +721,12 @@ Initialism for [pulse-width modulation](#pulse-width-modulation).
 
 # Q
 
+## QUIC
+
+Initialism for [Quick UDP Internet Connections](#quick-udp-internet-connections).
+
+## [Quick UDP Internet Connections](https://en.wikipedia.org/wiki/QUIC)
+
 # R
 
 ## R/W
