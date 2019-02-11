@@ -459,6 +459,8 @@ Initialism for [Indicator of Compromise](#indicator-of-compromise).
 
 ## [I/O Controller Hub](https://en.wikipedia.org/wiki/I%2FO_Controller_Hub)
 
+## [Intelligent Platform Management Interface](https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface)
+
 ## IPC
 
 Initialism for one of:
@@ -466,6 +468,10 @@ Initialism for one of:
 * [Instructions per cycle](https://en.wikipedia.org/wiki/Instructions_per_cycle)
 * [Inter-process communication](https://en.wikipedia.org/wiki/Inter-process_communication)
 * [IP camera](https://en.wikipedia.org/wiki/IP_camera)
+
+## IPMI
+
+Initialism for [Intelligent Platform Management Interface](#intelligent-platform-management-interface).
 
 ## ISA
 
