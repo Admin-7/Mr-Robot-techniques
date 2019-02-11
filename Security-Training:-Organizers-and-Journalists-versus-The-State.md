@@ -88,6 +88,7 @@ Before you dive too deeply into this practice material, you should first explore
 * Consider [setting up an `.onion` service to access your site/domain](https://riseup.net/en/security/network-security/tor/onionservices-best-practices)
 * Journalistic organizations should consider [SecureDrop](https://securedrop.org/)
 * Use [MAT](https://mat.boum.org/) (or another tool) to remove document metadata before sharing online (specially if you need to protects your source)
+* If you are providing shared hosting (virtualized, cloud, or shared) environments and infrastructure on legacy hardware, patch the (Intel) hardware on which these environments run using the [Intel Microcode Boot Loader](https://www.ngohq.com/intel-microcode-boot-loader.html).
 
 ## See also
 
