@@ -413,6 +413,12 @@ Abbreviation for "[half-duplex](#half-duplex)."
 
 ## [Hertz](https://simple.wikipedia.org/wiki/Hertz)
 
+## [High Precision Event Timer](https://en.wikipedia.org/wiki/High_Precision_Event_Timer)
+
+## HPET
+
+Initialism for [High Precision Event Timer](#high-precision-event-timer).
+
 ## HVM
 
 Initialism for [hardware-assisted virtualization](#hardware-assisted-virtualization).
