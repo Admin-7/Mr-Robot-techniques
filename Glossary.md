@@ -177,6 +177,12 @@ Initialism for [Common Language Location Identifier](#common-language-location-i
 
 ## [Common Language Location Identifier](https://en.wikipedia.org/wiki/CLLI_code)
 
+## [Common Vulnerabilities and Exposures](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)
+
+## [Common Vulnerability Scoring System](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System)
+
+## [Common Weakness Enumeration](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
+
 ## [Continuous wave](https://en.wikipedia.org/wiki/Continuous_wave)
 
 ## [Control-flow integrity](https://en.wikipedia.org/wiki/Control-flow_integrity)
@@ -184,6 +190,18 @@ Initialism for [Common Language Location Identifier](#common-language-location-i
 ## CTF
 
 See [capture the flag](#capture-the-flag).
+
+## CVE
+
+Initialism for [Common Vulnerabilities and Exposures](#common-vulnerabilities-and-exposures).
+
+## CVSS
+
+Initialism for [Common Vulnerability Scoring System](#common-vulnerability-scoring-system).
+
+## CWE
+
+Initialism for [Common Weakness Enumeration](#common-weakness-enumeration).
 
 ## CW
 
