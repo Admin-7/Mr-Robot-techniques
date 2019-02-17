@@ -183,6 +183,8 @@ Initialism for [Common Language Location Identifier](#common-language-location-i
 
 ## [Common Weakness Enumeration](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
 
+## [Common Weakness Scoring System](https://cwe.mitre.org/cwss/)
+
 ## [Continuous wave](https://en.wikipedia.org/wiki/Continuous_wave)
 
 ## [Control-flow integrity](https://en.wikipedia.org/wiki/Control-flow_integrity)
@@ -199,10 +201,6 @@ Initialism for [Common Vulnerabilities and Exposures](#common-vulnerabilities-an
 
 Initialism for [Common Vulnerability Scoring System](#common-vulnerability-scoring-system).
 
-## CWE
-
-Initialism for [Common Weakness Enumeration](#common-weakness-enumeration).
-
 ## CW
 
 Initialism for [continuous wave](#continuous-wave).
@@ -214,6 +212,14 @@ Initialism for [continuous wave](#continuous-wave) - lower.
 ## CW-U
 
 Initialism for [continuous wave](#continuous-wave) - upper.
+
+## CWE
+
+Initialism for [Common Weakness Enumeration](#common-weakness-enumeration).
+
+## CWSS
+
+Initialism for [Common Weakness Scoring System](#common-weakness-scoring-system).
 
 # D
 
