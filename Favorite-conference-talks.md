@@ -1,8 +1,17 @@
-> [[Wiki|Home]] ▸ [[InfoSec]] ▸ **Favorite conference talks**
+> [[Wiki|Home]] ▸ **Favorite conference talks**
 
-Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to just find someone willing to show-and-tell you stuff about it. It's also useful to have a mix of active (practice) and passive (consumptive) educational material.
+Sometimes, the best way to learn a thing is to just find someone willing to show-and-tell you stuff about it. It's also useful to have a mix of active (practice) and passive (consumptive) educational material.
 
-> 📝 🚧 This is somewhat of an experiment to see if a list like this is useful. It's intended to be a sort of passive-study supplement to the material in the "parent" [[InfoSec]] page on this wiki. My thinking is that it's nice to be given a guided path through "the black hole of YouTube" for long bus rides, meal times, or other periods where our hands cannot be on the keyboard.
+> 📝 🚧 This is somewhat of an experiment to see if a list like this is useful. It's intended to be a sort of passive-study supplement to the material in the rest of this wiki. My thinking is that it's nice to be given a guided path through "the black hole of YouTube" for long bus rides, meal times, or other periods where our hands cannot be on the keyboard.
+
+# Contents
+
+1. [Computer Systems](#computer-systems)
+    1. [Phones](#phones)
+1. [Security](#security)
+    1. [Hacking](#hacking)
+        1. [Hacking demonstrations](#hacking-demonstrations)
+        1. [Law and Politics](#law-and-politics)
 
 # Computer Systems
 
@@ -36,7 +45,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
 ## Hacking
 
-### Demonstrations
+### Hacking demonstrations
 
 * ["Look Ma, No Exploits!" The Recon-NG Framework - DerbyCon 2013](https://www.youtube.com/watch?v=vkmNTNl6urw)
 
@@ -59,7 +68,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
   "What sorts of RF transactions take place in RFID systems, such as toll booths, building security and vehicular keyless entry? […] Wireless systems, and their radio signals, are everywhere: consumer, corporate, government, amateur - widely deployed and often vulnerable. If you have ever wondered what sort of information is buzzing around you, this talk will introduce how you can dominate the RF spectrum by 'blindly' analysing any signal, and then begin reverse engineering it from the physical layer up. I will demonstrate how these techniques can be applied to dissect and hack RF communications systems, such as those above, using open source software and cheap radio hardware. In addition, I'll show how long-term radio data gathering can be used to crack poorly-implemented encryption schemes, such as the Radio Data Service's Traffic Message Channel." (See also: [All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio - DEF CON 21](https://www.youtube.com/watch?v=ZuNOD3XWp4A).) (Pair with "Radio Hacking: Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016," above.)
 
 
-### Law & Politics
+### Law and Politics
 
 * [How Tor Users Got Caught - DEF CON 22 (Part 1)](https://www.youtube.com/watch?v=7G1LjQSYM5Q), and [Part 2](https://www.youtube.com/watch?v=TQ2bk9kMneI)
 
