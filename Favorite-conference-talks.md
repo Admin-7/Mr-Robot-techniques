@@ -6,7 +6,7 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
 * [The Tragedy of systemd - linux.conf.au 2019](https://www.youtube.com/watch?v=o_AIw9bGogo)
 
-  A January, 2019 presentation by [FreeBSD](https://www.freebsd.org/) developer [Benno Rice](https://twitter.com/jeamland) discussing the origins of [systemd](https://freedesktop.org/wiki/Software/systemd/), and its role in providing a set of "system layer" functions that conceptually sit between the traditional notions of kernelspace and userspace. He also discusses the contention around the use and adoption of systemd, how contempt culture stifles progress, and how it ought to be looked at as a source of ideas rather than a problematic piece of software.
+  A January, 2019 presentation by [FreeBSD](https://www.freebsd.org/) developer [Benno Rice](https://twitter.com/jeamland) discussing the origins of [systemd](https://freedesktop.org/wiki/Software/systemd/), and its role in providing a set of "system layer" functions that conceptually sit between the traditional notions of kernelspace and userspace. He also discusses the contention around the use and adoption of systemd, how contempt culture stifles progress, and how the systemd project ought to be looked at as a source of ideas rather than a problematic piece of software.
 
 * [The Secret Life of SIM Cards - DEF CON 21](https://www.youtube.com/watch?v=31D94QOo2gY)
 
