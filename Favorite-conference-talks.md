@@ -4,6 +4,10 @@ Sometimes, the best way to learn a thing (about infosec/cybersecurity) is to jus
 
 > 📝 🚧 This is somewhat of an experiment to see if a list like this is useful. It's intended to be a sort of passive-study supplement to the material in the "parent" [[InfoSec]] page on this wiki. My thinking is that it's nice to be given a guided path through "the black hole of YouTube" for long bus rides, meal times, or other periods where our hands cannot be on the keyboard.
 
+* [The Tragedy of systemd - linux.conf.au 2019](https://www.youtube.com/watch?v=o_AIw9bGogo)
+
+  A January, 2019 presentation by Benno Rice discussing the origins of systemd, the conceptual differentiation between kernel, system, and user spaces, contention around the use and adoption of systemd, how contempt culture stifles progress, and how it ought to be looked at as a source of ideas rather than a problematic piece of software.
+
 * [The Secret Life of SIM Cards - DEF CON 21](https://www.youtube.com/watch?v=31D94QOo2gY)
 
   An August, 2013 presentation detailing everything you wanted to know about SIM cards, which are basically an additional mini-computer inside your mobile phone (including "dumb" phones, not just smartphones), but didn't know to ask. This talk introduces you to what a SIM card is, why it exists, and what your telephone company uses them for.
