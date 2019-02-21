@@ -9,6 +9,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 1. [Computer Systems](#computer-systems)
     1. [Phones](#phones)
 1. [Security](#security)
+    1. [Privacy and anonymity](#privacy-and-anonymity)
     1. [Hacking](#hacking)
         1. [Hacking demonstrations](#hacking-demonstrations)
         1. [Law and Politics](#law-and-politics)
@@ -43,6 +44,12 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
   This talk gives a look at some of the more novel ways that people can gain rapid entry using cursory tactics, many of which ignore lock cylinders entirely! As always, tactical and military analogies will be employed to make direct connections between INFOSEC and any other engagement where assailants must be kept at bay for as long as possible using the resources you have available. Remember the "Three R's" of Physical Security? How about the "Three B's" of tactical defense? If you don't, you'll learn them this time.
 
+## Privacy and anonymity
+
+* ["EXCUSE ME, I THINK YOUR DARK WEB IS LEAKING!" by Sarah Jamie Lewis - BSides Vancouver 2017](https://www.youtube.com/watch?v=ShrZ4B9R3NQ)
+
+  Former GCHQ and Amazon security employee Sarah Jamie Lewis discusses several common [Tor Onion service de-anonymization vectors](https://github.com/AnarchoTechNYC/CTF/meta/Tor) including `localhost` bypasses and information disclosure vulnerabilities that can be found using [OnionScan](https://onionscan.org/), an Onion site auditing tool that she wrote.
+
 ## Hacking
 
 ### Hacking demonstrations
@@ -67,7 +74,6 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
   "What sorts of RF transactions take place in RFID systems, such as toll booths, building security and vehicular keyless entry? […] Wireless systems, and their radio signals, are everywhere: consumer, corporate, government, amateur - widely deployed and often vulnerable. If you have ever wondered what sort of information is buzzing around you, this talk will introduce how you can dominate the RF spectrum by 'blindly' analysing any signal, and then begin reverse engineering it from the physical layer up. I will demonstrate how these techniques can be applied to dissect and hack RF communications systems, such as those above, using open source software and cheap radio hardware. In addition, I'll show how long-term radio data gathering can be used to crack poorly-implemented encryption schemes, such as the Radio Data Service's Traffic Message Channel." (See also: [All Your RFz Are Belong to Me - Hacking the Wireless World with Software Defined Radio - DEF CON 21](https://www.youtube.com/watch?v=ZuNOD3XWp4A).) (Pair with "Radio Hacking: Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016," above.)
 
-
 ### Law and Politics
 
 * [How Tor Users Got Caught - DEF CON 22 (Part 1)](https://www.youtube.com/watch?v=7G1LjQSYM5Q), and [Part 2](https://www.youtube.com/watch?v=TQ2bk9kMneI)
@@ -82,7 +88,6 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
 > :memo: This section contains a list of links to videos that have not yet been curated. It's a link-dump, and is need of editorial review.
 
-* Deanonymizing Dark Web websites, BSidesVancouver May 2017 https://www.youtube.com/watch?v=ShrZ4B9R3NQ
 * Hacktivity 2012 - Joe McCray - Big Bang Theory - Pentesting high security environments https://www.youtube.com/watch?v=qBVThFwdYTc
 * DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse https://www.youtube.com/watch?v=oHf1vD5_b5I
 * Black Hat USA 2013 - Lessons from Surviving a 300Gbps Denial of Service Attack https://www.youtube.com/watch?v=w04ZAXftQ_Y
