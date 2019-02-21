@@ -48,7 +48,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
 * ["EXCUSE ME, I THINK YOUR DARK WEB IS LEAKING!" by Sarah Jamie Lewis - BSides Vancouver 2017](https://www.youtube.com/watch?v=ShrZ4B9R3NQ)
 
-  Former GCHQ and Amazon security employee Sarah Jamie Lewis discusses several common [Tor Onion service de-anonymization vectors](https://github.com/AnarchoTechNYC/CTF/meta/Tor) including `localhost` bypasses and information disclosure vulnerabilities that can be found using [OnionScan](https://onionscan.org/), an Onion site auditing tool that she wrote.
+  Former GCHQ and Amazon security employee Sarah Jamie Lewis discusses several common [Tor Onion service de-anonymization vectors](https://github.com/AnarchoTechNYC/CTF/wiki/Tor) including `localhost` bypasses and information disclosure vulnerabilities that can be found using [OnionScan](https://onionscan.org/), an Onion site auditing tool that she wrote.
 
 ## Hacking
 
