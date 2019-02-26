@@ -165,6 +165,10 @@ If others are interested, we could probably field [[our own team(s)|CTF team]]. 
 
   Set of network forensics puzzles run as part of regular contests.
 
+* [Rebootuser's HackLAB Challenges](https://www.rebootuser.com/?page_id=1041)
+
+  🚧 TODO: Description needed.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
