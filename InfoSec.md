@@ -334,6 +334,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [MalwareAnalysis.Tools](http://malwareanalysis.tools/)
 * [Security Now Curricula](http://wiki.twit.tv/wiki/Talk:Security_Now#Curricula)
 * [Sneakerhax's Getting Started Resources](https://github.com/sneakerhax/Resources/blob/master/links/getting-started.md)
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ***
 
