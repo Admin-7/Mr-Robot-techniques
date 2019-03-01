@@ -299,6 +299,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 * [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)
 * [awesome-forensics](https://github.com/Cugu/awesome-forensics)
+* [awesome-fuzzing](https://github.com/secfigo/awesome-fuzzing)
 * [awesome-hacking](https://github.com/jekil/awesome-hacking)
 * [awesome-hacking (meta-list)](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [awesome-hacking-tools](https://github.com/m4ll0k/Awesome-Hacking-Tools)
