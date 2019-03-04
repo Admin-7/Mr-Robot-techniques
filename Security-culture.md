@@ -1,4 +1,4 @@
-> [[Wiki|Home]] ▸ [[Welcome guides]] ▸ **Security culture**
+> [[Wiki|Home]] ▸ [[Guides]] ▸ **Security culture**
 
 Learning how to defend ourselves from governments, corporations, and malicious individuals is more involved than simply picking up one or two tools and using them unthinkingly. That said, especially on the Internet, a few well-chosen tools, when understood well enough, will make for a much improved defensive posture—*"Use [Signal](https://whispersystems.org/). Use [Tor](https://torproject.org/)."* Taking some time to practice using the tools available to you will quickly make you a much more difficult target, which means *it makes your friends more difficult to target*, too.
 
