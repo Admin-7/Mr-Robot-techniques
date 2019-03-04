@@ -19,7 +19,7 @@ If you're looking to get involved, consider exploring this wiki! There's plenty 
 1. [[Social rules]] - Please read this short page first, which is designed to help you become a valuable and valued participant in our spaces.
 1. [[New member orientation guide]] - Self-paced walk-through to familiarize yourself with how we get shit done.
 1. [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
-1. [Projects](https://github.com/AnarchoTechNYC/meta/projects) - High-level overview of our collective's current projects; these represent the main areas you can directly contribute to our work.
+1. [Projects](https://github.com/AnarchoTechNYC/meta/projects) - High-level overview of our collective's current projects; these represent the main areas where you can directly contribute to our work.
 
 # [[Foundations]]
 
