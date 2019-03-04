@@ -23,7 +23,7 @@ Once you have an idea of who we are and what we do, get [a high-level overview o
 
 # Digital OPSEC guides
 
-These guides offer succinct advice on various digital operational security ([[OPSEC]]) practices you are likely to encounter as part of your contributions to our efforts.
+These guides offer succinct advice on various digital operational security ("OPSEC") practices you are likely to encounter as part of your contributions to our efforts.
 
 * [[Connecting to an authenticated Onion service]]
 * [[Signing Git commits using GPG keys]]
