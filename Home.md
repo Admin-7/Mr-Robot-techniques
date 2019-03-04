@@ -1,44 +1,29 @@
 > You are here: [[Wiki|Home]]
 
-The AnarchoTechNYC wiki is **an evolving workspace of shared knowledge with a focus on building anti-fascist tools, and supporting our communities** against settler-colonial, imperialist, and authoritarian regimes. Here are a few good starting points for folks who want to explore what the AnarchoTechNYC wiki has to offer, and contribute back to our community.
+The NYC chapter of the Anarcho-Tech Collective 🏴 provides **technological and digital infrastructure support services to anti-fascist, anti-racist, and anti-capitalist organizations in New York City.** We are an entirely volunteer-run organization and operate without any licensing or legal documentation. We intentionally operate with a financial budget of as close to zero as possible, so we generally appreciate [support](#donations-and-support) in the form of volunteer time and physical resources.
+
+This wiki is an evolving workspace of shared knowledge with a focus on building anti-fascist tools, and supporting our communities against settler-colonial, imperialist, and authoritarian regimes. See [§ What's on this wiki](#whats-on-this-wiki) for a few good starting points if you want to explore what the AnarchoTech NYC wiki has to offer, and contribute back to our community. Additionally, there are many [[other groups|Accomplices and allies]] ranging across numerous political ideologies with whom we collaborate, share resources, and otherwise ally with. We encourage you to get involved with them, or otherwise support the ones that resonate strongly with you.
+
+If you're presently in NYC, feel free to come to our chapter's Anarcho-Tech Collective public meetings, or any affiliated event, and say hi to some of us in person. You can find details for many public meetings and events at [Anarchism.NYC](http://Anarchism.NYC/) and [TakeActionNYC.com](http://takeactionnyc.com/).
 
 # What's on this Wiki
 
-1. [Welcome guides](#welcome-guides) - Newcomers to our collective who want to get involved may want to start here.
+1. [Welcome guides](#welcome-guides) - Newcomers unfamiliar with our collective who want to learn more about us and possibly contribute to our efforts may want to start here.
 1. [Foundations](#foundations) - Unpresumptuous introductions to fundamental concepts for those who are just starting out with "tech stuff."
-1. [Activities and events](#activities-and-events) - Ongoing or semi-regular events we help make happen.
-1. [Accomplices and allies](#accomplices-and-allies) - Friends and comrades intimately involved in our work. Check 'em out! :)
 1. [Donations and support](#donations-and-support) - How to materially help us do what we do.
 
 # [[Welcome guides]]
 
-If you're looking to get involved, consider exploring this wiki! There's plenty here for you to expand, critique, and share. Since there's a lot here, this list suggests a few pages to start from:
+If you're looking to get involved, consider exploring this wiki! There's plenty here for you to expand, and share. This list suggests a few pages from which to start:
 
-* [[New member orientation guide]] - Self-paced walk-through to familiarize yourself with how we get shit done.
-* [[Social rules]] - Please read this short page designed to help you become a valuable and valued participant in our spaces.
-* [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
+1. [[Social rules]] - Please read this short page first, which is designed to help you become a valuable and valued participant in our spaces.
+1. [[New member orientation guide]] - Self-paced walk-through to familiarize yourself with how we get shit done.
+1. [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
+1. [Projects](https://github.com/AnarchoTechNYC/meta/projects) - High-level overview of our collective's current projects; these represent the main areas you can directly contribute to our work.
 
 # [[Foundations]]
 
 If you're just getting started with "tech stuff" for the first time, or if you've had an unconventional exposure or education on the topic, there's a good chance a lot of the terms, concepts, and fundamental principles you need to know have been poorly explained (at best). At least, that was our experience. To address this, we've compiled quick guides to foundational principles along with heavily curated suggestions for various learning paths in our [[Foundations]] pages; these are the guides we wish we had when we were getting started.
-
-# [[Activities and events]]
-
-Antifa folks have created numerous regular activities and traditions over the years. Some are ongoing activities while others are one-offs, but any can be revived and new ones created by *you* at any time! Some more consistent activities we are affiliated with are listed below, but be sure to check out the [[Activities and events]] portal page for a full list.
-
-* [[Capture The Flag (CTF) gaming|CTF team]] - Irregular cybersecurity study group participating in online wargaming competitions.
-* [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
-* [[Fight training]] - Gain confidence in using our bodies to protect our loved ones and neighbors.
-* [[Lockpicking club]] - Locksport practice session and meditative discussion circle.
-* [[Mr. Robot's Netflix 'n' Hack]] - Educational film and TV screenings with a supplementary syllabus; let "Mr. Robot" teach you how to hack—and how to stop a hacker from hacking you!
-
-Our events are **always free** to attend, but we do need your help to sustain our activities. If you have the means, please consider [donating via PayPal](https://www.paypal.me/AnarchoTechNYC), [BitCoin](bitcoin:17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr?label=AnarchoTechNYC), or with cash in person. (There will almost certainly be a large glass tip jar.) For more details, please read [Donations and support](#donations-and-support).
-
-# [[Accomplices and allies]]
-
-There are many [[other groups|Accomplices and allies]] with whom we collaborate, share resources, and otherwise ally with. Check them out, get involved with them, or otherwise support the ones that resonate strongly with you. Of course, if you're in NYC, come to Anarcho-Tech Collective meetings, or any event, and say hi to some of us in person.
-
-You can find meeting and event details at [Anarchism.NYC](http://Anarchism.NYC/) and [TakeActionNYC.com](http://takeactionnyc.com/).
 
 # Donations and support
 
