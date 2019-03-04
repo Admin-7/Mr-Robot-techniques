@@ -6,4 +6,4 @@ These guides offer an introduction to our collective practices and some guidance
 * [[New member orientation guide]] - Found yourself at [[our event(s)|Activities and events]] and wanna get more involved? Start here.
 * [[Security culture]] - Before you can fuck shit up, you need to get this shit down.
 
-Once you have the gist of who we are and what we do, get [a high-level overview of our active Projects](https://github.com/AnarchoTechNYC/meta/projects) and feel free to contribute directly.
+Once you have an idea of who we are and what we do, get [a high-level overview of our active Projects](https://github.com/AnarchoTechNYC/meta/projects) and feel free to contribute directly.
