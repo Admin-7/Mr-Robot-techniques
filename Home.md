@@ -12,7 +12,7 @@ If you're presently in NYC, feel free to come to our chapter's Anarcho-Tech Coll
 1. [Foundations](#foundations) - Unpresumptuous introductions to fundamental concepts for those who are just starting out with "tech stuff."
 1. [Donations and support](#donations-and-support) - How to materially help us do what we do.
 
-# [[Welcome guides]]
+# [[Welcome guides|Guides#welcome-guides]]
 
 If you're looking to get involved, consider exploring this wiki! There's plenty here for you to expand, and share. This list suggests a few pages from which to start:
 
