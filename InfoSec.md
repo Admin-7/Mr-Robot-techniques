@@ -334,6 +334,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [Black Hat Arsenal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
 * [CapTF.com's Practice CTF List](http://captf.com/practice-ctf/)
 * [Exploitee.rs](https://www.exploitee.rs/)
+* [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
 * [NetSec Focus - Learning Resources](https://docs.google.com/spreadsheets/d/1TD8KTRXvXwy1yU6s7Nz_JuNh7b7fa7pINZuHOVjtAAg/htmlview)
 * [MalwareAnalysis.Tools](http://malwareanalysis.tools/)
 * [Security Now Curricula](http://wiki.twit.tv/wiki/Talk:Security_Now#Curricula)
