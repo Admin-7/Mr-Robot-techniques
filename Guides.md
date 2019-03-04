@@ -5,7 +5,9 @@ This provides an overview of guides and advice collected in this wiki.
 # Contents
 
 1. [Welcome guides](#welcome-guides)
-1. [Digital OPSEC](#digital-opsec)
+1. [Digital OPSEC guides](#digital-opsec-guides)
+1. [Educational guides](#educational-guides)
+1. [Research guides](#research-guides)
 
 # Welcome guides
 
@@ -19,9 +21,9 @@ These guides offer an introduction to our collective practices and some guidance
 
 Once you have an idea of who we are and what we do, get [a high-level overview of our active Projects](https://github.com/AnarchoTechNYC/meta/projects) and feel free to contribute directly.
 
-# Digital OPSEC
+# Digital OPSEC guides
 
-These guides offer succinct advice on various digital operational security practices you are likely to encounter as part of your contributions to our efforts.
+These guides offer succinct advice on various digital operational security ([[OPSEC]]) practices you are likely to encounter as part of your contributions to our efforts.
 
 * [[Connecting to an authenticated Onion service]]
 * [[Signing Git commits using GPG keys]]
