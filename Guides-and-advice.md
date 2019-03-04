@@ -1,1 +1,1 @@
-See [[Welcome guides]].
+See [[Guides]].
