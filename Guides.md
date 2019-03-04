@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **Guides**
 
-This provides an overview of guides and advice collected in this wiki.
+This page provides an overview of guides and advice collected in this wiki.
 
 # Contents
 
