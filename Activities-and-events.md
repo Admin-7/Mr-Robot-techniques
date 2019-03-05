@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **Activities and events**
 
-There is a near-constant buzz of organizing activity in New York City. In addition to the day-to-day hum of socializing, planning, and learning that happens among AnarchoTechNYC members, we also often organize [recurring](#activities) or [one-off events](#events). These include workshops, documentary screenings, and a bunch of other things you may not think of immediately! Some of these become traditions and are continued by multiple organizers.
+There is a near-constant buzz of organizing activity in New York City. In addition to the day-to-day hum of socializing, planning, and learning that happens among Anarcho-Tech NYC members, we also often participate in organizing [recurring](#activities) or [one-off events](#events). These include workshops, documentary screenings, and a bunch of other things you may not think of immediately! Some of these become traditions and are continued by multiple organizers.
 
 **There is no calendar or schedule for events maintained on this wiki.** Instead, these pages serve as drafting pads to collect and compare notes between multiple organizers, collaboratively concoct ideas for new activities to try, and maintain shared resources for organizers of said events. [We sometimes discuss event scheduling and production as issues labelled "`event`"](https://github.com/AnarchoTechNYC/meta/issues?q=label%3Aevent) and we publicize events in a variety of ways that are independently operated by an event's host. That said, see [Anarchism.NYC](http://anarchism.nyc/) for one such calendar that may (or may not) list specific instances of events we help make happen.
 
@@ -8,7 +8,7 @@ There is a near-constant buzz of organizing activity in New York City. In additi
 
 # Activities
 
-Activities are things to do with your fellow antifa comrades that are happening on a(t least a semi-)regular basis at affiliated meetings/spaces. More details are available on a given event's wiki page.
+Activities are things to do with your fellow antifa comrades that are happening (or are intended to happen) on a(t least a semi-)regular basis at affiliated spaces. More details are available on a given event's wiki page.
 
 * [[Capture The Flag (CTF) gaming|CTF team]] - Cybersecurity study group participating in online wargaming competitions.
 * [[Cyborg clinic]] - Holistic (mental/physical/cybernetic) health sessions for anyone who wants to reclaim their time and energy from the apps demanding too much of it.
