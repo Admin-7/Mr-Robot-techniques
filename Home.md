@@ -11,7 +11,7 @@ The NYC chapter of **the Anarcho-Tech Collective provides technological and digi
 
 This wiki is an evolving workspace of shared knowledge with a focus on building anti-fascist tools, and supporting our communities against settler-colonial, imperialist, and authoritarian regimes. See [§ What's on this wiki](#whats-on-this-wiki) for a few good starting points if you want to explore what the AnarchoTech NYC wiki has to offer, and contribute back to our community. Additionally, there are many [[other groups|Accomplices and allies]] ranging across numerous political ideologies with whom we collaborate, share resources, and otherwise ally with. We encourage you to get involved with them, or otherwise support the ones that resonate strongly with you.
 
-If you're presently in NYC, feel free to come to our chapter's Anarcho-Tech Collective public meetings, or any affiliated event, and say hi to some of us in person. You can find details for many public meetings and events at [Anarchism.NYC](http://Anarchism.NYC/) and [TakeActionNYC.com](http://takeactionnyc.com/).
+If you're presently in NYC, feel free to come to our chapter's Anarcho-Tech Collective public [[activities|Activities and events]], or any affiliated event, and say hi to some of us in person. You can find details for many public meetings and events at [Anarchism.NYC](http://Anarchism.NYC/) and [TakeActionNYC.com](http://takeactionnyc.com/).
 
 # What's on this Wiki
 
