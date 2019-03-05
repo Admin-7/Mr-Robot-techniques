@@ -47,7 +47,7 @@ Hundreds of upcoming CTFs are listed at:
 * [CTFTime.org](https://ctftime.org/) - List of upcoming CTFs to compete in, central (unofficial) directory of teams, and archive of previous challenge write-ups for educational purposes.
 * [CapTF Calendar](http://captf.com/calendar/) - Google Calendar of various CTFs.
 
-If others are interested, we could probably field [[our own team(s)|CTF team]]. It also might be fun to hang out with the [OpenToAll team](http://opentoallctf.com/) on IRC.
+Anarcho-Tech NYC fields [[our own team(s)|CTF team]], which is a friendly but invite-only cybersecurity study group. Our team participates sporadically in CTF competitions worldwide in order to provide our collective members legal and safe opportunities to hone our hacking skills; we rarely score well because "points" (like "money") is not our focus. If you are looking for a team to join but are not an Anarcho-Tech NYC member, you might find it fun to hang out with the [OpenToAll team](http://opentoallctf.com/) on IRC.
 
 ### Recommended CTFs
 
