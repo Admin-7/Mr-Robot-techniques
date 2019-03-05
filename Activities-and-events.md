@@ -28,3 +28,4 @@ Events are one-offs because they are either intended to be or just aren't happen
 * [[Ethics refactoring]] - Aanalyze a feature/product for its "operative ethic" and then redesign the same feature/product for a different ethic.
 * [[Offensive and Defensive Doxing]] - Practice using public information to compile a dossier on targets, and learn how to protect your personal information from trolls and worse.
 * [[Tech open office hours]] - Build knowledge and skills in our community, and enjoy the anti-consumerist and anti-capitalist vibes that come with DIY workshops and culture
+* [[IQ sessions]] - Variety of short, multi-disciplinary presentations in the style of an open mic (or "open projector").
