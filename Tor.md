@@ -6,4 +6,10 @@ So that it is harder to make privacy mistakes while using Tor, the Tor Project m
 
 One of Tor's most powerful features, called [[Onion services]], allows for any network service that uses the underlying TCP protocol to be similarly privacy-enhanced by making it harder (but [not inherently impossible](https://github.com/AnarchoTechNYC/CTF/wiki/Tor#de-anonymizing-onion-sites)) to reveal the [[IP address]] of the computer hosting the service.
 
+# Pages
+
 * [[Connecting to an authenticated Onion service]]
+
+# Projects
+
+* [AnarchoTechNYC/ansible-role-tor] - Our [Ansible](https://ansible.com/) role for securely building a system Tor from source and optionally configuring numerous high-security Onion services.
