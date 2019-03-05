@@ -26,6 +26,10 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
   An August, 2013 presentation detailing everything you wanted to know about SIM cards, which are basically an additional mini-computer inside your mobile phone (including "dumb" phones, not just smartphones), but didn't know to ask. This talk introduces you to what a SIM card is, why it exists, and what your telephone company uses them for.
 
+* [Practical Cellphone Spying - DEF CON 18](https://www.youtube.com/watch?v=DU8hg4FTm0g)
+
+  In this 2010 talk, Kristin Paget (of [Microsoft, Apple](https://www.wired.com/2012/12/apple-hires-hacker/), and Lyft security) demonstrates how her home-made IMSI catcher built with a [Debian](https://www.debian.org/) distribution of GNU/Linux, [OpenBTS](http://openbts.org/), and [Asterisk](https://www.asterisk.org/) can spoof cell phone networks and intercept plaintext mobile phone calls, SMS, and other data. She discusses the insecure nature of the second-generation (2G) GSM protocol, and offers advice for both attackers and defenders occupying the cell phone radio band.
+
 # Security
 
 * [The Science of Insecurity - ShmooCon 2012](https://www.youtube.com/watch?v=CiqioE1zGCw)
