@@ -235,7 +235,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [The Cuckoo’s Egg: Tracking a Spy Through the Maze of Computer Espionage](https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg)
 
-  The compellingly written non-fiction account of an astronomer turned system administrator who, on his second day on the job, discovers an accounting error that leads to a highly personal and high-stakes hunt for a hacker attempting to infiltrate CIA and NSA computer systems. The events in the book take place in the mid-1980's, so the book offers a remarkable historic context on security system implementations and the humans who administered those systems at the time. Highly suggested reading material that's a little more exciting and a lot less dry than a textbook.
+  The compellingly written non-fiction account of an astronomer turned system administrator named [Cliff Stoll](https://en.wikipedia.org/wiki/Clifford_Stoll) who, on his second day on the job, discovers an accounting error that leads to a highly personal and high-stakes hunt for a hacker attempting to infiltrate CIA and NSA computer systems. The events in the book take place in the mid-1980's, so the book offers a remarkable historic context on security system implementations and the humans who administered those systems at the time. Highly suggested reading material that's a little more exciting and a lot less dry than a textbook.
 
 # For defenders
 
