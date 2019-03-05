@@ -1,1 +1,0 @@
-See [https://github.com/AnarchoTechNYC/CTF/wiki/Identifying-data-formats](https://github.com/AnarchoTechNYC/CTF/wiki/Identifying-data-formats)
