@@ -12,4 +12,4 @@ One of Tor's most powerful features, called [[Onion services]], allows for any n
 
 # Projects
 
-* [AnarchoTechNYC/ansible-role-tor] - Our [Ansible](https://ansible.com/) role for securely building a system Tor from source and optionally configuring numerous high-security Onion services.
+* [AnarchoTechNYC/ansible-role-tor](https://github.com/AnarchoTechNYC/ansible-role-tor) - Our [Ansible](https://ansible.com/) role for securely building a system Tor from source and optionally configuring numerous high-security Onion services.
