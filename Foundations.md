@@ -19,7 +19,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[Malware]]
 * [[Manual pages (man pages)]]
 * [[Open source]]
-* [[Operating system]]
+* [[Operating System]]
 * [[Password cracking]]
 * [[passwd file]]
 * [[SQL injection]]
