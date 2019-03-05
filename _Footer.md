@@ -1,3 +1,3 @@
 The NYC chapter of the Anarcho-Tech Collective provides technological and digital infrastructure support services to anti-fascist, anti-racist, and anti-capitalist organizations in New York City. See our [[Activities and events]] page for details. Read our [[Welcome guides]] to get involved.
 
-[[We need your support|Home#donations-and-support]] to do what we do. If you have the means, please donate BitCoin to `17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr` or traditional currency via [PayPal](https://www.paypal.me/AnarchoTechNYC/25).
+[[We appreciate your support|Home#donations-and-support]] to help us do what we do. If you have the means, please donate BitCoin to `17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr` or traditional currency via [PayPal](https://www.paypal.me/AnarchoTechNYC/25).
