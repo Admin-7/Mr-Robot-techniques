@@ -18,4 +18,5 @@ See also:
 * [No Badjacketing](https://twincitiesgdc.org/badjacketing/) - understand how the State gets us to do its dirty work for them, and how to avoid being manipulated by inflitrators and undercovers.
 * [Security Culture for Activists](http://www.ruckus.org/downloads/RuckusSecurityCultureForActivists.pdf)
 * [SproutDistro: An Activist's Guide To Information Security](https://ia601909.us.archive.org/32/items/AnActivistsGuideToInformationSecurity/activist-info-sec-SCREEN.pdf)
+* [Infoshop.io - Surveillance](http://infoshop.io/topics/surveillance/index.html)
 * [What is security culture?](https://crimethinc.com/2004/11/01/what-is-security-culture)
