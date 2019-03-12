@@ -31,6 +31,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[Transport Layer Security (TLS)]]
 * [[Tor]]
 * [[Torrents]]
+* [[Virtual machine]]
 
 See also: [[Glossary]].
 
