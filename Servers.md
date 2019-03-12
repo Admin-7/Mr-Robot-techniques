@@ -1,0 +1,21 @@
+> [[Wiki|Home]] ▸ :beginner: [[Foundations]] ▸ **Servers**
+
+A **[server](https://simple.wikipedia.org/wiki/Server)** is simply a computer that offers you a service (such as the ability to browse a Web site or check your email) by running a specialized computer program. It doesn't particularly matter which [[Operating System]] or even which physical machine the "server" is; in fact, every computer has the the ability to be a server. The biggest salient difference between your personal computer and, say, "the Wikipedia server" is that your personal computer has fewer resources (less hard disk space, slower Internet connectivity, etcetera) than theirs does.
+
+There isn't anything particularly magical about servers, but it might seem so because they are often so poorly understood. The word itself has a few different meanings depending on context. To make matters more confusing, a lot of people use the word "server" as an imprecise colloquialism:
+
+* Sometimes, "server" refers to the physical (or [[virtualized|Virtual machine]]) computer hardware on which some information technology service (like a Web site) is hosted. For example, you might hear a system administrator say that they will be "replacing the hard drive on one of our servers."
+* Other times, when people say "server" they are referring to the service offering itself, as in "our servers offer users the ability to check their email in a Web browser," a service commonly known as [webmail](https://simple.wikipedia.org/wiki/Webmail).
+* Yet another common use of "server" refers to the software program providing the service. For example, Web sites can be "run on" a number of different Web server softwares, such as [Apache HTTPD](https://httpd.apache.org/), [Nginx](https://nginx.org/), [Caddy](https://caddyserver.com/), and [Lighttpd](https://www.lighttpd.net/). In this context, you might hear a Web developer say that they "are using the Apache server to host the website."
+
+This ambiguity grew out of the historical fact that, when computers were very large and expensive, a single physical computer tended to offer one and only one service and was intended to run only a few dedicated software applications at one time. That's why we prefer more precise terminology. Unless the context makes it abundantly clear, we often use the following terms to make the distinction in meaning clear:
+
+* The computer itself is a *server*,
+* the tools and capabilities that the server offers to its authorized users are *services*,
+* and the software applications that are run on the server to make the services available are called *daemons*.
+
+The term ["daemon" is an old term that is itself an abbreviation of *disk and execution monitor*](https://en.wikipedia.org/wiki/Daemon_%28computing%29), referring to the class of software applications designed "as server software." These programs are not fundamentally different from the graphical applications you use on your personal computer like your Web browser or text editor, they just have a different purpose. The "D" at the end of "Apache HTTPD" and "Lighttpd" both refer to this term (i.e., "the Apache HTTP daemon").
+
+On their own, servers aren't very interesting because they have no one to serve. When speaking about servers, we say that the users making use of the services offered by the server are its *clients*. These clients (such as your Web browser in the case of browsing the website made available by some Web server) make requests of the server in much the same way as a diner at a restaurant makes requests of the wait staff. The client's request may then be processed (e.g., the Web page loads), ignored (e.g., the browser's loading indicator spins forever), causes a failure (e.g., you see an error) or denied (e.g., you see a "Forbidden" message). This request-and-response model, in which one program makes requests of another, is called a [*client-server architecture*](https://wiki.wikipedia.org/wiki/Client%E2%80%93server_model).
+
+> [Read next: Introduction to Securing (Virtualized) Secure Shell Servers :arrow_right:](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/practice-labs/introduction-to-securing-virtualized-secure-shell-servers/README.md)
