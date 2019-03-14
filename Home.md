@@ -13,7 +13,7 @@ This wiki is an evolving workspace of shared knowledge with a focus on building 
 
 If you're presently in NYC, feel free to come to our chapter's Anarcho-Tech Collective public [[activities|Activities and events]], or any affiliated event, and say hi to some of us in person. You can find details for many public meetings and events at [Anarchism.NYC](http://Anarchism.NYC/) and [TakeActionNYC.com](http://takeactionnyc.com/).
 
-# What's on this Wiki
+# What's on this wiki
 
 1. [Welcome guides](#welcome-guides) - Newcomers unfamiliar with our collective who want to learn more about us and possibly contribute to our efforts may want to start here.
 1. [Foundations](#foundations) - Unpresumptuous introductions to fundamental concepts for those who are just starting out with "tech stuff."
