@@ -22,7 +22,8 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 
 * [[CTF team]], a semi-private cybersecurity study group that puts the "ethical" back into "ethical hacking."
 * [[Lockpicking club]], a locksport practice session and meditative discussion circle featuring those most ubiquitous of doorway decorations.
-* [[Mr. Robot's Netflix 'n' Hack]], a weekly guided tour of hacking tools in pop culture.
+
+See also [[Activities and events]].
 
 # CTFs and Hacking Games
 
