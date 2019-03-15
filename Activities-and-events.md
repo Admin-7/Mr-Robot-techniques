@@ -27,5 +27,5 @@ Events are one-offs because they are either intended to be or just aren't happen
 * [[Android forensics study group]] - Learn how to detect whether an Android device has been cloned or tampered with.
 * [[Digital fight training]] - Cybersecurity sparring sessions where we set up network perimeters and devices, and practice both breaching and hardening them.
 * [[Ethics refactoring]] - Aanalyze a feature/product for its "operative ethic" and then redesign the same feature/product for a different ethic.
-* [[Offensive and Defensive Doxing]] - Practice using public information to compile a dossier on targets, and learn how to protect your personal information from trolls and worse.
 * [[IQ sessions]] - Variety of short, multi-disciplinary presentations in the style of an open mic (or "open projector").
+* [[Offensive and Defensive Doxing]] - Practice using public information to compile a dossier on targets, and learn how to protect your personal information from trolls and worse.
