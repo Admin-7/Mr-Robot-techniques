@@ -98,6 +98,10 @@ Hundreds of upcoming CTFs are listed at:
 
   SQL injection challenges by increasing difficulty. Fun for the whole database family!
 
+* [Audi-1's SQLI Labs](https://github.com/Audi-1/sqli-labs)
+
+  Series of intentionally vulnerable PHP scripts that you can install on a server for the purpose of learning SQL injection techniques.
+
 * [CanYouHack.Us](https://canyouhack.us/)
 
   Mixture of Web and binary security challenges.
