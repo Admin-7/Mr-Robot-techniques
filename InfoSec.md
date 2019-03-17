@@ -126,6 +126,10 @@ Hundreds of upcoming CTFs are listed at:
 
   Month-long "Capture the Flag" and "Root the Box" style challenges, appearing monthly, and with a rolling scoreboard. They also provide (some) guidance in the form of a [roadmap](https://hackmethod.com/roadmap/) that may help guide you through some of their challenges. (But see also [#Lesson plans and guidance](#lesson-plans-and-guidance), below.)
 
+* [HackThis!!](https://www.hackthis.co.uk/levels/)
+
+  Categorized sets of hacking challenges in various security domains that earn points and bragging rights on a community scoreboard.
+
 * [HackThisSite](https://www.hackthissite.org/)
 
   An older (mid-2000's era) set of challenges in Web, IRC, steganograhy, and a few other categories. Notable partly for its hacktivist co-founder, [Jeremy Hammond](https://en.wikipedia.org/wiki/Jeremy_Hammond), famed member of [the Anonymous-affiliated group LulzSec](https://arstechnica.com/tech-policy/2013/05/lulzsec-member-jeremy-hammond-pleads-guilty-to-stratfor-hack/). While outdated, most of the hacking challenges (called "missions") on this site are still decent practice for technology basics that haven't changed much such as fundamental crypto maths, the HTTP protocol, and JavaScript exploitation techniques.
