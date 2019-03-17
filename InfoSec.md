@@ -178,6 +178,10 @@ Hundreds of upcoming CTFs are listed at:
 
   🚧 TODO: Description needed.
 
+* [XSS Game](https://xss-game.appspot.com/)
+
+  Google's free and interactive cross-site scripting (XSS) training course offering "recruits" (you) the opportunity to safely and legally explore how to find and exploit XSS bugs.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
