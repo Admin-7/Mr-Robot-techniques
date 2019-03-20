@@ -323,6 +323,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 * [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)
 * [awesome-infosec](https://github.com/onlurking/awesome-infosec)
+* [awesome-iocs](https://github.com/sroberts/awesome-iocs)
 * [awesome-lockpicking](https://github.com/meitar/awesome-lockpicking)
 * [awesome-macos](https://github.com/iCHAIT/awesome-macOS)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
