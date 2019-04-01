@@ -99,6 +99,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 * 111 Attacking EvilCorp Anatomy of a Corporate Hack https://www.youtube.com/watch?v=nJSMJyRNvlM
 * Defcon 21 - Traffic Interception and Remote Mobile Phone Cloning with a Compromised CDMA Femtocell https://www.youtube.com/watch?v=gfcq8clu1RI
 * DEFCON 20: Can You Track Me Now? Government And Corporate Surveillance Of Mobile Geo-Location Data https://www.youtube.com/watch?v=NjuhdKUH6U4
+* How to disappear completely - LinuxConf.com.au 2019 https://www.youtube.com/watch?v=LOulCAz4S0M
 
 * * *
 
