@@ -100,6 +100,11 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 * Defcon 21 - Traffic Interception and Remote Mobile Phone Cloning with a Compromised CDMA Femtocell https://www.youtube.com/watch?v=gfcq8clu1RI
 * DEFCON 20: Can You Track Me Now? Government And Corporate Surveillance Of Mobile Geo-Location Data https://www.youtube.com/watch?v=NjuhdKUH6U4
 * How to disappear completely - LinuxConf.com.au 2019 https://www.youtube.com/watch?v=LOulCAz4S0M
+* Apathy and Arsenic: a Victorian Era lesson on fighting the surveillance state https://www.youtube.com/watch?v=egi8Lm5W3FY
+* See what your computer is doing with Ftrace utilities https://www.youtube.com/watch?v=68osT1soAPM
+* My year on the front line - cleaning infected [WordPresss] sites https://www.youtube.com/watch?v=dzuQYV-diZg
+* Kernel Security Is Cool Again https://www.youtube.com/watch?v=GFGJ3e3oj2c
+* Web Security 2019 https://www.youtube.com/watch?v=q99Nj-_oaQc
 
 * * *
 
