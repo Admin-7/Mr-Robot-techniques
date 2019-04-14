@@ -313,6 +313,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
 * [awesome-cybersecurity-blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam)
+* [awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance)
 * [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 * [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)
 * [awesome-forensics](https://github.com/Cugu/awesome-forensics)
