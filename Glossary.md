@@ -146,6 +146,8 @@ Initialism for [base transceiver station](#base-transceiver-station).
 
 # C
 
+## [Call detail record](https://en.wikipedia.org/wiki/Call_detail_record)
+
 ## [Capture the flag](https://en.wikipedia.org/wiki/Capture_the_flag)
 
 See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security).
@@ -153,6 +155,12 @@ See especially [§ Computer security](https://en.wikipedia.org/wiki/Capture_the_
 ## CDMA
 
 Initialism for [code-division multiple access](#code-division-multiple-access).
+
+## CDR
+
+Initialism for one of:
+
+* [call detail record](#call-detail-record)
 
 ## CFI
 
