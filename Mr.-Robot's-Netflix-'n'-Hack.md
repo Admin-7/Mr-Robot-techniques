@@ -67,13 +67,14 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * `astsu` is [not real](https://www.leaseweb.com/labs/2015/09/linux-commands-astu-and-astsu-in-mr-robot/), but! `traceroute` is
 * [rootkit](https://en.wikipedia.org/wiki/Rootkit)
   * Blog post: [Basics of Making a Rootkit](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/)
-* "Redirect the traffic," Gideon says.
+* "Redirect the traffic…" Gideon says.
   * Using [`ifconfig`](https://linux.die.net/man/8/ifconfig), a command line tool to *config*ure a network *i*nter*f*ace.
   * "Routers" are just computers, but with dedicated operating systems with different network interface configuration commands, such as [CISCO iOS](https://en.wikipedia.org/wiki/Cisco_IOS) (proprietary) or [VyOS](https://vyos.io/), a free software clone of Cisco's iOS, useful if you can't pay for an iOS license.
   * "Redirecting," in the context of the episode's scene, may mean:
     * re-route incoming packets that are part of the DDoS to [a network black hole](https://en.wikipedia.org/wiki/Black_hole_%28networking%29), if the packets can be identified as part of the attack.
     * And if not, then he may mean "redirect" incoming visitors to a [high-availability](https://en.wikipedia.org/wiki/High_availability) version of the hosted services, such as a read-only or otherwise low-resource use instance.
     * The specific intent depends on AllSafe's and ECorp's specific setup, and it's not clear what's actually happening, except that this is the kind of chatter you might hear from [SOC](https://en.wikipedia.org/wiki/Security_operations_center) or [NOC](https://en.wikipedia.org/wiki/Network_operations_center) workers.
+* "…and call [Prolexic](https://en.wikipedia.org/wiki/Prolexic_Technologies) for help!"
 * On the server's command line:  
   ![Screenshot of using `locate`, `ps` griped to `grep`, :robot: screenshot 📷](https://web.archive.org/web/20170219211851/https://i.imgur.com/4j13i0F.jpg)  
   ![Screenshot of using `sudo`, `kill`, and `chmod`, :robot: screenshot 📷](https://web.archive.org/web/20170219211843/https://i.imgur.com/YBQRhNq.jpg)
