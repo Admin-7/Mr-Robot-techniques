@@ -347,6 +347,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [awesome-windows](https://github.com/Awesome-Windows/Awesome)
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
+* [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools)
 * [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 * [Aman Hardikar's mindmaps](http://www.amanhardikar.com/mindmaps.html)
 * [Black Hat Arsenal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
