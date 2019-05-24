@@ -339,6 +339,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 * [awesome-security-trivia](https://github.com/qazbnm456/awesome-security-trivia)
 * [awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
+* [awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering)
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
 * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection)
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
