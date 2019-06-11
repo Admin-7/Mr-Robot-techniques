@@ -126,6 +126,10 @@ Hundreds of upcoming CTFs are listed at:
 
   Month-long "Capture the Flag" and "Root the Box" style challenges, appearing monthly, and with a rolling scoreboard. They also provide (some) guidance in the form of a [roadmap](https://hackmethod.com/roadmap/) that may help guide you through some of their challenges. (But see also [#Lesson plans and guidance](#lesson-plans-and-guidance), below.)
 
+* [Hack The Box](https://hackthebox.eu/)
+
+  Rotating selection of hacking challenges and penetration testing practice labs offered on a freemium model (free tier and paid tiers) for individuals and university or corporate education programs. Registering an account is required to participate.
+
 * [HackThis!!](https://www.hackthis.co.uk/levels/)
 
   Categorized sets of hacking challenges in various security domains that earn points and bragging rights on a community scoreboard.
