@@ -13,7 +13,7 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [CryptoParty NYC](https://www.cryptoparty.in/nyc) - Decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
 * [Edgeryders](https://edgeryders.eu/) - Umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
 * [Justice Duckling](http://justiceduckling.com/) - New York City’s protest calendar.
-* [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - a group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
+* [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - Group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
 * [NYC DSA Tech Action WG](https://techaction.nyc/) - Democratic Socialists of America, NYC chapter working group developing a socialist perspective on technology and society.
 * [PopGym](http://popgym.org/) - Project working towards opening a physical space offering free self-defense classes.
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
