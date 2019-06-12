@@ -19,6 +19,7 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
 * [Rethink LinkNYC](http://rethinklink.nyc/) - Anti-surveillance advocacy group in New York City.
 * [Shift-CTRL Space](https://shiftctrl.space/) - Amalgamation of Autonomist and Anarchist activists organizing technology-centered projects to cultivate autonomy and connect grassroots organizers with free technology resources.
+* [Starr Bar](https://starrbar.com/) - nightlife venue in Bushwick, Brooklyn that celebrates and supports movements for social justice.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
 * [T4Tech](https://www.meetup.com/t4tech-Free-Coding-Workshop-for-Trans-Folks/) - Group for transgender and allied people to learn about web development and related fields.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
