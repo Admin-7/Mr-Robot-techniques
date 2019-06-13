@@ -340,6 +340,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 * [awesome-reversing](https://github.com/tylerph3/awesome-reversing)
 * [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+* [awesome-sandbox-evasion](https://github.com/seifreed/awesome-sandbox-evasion)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 * [awesome-security-trivia](https://github.com/qazbnm456/awesome-security-trivia)
 * [awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
