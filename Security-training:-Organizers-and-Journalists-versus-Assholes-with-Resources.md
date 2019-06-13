@@ -88,4 +88,5 @@ Before you dive too deeply into this practice material, you should first explore
 * Turn off all logging by the services you run you don't regularly look at. (Configure per-service or using [`logrotate(8)`](https://linux.die.net/man/8/logrotate) `rotate 0` and `shred` configuration options.)
 * [Test RSA keys you've generated against the ROCA vulnerability](https://keychest.net/roca) and re-key if necessary.
 * Use a hardware second factor (an "authentication dongle") on [sites that support hardware-enforced second factor authentication support](http://www.dongleauth.info/).
+* Whitelist external USB, Thunderbolt, etc. devices with tools such as [USBGuard](https://usbguard.github.io/).
 * If you run an Intel motherboard, [change the default Intel AMT BIOS password from its default of `admin`](http://support.radmin.com/index.php?/Knowledgebase/Article/View/9/9/how-to-set-up-intel-amt-features).
