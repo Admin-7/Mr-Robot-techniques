@@ -342,6 +342,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-red-teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [awesome-sandbox-evasion](https://github.com/seifreed/awesome-sandbox-evasion)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
+* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
 * [awesome-security-trivia](https://github.com/qazbnm456/awesome-security-trivia)
 * [awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
 * [awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering)
