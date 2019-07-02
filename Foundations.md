@@ -22,6 +22,7 @@ Our *Foundations* pages are designed to help you get up to speed quickly, or fil
 * [[Operating System]]
 * [[Password cracking]]
 * [[passwd file]]
+* [[Pretty Good Privacy (PGP)]]
 * [[SQL injection]]
 * [[Salted hash]]
 * [[Servers]]
