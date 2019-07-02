@@ -4,7 +4,7 @@
 
 **TL;DR:** ProtonMail uses [weasel words](https://en.wikipedia.org/wiki/Weasel_word) to give less technically-experienced people the impression that their service is capable of more than it is. The brand relies on continued ignorance of important details to thrive. If you insist upon using e-mail for any sort of communication, there is no substitute for using PGP/GPG yourself; you can do this with ProtonMail as your service provider, or you can do this with Google. As long as you take the steps necessary to secure the privacy of your email communications on your own, without relying on the promises of a service provider (like ProtonMail) to do this for you, then you can comfortably use ProtonMail or any other service that you wish.
 
-The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. To learn more about PGP/GPG e-mail encryption, see 🚧 TK-TODO: WE NEED A BETTER GPG GUIDE OR A LINK TO ONE.
+The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. To learn more about PGP/GPG e-mail encryption, see [[GPG and PGP]].
 
 # Contents
 
