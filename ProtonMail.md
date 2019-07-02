@@ -14,8 +14,8 @@ The above summary has its own caveats, but if you haven't the time to read furth
 
 1. [What's wrong with ProtonMail?](#whats-wrong-with-protonmail)
 1. [ProtonMail's disingenuous advertising](#protonmails-disingenuous-advertising)
-1. [TK-TODO](#)
-1. [TK-TODO](#)
+1. [ProtonMail's misdirection about their team](#protonmails-misdirection-about-their-team)
+1. [ProtonMail's reliance on legality in place of technicality](#protonmails-reliance-on-legality-in-place-of-technicality)
 
 # What's wrong with ProtonMail?
 
@@ -31,17 +31,25 @@ ProtonMail's encrypted mail service, which is based on OpenPGP, can't deliver wh
 
 The *only* time this automatic set up process is handled by ProtonMail is when *both* (or *all*) correspondents are using the ProtonMail service itself; that is, when every person involved in the communication is using their `@protonmail.com` email address. If one person has a ProtonMail account but the person they're emailing is using a GMail account, for example, then the email sent from the ProtonMail user to the GMail user are *not* encrypted, and can be read both by certain Google employees and certain ProtonMail employees just like any other email. In this extremely common scenario, none of the privacy benefits that are central to ProtonMail's marketing are present.
 
-Importantly, notice that keeping the contents of emails private is a capability that one can use anywhere, even on GMail, if they take it upon themselves to apply OpenPGP protections themselves. In fact, two GMail users who pre-arrange to use PGP/GPG encryption amongst themselves will have arguably at least as protected and probably a *higher* level of protection *while using GMail* than two ProtonMail users who blindly trust the ProtonMail service to automatically set up their encrypted exchange will have when using ProtonMail. This is not to say that ProtonMail is therefore useless—obviously, not everyone is going to learn how to use PGP themselves—but in ProtonMail's most commonly advertised case of sensitive information being discussed in email, failing to make this operational caveat clear to exactly those users who do not want to set up PGP themselves, is just downright negligent.
+Importantly, notice that keeping the contents of emails private is a capability that one can use anywhere, even on GMail, if they take it upon themselves to apply OpenPGP protections themselves. In fact, two GMail users who pre-arrange to use PGP/GPG encryption amongst themselves will have arguably at least as protected and probably a *higher* level of protection *while using GMail* than two ProtonMail users who blindly trust the ProtonMail service to automatically set up their encrypted exchange will have when using ProtonMail. This is not to say that ProtonMail is therefore useless—obviously, not everyone is going to learn how to use PGP themselves—but in ProtonMail's most commonly advertised case of sensitive information being discussed in email, failing to make this operational caveat clear to exactly those users who do not want to set up PGP themselves, is just downright negligent, mad irresponsible, or both.
+
+# ProtonMail's misdirection about their team
+
+The company's first tagline is "Secure email based in Switzerland." This leads many people I've spoken with to believe the the company is Swiss, but that's not true. The actual team behind ProtonMail are Americans based out of Harvard and CalTech, and is supported by significant funding from Silicon Valley investment firms. So the "based in" is partially about the press history and also that their computers (servers) are physically in Switzerland. This isn't particularly unique, though; many companies large and small such as Google and Facebook have servers located in Swiss datacenters and rely on facilities located in Switzerland.
+
+My frustration here does not, of course, stem from a dislike of Switzerland or the Swiss Alps. It is that ProtonMail replaced necessary instructions regarding the safe and correct operation of their product with pictures of Swiss mountains. They want to hand-wave the actual important things to say instead, "You have security 'cause of Swiss privacy laws and no cop will enter a mountain? Also we are smart, like, CERN smart! So we got this."
+
+# ProtonMail's reliance on legality in place of technicality
+
+The hand-waving goes further. In their marketing material, ProtonMail asserts that "messages are encrypted at all times." This refers to what they call their "zero access architecture," and that what little user data they do have is further protected by Swiss laws. From a technical standpoint, though, these claims can only be truly meaningful in a ProtonMail-to-ProtonMail exchange as discussed earlier. Morever, whether or not these protections are *actually* meaningful simply cannot be determined without directly auditing their running implementation. Ironically, this is not something any of us are permitted to do because doing so would be tantamount to a data breach, which is precisely the sort of thing they are trying to avoid. We are once again asked to take a leap of faith.
+
+Here, too, there is a technical nuance worth explaining. Email messages, like most electronic communications we are now accustomed to, is a "store and forward" system. This just means that instead of delivering your message directly to your intended recipient, you instead hand a copy of your message to an intermediate third-party who will store your message for some period of time, and then forward it on either to another intermediary, if necessary, or your intended recipient. This is what makes it possible for you to send email to someone who is not online at the exact same time that you send email to them.
+
+> 🚧 TK-TODO: Complete section.
 
 # Scratchpad
 
-Their first tagline is "secure email based in switzerland" but the actual team behind the company are Americans based outta harvard and caltech, with significant funding from the valley.  So the "based in" is partially about the press history and also that their servers literally live in Switzerland.
-
 In the case of an encrypted server, like RiseUp, this does not mean the messages themselves are encrypted end to end. Only the data being stored on that server is encrypted, after the fact. This is a deterrent against police raids, for example - the cops cannot read what is stored on that server.
-
-it is that they remove instruction in place of pictures of swiss mountains.  They want to hand-wave the actual important things to say "you have security cos of swiss privacy laws and no cop will enter a mountain?  also we are SMART like CERN SMART?!? So we got this."
-
-One major point there is that Protonmail does NOT encrypt emails that are not sent to another Protonmail account, because they can't handle the way anyone else, like Gmail, handles encryption. So, therefore, they are slinging "encrypted email" without explaining that MAJOR caveat, which is mad irresponsible.
 
 This all gives off a feeling that they want to become a new niche titan.  They want to replace companies instead of empower people, and not teach them what all this actually means so that you _have_ to rely on them (the way their encryption work points to that reliance).
 
