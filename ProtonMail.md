@@ -21,7 +21,7 @@ The above summary has its own caveats, but if you haven't the time to read furth
 
 > "Was there a reason Proton Mail is, like, bad? Morally?"
 
-There are reasons I distrust and dislike ProtonMail, but they are a bit misty. Like, it's not one direct thing that's bad, but a combination of factors that together leave a bad taste in my mouth and give me real concerns about the safety my friends. The main reason I dislike ProtonMail is that they are a Silicon Valley corporation (with all that this implies) who consistently use buzz words in order to sound magical about personal security. At best, this is a recipe for miseducation. At worst, this is potent capitalism preying on the vulnerable and uninformed.
+There are reasons I distrust and dislike ProtonMail, but they are a bit misty. Like, it's not one direct thing that's bad, but a combination of factors that together leave a bad taste in my mouth and give me real concerns about my friends's safety. The main reason I dislike ProtonMail is that they are a Silicon Valley corporation (with all that this implies) who consistently use buzz words in order to sound magical about personal security. At best, this is a recipe for miseducation. At worst, this is potent capitalism preying on the vulnerable and uninformed.
 
 # ProtonMail's disingenuous advertising
 
