@@ -1,26 +1,39 @@
 > [[Wiki|Home]] ▸ **ProtonMail**
 
-[ProtonMail.com](https://protonmail.com/) is an e-mail service provider that has become wildly popular amongst activist groups and politically vocal individuals. This page offers a several evolving critiques of this phenomenon and warns comrades against using ProtonMail without first understanding the severe risks involved. This page is not an opinionated editorial; it is a technical and sociopolitical analysis of the ProtonMail service, along with its cultural impact on activist groups, from an anarchist and autonomist perspective.
+[ProtonMail.com](https://protonmail.com/) is an e-mail service provider that has become wildly popular amongst activist groups and politically vocal individuals.
 
-**TL;DR:** ProtonMail uses [weasel words](https://en.wikipedia.org/wiki/Weasel_word) to give less technically-experienced people the impression that their service is capable of more than it is. The brand relies on continued ignorance of important details to thrive. If you insist upon using e-mail for any sort of communication, there is no substitute for using PGP/GPG yourself; you can do this with ProtonMail as your service provider, or you can do this with Google. As long as you take the steps necessary to secure the privacy of your email communications on your own, without relying on the promises of a service provider (like ProtonMail) to do this for you, then you can comfortably use ProtonMail or any other service that you wish.
+This page offers several evolving critiques of this phenomenon and warns comrades against using ProtonMail without first understanding the risks involved, which can be severe. This critique is not an opinionated editorial; it is a technical and sociopolitical analysis of the ProtonMail service, along with its cultural impact on activist groups, from an anarchist and autonomist perspective.
 
-The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. To learn more about PGP/GPG e-mail encryption, see [[GPG and PGP]].
+# Summary
+
+**TL;DR**: ProtonMail uses [weasel words](https://en.wikipedia.org/wiki/Weasel_word) to give less technically-experienced people the impression that their service is capable of more than it is. The brand relies on continued ignorance of important details to thrive. If you insist upon using e-mail for any sort of communication, there is no substitute for using PGP/GPG yourself; you can do this with ProtonMail as your service provider, or you can do this with Google. As long as you take the steps necessary to secure the privacy of your email communications on your own, without relying on the promises of a service provider (like ProtonMail) to do this for you, then you can comfortably use ProtonMail or any other service that you wish.
+
+The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. To learn more about PGP/GPG e-mail encryption, see [[Pretty Good Privacy (PGP)]].
 
 # Contents
 
+1. [What's wrong with ProtonMail?](#whats-wrong-with-protonmail)
+1. [ProtonMail's disingenuous advertising](#protonmails-disingenuous-advertising)
 1. [TK-TODO](#)
 1. [TK-TODO](#)
-1. [TK-TODO](#)
+
+# What's wrong with ProtonMail?
+
+> "Was there a reason Proton Mail is, like, bad? Morally?"
+
+There are reasons I distrust and dislike ProtonMail, but they are a bit misty. Like, it's not one direct thing that's bad, but a combination of factors that together leave a bad taste in my mouth and give me real concerns about the safety my friends. The main reason I dislike ProtonMail is that they are a Silicon Valley corporation (with all that this implies) who consistently use buzz words in order to sound magical about personal security. At best, this is a recipe for miseducation. At worst, this is potent capitalism preying on the vulnerable and uninformed.
+
+# ProtonMail's disingenuous advertising
+
+As I said, ProtonMail is problematic for a few reasons, but the biggest one in my mind is the way they advertise themselves. "Encrypted mail!" they say. But what they don't tell the average person—these are the people their ads and their aesthetic is targeting, mind you—is how encryption actually *works*. No one should need to be a professional cryptographer to use privacy-enhancing software, just as no one should need to become a professional plumber to access running water in their home. But you should at least be aware of these things called pipes that carry water to your house, rather than believing that turning a metal handle magically makes water appear at the top of a faucet and then disappear at its drain.
+
+ProtonMail's encrypted mail service, which is based on OpenPGP, can't deliver what it claims to offer without there being an *end to end* exchange of some kind between correspondents. In point of fact, no encrypted correspondence, regardless of the product or software being discussed, can work without this initial bidirectional exchange, which is needed to set up future private correspondence. Sometimes, this exchange happens automatically, but there are always huge caveats as to *when* this automatic, invisible set up procedure happens, versus when it does not. **The biggest problem with ProtonMail is that they do not make this caveat clear.**
+
+The *only* time this automatic set up process is handled by ProtonMail is when *both* (or *all*) correspondents are using the ProtonMail service itself; that is, when every person involved in the communication is using their `@protonmail.com` email address. If one person has a ProtonMail account but the person they're emailing is using a GMail account, for example, then the email sent from the ProtonMail user to the GMail user are *not* encrypted, and can be read both by certain Google employees and certain ProtonMail employees just like any other email. In this extremely common scenario, none of the privacy benefits that are central to ProtonMail's marketing are present.
+
+Importantly, notice that keeping the contents of emails private is a capability that one can use anywhere, even on GMail, if they take it upon themselves to apply OpenPGP protections themselves. In fact, two GMail users who pre-arrange to use PGP/GPG encryption amongst themselves will have arguably at least as protected and probably a *higher* level of protection *while using GMail* than two ProtonMail users who blindly trust the ProtonMail service to automatically set up their encrypted exchange will have when using ProtonMail. This is not to say that ProtonMail is therefore useless—obviously, not everyone is going to learn how to use PGP themselves—but in ProtonMail's most commonly advertised case of sensitive information being discussed in email, failing to make this operational caveat clear to exactly those users who do not want to set up PGP themselves, is just downright negligent.
 
 # Scratchpad
-
-"was there a reason Proton Mail is, like, bad? morally?"
-
-There are reasons I distrust and dislike protonmail, but they are a bit "misty" (like, not one direct thing that's bad).  The main reason I dislike them is that they are a silicon valley group who puts forward buzz words to sound magic about personal security.
-
-Protonmail is problematic for a few reasons. The biggest one in my mind is the way they advertise themselves. "Encrypted mail!" They say, but what they don't tell the average person (whom they are targeting with their ads and aesthetic) is how encryption actually *works*. Namely, that you can't have encrypted correspondence without there being an *end to end* exchange of some kind. Be that a keypairing, as in the case of PGP/GPG, or in the case of an encrypted server, such as RiseUp or Protonmail. However, these two things are totally different things. When you use PGP/GPG, your message is encrypted. Meaning that only the recipient can read it. This exchange is automatically handled by Protonmail *only* when both users are using it.
-
-Notice that this (private email contents) is a capability that one can use anywhere, even on Gmail, if they are applying GPG themselves.
 
 Their first tagline is "secure email based in switzerland" but the actual team behind the company are Americans based outta harvard and caltech, with significant funding from the valley.  So the "based in" is partially about the press history and also that their servers literally live in Switzerland.
 
