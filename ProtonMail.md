@@ -16,6 +16,7 @@ The above summary has its own caveats, but if you haven't the time to read furth
 1. [ProtonMail's disingenuous advertising](#protonmails-disingenuous-advertising)
 1. [ProtonMail's misdirection about their team](#protonmails-misdirection-about-their-team)
 1. [ProtonMail's reliance on legality in place of technicality](#protonmails-reliance-on-legality-in-place-of-technicality)
+1. [The ProtonMail punt](#the-protonmail-punt)
 1. [Remaining issues with ProtonMail-to-ProtonMail exchanges](#remaining-issues-with-protonmail-to-protonmail-exchanges)
 
 # What's wrong with ProtonMail?
@@ -70,6 +71,14 @@ The important thing to note from the above sequence is that transport encryption
 Users need to understand that what happens in the above common scenario is that the content of their message is encrypted when traveling from the sender's Web browser to ProtonMail, *then decrypted* when it arrives at ProtonMail's computer, then re-encrypted for transit to Google, then decrypted *again* when it arrives at Google's computer, then re-encrypted for transit from Google to the recipient's smartphone app or Web browser, and then decrypted again so the recipient can read it. If this surprises you, it isn't because you missed something. ProtonMail does not make this distinction clear.
 
 Sadly, this just isn't what *most* people think is happening when they send "secure email" from ProtonMail to their friends using other providers, which seems to be exactly what ProtonMail wants. That gives me the feeling that the company wants to become a new niche titan. They seem to want to replace other companies—i.e., competitors—instead of empower people. They are not interested in teaching us, their supposed customers, what all this "secure email" stuff actually means. Instead, they are banking that an ill-educated populace will become unnecessarily dependent on them. And what, pray tell, is more perfectly capitalist, more undeniably Silicon Valley, than creating unnecessary dependencies?
+
+## The ProtonMail punt
+
+At this point, power ProtonMail users often point me to [this page on ProtonMail's knowledge base](https://protonmail.com/support/knowledge-base/encrypt-for-outside-users/) discussing how to "encrypt [messages] for outside users." The very first sentence on the page asserts that "ProtonMail has an easy built in solution to provide end-to-end encryption for messages sent between ProtonMail Email addresses and Non-ProtonMail Email addresses," which sounds good, but turns out to be incomplete at best.
+
+The "solution" turns out to be posting a password-protected message on a page whose link gets emailed to the recipient in place of the message itself. At the very end of the article, in fine print, is the punt: "It is up to the ProtonMail user to find the most secure manner to communicate the password they have chosen to protect the encrypted message, to the recipient." That's it. No suggestions, no additional instructions. Just, good luck, kiddo.
+
+Now, what do you think the average user does to "securely communicate the password they have chosen" to the recipient? Yup, they email it via ProtonMail. After all, ProtonMail is "secure email." And the home page has photos of Swiss Alps, so it must be true.
 
 ## Remaining issues with ProtonMail-to-ProtonMail exchanges
 
