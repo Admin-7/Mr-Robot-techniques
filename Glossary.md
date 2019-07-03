@@ -702,6 +702,10 @@ Initialism for [Opportunistic Wireless Encryption](#opportunistic-wireless-encry
 
 # P
 
+## PAKE
+
+Initialism for [password-authenticated key exchange](#password-authenticated-key-exchange).
+
 ## PAL
 
 Initialism for [Phase Alternating Line](#phase-alternating-line).
@@ -709,6 +713,8 @@ Initialism for [Phase Alternating Line](#phase-alternating-line).
 ## PAM
 
 Acronym for [pluggable authentication module](#pluggable-authentication-module).
+
+## [Password-authenticated key exchange](https://en.wikipedia.org/wiki/Password-authenticated_key_agreement)
 
 ## [PCI IDE ISA Xcelerator](https://en.wikipedia.org/wiki/PCI_IDE_ISA_Xcelerator)
 
@@ -868,6 +874,8 @@ Initialism for [software-defined networking](#software-defined-networking).
 
 Initialism for [Software Defined Radio](#software-defined-radio).
 
+## [Secure Remote Password](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)
+
 ## [Secure Shell](https://simple.wikipedia.org/wiki/Secure_Shell)
 
 ## Secure Sockets Layer
@@ -931,6 +939,10 @@ Initialism for [sensitive personal information](#sensitive-personal-information)
 ## SQL
 
 Initialism for [Structured Query Languge](#structured-query-language).
+
+## SRP
+
+Initialism for [Secure Remote Password](#secure-remote-password).
 
 ## [Squelch](https://en.wikipedia.org/wiki/Squelch)
 
