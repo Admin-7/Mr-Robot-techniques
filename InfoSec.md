@@ -186,6 +186,10 @@ Hundreds of upcoming CTFs are listed at:
 
   Google's free and interactive cross-site scripting (XSS) training course offering "recruits" (you) the opportunity to safely and legally explore how to find and exploit XSS bugs.
 
+* [PortSwigger Web Security Academy]
+
+  "The Web Security Academy contains high-quality learning materials, interactive vulnerability labs, and video tutorials. You can learn at your own pace, wherever and whenever suits you. Best of all, everything is free!" (Requires registration.)
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
