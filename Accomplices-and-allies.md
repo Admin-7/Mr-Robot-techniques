@@ -22,6 +22,7 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [Starr Bar](https://starrbar.com/) - Nightlife venue in Bushwick, Brooklyn that celebrates and supports movements for social justice.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
 * [T4Tech](https://www.meetup.com/t4tech-Free-Coding-Workshop-for-Trans-Folks/) - Group for transgender and allied people to learn about web development and related fields.
+* [Tech Learning Collective](https://techlearningcollective.com/) - Educational initiative run by radical queer and femme technologists offering unparalelled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
 * [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
 * [Woodbine Health Autonomy Collective](http://woodbine.nyc/) - Nexus of several autonomously organizing groups uniting against the end of the world.
