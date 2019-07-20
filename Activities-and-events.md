@@ -30,3 +30,4 @@ Events are one-offs because they are either intended to be or just aren't happen
 * [[Gone Phishing: How to Recognize Fake Websites and Other Online Scams]]
 * [[IQ sessions]] - Variety of short, multi-disciplinary presentations in the style of an open mic (or "open projector").
 * [[Offensive and Defensive Doxing]] - Practice using public information to compile a dossier on targets, and learn how to protect your personal information from trolls and worse.
+* [[Tor: What Is It Good For? (Absolutely Everything)]]
