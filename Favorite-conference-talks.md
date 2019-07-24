@@ -109,4 +109,4 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
 * * *
 
-See also: [`awesome-sec-talks`, a curated list of awesome Security talks](https://github.com/PaulSec/awesome-sec-talks).
+See also: [`awesome-sec-talks`, a curated list of awesome Security talks](https://github.com/PaulSec/awesome-sec-talks), [:globe_with_meridians: InfoCon.org](https://infocon.org/).
