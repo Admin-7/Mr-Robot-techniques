@@ -190,6 +190,10 @@ Hundreds of upcoming CTFs are listed at:
 
   "The Web Security Academy contains high-quality learning materials, interactive vulnerability labs, and video tutorials. You can learn at your own pace, wherever and whenever suits you. Best of all, everything is free!" (Requires registration.)
 
+* [Malware Traffic Analysis](https://malware-traffic-analysis.net/)
+
+  A source for packet capture files and malware samples that, the summer of 2013, has published over 1,600 blog entries about malicious network traffic. Almost every post on this site has pcap files or malware samples (or both). There are also numerous malware traffic analysis exercises useful for gaining experience analyzing the communication of malware infections, along with tutorials that can help train you in network forensics.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
