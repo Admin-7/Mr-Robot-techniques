@@ -499,6 +499,12 @@ Initialism for [Indicator of Compromise](#indicator-of-compromise).
 
 ## [Intelligent Platform Management Interface](https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface)
 
+## [IP address management](https://en.wikipedia.org/wiki/IP_address_management)
+
+## IPAM
+
+Initialism for [IP address management](#ip-address-management).
+
 ## IPC
 
 Initialism for one of:
