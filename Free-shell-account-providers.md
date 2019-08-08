@@ -1,8 +1,8 @@
 > [[Wiki|Home]] ▸ **Free shell account providers**
 
-A **shell account** is a user account on a computer that provides [[command line|Command line interface (CLI)]] access. Free shell account providers typically offer restricted or limited resources via a command line interface to the public for educational and recreational purposes. Some providers are based around a community group or special interest and function more like alternative (old school, nostalgic) social media destinations.
+A **shell account** is a registered user account on a computer system that allows the account holder to access a [[command line interface|Command line interface (CLI)]]. **Free shell account providers** typically offer restricted or limited resources via a command line interface to the public for educational and recreational purposes. Some providers are based around a community group or special interest and function more like alternative (old school, nostalgic) social media destinations.
 
-AnarchoTech NYC provides no such access of any kind. Therefore, the following is a list of *unaffiliated* and *unverified* free shell account providers. We make no claims and take no responsibility for the security, reliability, or availability of any information presented here.
+Anarcho-Tech NYC provides no such access of any kind. Therefore, the following is a list of *unaffiliated* and *unverified* free shell account providers. We make no claims and take no responsibility for the security, reliability, or availability of any information presented here.
 
 * [Super Dimension Fortress (SDF) Public Access UNIX System](https://sdf.org/) - Established in 1987, one of the longest running free shell account infrastructures on the Internet.
 * [Grex](https://grex.org/) - Public access Unix and computer conferencing system run entirely by volunteers, featuring ongoing bulletin board discussion areas (called conferences), multi-user chat channels, Internet email, and more.
