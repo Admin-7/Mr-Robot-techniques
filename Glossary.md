@@ -53,6 +53,10 @@ Initialism for [automatic depedent surveillance – broadcast](#automatic-depend
 
 Initialism for [automatic gain control](#automatic-gain-control).
 
+## ALPN
+
+Initialism for [Application-Layer Protocol Negotiation](#application-layer-protocol-negotiation).
+
 ## ALU
 
 Initialism for [arithmetic logic unit](#arithmetic-logic-unit).
@@ -72,6 +76,8 @@ See also [frequency-shift keying](#frequency-shift-keying), [phase-shift keying]
 Initialism for [application programming interface](#application-programming-interface).
 
 ## [AppArmor](https://en.wikipedia.org/wiki/AppArmor)
+
+## [Application-Layer Protocol Negotiation](https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation)
 
 ## [Application programming interface](https://simple.wikipedia.org/wiki/Application_programming_interface)
 
