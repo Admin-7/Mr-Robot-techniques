@@ -327,9 +327,15 @@ Initialism for [Elevation of Privilege](#elevation-of-privilege) or [Escalation 
 
 Synonym for [privilege escalation](#privilege-escalation).
 
+## [Ethernet Private Line](https://en.wikipedia.org/wiki/Carrier_Ethernet#Ethernet_Private_Line)
+
 ## EUT
 
 Initialism for [equipment under test](#equipment-under-test). Also known as [device under test](#device-under-test), [unit under test](#unit-under-test).
+
+## EPL
+
+Initialism for [Ethernet Private Line](#ethernet-private-line).
 
 # F
 
@@ -497,6 +503,8 @@ See also:
 
 ## [International Electrotechnical Commission](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission)
 
+## [Internet exchange point](https://en.wikipedia.org/wiki/Internet_exchange_point)
+
 ## IOC
 
 Initialism for [Indicator of Compromise](#indicator-of-compromise).
@@ -528,6 +536,10 @@ Initialism for [Intelligent Platform Management Interface](#intelligent-platform
 Initialism for [Industry Standard Architecture](#industry-standard-architecture).
 
 ## [Isochrone map](https://en.wikipedia.org/wiki/Isochrone_map)
+
+## IXP
+
+Abbreviation for [Internet exchange point](#internet-exchange-point)
 
 ## I/Q
 
@@ -714,6 +726,8 @@ Initialism for [Opportunistic Wireless Encryption](#opportunistic-wireless-encry
 
 # P
 
+## [Packet Clearing House](https://en.wikipedia.org/wiki/Packet_Clearing_House)
+
 ## PAKE
 
 Initialism for [password-authenticated key exchange](#password-authenticated-key-exchange).
@@ -727,6 +741,10 @@ Initialism for [Phase Alternating Line](#phase-alternating-line).
 Acronym for [pluggable authentication module](#pluggable-authentication-module).
 
 ## [Password-authenticated key exchange](https://en.wikipedia.org/wiki/Password-authenticated_key_agreement)
+
+## PCH
+
+Initialism for [Packet Clearing House](#packet-clearing-house).
 
 ## [PCI IDE ISA Xcelerator](https://en.wikipedia.org/wiki/PCI_IDE_ISA_Xcelerator)
 
