@@ -553,9 +553,15 @@ Abbreviation for "[in-phase and quadrature components](#in-phase-and-quadrature-
 
 # L
 
+## L2TP
+
+Initialism for [Layer 2 Tunneling Protocol](#layer-2-tunneling-protocol)
+
 ## LAN
 
 Initialism for [local area network](#local-area-network).
+
+## [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
 
 ## [Linux Security Modules](https://simple.wikipedia.org/wiki/Linux_Security_Modules)
 
