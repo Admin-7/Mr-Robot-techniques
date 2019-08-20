@@ -15,6 +15,7 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [Justice Duckling](http://justiceduckling.com/) - New York City’s protest calendar.
 * [MACC's CyPurr Collective/CryptoSquad NYC](http://macc.nyc/groups) - Group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
 * [NYC DSA Tech Action WG](https://techaction.nyc/) - Democratic Socialists of America, NYC chapter working group developing a socialist perspective on technology and society.
+* [NYC Mesh](https://nycmesh.net/) - New York residents who decided to set up our own network to bypass the cable cartel and connect directly to the Internet backbone.
 * [PopGym](http://popgym.org/) - Project working towards opening a physical space offering free self-defense classes.
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
 * [Rethink LinkNYC](http://rethinklink.nyc/) - Anti-surveillance advocacy group in New York City.
