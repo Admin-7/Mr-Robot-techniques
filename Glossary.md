@@ -609,6 +609,8 @@ When in all lowercase letters, abbreviation for "manual." See [man page](#man-pa
 
 ## [Man page](https://en.wikipedia.org/wiki/Man_page)
 
+## [Maximum transmission unit](https://en.wikipedia.org/wiki/Maximum_transmission_unit)
+
 ## [Micro coaxial](https://en.wikipedia.org/wiki/MCX_connector)
 
 ## MCX
@@ -628,6 +630,10 @@ Initialism for [multiple-input and multiple-output](#multiple-input-and-multiple
 ## MLC
 
 Initialism for [multi-level cell](#multi-level-cell).
+
+## MTU
+
+Initialism for [maximum transmission unit](#maximum-transmission-unit).
 
 ## MU-MIMO
 
