@@ -1085,6 +1085,8 @@ Initialism for [Universal Software Radio Peripheral](#universal-software-radio-p
 
 ## [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud)
 
+## [Virtual private network](https://simple.wikipedia.org/wiki/Virtual_private_network)
+
 ## [Virtualized network function](https://en.wikipedia.org/wiki/Network_function_virtualization)
 
 ## VGA
@@ -1108,6 +1110,10 @@ Initialsm for one of:
 ## VPC
 
 Initialism for [virtual private cloud](#virtual-private-cloud).
+
+## VPN
+
+Initialism for [virtual private network](#virtual-private-network).
 
 # W
 
