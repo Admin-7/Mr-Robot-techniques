@@ -567,7 +567,18 @@ Initialism for [Layer 2 Tunneling Protocol](#layer-2-tunneling-protocol)
 
 Initialism for [local area network](#local-area-network).
 
+## [Law enforcement officer](https://en.wikipedia.org/wiki/Law_enforcement_officer)
+
+## [Law enforcement organization](https://en.wikipedia.org/wiki/Law_enforcement_organization)
+
 ## [Layer 2 Tunneling Protocol](https://en.wikipedia.org/wiki/Layer_2_Tunneling_Protocol)
+
+## LEO
+
+Initialism for:
+
+* [Law enforcement officer](#law-enforcement-officer)
+* [Law enforcement organization](#law-enforcement-organization)
 
 ## [Linux Security Modules](https://simple.wikipedia.org/wiki/Linux_Security_Modules)
 
