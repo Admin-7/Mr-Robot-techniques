@@ -26,4 +26,4 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [Tech Learning Collective](https://techlearningcollective.com/) - Educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
 * [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
-* [Woodbine Health Autonomy Collective](http://woodbine.nyc/) - Nexus of several autonomously organizing groups uniting against the end of the world.
+* [Woodbine Autonomy Collective](http://woodbine.nyc/) - Nexus of several autonomously organizing groups uniting against the end of the world.
