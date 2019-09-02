@@ -815,6 +815,8 @@ Abbreviation for "physical security."
 
 Initialism for "[point of interest](#point-of-interest)."
 
+## [Point-to-multipoint](https://en.wikipedia.org/wiki/Point-to-multipoint_communication)
+
 ## [Point of interest](https://en.wikipedia.org/wiki/Point_of_interest)
 
 ## [Pre-shared key](https://simple.wikipedia.org/wiki/Pre-shared_key)
@@ -837,6 +839,10 @@ Initialism for one of:
 ## PSTN
 
 Initialism for [Public switched telephone network](#public-switched-telephone-network).
+
+## PtMP
+
+Initialism for [point-to-multipoint](#point-to-multipoint).
 
 ## [Public switched telephone network](https://en.wikipedia.org/wiki/Public_switched_telephone_network)
 
