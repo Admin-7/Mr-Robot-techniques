@@ -313,6 +313,8 @@ Initialism for [digital vinyl system](#digital-vinyl-system).
 
 # E
 
+## [Electrostatic discharge](https://en.wikipedia.org/wiki/Electrostatic_discharge)
+
 ## Elevation of Privilege
 
 Synonym for [privilege elevation](#privilege-elevation).
@@ -326,6 +328,10 @@ Initialism for [Elevation of Privilege](#elevation-of-privilege) or [Escalation 
 ## Escalation of Privilege
 
 Synonym for [privilege escalation](#privilege-escalation).
+
+## ESD
+
+Initialism for [electrostatic discharge](#electrostatic-discharge).
 
 ## [Ethernet Private Line](https://en.wikipedia.org/wiki/Carrier_Ethernet#Ethernet_Private_Line)
 
