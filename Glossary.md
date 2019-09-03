@@ -811,11 +811,17 @@ Abbreviation for "physical security."
 
 ## (Pluggable authentication module](https://en.wikipedia.org/wiki/Pluggable_authentication_module)
 
+## POC
+
+Initialism for [point of contact](#point-of-contact).
+
 ## POI
 
 Initialism for "[point of interest](#point-of-interest)."
 
 ## [Point-to-multipoint](https://en.wikipedia.org/wiki/Point-to-multipoint_communication)
+
+## [Point of contact](https://en.wikipedia.org/wiki/Point_of_contact)
 
 ## [Point of interest](https://en.wikipedia.org/wiki/Point_of_interest)
 
