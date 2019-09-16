@@ -8,7 +8,11 @@ This page offers several evolving critiques of this phenomenon and warns comrade
 
 **TL;DR**: ProtonMail uses [weasel words](https://en.wikipedia.org/wiki/Weasel_word) to give less technically-experienced people the impression that their service is capable of more than it is. The brand relies on continued ignorance of important details to thrive. If you insist upon using e-mail for any sort of communication, there is no substitute for using PGP/GPG yourself; you can do this with ProtonMail as your service provider, or you can do this with Google. As long as you take the steps necessary to secure the privacy of your email communications on your own, without relying on the promises of a service provider (like ProtonMail) to do this for you, then you can comfortably use ProtonMail or any other service that you wish.
 
-The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. To learn more about PGP/GPG e-mail encryption, see [[Pretty Good Privacy (PGP)]].
+The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. To learn more about PGP/GPG e-mail encryption, see [[Pretty Good Privacy (PGP)]]. To download the PGP public key for any given ProtonMail user account, use the following Web address and replace *`username@protonmail.com`* with the user account's ProtonMail email address:
+
+```
+https://api.protonmail.ch/pks/lookup?op=get&search=username@protonmail.com
+```
 
 # Contents
 
@@ -121,10 +125,6 @@ What I'm saying with a URL like this is, "Hey, don't worry about updating your c
 To understand that, let's compare it with another way of doing something like this. I'm widgetco and I know you care about knowing what code you're running. So I give you a URL like this: `https://widgetco.com/v1/sidebar_widget.js` Now, I'm telling you, "Here is the version of the program you intended to install. It's version 1. It's at this URL. And I *promise* I will not change it." Now the question is: how much do you trust my promise?
 
 And that is *also* what SRI *could* be for: giving the end-user the ability to say, "Hey, you promised you wouldn't change the code coming from this URL, and since I wasn't automating checking up on that all the time, I didn't notice, until now." Which is…neat. :)
-
-
-
-
 
 
 Protecting data at rest in this way is certainly better than not doing so, but the fact is that much of the data being protected in this manner is already accomplished simply by using PGP itself. Not *all* data is protected (notably the email's envelope, i.e., who the message is from and who it is being sent to) from a police raid merely by PGP, but for the purposes of the the ProtonMail discussion with respect to ProtonMail's marketing push, much of it is. Since an email that you encrypt using PGP is encrypted *on your computer* and not decrypted until just before it is displayed *on your recipient's computer*, the email contents itself is protected *by PGP* both at rest on any email service provider's computers and in motion while being transported to and from them. Like storage encryption, transport encryption is *still* important, but in this case what it is functionally needed for is to protect things like your login username and password, *not* your email. That's already been taken care of.
