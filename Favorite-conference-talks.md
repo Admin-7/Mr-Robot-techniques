@@ -48,6 +48,10 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
   This talk gives a look at some of the more novel ways that people can gain rapid entry using cursory tactics, many of which ignore lock cylinders entirely! As always, tactical and military analogies will be employed to make direct connections between INFOSEC and any other engagement where assailants must be kept at bay for as long as possible using the resources you have available. Remember the "Three R's" of Physical Security? How about the "Three B's" of tactical defense? If you don't, you'll learn them this time.
 
+* [My year on the front line - cleaning infected [WordPress] sites](https://www.youtube.com/watch?v=dzuQYV-diZg)
+
+  In this talk, a former [WordFence](https://www.wordfence.com/) site cleaner will share stories from the more memorable sites he cleaned (names changed to protect the innocent), including revealing his all-time favorite WP malware, and the epic tale of the persistent attacker that almost thwarted the Wordfence team completely. Scattered throughout will be tips and ideas to help protect your site from compromise and keep everyone (except the bad guys!) happy.
+
 ## Privacy and anonymity
 
 * ["EXCUSE ME, I THINK YOUR DARK WEB IS LEAKING!" by Sarah Jamie Lewis - BSides Vancouver 2017](https://www.youtube.com/watch?v=ShrZ4B9R3NQ)
@@ -104,7 +108,6 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 * How to disappear completely - LinuxConf.com.au 2019 https://www.youtube.com/watch?v=LOulCAz4S0M
 * Apathy and Arsenic: a Victorian Era lesson on fighting the surveillance state https://www.youtube.com/watch?v=egi8Lm5W3FY
 * See what your computer is doing with Ftrace utilities https://www.youtube.com/watch?v=68osT1soAPM
-* My year on the front line - cleaning infected [WordPresss] sites https://www.youtube.com/watch?v=dzuQYV-diZg
 * Kernel Security Is Cool Again https://www.youtube.com/watch?v=GFGJ3e3oj2c
 * Web Security 2019 https://www.youtube.com/watch?v=q99Nj-_oaQc
 
