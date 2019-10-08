@@ -95,6 +95,7 @@ Before you dive too deeply into this practice material, you should first explore
   * Real-world example: [More Android phones than ever are covertly listening for inaudible sounds in ads](https://arstechnica.com/security/2017/05/theres-a-spike-in-android-apps-that-covertly-listen-for-inaudible-sounds-in-ads/)
 * [Audit the permissions granted to individual websites in your Web browser](https://www.howtogeek.com/188241/how-to-modify-permissions-for-individual-websites-in-all-browsers/)
 * Use temporary emails/identities when making temporary use of services: use a [temporary email](https://temp-mail.org/en/) ([FakeMailGenerator.com](http://fakemailgenerator.com/) and similar sites) for that, and [fake names, birth dates and etc.](http://fakenamegenerator.com/) to go along with that temporary identity
+* Configure your email client to avoid tracking bugs. Test your client in the [EmailPrivacyTester.com](https://www.emailprivacytester.com/) web app.
 * If possible, don't use hardware received from employer for personal use. (Why? "[Employee monitoring](https://www.privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring).")
   * Similarly, never tell your boss/employer the passwords to personal accounts, even if "required" to by employment contracts (these clauses are illegal).
 * Check the validity of the lock icon in your Web browser's address bar (TLS certificate validation practices)
