@@ -85,6 +85,7 @@ Before you dive too deeply into this practice material, you should first explore
   * [Google's MyActivity](https://myactivity.google.com/)
   * [Facebook's Ads Preferences](https://www.facebook.com/ads/preferences/)
   * [Your Twitter Data](https://twitter.com/settings/your_twitter_data)
+  * [Simple Opt Out - Deep-links to dozens of companies's opt-out pages](https://simpleoptout.com/)
 * Use passphrases, not biometric unlock features such as fingerprints
 * Use passphrases for locking your phone instead of PIN or Pattern.
 * Use cash whenever possible, not a credit card or electronic payment system
