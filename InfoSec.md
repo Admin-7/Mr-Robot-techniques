@@ -60,6 +60,8 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
 * [PACTF](https://pactf.com/)
 
+* [TJCTF](https://tjctf.org/)
+
 ## Hacking challenges
 
 * [CTFLearn](https://ctflearn.com/)
