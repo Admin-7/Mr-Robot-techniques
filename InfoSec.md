@@ -8,7 +8,7 @@ Cool stuff for "[the Cyber](https://www.theatlantic.com/technology/archive/2016/
 1. [CTFs and Hacking Games](#ctfs-and-hacking-games)
     1. [CTFs](#ctfs)
         1. [CTF calendars and archives](#ctf-calendars-and-archives)
-        1. [Recommended CTFs](#recommended-ctfs)
+        1. [Beginner CTFs](#beginner-ctfs)
     1. [Hacking challenges](#hacking-challenges)
     1. [Cyberwarfare ranges](#cyberwarfare-ranges)
 1. [Labs and practice VMs](#labs-and-practice-vms)
@@ -50,21 +50,25 @@ Hundreds of upcoming CTFs are listed at:
 * [CTFTime.org](https://ctftime.org/) - List of upcoming CTFs to compete in, central (unofficial) directory of teams, and archive of previous challenge write-ups for educational purposes.
 * [CapTF Calendar](http://captf.com/calendar/) - Google Calendar of various CTFs.
 
-### Recommended CTFs
+### Beginner CTFs
+
+Most CTF competitions and platforms are designed for very experienced computer security professionals. While these can be a fantastic way to hone existing skills, they are often not well-suited for gaining a foundational familiarity with a given technology or class of security vulnerabilities because they expect players to have been exposed to at least some elements of these issues in the course of their prior professional experience. In contrast, beginner CTFs are designed to gamify such first-exposure experiences, either explicitly as in the case of supplementary exercises for (middle or high) school studens, or as a stand-alone educational tool.
 
 * [PicoCTF](https://picoctf.com/)
 
-  An always-open game targeted for high school students but useful for anyone who is just starting out in computer security. Available games are [PicoCTF 2013](https://2013.picoctf.com/), [PicoCTF 2014](https://2014.picoctf.com/), [PicoCTF 2017](https://2017.picoctf.com/), and [PicoCTF 2018](https://2017.picoctf.com/).
+  An always-open game targeted for high school students but useful for anyone who is just starting out in computer security. Available games are [PicoCTF 2013](https://2013.picoctf.com/), [PicoCTF 2014](https://2014.picoctf.com/), [PicoCTF 2017](https://2017.picoctf.com/), [PicoCTF 2018](https://2018game.picoctf.com/), and [PicoCTF 2019](https://2019game.picoctf.com/).
 
-* [Ghost in the Shellcode](http://ghostintheshellcode.com/)
-
-  An annual capture-the-flag contest that takes place every winter -- generally in January, but sometimes in February.
+* [PACTF](https://pactf.com/)
 
 ## Hacking challenges
 
 * [CTFLearn](https://ctflearn.com/)
 
   A crowdsourced collection of practice problems ranging from beginner to expert difficulty. Accounts are free, and anyone can post problems, solve problems, or share news about CTFs. Kind of like a [HackerRank](https://www.hackerrank.com/) or [CodeWars](https://www.codewars.com/) for cybersecurity challenges.
+
+* [Ghost in the Shellcode](http://ghostintheshellcode.com/)
+
+  An annual capture-the-flag contest that takes place every winter—generally in January, but sometimes in February.
 
 * [Microcorruption](https://www.microcorruption.com)
 
