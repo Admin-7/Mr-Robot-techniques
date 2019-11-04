@@ -8,6 +8,7 @@ This page lists throwaway SMS inbox providers you can use instead of your own mo
 
 > 📝 Note to the editors: please keep this list alphabetized. Thank you! :)
 
+* [DisposableSMS.com](https://disposablesms.com/)
+* [FreePhoneNum.com](https://freephonenum.com/)
 * [Mailinator.com](https://www.mailinator.com/) (also provides [[disposable email services]])
 * [SMSReceiveFree.com](https://smsreceivefree.com/) - Requires free account signup with an email address.
-* [DisposableSMS.com](https://disposablesms.com/)
