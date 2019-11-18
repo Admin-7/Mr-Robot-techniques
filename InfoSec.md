@@ -366,6 +366,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-tor](https://github.com/ajvb/awesome-tor)
 * [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 * [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [awesome-windows](https://github.com/Awesome-Windows/Awesome)
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
