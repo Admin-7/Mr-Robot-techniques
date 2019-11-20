@@ -36,9 +36,7 @@ If you're just getting started with "tech stuff" for the first time, or if you'v
 
 # Donations and support
 
-You can make a single donation via [PayPal](https://www.paypal.me/AnarchoTechNYC/25) or [BitCoin](https://blockchain.info/qr?data=bitcoin:17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr?label=AnarchoTechNYC&size=200) of whatever amount you are comfortable with. To do so, tap, click, or scan any of the donation links or barcodes on our various websites. These donations will *not* be processed repeatedly.
-
-For BitCoin, you can:
+You can make a single donation via [BitCoin](https://blockchain.info/qr?data=bitcoin:17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr?label=AnarchoTechNYC&size=200) of whatever amount you are comfortable with. To do so, tap, click, or scan any of the donation links or barcodes on our various websites.
 
 * Copy and paste our BitCoin address: `17ByVbkM6mf7bytqWRFwzjqradBkmVh4Tr`
 
