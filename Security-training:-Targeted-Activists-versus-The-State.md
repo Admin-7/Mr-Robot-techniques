@@ -83,6 +83,7 @@ Before you dive too deeply into this practice material, you should first explore
   * Replace any commercial firmware on your devices with [LibreBoot](https://libreboot.org/).
   * If you can't use LibreBoot, at least [patch your Intel-based logic boards](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00075&languageid=en-fr) against CVE-2017-5689 (see [Wikipedia](https://en.wikipedia.org/wiki/Intel_Active_Management_Technology#Silent_Bob_is_Silent)). (See [this HowToGeek article for more on the legitimate use of Intel ME](https://www.howtogeek.com/56538/how-to-remotely-control-your-pc-even-when-it-crashes/).)
 * "Use encrypted email." (OpenPGP/GPG/PGP)
+    * [GPGTools.org](https://gpgtools.org/) for macOS, optionally without a paid license via [Libmacgpg-free](https://github.com/macgpg/libmacgpg-free)
 * Use [Qubes](https://www.qubes-os.org/), a hardened and security compartmentalized operating system generally
 * Use [Tails](https://tails.boum.org/) for handling specific, extremely sensitive material
 * [Create an anonymous Signal phone number with Android](https://yawnbox.com/2015/03/14/create-an-anonymous-textsecure-and-redphone-phone-number/)
