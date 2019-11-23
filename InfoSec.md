@@ -226,6 +226,14 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
   "[T]his application can be used by mobile security enthusiasts and students to learn or review the basics of mobile application security." Supplemental guides can be found on [the author's site's DVIA page](https://n0where.net/damn-vulnerable-ios-app-dvia/).
 
+* [OWASP iGoat Tool Project](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
+
+  Learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it. As such, iGoat is a safe environment where iOS developers can learn about the major security pitfalls they face as well as how to avoid them. It is made up of a series of lessons that each teach a single (but vital) security lesson.
+
+* [OWASP MSTG Hacking Playground](https://github.com/OWASP/MSTG-Hacking-Playground)
+
+  Collection of iOS and Android mobile apps, that are intentionally build insecure. These apps are used as examples to demonstrate different vulnerabilities explained in the the [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg/).
+
 * [Damn Vulnerable Router Firmware (DVRF)](https://github.com/praetorian-inc/DVRF)
 
   "The goal of this project is to simulate a real world environment to help people learn about other CPU architectures outside of the x86_64 space. This project will also help people get into discovering new things about hardware." Supplemental guides can be found on the author's blog: [1](https://p16.praetorian.com/blog/getting-started-with-damn-vulnerable-router-firmware-dvrf-v0.1), [2](https://p16.praetorian.com/blog/reversing-and-exploiting-embedded-devices-part-1-the-software-stack).
