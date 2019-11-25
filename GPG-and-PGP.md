@@ -7,3 +7,7 @@ GPG is a [Free Software](https://www.gnu.org/philosophy/free-sw.html) implementa
 # Guides
 
 * [[Signing Git commits using GPG keys]]
+
+* * *
+
+See also: [[:beginner: Pretty Good Privacy (PGP)|Pretty Good Privacy (PGP)]].
