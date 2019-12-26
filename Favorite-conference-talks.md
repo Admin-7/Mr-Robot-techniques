@@ -110,7 +110,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 * See what your computer is doing with Ftrace utilities https://www.youtube.com/watch?v=68osT1soAPM
 * Kernel Security Is Cool Again https://www.youtube.com/watch?v=GFGJ3e3oj2c
 * Web Security 2019 https://www.youtube.com/watch?v=q99Nj-_oaQc
-
+* The Tor censorship arms race: https://www.youtube.com/watch?v=ZB8ODpw_om8
 * * *
 
 See also: [`awesome-sec-talks`, a curated list of awesome Security talks](https://github.com/PaulSec/awesome-sec-talks), [:globe_with_meridians: InfoCon.org](https://infocon.org/).
