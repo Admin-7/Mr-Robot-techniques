@@ -12,4 +12,5 @@ A **disposable email service** (sometimes also called a "**temporary email addre
 * [GuerrillaMail.com](https://www.guerrillamail.com/) - Temporary addresses for anti-spam purposes; [do not use GuerrillaMail for "anonymous email."](https://web.archive.org/web/20151029140147/https://www.guerrillamail.com/blog/statement-on-harvard-incident/)
 * [Mailinator.com](https://www.mailinator.com/) (also provides [[Disposable SMS services]])
 * [NowMyMail.com](http://nowmymail.com/)
+* [Temp-Mail.org](https://temp-mail.org/)
 * [ThrowAwayMail.com](https://www.throwawaymail.com/)
