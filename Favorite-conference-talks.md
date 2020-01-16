@@ -20,6 +20,10 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
   A January, 2019 presentation by [FreeBSD](https://www.freebsd.org/) developer [Benno Rice](https://twitter.com/jeamland) discussing the origins of [systemd](https://freedesktop.org/wiki/Software/systemd/), and its role in providing a set of "system layer" functions that conceptually sit between the traditional notions of kernelspace and userspace. He also discusses the contention around the use and adoption of systemd, how contempt culture stifles progress, and how the systemd project ought to be looked at as a source of ideas rather than a problematic piece of software.
 
+* [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://vimeo.com/245778144/4d1d597c5e)
+
+  Understanding Kubernetes as a whole can be daunting. With so many different components working together it can be hard to know how the pieces work together or where new products and features fit in. I will start at the highest level and then peel off the layers one at time to explain how some of the "magic" happens.
+
 ## Phones
 
 * [The Secret Life of SIM Cards - DEF CON 21](https://www.youtube.com/watch?v=31D94QOo2gY)
