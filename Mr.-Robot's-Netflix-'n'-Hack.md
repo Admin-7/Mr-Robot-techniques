@@ -66,7 +66,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * Historical sidenote: read about the [`finger` Protocol](https://en.wikipedia.org/wiki/Finger_protocol)
 * `astsu` is [not real](https://www.leaseweb.com/labs/2015/09/linux-commands-astu-and-astsu-in-mr-robot/), but! `traceroute` is
 * [rootkit](https://en.wikipedia.org/wiki/Rootkit)
-  * Blog post: [Basics of Making a Rootkit](https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/)
+  * Blog post: [Basics of Making a Rootkit](https://web.archive.org/web/20170810234123/https://d0hnuts.com/2016/12/21/basics-of-making-a-rootkit-from-syscall-to-hook/)
 * "Redirect the traffic…" Gideon says.
   * Using [`ifconfig`](https://linux.die.net/man/8/ifconfig), a command line tool to *config*ure a network *i*nter*f*ace.
   * "Routers" are just computers, but with dedicated operating systems with different network interface configuration commands, such as [CISCO iOS](https://en.wikipedia.org/wiki/Cisco_IOS) (proprietary) or [VyOS](https://vyos.io/), a free software clone of Cisco's iOS, useful if you can't pay for an iOS license.
