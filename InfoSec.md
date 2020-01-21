@@ -200,6 +200,10 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
   A source for packet capture files and malware samples that, by the Summer of 2013, has published over 1,600 blog entries about malicious network traffic. Almost every post on this site has pcap files or malware samples (or both). There are also numerous malware traffic analysis exercises useful for gaining experience analyzing the communication of malware infections, along with tutorials that can help train you in network forensics.
 
+* [flAWS.cloud](http://flaws.cloud/) and [flAWS2.cloud](http://flaws2.cloud/)
+
+  This set of games/tutorials teaches you AWS (Amazon Web Services) security concepts. The challenges are focused on AWS specific issues, so no buffer overflows, XSS, etc. You can play by getting hands-on-keyboard or just click through the hints to learn the concepts and go from one level to the next without playing.
+
 # Cyberwarfare ranges
 
 * [Arizona Cyberwarfare Range](https://web.archive.org/web/20170211144448/http://azcwr.org/)
