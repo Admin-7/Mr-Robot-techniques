@@ -69,7 +69,7 @@ There are no prerequisites. The material presented on this page is *relevant to 
 
 ## Practices
 
-* Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://www.privacyrights.org/consumer-guides/data-brokers-and-people-search-sites)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
+* Scrub personal data and [opt-out](https://www.privacyrights.org/data-brokers) from "[Data broker/vendor](https://privacyrights.org/data-brokers)" sites such as Spokeo/PeopleSearch/Pipl.com, etc.
 * Don't check in to places on Facebook/Foursquare/Yelp/etc publicly
 * turn off location services (GPS) on your phone when you don't need it (also saves battery!)
 * [Turn off location tagging for your smartphone camera](https://www.wired.com/2013/07/tip-smartphone-camera-gps/)
