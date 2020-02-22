@@ -77,5 +77,5 @@ Before you dive too deeply into this practice material, you should first explore
 
 * Use the "High" security level in your TorBrowser (disables JavaScript, HTML5 Web Fonts, etc.)
 * [Use dedicated virtual machines for specific purposes](https://theintercept.com/2015/09/16/getting-hacked-doesnt-bad/) to open documents you don't trust, and take other specialized tasks
-* Clean/audit your device's root TLS certificate stores (for instance, with [RootCertificateCheck](http://www.ghacks.net/2015/04/05/scan-your-windows-computer-for-untrusted-root-certificates/))
+* Clean/audit your device's root TLS certificate stores (for instance, with [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) or [RootCertificateCheck](http://www.ghacks.net/2015/04/05/scan-your-windows-computer-for-untrusted-root-certificates/))
 * [Place your hand over a PIN pad](http://www.consumerreports.org/cro/news/2011/08/how-thermal-cameras-could-steal-your-pin-at-atms/index.htm) (at an ATM, supermarket checkout, etc.) to [warm the buttons before entering your pin](https://www.youtube.com/watch?v=cdY2vsC6muE&t=15m21s)
