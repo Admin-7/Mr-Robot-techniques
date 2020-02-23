@@ -230,6 +230,10 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
   "[T]his application can be used by mobile security enthusiasts and students to learn or review the basics of mobile application security." Supplemental guides can be found on [the author's site's DVIA page](https://n0where.net/damn-vulnerable-ios-app-dvia/).
 
+* [HackSys Extreme Vulnerable Windows Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
+
+  The HackSys Extreme Vulnerable Driver is an intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at the Windows Kernel level.
+
 * [OWASP iGoat Tool Project](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
 
   Learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it. As such, iGoat is a safe environment where iOS developers can learn about the major security pitfalls they face as well as how to avoid them. It is made up of a series of lessons that each teach a single (but vital) security lesson.
