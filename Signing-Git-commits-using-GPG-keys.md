@@ -4,7 +4,7 @@
 
 > 🔰📖 GPG is also known as *PGP*. For the purposes of this guide, we will be referring to the tool as **GPG**. For further information on the difference between the initialisms, see [[GPG and PGP]].
 
-> :beginner: :bulb: This procedure requires the use of a command line. If you are unfamiliar with the command line, we recommend you take some time to work through the excellent [Taming the Terminal](https://www.bartbusschots.ie/s/blog/taming-the-terminal/) series.
+> :beginner: :bulb: This procedure requires the use of a command line. If you are unfamiliar with the command line, we recommend you take some time to work through the excellent [Foundations: Command Line Basics course offered for free by Tech Learning Collective](https://techlearningcollective.com/foundations/), or another tutorial series such as [Taming the Terminal](https://www.bartbusschots.ie/s/blog/taming-the-terminal/).
 
 # Contents
 
