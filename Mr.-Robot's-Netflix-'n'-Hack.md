@@ -370,6 +370,7 @@ During post-show discussion, we brought up:
     * [LinuxPlanet: How to Crimp Your Own Ethernet Cables](http://www.linuxplanet.com/linuxplanet/tutorials/6892/1)
     * [Instructables: How to Crimp Cables and Wires!](http://www.instructables.com/id/How-to-Crimp-Cables-and-Wires!/)
   * See also: [DIY.org's "Hardware Hacker" projects](https://diy.org/skills/hardwarehacker).
+  * News article: [A rogue Raspberry Pi helped hackers access NASA JPL systems](https://www.engadget.com/2019/06/20/nasa-jpl-cybersecurity-weaknesses/) ([news source](https://threatpost.com/feds-hackers-mission-control-data-nasa-jpl/145842/))
 * Dark Army's IRC chat room:  
   ![The chat log between fsociety and the Dark Army in their "IRC island," :robot: screenshot 📷](https://web.archive.org/web/20170407072435/https://i.imgur.com/BwYvMqk.jpg)  
   ![IRC chat closeup showing "MOTD" and being "kicked," :robot: screenshot 📷](https://web.archive.org/web/20170205043350/https://i.imgur.com/1OFvB0H.jpg)  
