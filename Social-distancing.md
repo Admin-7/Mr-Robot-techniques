@@ -44,7 +44,7 @@ See also [*webinar software*](#webinar-software).
 
 ## Arts and entertainment
 
-See also [*livestreaming*](#livestreaming).
+See also [*livestreaming*](#livestreaming) and [*online event participation*](#online-event-participation).
 
 * [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
 
