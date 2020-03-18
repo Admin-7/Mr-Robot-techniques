@@ -4,7 +4,15 @@ During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%
 
 With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of *unvetted* digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis.
 
-**Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/meta/issues/new). ([[Learn how|New-member-orientation-guide#github]].)
+**Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/meta/issues/new). ([[Learn how|New-member-orientation-guide#github]].) We also urge you to consider supporting any and all organizing efforts to provide relief from the impacts of this situation and simultaneously improve conditions for all people by taking measures to, for example:
+
+* **End reliance on health insurance for access to medical care.** This pandemic is a perfect showcase why a medical system built for-profit is a dangerous detriment to the health of everyone, including insured people.
+* **End reliance on employment for healthcare and income.** Suspend all employment obligations and provide free healthcare, sick leave, and food (stamps/SNAP/universal basic income) for all.
+* **End rent, erase all debt.** Immediately stop enforcing parking violations, evictions, and other property-protecting activities that diminish the health and wellbeing of the population at large.
+* **Release all humans held captive in cages.** Release all prisoners from confinement in the unsanitary and dangerous conditions of jailhouses and all the other cages they are being held captive inside of and provide for housing instead.
+* **House the houseless.** Convert unused spaces such as empty lots and now-empty, city-owned buildings into shelter for those without alternative housing options.
+
+![Infographic of 5 demands for change during a pandemic.](https://web.archive.org/web/20200318175640if_/https://can2-prod.s3.amazonaws.com/petitions/photos/000/162/130/original/Pandemic_Platform_graphic.jpg)
 
 > :warning: :shield: *None* of these sources have been vetted for security or privacy. Quite the opposite, these are simply apps, websites, and other tools you can use to "virtually" hang out with others from a distance, similar to traditional voice and video conferencing services. Please do *not* consider inclusion on this list to imply that we believe these are Anarchist-friendly, politically-aligned, or otherwise safe places.
 >
