@@ -57,6 +57,8 @@ Also known as *vidchat*.
 
 # Webinar software
 
+Many [video conferencing](#video-conferencing) software shares webinar-like features, such as screen-sharing or shared slideshow (Microsoft PowerPoint, LibreOffice Impress) presentations.
+
 * [GoBrunch](https://gobrunch.com/) - In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
 # Watch party software
