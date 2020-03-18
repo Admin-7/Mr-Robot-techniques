@@ -8,19 +8,24 @@ During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%
 
 # Contents
 
+* [Additional resources elsewhere](#additional-resources-elsewhere)
 * [Livestreaming](#livestreaming)
 * [Video conferencing](#video-conferencing)
 * [Webinar software](#webinar-software)
 * [Watch party software](#watch-party-software)
 
-## Livestreaming
+# Additional resources elsewhere
+
+* [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
+
+# Livestreaming
 
 Also known as *online broadcasting*.
 
 * [Livestream.com](https://livestream.com/) - Commercial offering enabling organizations to stream video of events to an audience of thousands.
 * [YouTube Live](https://www.youtube.com/live) - Livestream functionality from the famous Google-owned YouTube web site.
 
-## Video conferencing
+# Video conferencing
 
 Also known as *vidchat*.
 
@@ -28,11 +33,11 @@ Also known as *vidchat*.
 * [Jitsi](https://meet.jit.si/) - Self-hostable, free and open source software video conferecing system.
 * [Zoom](https://zoom.us/) - Commercial digital video conferencing service built for companies.
 
-## Webinar software
+# Webinar software
 
 * [GoBrunch](https://gobrunch.com/) - In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
-## Watch party software
+# Watch party software
 
 Also known as *video synchronization*.
 
