@@ -99,6 +99,7 @@ Many [video conferencing](#video-conferencing) software shares webinar-like feat
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
+| [BigMarker](https://www.bigmarker.com/) | ❌ | ❌ | ❌ | ❓ | Webinar software built for large (and virtual) events such as conferences, digital training, and more.
 | [GoBrunch](https://gobrunch.com/) | ❌ | ✅ | ❌ | Hundreds | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
 # Watch party software
