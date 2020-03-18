@@ -41,7 +41,7 @@ See also [*webinar software*](#webinar-software).
 * [Teaching in the context of COVID-19](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview) - List of additional resources for teachers struggling to adapt to remote learning and the needs of students in the cotext of a pandemic.
 * [Teaching Online Tools](https://docs.google.com/spreadsheets/d/1skxI8D70Ed34x6cjjVxCGzIZro64efQRTZXOdEt_7eg/view) - Resource directory for remote learning and virtual learning scenarios to help teachers find and choose appropriate tools during the COVID-19 coronavirus pandemic.
 
-## Arts and etertainment
+## Arts and entertainment
 
 See also [*livestreaming*](#livestreaming).
 
