@@ -8,9 +8,17 @@ During the COVID-19 pandemic, many people are asking us for our recommendations 
 
 # Contents
 
+* [Livestreaming](#livestreaming)
 * [Video conferencing](#video-conferencing)
 * [Webinar software](#webinar-software)
 * [Watch party software](#watch-party-software)
+
+## Livestreaming
+
+Also known as *online broadcasting*.
+
+* [Livestream.com](https://livestream.com/) - Commercial offering enabling organizations to stream video of events to an audience of thousands.
+* [YouTube Live](https://www.youtube.com/live) - Livestream functionality from the famous Google-owned YouTube web site.
 
 ## Video conferencing
 
