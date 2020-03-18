@@ -2,7 +2,7 @@
 
 During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), many people are asking us for our recommendations of digital tools to support their community's emotional and mental health. Isolation, loneliness, and lack of intimate contact can dramatically reduce the quality of life for already vulnerable populations.
 
-With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of *unvetted* digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis.
+With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis. Refer to the [§ Legend](#legend) for definitions of various symbols.
 
 **Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/meta/issues/new). ([[Learn how|New-member-orientation-guide#github]].) We also urge you to consider supporting any and all organizing efforts to provide relief from the impacts of this situation and simultaneously improve conditions for all people by taking measures to, for example:
 
@@ -51,29 +51,42 @@ See also [*livestreaming*](#livestreaming).
 
 Also known as *online broadcasting*.
 
-* [Caffeine](https://www.caffeine.tv/) - Livestream service provider offering in-stream options for producers to receive donations from viewers.
-* [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) - Livestream functionality from the (in)famous Facebook, Inc. corporation.
-* [Instagram Live](https://help.instagram.com/292478487812558) - Livestream functionality from the Facebook-owned Instagram photo sharing social media service.
-* [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) - Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
-* [Livestream.com](https://livestream.com/) - Commercial offering enabling organizations to stream video of events to an audience of thousands.
-* [Mixer](https://mixer.com/) - Smaller livestream service prodiver with in-stream donation capabilities for producers.
-* [Periscope](https://www.periscope.tv/) - Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
-* [Twitch](https://www.twitch.tv/) - Livestream app with a large established community of musicians and gamers.
-* [YouTube Live](https://www.youtube.com/live) - Livestream functionality from the famous Google-owned YouTube web site.
+| Service | Ⓐ | Free? | No registration required | Description |
+|-|:-:|:-:|:-:|-|
+| [Caffeine](https://www.caffeine.tv/) | ❌  | ❌ | ❌ | Livestream service provider offering in-stream options for producers to receive donations from viewers.
+| [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | ❌ | ✅ | ❌ | Livestream functionality from the (in)famous Facebook, Inc. corporation.
+| [Instagram Live](https://help.instagram.com/292478487812558) | ❌ | ✅ | ❌ | Livestream functionality from the Facebook-owned Instagram photo sharing social media service.
+| [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) | ❌ | ✅ | ❌ | Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
+| [Livestream.com](https://livestream.com/) | ❌ | ❌ | ❌ | Commercial offering enabling organizations to stream video of events to an audience of thousands.
+| [Mixer](https://mixer.com/) | ❌ | ❓ | ❌ | Smaller livestream service prodiver with in-stream donation capabilities for producers.
+| [Periscope](https://www.periscope.tv/) | ❌ | ✅ | ❌ | Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
+| [Twitch](https://www.twitch.tv/) | ❌ | ✅ | ❌ | Livestream app with a large established community of musicians and gamers.
+| [YouTube Live](https://www.youtube.com/live) | ❌ | ✅ | ❌ | Livestream functionality from the famous Google-owned YouTube web site.
 
 # Video conferencing
 
 Also known as *vidchat*.
 
-* [Google Hangouts](https://hangouts.google.com/) - Free digital video conferencing service hosted by Google.
-* [Jitsi](https://meet.jit.si/) - Self-hostable, free and open source software video conferecing system.
-* [Zoom](https://zoom.us/) - Commercial digital video conferencing service built for companies.
+| Service | Ⓐ | Free? | No registration required | Participant limit | Description |
+|-|:-:|:-:|:-:|-|-|
+| [Google Hangouts](https://hangouts.google.com/) | ❌ | ✅ | ❌ | Multiple | Free digital video conferencing service hosted by Google.
+| [Jitsi](https://meet.jit.si/) | ✅ | ✅ | ✅ | ~10 | Self-hostable, free and open source software video conferecing system.
+| [Signal Private Messenger](https://signal.org/) | ✅ | ✅ | ❌ | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
+| [Zoom](https://zoom.us/) | ❌ | ❌ | ❌ | Hundreds | Commercial digital video conferencing service built for companies.
+
+# Voice conferencing
+
+| Service | Ⓐ | Free? | No registration required | Participant limit | Description |
+|-|:-:|:-:|:-:|-|-|
+| [Discord](https://discordapp.com/) | ❌ | ✅ | ❌ | Dozens | Free voice (and text) chat service popular with gamers of various kinds.
 
 # Webinar software
 
 Many [video conferencing](#video-conferencing) software shares webinar-like features, such as screen-sharing or shared slideshow (Microsoft PowerPoint, LibreOffice Impress) presentations.
 
-* [GoBrunch](https://gobrunch.com/) - In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
+| Service | Ⓐ | Free? | No registration required | Participant limit | Description |
+|-|:-:|:-:|:-:|-|-|
+| [GoBrunch](https://gobrunch.com/) | ❌ | ✅ | ❌ | Hundreds | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
 # Watch party software
 
@@ -82,3 +95,11 @@ Also known as *video synchronization*.
 * [Kast](https://kast.gg/) - Real-time video sharing app with screen capture, voice, text, and video chat technology that makes it easy to connect with friends wherever they are.
 * [Kosmi](https://kosmi.io/) - Watch videos together, play games, or simply chat with friends or strangers all from within your browser!
 * [Netflix Party](https://www.netflixparty.com/) - Browser add-on that can be used to synchronize your Netflix viewing with another user of the add-on.
+
+* * *
+
+# Legend
+
+* ❌ : *No* or *not availabe*.
+* ✅ : *Yes* or *available*.
+* ❓ : *Unknown*; please inform us by [posting here](https://github.com/AnarchoTechNYC/meta/issues/new).
