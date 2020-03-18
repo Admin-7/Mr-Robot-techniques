@@ -11,12 +11,25 @@ During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%
 # Contents
 
 * [Additional resources elsewhere](#additional-resources-elsewhere)
+    * [Arts and entertainment](#arts-and-entertainment)
+    * [Education and online learning](#education-and-online-learning)
 * [Livestreaming](#livestreaming)
 * [Video conferencing](#video-conferencing)
 * [Webinar software](#webinar-software)
 * [Watch party software](#watch-party-software)
 
 # Additional resources elsewhere
+
+## Education and online learning
+
+See also [*webinar software*](#webinar-software).
+
+* [Teaching in the context of COVID-19](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview) - List of additional resources for teachers struggling to adapt to remote learning and the needs of students in the cotext of a pandemic.
+* [Teaching Online Tools](https://docs.google.com/spreadsheets/d/1skxI8D70Ed34x6cjjVxCGzIZro64efQRTZXOdEt_7eg/view) - Resource directory for remote learning and virtual learning scenarios to help teachers find and choose appropriate tools during the COVID-19 coronavirus pandemic.
+
+## Arts and etertainment
+
+See also [*livestreaming*](#livestreaming).
 
 * [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
 
