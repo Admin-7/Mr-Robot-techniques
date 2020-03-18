@@ -2,9 +2,11 @@
 
 During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), many people are asking us for our recommendations of digital tools to support their community's emotional and mental health. Isolation, loneliness, and lack of intimate contact can dramatically reduce the quality of life for already vulnerable populations. With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of *unvetted* digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis.
 
+**Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/meta/issues/new).
+
 > :warning: :shield: *None* of these sources have been vetted for security or privacy. Quite the opposite, these are simply apps, websites, and other tools you can use to "virtually" hang out with others from a distance, similar to traditional voice and video conferencing services. Please do *not* consider inclusion on this list to imply that we believe these are Anarchist-friendly, politically-aligned, or otherwise safe places.
 >
-> :construction: :memo: This is a fast-evolving list and many categories of software overlap with one another. **Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/meta/issues/new).
+> :construction: :memo: This is a fast-evolving list and many categories of software overlap with one another; "livestreams" can be used to conduct "webinars," for example. We make little distinction between these categories for now other than doing our best to evaluate the primary intended purpose of the application from the software creator's perspective.
 
 # Contents
 
@@ -22,7 +24,14 @@ During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%
 
 Also known as *online broadcasting*.
 
+* [Caffeine](https://www.caffeine.tv/) - Livestream service provider offering in-stream options for producers to receive donations from viewers.
+* [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) - Livestream functionality from the (in)famous Facebook, Inc. corporation.
+* [Instagram Live](https://help.instagram.com/292478487812558) - Livestream functionality from the Facebook-owned Instagram photo sharing social media service.
+* [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) - Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
 * [Livestream.com](https://livestream.com/) - Commercial offering enabling organizations to stream video of events to an audience of thousands.
+* [Mixer](https://mixer.com/) - Smaller livestream service prodiver with in-stream donation capabilities for producers.
+* [Periscope](https://www.periscope.tv/) - Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
+* [Twitch](https://www.twitch.tv/) - Livestream app with a large established community of musicians and gamers.
 * [YouTube Live](https://www.youtube.com/live) - Livestream functionality from the famous Google-owned YouTube web site.
 
 # Video conferencing
@@ -42,5 +51,5 @@ Also known as *vidchat*.
 Also known as *video synchronization*.
 
 * [Kast](https://kast.gg/) - Real-time video sharing app with screen capture, voice, text, and video chat technology that makes it easy to connect with friends wherever they are.
-* [Netflix Party](https://www.netflixparty.com/) - Browser add-on that can be used to synchronize your Netflix viewing with another user of the add-on.
 * [Kosmi](https://kosmi.io/) - Watch videos together, play games, or simply chat with friends or strangers all from within your browser!
+* [Netflix Party](https://www.netflixparty.com/) - Browser add-on that can be used to synchronize your Netflix viewing with another user of the add-on.
