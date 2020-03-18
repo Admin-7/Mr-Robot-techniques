@@ -76,6 +76,8 @@ Also known as *vidchat*.
 
 # Voice conferencing
 
+Also known as *voice chat*.
+
 | Service | Ⓐ | Free? | No registration required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
 | [Discord](https://discordapp.com/) | ❌ | ✅ | ❌ | Dozens | Free voice (and text) chat service popular with gamers of various kinds.
