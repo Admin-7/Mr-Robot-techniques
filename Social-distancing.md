@@ -69,12 +69,11 @@ Also known as *vidchat*.
 
 | Service | Ⓐ | Free? | No registration required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
+| [EZTalks](https://www.eztalks.com/) | ❌ | ⭕️ | ❌ | Hundreds | Virtual business meeting software with a free tier.
 | [Google Hangouts](https://hangouts.google.com/) | ❌ | ✅ | ❌ | Multiple | Free digital video conferencing service hosted by Google.
 | [Jitsi](https://meet.jit.si/) | ✅ | ✅ | ✅ | ~10 | Self-hostable, free and open source software video conferecing system.
 | [Signal Private Messenger](https://signal.org/) | ✅ | ✅ | ❌ | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
 | [Zoom](https://zoom.us/) | ❌ | ❌ | ❌ | Hundreds | Commercial digital video conferencing service built for companies.
-| [ezTalks](https://www.eztalks.com/) | ❌ | ⭕️ | ❌ | Hundreds | Virtual business meeting software with a free tier.
-
 # Voice conferencing
 
 Also known as *voice chat*.
