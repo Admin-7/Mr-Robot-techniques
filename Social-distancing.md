@@ -12,7 +12,9 @@ With stress levels high, and public officials warning of extended periods of [so
 * **Release all humans held captive in cages.** Release all prisoners from confinement in the unsanitary and dangerous conditions of jailhouses and all the other cages they are being held captive inside of and provide for housing instead.
 * **House the houseless.** Convert unused spaces such as empty lots and now-empty, city-owned buildings into shelter for those without alternative housing options.
 
-![Infographic of 5 demands for change during a pandemic.](https://web.archive.org/web/20200318175640if_/https://can2-prod.s3.amazonaws.com/petitions/photos/000/162/130/original/Pandemic_Platform_graphic.jpg)
+[![Infographic of 5 demands for change during a pandemic.](https://web.archive.org/web/20200318175640if_/https://can2-prod.s3.amazonaws.com/petitions/photos/000/162/130/original/Pandemic_Platform_graphic.jpg)](https://actionnetwork.org/petitions/a-pandemic-platform-for-the-people-of-richmond/)
+
+([Image credit](https://actionnetwork.org/petitions/a-pandemic-platform-for-the-people-of-richmond/).)
 
 > :warning: :shield: *None* of these sources have been vetted for security or privacy. Quite the opposite, these are simply apps, websites, and other tools you can use to "virtually" hang out with others from a distance, similar to traditional voice and video conferencing services. Please do *not* consider inclusion on this list to imply that we believe these are Anarchist-friendly, politically-aligned, or otherwise safe places.
 >
