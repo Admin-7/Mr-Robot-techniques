@@ -71,6 +71,7 @@ Sometimes known as *event streaming*.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
+| [Hovercast](https://www.hovercast.com/) | ❌ | ⭕️ | ❌ | ❓ | Made for entertainers who want to offer participatory features to an online audience. Usually paid, but currently [offering free software licenses to independent artists and small businesses impacted by the coronavirus pandemic](https://www.hovercast.com/free-virtual-events/).
 | [Run The World](https://runtheworld.today/) | ❌ | ❌ | ❌ | ❓ | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
 
 # Video conferencing
