@@ -51,7 +51,7 @@ See also [*livestreaming*](#livestreaming).
 
 Also known as *online broadcasting*.
 
-| Service | Ⓐ | Free? | No registration required | Description |
+| Service | Ⓐ | Free? | Registration not required | Description |
 |-|:-:|:-:|:-:|-|
 | [Caffeine](https://www.caffeine.tv/) | ❌  | ❌ | ❌ | Livestream service provider offering in-stream options for producers to receive donations from viewers.
 | [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | ❌ | ✅ | ❌ | Livestream functionality from the (in)famous Facebook, Inc. corporation.
@@ -67,7 +67,7 @@ Also known as *online broadcasting*.
 
 Also known as *vidchat*.
 
-| Service | Ⓐ | Free? | No registration required | Participant limit | Description |
+| Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
 | [EZTalks](https://www.eztalks.com/) | ❌ | ⭕️ | ❌ | Hundreds | Virtual business meeting software with a free tier.
 | [Google Hangouts](https://hangouts.google.com/) | ❌ | ✅ | ❌ | Multiple | Free digital video conferencing service hosted by Google.
@@ -78,7 +78,7 @@ Also known as *vidchat*.
 
 Also known as *voice chat*.
 
-| Service | Ⓐ | Free? | No registration required | Participant limit | Description |
+| Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
 | [Discord](https://discordapp.com/) | ❌ | ✅ | ❌ | Dozens | Free voice (and text) chat service popular with gamers of various kinds.
 
@@ -86,7 +86,7 @@ Also known as *voice chat*.
 
 Many [video conferencing](#video-conferencing) software shares webinar-like features, such as screen-sharing or shared slideshow (Microsoft PowerPoint, LibreOffice Impress) presentations.
 
-| Service | Ⓐ | Free? | No registration required | Participant limit | Description |
+| Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
 | [GoBrunch](https://gobrunch.com/) | ❌ | ✅ | ❌ | Hundreds | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
