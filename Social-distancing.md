@@ -1,6 +1,8 @@
 > You are here: [[Wiki|Home]] ▸ :mask: **Social distancing**
 
-During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), many people are asking us for our recommendations of digital tools to support their community's emotional and mental health. Isolation, loneliness, and lack of intimate contact can dramatically reduce the quality of life for already vulnerable populations. With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of *unvetted* digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis.
+During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), many people are asking us for our recommendations of digital tools to support their community's emotional and mental health. Isolation, loneliness, and lack of intimate contact can dramatically reduce the quality of life for already vulnerable populations.
+
+With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of *unvetted* digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis.
 
 **Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/meta/issues/new). ([[Learn how|New-member-orientation-guide#github]].)
 
