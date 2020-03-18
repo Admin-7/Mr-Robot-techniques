@@ -26,6 +26,7 @@ With stress levels high, and public officials warning of extended periods of [so
     * [Arts and entertainment](#arts-and-entertainment)
     * [Education and online learning](#education-and-online-learning)
 * [Livestreaming](#livestreaming)
+* [Online event participation](#online-event-participation)
 * [Video conferencing](#video-conferencing)
 * [Webinar software](#webinar-software)
 * [Watch party software](#watch-party-software)
@@ -54,6 +55,7 @@ Also known as *online broadcasting*.
 | Service | Ⓐ | Free? | Registration not required | Description |
 |-|:-:|:-:|:-:|-|
 | [Caffeine](https://www.caffeine.tv/) | ❌  | ❌ | ❌ | Livestream service provider offering in-stream options for producers to receive donations from viewers.
+| [Crowdcast](https://www.crowdcast.io/) | ❌ | ❌ | ❌ | Service powering the livestream feature in [Patreon](https://www.patreon.com/)'s mobile app, but can be used independently to use additional features such as webinars.
 | [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | ❌ | ✅ | ❌ | Livestream functionality from the (in)famous Facebook, Inc. corporation.
 | [Instagram Live](https://help.instagram.com/292478487812558) | ❌ | ✅ | ❌ | Livestream functionality from the Facebook-owned Instagram photo sharing social media service.
 | [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) | ❌ | ✅ | ❌ | Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
@@ -62,6 +64,14 @@ Also known as *online broadcasting*.
 | [Periscope](https://www.periscope.tv/) | ❌ | ✅ | ❌ | Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
 | [Twitch](https://www.twitch.tv/) | ❌ | ✅ | ❌ | Livestream app with a large established community of musicians and gamers.
 | [YouTube Live](https://www.youtube.com/live) | ❌ | ✅ | ❌ | Livestream functionality from the famous Google-owned YouTube web site.
+
+# Online event participation
+
+Sometimes known as *event streaming*.
+
+| Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
+|-|:-:|:-:|:-:|-|-|
+| [Run The World](https://runtheworld.today/) | ❌ | ❌ | ❌ | ❓ | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
 
 # Video conferencing
 
