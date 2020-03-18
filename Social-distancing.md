@@ -103,6 +103,6 @@ Also known as *video synchronization*.
 # Legend
 
 * ❌ : *No* or *not availabe*.
-: ⭕️ : *Limited* or *restricted prior to payment*.
+* ⭕️ : *Limited* or *restricted prior to payment*.
 * ✅ : *Yes* or *available*.
 * ❓ : *Unknown*; please inform us by [posting here](https://github.com/AnarchoTechNYC/meta/issues/new).
