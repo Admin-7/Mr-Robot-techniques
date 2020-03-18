@@ -16,7 +16,7 @@ With stress levels high, and public officials warning of extended periods of [so
 
 ([Image credit](https://actionnetwork.org/petitions/a-pandemic-platform-for-the-people-of-richmond/).)
 
-> :warning: :shield: *None* of these sources have been vetted for security or privacy. Quite the opposite, these are simply apps, websites, and other tools you can use to "virtually" hang out with others from a distance, similar to traditional voice and video conferencing services. Please do *not* consider inclusion on this list to imply that we believe these are Anarchist-friendly, politically-aligned, or otherwise safe places.
+> :warning: :shield: Most of these sources have *not* been vetted for security or privacy. Where available, look for a checkmark (✅) in the circle-A (Ⓐ) column for Anarcho-Tech NYC's own recommendations.
 >
 > :construction: :memo: This is a fast-evolving list and many categories of software overlap with one another; "livestreams" can be used to conduct "webinars," for example. We make little distinction between these categories for now other than doing our best to evaluate the primary intended purpose of the application from the software creator's perspective.
 
