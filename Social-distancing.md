@@ -32,6 +32,8 @@ With stress levels high, and public officials warning of extended periods of [so
 
 # Additional resources elsewhere
 
+If you are maintaining your own similar list and would like to be included here, please [post a new thread here](https://github.com/AnarchoTechNYC/meta/issues/new).
+
 ## Education and online learning
 
 See also [*webinar software*](#webinar-software).
