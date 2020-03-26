@@ -2,9 +2,9 @@
 
 [Tor's Onion services](https://www.torproject.org/docs/onion-services) make it possible to host long-running services (servers) more anonymously. In earlier versions of Tor, Onion services were called "Hidden Services" or, more accurately, Location-Hidden Services. This is because the purpose of an Onion service is to hide the [IP address](https://simple.wikipedia.org/wiki/IP_address) of the server from connecting clients.
 
-* [Onion servers as reverse proxies](#onion-servers-as-reverse-proxies)
-* [Tor authentication](#tor-authentication)
-* [Onion sites and HTTPS](#onion-sites-and-https)
+1. [Onion servers as reverse proxies](#onion-servers-as-reverse-proxies)
+1. [Tor authentication](#tor-authentication)
+1. [Onion sites and HTTPS](#onion-sites-and-https)
 
 # Onion servers as reverse proxies
 
