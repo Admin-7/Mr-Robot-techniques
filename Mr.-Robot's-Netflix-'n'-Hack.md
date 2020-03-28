@@ -26,6 +26,38 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. [Week 13 (S02E03)](#week-13-s02e03)
     1. [Week 14 (S02E04)](#week-14-s02e04)
     1. [Week 15 (S02E05)](#week-15-s02e05)
+    1. [Week 16 (S02E06)](#week-16-s02e06)
+    1. [Week 17 (S02E07)](#week-17-s02e07)
+    1. [Week 18 (S02E08)](#week-18-s02e08)
+    1. [Week 19 (S02E09)](#week-19-s02e09)
+    1. [Week 20 (S02E10)](#week-20-s02e10)
+    1. [Week 21 (S02E11)](#week-21-s02e11)
+    1. [Week 22 (S02E12)](#week-22-s02e12)
+1. [Season 3](https://www.imdb.com/title/tt4158110/episodes?season=3)
+    1. [Week 23 (S03E01)](#week-23-s03e01)
+    1. [Week 24 (S03E02)](#week-24-s03e02)
+    1. [Week 25 (S03E03)](#week-25-s03e03)
+    1. [Week 26 (S03E04)](#week-26-s03e04)
+    1. [Week 27 (S03E05)](#week-27-s03e05)
+    1. [Week 28 (S03E06)](#week-28-s03e06)
+    1. [Week 29 (S03E07)](#week-29-s03e07)
+    1. [Week 30 (S03E08)](#week-30-s03e08)
+    1. [Week 31 (S03E09)](#week-31-s03e09)
+    1. [Week 32 (S03E10)](#week-32-s03e10)
+1. [Season 4](https://www.imdb.com/title/tt4158110/episodes?season=4)
+    1. [Week 33 (S03E01)](#week-33-s04e01)
+    1. [Week 34 (S03E02)](#week-34-s04e02)
+    1. [Week 35 (S03E03)](#week-35-s04e03)
+    1. [Week 36 (S03E04)](#week-36-s04e04)
+    1. [Week 37 (S03E05)](#week-37-s04e05)
+    1. [Week 38 (S03E06)](#week-38-s04e06)
+    1. [Week 39 (S03E07)](#week-39-s04e07)
+    1. [Week 40 (S03E08)](#week-40-s04e08)
+    1. [Week 41 (S03E09)](#week-41-s04e09)
+    1. [Week 42 (S03E10)](#week-42-s04e10)
+    1. [Week 43 (S03E11)](#week-43-s04e11)
+    1. [Week 44 (S03E12)](#week-44-s04e12)
+    1. [Week 45 (S03E13)](#week-45-s04e13)
 
 # Week 1 (S01E01)
 
@@ -602,11 +634,78 @@ During post-show discussion, we brought up:
 * Femtocell
   * [DEF CON 21 presentation: Traffic Interception and Remote Mobile Phone Cloning with a Compromised CDMA Femtocell](https://www.youtube.com/watch?v=gfcq8clu1RI)
 
-# Week ?? (S03E02)
+# Week 16 (S02E06)
+
+# Week 17 (S02E07)
+
+# Week 18 (S02E08)
+
+# Week 19 (S02E09)
+
+# Week 20 (S02E10)
+
+# Week 21 (S02E11)
+
+# Week 22 (S02E12)
+
+# Week 23 (S03E01)
+
+# Week 24 (S03E02)
 
 * Rootkit Hunter http://rkhunter.sourceforge.net/
 
-# Week ?? (S03E09)
+# Week 25 (S03E03)
 
-* [Volatility](https://github.com/volatilityfoundation/volatility/)
-  ![Elliot using Volatility, :robot: screenshot 📷](https://web.archive.org/web/20180102044147if_/https://i.imgur.com/xpjaytH.jpg)
+# Week 26 (S03E04)
+
+# Week 27 (S03E05)
+
+# Week 28 (S03E06)
+
+# Week 29 (S03E07)
+
+# Week 30 (S03E08)
+
+# Week 31 (S03E09)
+
+* Using the [Volatility](https://github.com/volatilityfoundation/volatility/) memory forensics framework:
+  ![Several terminal windows show the Volatility framework being used.](https://web.archive.org/web/20200328232610/https://i.imgur.com/5CdeunG.jpg)  
+  ![Closeup of Elliot using Volatility, :robot: screenshot 📷](https://web.archive.org/web/20180102044147if_/https://i.imgur.com/xpjaytH.jpg)
+* Elliot crafts [shellcode](https://en.wikipedia.org/wiki/Shellcode) to be executed via Python(?) by discovering a vulnerability through [fuzzing](https://en.wikipedia.org/wiki/Fuzzing) using [American Fuzzy Lop (AFL)](https://lcamtuf.coredump.cx/afl/) and inspecting the crashing program with the [GNU Debugger (`gdb`)](https://www.gnu.org/software/gdb/):
+  ![Elliot using American Fuzzy Lop (AFL) fuzzer and the GNU Debugger.](https://web.archive.org/web/20200328231155/https://i.imgur.com/pDXwATz.png)  
+  ![Closeup of a GDB session depicting a program crash (segfault).](https://web.archive.org/web/20200328231831/https://i.imgur.com/pjrAwjM.jpg)  
+  ![Exploit shellcode being written.](https://web.archive.org/web/20200328232220/https://i.imgur.com/Vw5FdxU.jpg)
+* Dark Army [Command and Control (C2)](https://en.wikipedia.org/wiki/Command_and_control_%28malware%29) operator station loads Elliot's exploit:  
+  ![Screenshot of the Dark Army's C2 user interface.](https://i.imgur.com/YNtDObO.jpg)
+* Elliot logs in to a server with a new SSH key (`ssh-add`) to view the keystrokes, and thus username and password, of the compromised Dark Army operator:
+  ![Elliot adds an SSH key identity and views the loot.](https://web.archive.org/web/20200328233348/https://i.imgur.com/j9TkWom.jpg)  
+  ![The password of the Dark Army operator is revealed in a cleverly named file.](https://web.archive.org/web/20200328233606/https://i.imgur.com/AMXsiWL.jpg)
+
+# Week 32 (S03E10)
+
+# Week 33 (S04E01)
+
+# Week 34 (S04E02)
+
+# Week 35 (S04E03)
+
+# Week 36 (S04E04)
+
+# Week 37 (S04E05)
+
+# Week 38 (S04E06)
+
+# Week 39 (S04E07)
+
+# Week 40 (S04E08)
+
+# Week 41 (S04E09)
+
+# Week 42 (S04E10)
+
+# Week 43 (S04E11)
+
+# Week 44 (S04E12)
+
+# Week 45 (S04E13)
+
