@@ -1,7 +1,7 @@
 > [[Wiki|Home]] ▸ [[Activities and events]] ▸ **Mr. Robot's Netflix 'n' Hack**
 
 * Tagline: Let Mr. Robot teach you how to hack—and how to stop hackers from hacking you!
-* Description: Watch an episode of "[Mr. Robot](https://www.imdb.com/title/tt4158110/)," a TV show dramatizing the lives of rogue hackers in NYC with unparalleled technical accuracy, and then get an introduction to how the tools, techniques, and procedures ("[TTPs](https://forensicswiki.org/wiki/Cyber_Threat_Intelligence#TTP)") shown in the episode work in real life. After we watch an episode of the show, we'll discuss the tools used, get them installed on our laptops, and try them out. When we meet next, we'll show one another what we've learned, and continue with the next episode. By the end of the 10 week first season, you'll have gotten a hands-on tour of various tools in the [Kali Linux](https://www.kali.org/) penetration testing distro, and a better sense of how to separate fiction from reality in contemporary hacking dramas in pop culture. We'll finish by tackling [a Mr. Robot themed hacking challenge](https://www.vulnhub.com/entry/mr-robot-1,151/) so you can practice what you've learned, and maybe even join a [[hacking team|CTF team]].
+* Description: Watch an episode of "[Mr. Robot](https://www.themoviedb.org/tv/62560-mr-robot)," a TV show dramatizing the lives of rogue hackers in NYC with unparalleled technical accuracy, and then get an introduction to how the tools, techniques, and procedures ("[TTPs](https://forensicswiki.org/wiki/Cyber_Threat_Intelligence#TTP)") shown in the episode work in real life. After we watch an episode of the show, we'll discuss the tools used, get them installed on our laptops, and try them out. When we meet next, we'll show one another what we've learned, and continue with the next episode. By the end of the 10 week first season, you'll have gotten a hands-on tour of various tools in the [Kali Linux](https://www.kali.org/) penetration testing distro, and a better sense of how to separate fiction from reality in contemporary hacking dramas in pop culture. We'll finish by tackling [a Mr. Robot themed hacking challenge](https://www.vulnhub.com/entry/mr-robot-1,151/) so you can practice what you've learned, and maybe even join a [[hacking team|CTF team]].
 * Facilitating: [[How to facilitate Mr. Robot's Netflix 'n' Hack]]
 * See also: [[InfoSec]], [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/#readme), [🌐 GeekWire's "Mr. Robot Rewind" series](http://www.geekwire.com/tag/mr-robot/) (*contains spoilers*), [Manisso/fsociety](https://github.com/Manisso/fsociety), [[Glossary]].
 
@@ -9,7 +9,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 
 [![Mr. Robot Season 1, extended trailer](http://img.youtube.com/vi/U94litUpZuc/0.jpg)](http://www.youtube.com/watch?v=U94litUpZuc)
 
-1. [🌐 Season 1](https://www.imdb.com/title/tt4158110/episodes?season=1)
+1. [🌐 Season 1](https://www.themoviedb.org/tv/62560-mr-robot/season/1)
     1. [Week 1 (S01E01)](#week-1-s01e01)
     1. [Week 2 (S01E02)](#week-2-s01e02)
     1. [Week 3 (S01E03)](#week-3-s01e03)
@@ -20,7 +20,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. [Week 8 (S01E08)](#week-8-s01e08)
     1. [Week 9 (S01E09)](#week-9-s01e09)
     1. [Week 10 (S01E10)](#week-10-s01e10)
-1. [🌐 Season 2](https://www.imdb.com/title/tt4158110/episodes?season=2)
+1. [🌐 Season 2](https://www.themoviedb.org/tv/62560-mr-robot/season/2)
     1. [Week 11 (S02E01)](#week-11-s02e01)
     1. [Week 12 (S02E02)](#week-12-s02e02)
     1. [Week 13 (S02E03)](#week-13-s02e03)
@@ -33,7 +33,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. [Week 20 (S02E10)](#week-20-s02e10)
     1. [Week 21 (S02E11)](#week-21-s02e11)
     1. [Week 22 (S02E12)](#week-22-s02e12)
-1. [🌐 Season 3](https://www.imdb.com/title/tt4158110/episodes?season=3)
+1. [🌐 Season 3](https://www.themoviedb.org/tv/62560-mr-robot/season/3)
     1. [Week 23 (S03E01)](#week-23-s03e01)
     1. [Week 24 (S03E02)](#week-24-s03e02)
     1. [Week 25 (S03E03)](#week-25-s03e03)
@@ -44,7 +44,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. [Week 30 (S03E08)](#week-30-s03e08)
     1. [Week 31 (S03E09)](#week-31-s03e09)
     1. [Week 32 (S03E10)](#week-32-s03e10)
-1. [🌐 Season 4](https://www.imdb.com/title/tt4158110/episodes?season=4)
+1. [🌐 Season 4](https://www.themoviedb.org/tv/62560-mr-robot/season/4)
     1. [Week 33 (S03E01)](#week-33-s04e01)
     1. [Week 34 (S03E02)](#week-34-s04e02)
     1. [Week 35 (S03E03)](#week-35-s04e03)
@@ -318,7 +318,7 @@ During post-show discussion, we brought up:
 * [Daemon](https://en.wikipedia.org/wiki/Daemon_%28computing%29)
 * Breaking into a motel room  
   ![Mobley opens the motel room door, :robot: screenshot 📷](https://web.archive.org/web/20170328213356/https://i.imgur.com/RXsmwij.png)
-* "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.imdb.com/title/tt0113243/)  
+* "Hollywood hacker bullshit," Romero and Mobley are watching ["Hackers" (1995)](https://www.themoviedb.org/movie/10428-hackers)  
   ![Romero and Mobley kill time watching "Hackers," a movie from 1995 movie, :robot: screenshot 📷](https://web.archive.org/web/20170328213658/https://i.imgur.com/KCdXefY.jpg)
 * "[Rabbit virus](https://en.wikipedia.org/wiki/Rabbit_virus)," also called a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 * Trenton prepares the HVAC exploit for Steel Mountain  
