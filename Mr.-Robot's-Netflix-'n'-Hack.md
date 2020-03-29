@@ -654,7 +654,9 @@ During post-show discussion, we brought up:
 
 # Week 24 (S03E02)
 
-* Rootkit Hunter http://rkhunter.sourceforge.net/
+* Elliot uses [Rootkit Hunter (`rkhunter`)](http://rkhunter.sourceforge.net/) via [Kali Linux](https://www.kali.org/) to search for a rootkit on his own ([Linux Mint](https://linuxmint.com/)) system when he suspects he's been compromised:  
+  ![Closeup of the rkhunter command line.](https://web.archive.org/web/20200329073616/https://i.imgur.com/grfMjYN.png)  
+  ![Screenshot of rkhunter running on a Kali Linux system.](https://web.archive.org/web/20200329073855/https://i.imgur.com/dqCcxL7.png)
 
 # Week 25 (S03E03)
 
