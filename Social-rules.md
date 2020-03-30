@@ -1,6 +1,6 @@
 > [Wiki](Home) ▸ **Social rules**
 
-In order to help collective members get their work done, learn new things and skills, and have fun doing it all, we have adopted the following social "rules." These rules are designed to help us remove cultural obstacles to learning and working together in a self-directed way; they make *explicit* what is normally a set of *implicit* social norms that veteran collective members are already accustomed to. These rules also aim to assure that newcomers have the guidance they need to become valuable and valued participants, themselves.
+In order to help collective members get their work done, learn new things and skills, and have fun doing it all, we have adopted the following social "rules." These rules are designed to help us remove cultural obstacles to learning and working together in a self-directed way; they make *explicit* what is normally a set of *implicit* social norms that veteran collective members are already accustomed to. These rules also aim to ensure that newcomers have the guidance they need to become valuable and valued participants, themselves.
 
 * [The Rules](#the-rules)
     1. [Be supportive; no feigning surprise.](#be-supportive-no-feigning-surprise)
