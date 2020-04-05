@@ -115,7 +115,7 @@ Important items:
 
 Noteworthy items:
 
-* In Tutanota, there is no possibility that e-mail metadata such as subject lines will be viewed by anyone but the recipient (assuming honest key management and loaded JavaScript). Since ProtonMail is based on PGP and does not support support encrypted subject lines in their clients, email metadata such as this is protected only by the ProtonMail mailbox encryption, rather than the message's own encryption scheme.
+* In Tutanota, there is no possibility that e-mail metadata such as subject lines will be viewed by anyone but the recipient (assuming honest key management and loaded JavaScript). Since ProtonMail is based on PGP and does not support, e.g., encrypted subject lines in their clients, email metadata such as this is protected only by the ProtonMail mailbox encryption, rather than the message's own encryption scheme.
 
 On the features side, the only remarkable benefit is:
 
