@@ -8,7 +8,7 @@ This page offers several evolving critiques of this phenomenon and warns comrade
 
 **TL;DR**: ProtonMail uses [weasel words](https://en.wikipedia.org/wiki/Weasel_word) to give less technically-experienced people the impression that their service is capable of more than it is. The brand relies on continued ignorance of important details to thrive. If you insist upon using e-mail for any sort of communication, there is no substitute for using PGP/GPG yourself; you can do this with ProtonMail as your service provider, or you can do this with Google. As long as you take the steps necessary to secure the privacy of your email communications on your own, without relying on the promises of a service provider (like ProtonMail) to do this for you, then you can comfortably use ProtonMail or any other service that you wish.
 
-The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. An alternative service to ProtonMail that does not suffer from as many issues is [Tutanota.com](https://tutanota.com/) (see below screenshot). In addition to providing an improved email OPSEC experience, Tutanota also provides a personal calendaring feature (think "encrypted Google Calendar").
+The above summary has its own caveats, but if you haven't the time to read further, that's what you need to know and need to start telling your friends. An alternative service to ProtonMail that does not suffer from as many issues is [Tutanota.com](https://tutanota.com/) (see below screenshot). In addition to providing an improved email OPSEC experience, Tutanota also provides a personal calendaring feature (think "encrypted Google Calendar"); for more details, see [§ ProtonMail vs. Tutanota](#protonmail-vs-tutanota).
 
 ![Screenshot showing the Tutanota user interface responsibly informing users when emails will not be sent end-to-end encrypted.](https://web.archive.org/web/20200405024559if_/https://i.imgur.com/FsTaQPK.png)
 
@@ -95,6 +95,31 @@ Fine. Let's put this huge cross-provider caveat aside for a moment and generousl
 Well, unfortunately, largely due to the proprietary (i.e., commercial and closed-to-outside-inspection) nature of the company's service, there are *still* some glaring technical concerns regarding how the company protects a user's privacy. In other words, whether or not ProtonMail's claimed protection are *actually* protecting users simply cannot be determined without directly auditing their running implementation, as there is no self-hostable, on-premises version of ProtonMail's offering; if you use ProtonMail, you are using ProtonMail's cloud, their computers, not yours. Of course, auditing ProtonMail's running implementation is not something anyone outside the company is permitted to do. That would be tantamount to a data breach, which is precisely the sort of thing the company is trying to avoid. Ultimately, we are once again asked to take a leap of (too much) faith.
 
 > 🚧 TK-TODO: Complete section.
+
+# ProtonMail vs. Tutanota
+
+> 🚧 TK-TODO: Could use some expansion.
+
+"What would you say are the features of Tutanota that would make one recommend it over ProtonMail?"
+
+Critical items:
+
+* It is *not* possible for an ordinary user to send a message that they are not alerted will not be encrypted once it leaves their browser. This is the really big one, and this is not true in ProtonMail's UI. This is so important simply because this is what the overwhelming majority of activists we have advised most often misunderstood about their use of ProtonMail. Moreover, Tutanota *defaults* to requiring out-of-network email to be password-protected; ProtonMail's default is the opposite, i.e., to send out-of-network unencrypted email unless the user enables the password-protection option.
+* It *is* possible to sign up for a new Tutanota account more anonymously than ProtonMail (by using Tor Browser) and without providing a second form of identity verification such as an SMS verification loop (divulging a phone number) or an existing email account. As of this writing, ProtonMail claims to be an "anonymous" provider, but actually makes it extremely hard to sign up for the service anonymously.
+* It *is* possible to use a FIDO U2F hardware security key as a second factor (2FA) login mechanism with Tutanota. [U2F is the *only* form of 2FA security that meaningfully protects against phishing attacks](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-3/recognizing-fake-websites-and-phishing-scams#use-a-hardware-u2f-conformant-security-key). ProtonMail only supports TOTP 2FA options (Google Authenticator, Authy, etc.), which are easily defeated by modern Web phishing frameworks such as Evilgnx and Modlishka.
+
+Important items:
+
+* It is *not* possible for a novice user to misconfigure their Tutanota email receiving application in a way that leaks additional data to their network or system. This is not true in ProtonMail, which supports both IMAP for paid accounts and their ProtonMail Bridge for supporting non-ProtonMail clients. Due to Tutanota's design, which is intentionally incompatible with traditional email clients, this is not a privacy concern for their service because users are forced to use the Tutanota client applications to access their messages. Obviously, this does hamper power-users who know what they're doing, but power users who know what they're doing are not the target audience of this critique.
+* There is no possibility that an activist inexperienced with cybersecurity will reuse their encryption credentials from the Tutanota service anywhere else, like *some* activists do with their ProtonMail PGP keys; this causes identity contamination and is another opsec fail for folks who know "just enough to be dangerous" (to themselves).
+
+Noteworthy items:
+
+* In Tutanota, there is no possibility that e-mail metadata such as subject lines will be viewed by anyone but the recipient (assuming honest key management and loaded JavaScript). Since ProtonMail is based on PGP and does not support support encrypted subject lines in their clients, email metadata such as this is protected only by the ProtonMail mailbox encryption, rather than the message's own encryption scheme.
+
+On the features side, the only remarkable benefit is:
+
+* Tutanota offers a personal calendar. ProtonMail does not. This is noteworthy because for anyone who uses a personal calendar, they are almost certainly using Google Calendar or Apple iCloud right now, and that's an equal if not arguably an even bigger privacy concern than their email because of the nature of personal calendaring data.
 
 # Scratchpad
 
