@@ -26,7 +26,7 @@ We have partnered with [Tech Learning Collective](https://techlearningcollective
 
 ## How to join
 
-To join the team, you must request an invitation from [an existing @AnarchoTechNYC/ctf team member or organizer](https://github.com/orgs/AnarchoTechNYC/teams/ctf), preferably via [[our main Signal thread|New member orientation guide#signal]]. If you are not already chatting with us on our main Signal thread, you can contact team members privately. Current CTF team members who are organizing games include:
+To join the team, you must request an invitation from [an existing @AnarchoTechNYC/ctf team member or organizer](https://github.com/orgs/AnarchoTechNYC/teams/ctf), preferably via [[our main Signal thread|New member orientation guide#signal]]. If you are not already chatting with us on our main Signal thread, you can contact team members privately or, if you must, [[via email|Home#wiki-footer]]. Current CTF team members who are organizing games include:
 
 * [meitar](https://github.com/meitar)
 
