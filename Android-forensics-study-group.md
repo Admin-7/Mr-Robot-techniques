@@ -1,9 +1,7 @@
 > [[Wiki|Home]] ▸ [[Activities and events]] ▸ **Android forensics study group**
 
 * Description: is it possible to detect phone "data extraction" attempts?
-
 * Location: Brooklyn Public Library - Leonard Branch
-
 * Resources: 
     * [awesome-reversing § Android](https://github.com/tylerph3/awesome-reversing#android)
     * http://www.alexanderricks.com/mobile-device-forensics-pulling-back-the-digital-curtain/
@@ -20,20 +18,20 @@
 
 ## Dec 3 2016
 
- * We read some of the documents shared in the wiki here
- * Clarifying scope: 
-   * How to tell if data has been extracted from a cell phone?
-   * How to tell if malware/surveillance software has been added to a cell phone?
-   * Prevention of these things, security? 
- * How to tell if data has been extracted from a phone
-   * Phones use flash memory.
-     * Police use "write-blocking" to protect themselves from accussations of tampering
-     * Write blocking is not usually possible on phones because hashes of files change even in read-mode (?)
-     * If hashes of phone was available before seizure, then could possibly tell if data was extracted
-     * A tool that is kinda like a dead man's switch? It hashes data daily and notifies as hashes change.
-       * If your phone is off at a protest, and then seized by police, and they say that they didn't touch it, then the hash should be the same for the whole time it is in their custody
-   * Some tools, like Cellebrite, apparently leave traces of their use (http://www.alexanderricks.com/mobile-device-forensics-pulling-back-the-digital-curtain/)
-     * What traces? It seems like it would be hard for us to know without access to those tools?
+* We read some of the documents shared in the wiki here
+* Clarifying scope: 
+    * How to tell if data has been extracted from a cell phone?
+    * How to tell if malware/surveillance software has been added to a cell phone?
+    * Prevention of these things, security? 
+* How to tell if data has been extracted from a phone
+    * Phones use flash memory.
+        * Police use "write-blocking" to protect themselves from accussations of tampering
+        * Write blocking is not usually possible on phones because hashes of files change even in read-mode (?)
+        * If hashes of phone was available before seizure, then could possibly tell if data was extracted
+        * A tool that is kinda like a dead man's switch? It hashes data daily and notifies as hashes change.
+            * If your phone is off at a protest, and then seized by police, and they say that they didn't touch it, then the hash should be the same for the whole time it is in their custody
+    * Some tools, like Cellebrite, apparently leave traces of their use (http://www.alexanderricks.com/mobile-device-forensics-pulling-back-the-digital-curtain/)
+        * What traces? It seems like it would be hard for us to know without access to those tools?
 
          * On devices that don't have a mechanism to upload a bootloader, Cellebrite needs to install a rooting client that "can leave a footprint in the user data partition, notably the potential for writing to small, unallocated areas of the storage medium" (http://www.cellebrite.com/pages/explaining-cellebrite-ufed-data-extraction-processes)
 
