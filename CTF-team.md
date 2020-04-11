@@ -13,7 +13,7 @@ Anarcho-Tech NYC hosts a semi-private, eponymous [[Capture The Flag|InfoSec#ctfs
 
 # Volunteer CTF mentoring
 
-We have partnered with [Tech Learning Collective](https://techlearningcollective.com/), one of the best and most politically-engaged cybersecurity educational groups that exist today, to offer unofficial cybersecurity training (on a volunteer/ad-hoc basis) during some CTFs that our members compete in. There is no fee to join. Simply enter [our general chat Lobby](https://gitter.im/AnarchoTechNYC/Lobby) during a CTF and say hello.
+We have partnered with [Tech Learning Collective](https://techlearningcollective.com/), one of the best and most politically-engaged cybersecurity educational groups that exist today, to offer unofficial cybersecurity training (on a volunteer/ad-hoc basis) during some CTFs that our members compete in. There is no fee to join. Simply enter [our general chat Lobby](https://gitter.im/AnarchoTechNYC/Lobby) and/or [Tech Learning Collective's community chat channel](https://gitter.im/tech-learning-collective/community) during a CTF and say hello.
 
 # Anarcho-Tech NYC CTF Team
 
