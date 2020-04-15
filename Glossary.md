@@ -117,6 +117,10 @@ Acronym for [amplitude-shift keying](#amplitude-shift-keying).
 
 ## [Belling-Lee connector](https://en.wikipedia.org/wiki/Belling-Lee_connector)
 
+## BEC
+
+Initialism for [business email compromise](#business-email-compromise)
+
 ## [Big data](https://en.wikipedia.org/wiki/Big_data)
 
 ## Binder
@@ -149,6 +153,8 @@ Initialism for [base station subsystem](#base-station-subsystem).
 Initialism for [base transceiver station](#base-transceiver-station).
 
 ## [Bump key](https://en.wikipedia.org/wiki/Lock_bumping)
+
+## [Business email compromise](https://en.wikipedia.org/wiki/Business_email_compromise)
 
 # C
 
