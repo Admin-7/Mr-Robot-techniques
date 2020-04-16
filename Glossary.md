@@ -209,6 +209,10 @@ Initialism for [Common Language Location Identifier](#common-language-location-i
 
 ## [Control-flow integrity](https://en.wikipedia.org/wiki/Control-flow_integrity)
 
+## CTI
+
+Initialism for [cyber threat intelligence](#cyber-threat-intelligence).
+
 ## CTF
 
 See [capture the flag](#capture-the-flag).
@@ -240,6 +244,8 @@ Initialism for [Common Weakness Enumeration](#common-weakness-enumeration).
 ## CWSS
 
 Initialism for [Common Weakness Scoring System](#common-weakness-scoring-system).
+
+## [Cyber threat intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence)
 
 # D
 
