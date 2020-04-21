@@ -344,6 +344,7 @@ This section contains a curated, ordered list of supplementary educational conte
 * [awesome-ai-security](https://github.com/RandomAdversary/Awesome-AI-Security)
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws)
+* [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security)
 * [awesome-cybersecurity-blueteam](https://github.com/meitar/awesome-cybersecurity-blueteam)
