@@ -18,7 +18,7 @@ Activities are things to do with your fellow antifa comrades that are happening 
 * [[Practical digital security]] - Computer security training for people who don't want to have to care about computer security.
 * [[Radio club]] - Explore the invisible world of electro-magnetic radiation, aka radio transmissions.
 * [[Tech open forum]] - Build knowledge and skills in our community, and enjoy the anti-consumerist and anti-capitalist vibes that come with DIY workshops and culture.
-* [[Trivia night]] - Computer-themed trivia nights and quiz games.
+* [[Hacker Trivia Night]] - Computer-themed trivia nights and quiz games.
 
 # Events
 
