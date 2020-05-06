@@ -1,6 +1,8 @@
 > [[Wiki|Home]] ▸ [[Throwaway account providers]] ▸ **Disposable email services**
 
-A **disposable email service** (sometimes also called a "**temporary email address**" or "**throwaway email**") offers an easy way to use a temporary email inbox for creating pseudonymous user accounts on other services that would otherwise collect your primary email address. You can use such services to prevent the collection of your "real" email address, thereby reducing the amount of spam you might receive and keeping your personal email address (but not necessarily your network location or IP address) more hidden than it might be otherwise. Thousands of free-to-use, disposable email services exist.
+A **disposable email service** (sometimes also called a "**temporary email address**" or "**throwaway email**") offers an easy way to use a temporary email inbox for creating pseudonymous user accounts on other services that would otherwise collect your primary email address. You can use such services to prevent the collection of your "real" email address, thereby reducing the amount of spam you might receive and keeping your personal email address (but not necessarily your network location or IP address) more hidden than it might be otherwise. Many free-to-use, disposable email services exist.
+
+Similar services, called *email relay services* or *email aliasing services* also exist, which allow you to manage a set of public email addresses that are aliased to private email addresses.
 
 > 💡 Where even more anonymity is desired, consider accessing the services below using the [Tor Browser](https://torproject.org/) instead of using your day-to-day regular Web browser.
 
@@ -14,3 +16,7 @@ A **disposable email service** (sometimes also called a "**temporary email addre
 * [NowMyMail.com](http://nowmymail.com/)
 * [Temp-Mail.org](https://temp-mail.org/)
 * [ThrowAwayMail.com](https://www.throwawaymail.com/)
+
+# List of email aliasing services
+
+* [Firefox Private Relay](https://relay.firefox.com/) - Mozilla Firefox Web browser extension that provides one-click alias generation and uses the Firefox Private Relay service linked to your Firefox account.
