@@ -6,6 +6,11 @@ Similar services, called *email relay services* or *email aliasing services* als
 
 > 💡 Where even more anonymity is desired, consider accessing the services below using the [Tor Browser](https://torproject.org/) instead of using your day-to-day regular Web browser.
 
+# Contents
+
+* [List of disposable email services](#list-of-disposable-email-services)
+* [List of email aliasing services](#list-of-email-aliasing-services)
+
 # List of disposable email services
 
 > 📝 Note to the editors: please keep this list alphabetized. Thank you! :)
