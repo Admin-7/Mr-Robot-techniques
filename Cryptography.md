@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ **Cryptography**
 
-One fundamental component of digital safety is an understanding of applied cryptography ("crypto," for short). While most introductions to cryptography focus extensively on mathematics, this article attempts a far more practical introduction to the concepts. While it is infeasible to completely avoid maths, a full understanding of the mathematical details is not required for the proper or safe use of crypto features because it is the concepts, not the details, that are most important for people new to the world of digital safety to internalize.
+One fundamental component of digital safety is an understanding of applied cryptography ("crypto," for short). While most introductions to cryptography focus extensively on mathematics, this article attempts a far more practical introduction to the concepts. Although it is infeasible to completely avoid maths, a full understanding of the mathematical details is not required for the proper or safe use of crypto features because it is the concepts, not the details, that are most important for people new to the world of digital safety to internalize.
 
 # Contents
 
