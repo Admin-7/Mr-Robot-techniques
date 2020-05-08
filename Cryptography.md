@@ -19,7 +19,7 @@ One fundamental component of digital safety is an understanding of applied crypt
 
 Cryptography seems magical, but it isn't. A basic understanding of most modern provably secure digital systems is within your reach. All you need to understand most security protocols, at least well enough to use them safely and fluently, is a solid understanding of the nature of what computers are, familiarity with a few terms of art such as "key," "cipher," and "plaintext," and the willingness to think through a couple of simple problem scenarios.
 
-This article is a work-in-progress of an attempt to distill a massive collection of alternate resources about mathematical and applied cryptography into an accessible explanation for complete beginners. Where necessary, it sacrifies brevity in favor of verbose clarity, although over time the hope is that it will become shorter (not longer) as better explanations or metaphors make themselves apparent to the authors. For a list of cited sources, see [§ Additional references](#additional-references), below.
+This article is a work-in-progress of an attempt to distill a massive collection of alternate resources about mathematical and applied cryptography into an accessible explanation for complete beginners. Where necessary, it sacrifices brevity in favor of verbose clarity, although over time the hope is that it will become shorter (not longer) as better explanations or metaphors make themselves apparent to the authors. For a list of cited sources, see [§ Additional references](#additional-references), below.
 
 # Best friends
 
