@@ -20,7 +20,7 @@ One fundamental component of digital safety is an understanding of applied crypt
 1. [Symmetric stream ciphers](#symmetric-stream-ciphers)
 1. [Symmetric block ciphers](#symmetric-block-ciphers)
 1. [One-way functions](#one-way-functions)
-1. [Diffie-Hellman key exchange](#diffie-hellman-key-exchange-dhke)
+1. [Diffie-Hellman key exchange (DHKE)](#diffie-hellman-key-exchange-dhke)
 1. [Public-key cryptography](#public-key-cryptography)
 1. [Additional references](#additional-references)
 
