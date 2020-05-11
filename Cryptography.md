@@ -19,7 +19,9 @@ One fundamental component of digital safety is an understanding of applied crypt
 1. [One-time pads](#one-time-pads)
 1. [Symmetric stream ciphers](#symmetric-stream-ciphers)
 1. [Symmetric block ciphers](#symmetric-block-ciphers)
-1. [Diffie-Hellman key exchange](#diffie-hellman-key-exchange)
+1. [One-way functions](#one-way-functions)
+1. [Diffie-Hellman key exchange](#diffie-hellman-key-exchange-dhke)
+1. [Public-key cryptography](#public-key-cryptography)
 1. [Additional references](#additional-references)
 
 # Introduction
@@ -151,14 +153,103 @@ In this simple example, the table that maps one word to the other is the secret 
 
 > :construction: TK-TODO
 
-# Diffie-Hellman key exchange
+# One-way functions
 
 > :construction: TK-TODO
 
-In 1976, two cryptographers born and raised in New York City named [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie) and [Martin Hellman](https://en.wikipedia.org/wiki/Martin_Hellman), published their paper, "New Directions in Cryptography," which for the first time published a mathematically secure method for two people to both come up with the exact same knowledge (a shared secret key) while constantly being under active observation by their adversary, and yet without revealing any information whatsoever that would disclose the secret they both independently arrived at.
+# Diffie-Hellman key exchange (DHKE)
 
-It is this property of Since this method of coming up with a shared, secret piece of knowledge could safely be done in public, without need for any secrecy itself, it is termed 
+Fast forward past most of the 20<sup>th</sup> century. It is now 1976. Although almost no one realizes it, nor would most people even notice its significance for decades to come, the world is about to change forever.
+
+Even though the world has truly unbreakable encryption at its fingertips in the form of strong symmetric ciphers, no one has been able to figure out a safe way of distributing the secrets needed to drive those ciphers. After all, it doesn't matter how good your encryption tools are if the decryption keys are readily available to your adversary. Unfortunately, you can't encrypt the keys themselves, of course, because that's the very thing the recipient of your message needs in order to decrypt your messages!
+
+In other words, assuming you are constantly monitored and surveilled (and, let's be real, that is exactly what the FBI did to Black freedom fighters during and before COINTELPRO, and what the NSA along with other governments are doing to everyone today), how would you and your friend ever be able to telecommunicate without risking your encryption keys themselves being discovered or intercepted by your adversary?
+
+The answer came when two cryptographers born and raised in New York City named [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie) and [Martin Hellman](https://en.wikipedia.org/wiki/Martin_Hellman) published their paper titled "New Directions in Cryptography." In the paper, Diffie and Hellman described for the first time a mathematically secure method for two people to both come up with the exact same key (a shared secret) while constantly being under active observation by their adversary. Importantly, this method never reveals any information whatsoever that would disclose the secret they independently arrived at.
+
+Their solution, now called *[Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)*, was deceptively simple and elegant, and is still used to this day. It relies on two key assumptions:
+
+* [Exponentiation](https://en.wikipedia.org/wiki/Exponentiation) is [commutative](https://en.wikipedia.org/wiki/Commutative_property): this is a fancy way of saying that when you multiply a number with another number, it does not matter which number you started with. For example, 4 &times; 2 equals 8, but notice that 2 &times; 4 also equals 8. It doesn't matter if you begin with 4 or begin with 2, as long as you multiply the *same* values. This is, of course, true and no one on Earth is able to change this. So, we're good on this front.
+* We have a one-way function to use (in this case, the [discrete logarithm problem](https://en.wikipedia.org/wiki/Discrete_logarithm_records)) in order to make it difficult for an observer to know the inputs of our operations. Thankfully, no cryptographer, mathematician, or three-letter spy agency has ever been able to solve this mathematical problem; the discrete logarithm problem is, in fact, still a one-way function. So, we're good on this front.
+
+For as long as these facts remain true, Diffie-Hellman key exchange is secure, simple, and fast. Here's how it works.
+
+> :warning: The exact values used in this description is (intentionally) *NOT* cryptographically secure. There *are* certain caveats about the properties that each numerical component in a Diffie-Hellman key exchange must satisfy in order to be safe. Please do *not* use these numbers yourself; they are way too small and are intended simply to make understanding the concept easier.
+
+Recall that our goal is to come up with a shared secret key (a big random number) that will drive the encryption scheme we will use to encipher our note to our best friend. However, we are such insubordinate students that we are now being watched all the time. This means we have no covert channels available to us, and must come up with a way to independently arrive at the same shared secret.
+
+Rather than choose a shared secret key (number) directly, we instead publicly agree on a shared number that will serve as the basis for our future number after some clever calculations. This base number is not sensitive information, so we simply signal one another from across the room. Let's say we settle on the number 3.
+
+|                           | You | Friend |
+| -                         | --- | ------ |
+| Base number ("generator") | 3   | 3      |
+
+Diffie and Hellman called this base number a *generator*, so you'll often see this abbreviated as *g* in mathematical formulas. In real-life applications, it's important that this number has a very specific relationship to the next number we're going to pick (technically a [primitive root modulo N](https://en.wikipedia.org/wiki/Primitive_root_modulo_n)) so whatever we come up with here will have some important restrictions for the next step.
+
+Next, we'll also publicly agree on another number; this also need not be a secret. We're going to use this second number in part of a modulo operation later on. Let's say that, given our prior choice, we decide on the number 17 this time.
+
+|                                | You | Friend |
+| -                              | --- | ------ |
+| Base number ("generator")      | 3   | 3      |
+| Second number ("prime modulo") | 17  | 17     |
+
+Again, in real-life applications, it's important that this second number have certain special properties. To be safe for use in a Diffie-Hellman key exchange, this second number must be a *prime* number (a number evenly divisible only by itself and the number 1), so it's often written as *p* in mathematical formulas.
+
+Finally, we each have to pick one more number. However, it's very important that this last selection remain truly secret. You don't ever share this with your friend, and your friend will not share it with you. Remember, your teacher is still watching. Let's say you (secretly, in your head) pick the number 15. You have no idea what your friend picks, but you trust them to have picked something equally random. Likewise, your friend doesn't know what private random number you picked. Meanwhile, your teacher has observed everything that you have communicated, but since you never communicated your private random number at all, your teacher is as equally ignorant of that as your friend is:
+
+|                                | You | Friend | Teacher saw |
+| -                              | --- | ------ | ----------- |
+| Base number ("generator")      | 3   | 3      | 3           |
+| Second number ("prime modulo") | 17  | 17     | 17          |
+| Private random number          | 15  | ?????? | ??????????? |
+
+At this point, believe it or not, we have all the raw materials we need to perform this secret-concocting mathematical "magic trick" right in front of our teacher's very eyes.
+
+The first step we take is to raise the base number to the power of our private random number. "Raising to the power of" just means multiplying over and over again. So, privately (in our "head") we simply do 3 &times; 3, which gives us 9. Now we have 14 more multiplications to perform. So we take 9 and we multiply it by 3 again, giving us 27. We do this another 13 times. This can be more simply written as 3<sup>15</sup> (or, in most computer programming languages, as `3^15`). This gives us fourteen million three hundred forty eight thousand nine hundred seven (14,348,907).
+
+We're not done. Next, we take that very large number and divide it by the second number we publicly agreed on (17, in this example) looking for the *remainder*. This operation is known as modulo, and asks the question "what whole number is left over if we cannot evenly divide the first number by the second number?" In our case, the remainder is 6, because 14,348,907 does *not* evenly divide into 17 at all. That's intentional; we will have left over numbers. It's those numbers we care about. In computer programming languages, this is written as `14348907 % 17`.
+
+Our result for these values is 6. This value is also not going to be our shared secret, but we do have to share it with our friend. Thankfully, this intermediate value is not at all sensitive, so we just send it along to them without fear that it will expose our private number to the teacher. Meanwhile, our friend has performed the exact same calculation, but they used their own random private number instead of ours, and they came up with some result, which they send to us. Suppose they send us the number 12.
+
+|                                | You | Friend | Teacher saw |
+| -                              | --- | ------ | ----------- |
+| Base number ("generator")      | 3   | 3      | 3           |
+| Second number ("prime modulo") | 17  | 17     | 17          |
+| Private random number          | 15  | ?????? | ??????????? |
+| Our intermediary value         | 6   | 6      | 6           |
+| Friend's intermediary value    | 12  | 12     | 12          |
+
+Now comes the real math magic. Recall that when you multiply numbers together, it doesn't matter what order you do the multiplication in. We've already raised the base number by our own private number (3<sup>15</sup>) modulo the second shared number, seventeen (3<sup>15</sup> mod 17).
+
+Let's perform this same calculation, but with our *friend's intermediary value* instead of the original base number: 12<sup>15</sup> mod 17. Our result is 10. This final value is now our shared secret, and we can use it as the key to our symmetric cipher because we can be 100% confident that our friend also got the same exact result as we did.
+
+|                                     | You | Friend | Teacher saw |
+| -                                   | --- | ------ | ----------- |
+| Base number ("generator")           | 3   | 3      | 3           |
+| Second number ("prime modulo")      | 17  | 17     | 17          |
+| Private random number               | 15  | ?????? | ??????????? |
+| Our intermediary value              | 6   | 6      | 6           |
+| Friend's intermediary value         | 12  | 12     | 12          |
+| Secret key (12<sup>15</sup> mod 17) | 10  | 10     | ??????????? |
+
+How come we can be so sure that our friend has the same secret key as we have? Let's look at the same process from our friend's point of view this time.
+
+We have publicly agreed on the values of 3 and 17 as our base ("generator") and our special prime. Then our friend came up with a random private number of their own. We don't care what it is, but let's say it was 13. When they performed the intermediary calculation, they sent us an intermediary result of 12, because 3<sup>13</sup> mod 17 equals 12. We then gave them a value of 6, so they performed 6<sup>13</sup> mod 17, which, sure enough, equals 10.
+
+This works because of the commutative property of exponentiation we assumed would be true earlier. Notice that both you and your friend have actually performed mathematically equivalent calculations, just performed in an admittedly confusing way.
+
+* You privately performed 3<sup>15<sup>13</sup></sup> mod 17. This is because the second exponentiation (the 13) was chosen by your friend, not you, and delivered to you already "mixed in" to intermediary base number 12 as the *result* of your friend's original calculation. (12<sup>15</sup> mod 17, the calculation your friend indirectly chose for you, is the same as 6<sup>13</sup> mod 17, the calculation you indirectly chose for your friend.)
+* Meanwhile, your friend privately performed 3<sup>13<sup>15</sup></sup> mod 17. Their second exponentiation (the 15) was chosen by you, not your friend.
+
+Look closely and you'll notice that the only difference between your ultimate calculation and your friend's is the order in which you each performed the exponentiation. However, as shown earlier, changing the order of these specific operations does not change the end result for either of you. What it *does* do is keep your private, randomly-chosen numbers, well, private, and also keeps the result of your calculations private. This means, try as they might, your teacher cannot deduce your encryption key, and thus cannot read any messages you now send to one another encrypted with this shared key, even though they were always and are still able to eavesdrop on everything you have been sending to one another.
+
+This mathematical slight of hand forms the start of every security protocol that needs to establish a secure connection, such as loading a bank website or logging in to a remote server via SSH, over an insecure and clearly wiretapped channel such as the Internet.
+
+# Public-key cryptography
+
+> :construction: TK-TODO
 
 # Additional references
 
 * [Code: The Hidden Language of Computer Hardware and Software](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
+* [Khan Academy: Diffie-Hellman key exchange](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2)
