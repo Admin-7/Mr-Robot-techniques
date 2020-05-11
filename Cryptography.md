@@ -207,9 +207,11 @@ At this point, believe it or not, we have all the raw materials we need to perfo
 
 The first step we take is to raise the base number to the power of our private random number. "Raising to the power of" just means multiplying over and over again. So, privately (in our "head") we simply do 3 &times; 3, which gives us 9. Now we have 14 more multiplications to perform. So we take 9 and we multiply it by 3 again, giving us 27. We do this another 13 times. This can be more simply written as 3<sup>15</sup> (or, in most computer programming languages, as `3^15`). This gives us fourteen million three hundred forty eight thousand nine hundred seven (14,348,907).
 
-We're not done. Next, we take that very large number and divide it by the second number we publicly agreed on (17, in this example) looking for the *remainder*. This operation is known as modulo, and asks the question "what whole number is left over if we cannot evenly divide the first number by the second number?" In our case, the remainder is 6, because 14,348,907 does *not* evenly divide into 17 at all. That's intentional; we will have left over numbers. It's those numbers we care about. In computer programming languages, this is written as `14348907 % 17`.
+We're not done. Next, we take that very large number and divide it by the second number we publicly agreed on (17, in this example) looking for the *remainder*. This operation is known as modulo, and asks the question "what whole number is left over if we cannot evenly divide the first number by the second number?" In our case, the remainder is 6, because 14,348,907 does *not* evenly divide into 17, although it's close, as we only have a value of six that won't fit. That's intentional; we will have left over numbers. It's those numbers we care about. (In computer programming languages, this operations is usually written as `14348907 % 17`.)
 
-Our result for these values is 6. This value is also not going to be our shared secret, but we do have to share it with our friend. Thankfully, this intermediate value is not at all sensitive, so we just send it along to them without fear that it will expose our private number to the teacher. Meanwhile, our friend has performed the exact same calculation, but they used their own random private number instead of ours, and they came up with some result, which they send to us. Suppose they send us the number 12.
+Now that we have this intermediate value of 6, we have to share it with our friend so they can use it to as part of the same calculation we just performed. Thankfully, this intermediate value is not at all sensitive, so we just send it along to them without fear that it will expose our private number to the teacher. And that's important to understand: by sharing the *result* of this calculation, we're not revealing our private secrets to anyone, but still sharing enough with our friend for them to perform the magic math in concert with us.
+
+Meanwhile, our friend has performed the exact same calculation as we just did, except that they used their own random private number first. Like us, they came up with their own intermediate result and they send it to us just as we sent ours to them. Suppose they send us the number 12. Here's the situation so far:
 
 |                                | You | Friend | Teacher saw |
 | -                              | --- | ------ | ----------- |
@@ -230,7 +232,7 @@ Let's perform this same calculation, but with our *friend's intermediary value* 
 | Private random number               | 15  | ?????? | ??????????? |
 | Our intermediary value              | 6   | 6      | 6           |
 | Friend's intermediary value         | 12  | 12     | 12          |
-| Secret key (12<sup>15</sup> mod 17) | 10  | 10     | ??????????? |
+| Shared secret key --LOOK AT THAT--> | 10  | 10     | ??????????? |
 
 How come we can be so sure that our friend has the same secret key as we have? Let's look at the same process from our friend's point of view this time.
 
