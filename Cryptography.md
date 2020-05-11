@@ -87,7 +87,7 @@ This turned out to be a rare and truly revolutionary leap forward, yet a practic
 
 You will also hear about asymmetric keys discussed a *public-key* or *public-private* crypto. The term "public" comes from the fact that asymmetric cryptography makes it possible to communicate completely privately despite being under constant observation by your adversary. I.e., it is possible to be *in public* yet have a completely *private* conversation with someone who shares no prior secret knowledge with you whatsoever.
 
-This mathematical understanding, translated into material capability, is what gave birth to the cypherpunk movement, is arguably at the root of hacker culture, and is so fundamentally powerful with such mind-bendingly far reaching implications that governments the world over have been desperately trying to control who can and who can not weild this power. More on that later.
+This mathematical understanding, translated into material capability, is what gave birth to the cypherpunk movement, is arguably at the root of hacker culture, and is so fundamentally powerful with such mind-bendingly far reaching implications that governments the world over have been desperately trying to control who can and who can not wield this power. More on that later.
 
 ## Ciphers (algorithms)
 
