@@ -222,7 +222,7 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
 ## Deliberately vulnerable systems
 
-* [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project)
+* [OWASP Vulnerable Web Applications Directory Project](https://owasp.org/www-project-vulnerable-web-applications-directory/)
 
   The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known intentionally vulnerable Web applications currently available for legal security and vulnerability testing of various kinds. Notable items include [Google Gruyere](http://google-gruyere.appspot.com/), the [Damn Vulnerable Web Application](http://www.dvwa.co.uk/), and [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project).
 
