@@ -13,7 +13,7 @@ This challenge set is in FBCTF's JSON format. See the [FBCTF FAQ](https://github
             "type": "quiz",
             "title": "Weasel words",
             "active": true,
-            "description": "Which of the following are email providers that automatically and by default encrypt all of your outgoing email?\n\nA) GMail\nB) RiseUp\nD) Mailinator\nE) None of the above\nF) All of the above",
+            "description": "Which of the following are email providers that automatically and by default encrypt all of your outgoing email?\n\nA) GMail\nB) RiseUp\nC) ProtonMail\nD) Mailinator\nE) None of the above\nF) All of the above",
             "entity_iso_code": "BY",
             "category": "Quiz",
             "points": 15,
