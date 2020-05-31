@@ -119,7 +119,7 @@ The following equipment is needed for a successful Trivia night:
 > * Factoid: An interesting fact or other neat thing to know about why the answer is correct.
 > ```
 >
-> :bulb: Consider also adding the suggested quiz to the associated [[Trivia Night JSON]] page for easy import.
+> :bulb: Consider also adding the suggested quiz to the associated [[Challenge exports]] page for easy import.
 >
 > 🔰 If you cannot edit this page, suggest a new question to us by [posting a new issue](https://github.com/AnarchoTechNYC/meta/issues/new).
 
