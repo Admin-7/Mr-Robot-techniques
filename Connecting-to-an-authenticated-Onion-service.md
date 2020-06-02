@@ -13,6 +13,7 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
     1. [Overview for Version 3 Onion services](#overview-for-version-3-onion-services)
     1. [Procedure for Version 3 Onion services](#procedure-for-version-3-onion-services)
         1. [Generating authentication credentials for Version 3 Onion services](#generating-authentication-credentials-for-version-3-onion-services)
+        1. [Configuring Tor Browser for authenticated Version 3 Onion services](#configuring-tor-browser-for-authenticated-version-3-onion-services)
         1. [Configuring a laptop or desktop computer for authenticated Version 3 Onion services](#configuring-a-laptop-or-desktop-computer-for-authenticated-version-3-onion-services)
         1. [Configuring an Android-based mobile device for authenticated Version 3 Onion services](#configuring-an-android-based-mobile-device-for-authenticated-version-3-onion-services)
         1. [Configuring an Apple iOS device for Version 3 authenticated Onion services](#configuring-an-apple-ios-device-for-authenticated-version-3-onion-services)
