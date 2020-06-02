@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[Tor]] ▸ [[Onion services]] ▸ **Connecting to an authenticated Onion service**
 
-An authenticated Onion service is a certain kind of [Tor "hidden service"](https://www.torproject.org/docs/onion-services) that requires clients (you) to supply an authentication token (basically, a password) before responding to incoming connection requests. There are two different, incompatible Onion service versions that support client authentication: Version 2, and Version 3. This page covers both versions and describes how to tell one version apart from the other.
+An authenticated Onion service is a certain kind of [Tor "hidden service"](https://www.torproject.org/docs/onion-services) that requires clients (you) to supply an authentication token (colloquially, a password) before responding to incoming connection requests. There are two different, incompatible Onion service versions that support client authentication: Version 2, and Version 3. This page covers both versions, describes how to tell one version apart from the other, and lists the steps you can take to configure a Tor client, such as Tor Browser or a system Tor service to supply your authentication credentials to the remote Tor server when connecting to its Onion services.
 
 > 💡 🔰 If you are trying to use Tor as a file sharing tool, consider following the instructions in [Secretly sharing files with OnionShare and TorBrowser](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser/README.md#readme) instead. [OnionShare's "Advanced" options will automate the server-side portion of creating an authenticated stealth Version 2 Onion service](https://github.com/micahflee/onionshare/wiki/Stealth-Onion-Services) as well as Version 3 Onion services with optional additional application-layer password protection.
 
@@ -119,9 +119,17 @@ After this procedure is complete, you will have four files:
 
 Next, you will protect your `.auth_private` file and inform your Tor software where to find it.
 
+### Configuring Tor Browser for authenticated Version 3 Onion services
+
+The Tor (Web) Browser is a two-for-one software package that bundles a Tor client and a Web browser in one installation. Installing and using the latest version of Tor Browser is the easiest and recommended way to access authenticated Version 3 Onion services hosting Web sites (often called "dark net" or "deep web" sites) because it provides a familiar graphical dialogue box in which to enter your credentials. The [Onion Service Authentication section of the Onion Services page in the Tor Browser's User Manual](https://tb-manual.torproject.org/onion-services/#onion-service-authentication) provides a screenshot and instructions demonstrating the procedure:
+
+![Screenshot of the Tor Browser's](https://web.archive.org/web/20200602195259im_/https://tb-manual.torproject.org/static/images/client-auth.png)
+
+This feature became available in Tor Browser version 9.5 (circa June 2020). For more information on Tor Browser, read the [Tor Browser User Manual](https://tb-manual.torproject.org/) in full, or participate in one of our educational partners' Tor workshops, such as the [Tor workshop provided by Tech Learning Collective](https://techlearningcollective.com/workshops/Tor-What-is-it-Good-For-%28Absolutely-Everything%21%29#events).
+
 ### Configuring a laptop or desktop computer for authenticated Version 3 Onion services
 
-**Do this** to connect to an authenticated Version 3 Onion service from your laptop or desktop computer:
+**Do this** to connect to an authenticated Version 3 Onion service from a Tor client installed on your laptop or desktop computer. The procedure here assumes the use of the Tor client built-in to the Tor Browser, but the same procedure applies to a system Tor with appropriately modified filesystem paths:
 
 1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
 1. Ensure you have a valid `.auth_private` file. You can either [generate one yourself](#generating-authentication-credentials-for-version-3-onion-services), or in some cases you may have already received one from the operator of your Onion service.
@@ -197,7 +205,7 @@ The exact procedure for setting up your Tor client to connect to a Tor server's 
 
 ### Configuring a laptop or desktop computer for authenticated Version 2 Onion services
 
-**Do this** to connect to an authenticated Version 2 Onion service from your laptop or desktop computer:
+**Do this** to connect to an authenticated Version 2 Onion service from your laptop or desktop computer. The procedure here assumes the use of the Tor client built-in to the Tor Browser, but the same procedure applies to a system Tor with appropriately modified filesystem paths:
 
 1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
 1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, poke them until they send you your access credentials. :) 
