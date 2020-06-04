@@ -21,7 +21,7 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [Restore the 4th](https://restorethe4th.com/) - Non-profit advocating for ending unconstitutional mass government surveillance, with chapters in numerous cities.
 * [Rethink LinkNYC](http://rethinklink.nyc/) - Anti-surveillance advocacy group in New York City.
 * [Shift-CTRL Space](https://shiftctrl.space/) - Amalgamation of Autonomist and Anarchist activists organizing technology-centered projects to cultivate autonomy and connect grassroots organizers with free technology resources.
-* [Signalboost](https://signalboost.info/) - Development team of a free service that lets activists use the [[Signal Private Messenger]] app to send text blasts and receive hotline tips without revealing their identity or spending money.
+* [Signalboost](https://signalboost.info/) - Development team of a free service that lets activists use the [[Signal Private Messenger]] app to send text blasts and receive hotline tips without revealing their identity or spending money. ([[List of Signalboost channels|Signal Private Messenger#List of Signalboost channels]].)
 * [Starr Bar](https://starrbar.com/) - Nightlife venue in Bushwick, Brooklyn that celebrates and supports movements for social justice.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
 * [T4Tech](https://t4tech-nyc.github.io/) - Group for transgender and allied people to learn about web development and related fields.
