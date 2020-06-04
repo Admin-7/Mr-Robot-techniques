@@ -45,19 +45,19 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     1. [Week 31 (S03E09)](#week-31-s03e09)
     1. [Week 32 (S03E10)](#week-32-s03e10)
 1. [🌐 Season 4](https://www.themoviedb.org/tv/62560-mr-robot/season/4)
-    1. [Week 33 (S03E01)](#week-33-s04e01)
-    1. [Week 34 (S03E02)](#week-34-s04e02)
-    1. [Week 35 (S03E03)](#week-35-s04e03)
-    1. [Week 36 (S03E04)](#week-36-s04e04)
-    1. [Week 37 (S03E05)](#week-37-s04e05)
-    1. [Week 38 (S03E06)](#week-38-s04e06)
-    1. [Week 39 (S03E07)](#week-39-s04e07)
-    1. [Week 40 (S03E08)](#week-40-s04e08)
-    1. [Week 41 (S03E09)](#week-41-s04e09)
-    1. [Week 42 (S03E10)](#week-42-s04e10)
-    1. [Week 43 (S03E11)](#week-43-s04e11)
-    1. [Week 44 (S03E12)](#week-44-s04e12)
-    1. [Week 45 (S03E13)](#week-45-s04e13)
+    1. [Week 33 (S04E01)](#week-33-s04e01)
+    1. [Week 34 (S04E02)](#week-34-s04e02)
+    1. [Week 35 (S04E03)](#week-35-s04e03)
+    1. [Week 36 (S04E04)](#week-36-s04e04)
+    1. [Week 37 (S04E05)](#week-37-s04e05)
+    1. [Week 38 (S04E06)](#week-38-s04e06)
+    1. [Week 39 (S04E07)](#week-39-s04e07)
+    1. [Week 40 (S04E08)](#week-40-s04e08)
+    1. [Week 41 (S04E09)](#week-41-s04e09)
+    1. [Week 42 (S04E10)](#week-42-s04e10)
+    1. [Week 43 (S04E11)](#week-43-s04e11)
+    1. [Week 44 (S04E12)](#week-44-s04e12)
+    1. [Week 45 (S04E13)](#week-45-s04e13)
 
 # Week 1 (S01E01)
 
@@ -694,6 +694,9 @@ During post-show discussion, we brought up:
 # Week 35 (S04E03)
 
 # Week 36 (S04E04)
+
+* Darlene and Elliot use Signal to communicate with one another.  
+  ![Still of a TV DVR showing Signal on screen during an episode of Mr. Robot.](https://s19.directupload.net/images/191028/a3e6f5l4.png)
 
 # Week 37 (S04E05)
 
