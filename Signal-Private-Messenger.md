@@ -25,4 +25,4 @@ To subscribe to a Signalboost channel, send `HELLO` via your Signal app to the S
 #### New York City
 
 * [FTP Channel: (718) 550-6436](sms:7185506436) - Action thread administered by the organizers of recent FTP actions.
-* [NYC JAIL SUPPORT: (718) 550-2312](sms:7185502312) -- Announce/hotline channel with updates on jail support and staff answering questions about how to support arrestees.
+* [NYC JAIL SUPPORT: (718) 550-2312](sms:7185502312) - Announce/hotline channel with updates on jail support and staff answering questions about how to support arrestees.
