@@ -2,7 +2,7 @@
 
 The Anarcho-Tech NYC collective is but one of a number of affinity groups organizing against fascism. This page lists other groups with whom we have some collaboration. None of these links are endorsements; ask a comrade about the specific work being done if you're interested in learning more about our work.
 
-> 📝 Editor's note: Please keep this list alphabetized for ease of reference, and focus on groups who have shown an interest in actual collaboration, not just a link-dump of groups we know exist. (Thank you!)
+> 📝 Editor's note: Please keep this list alphabetized for ease of reference, and try to focus on groups who have shown an interest in actual collaboration, not just a link-dump of groups we know exist. (Thank you!)
 
 * [ActSecure](https://actsecure.github.io/) - Loose collection of technologists working to help activists secure themselves before, during, and after actions.
 * [A World Without Police](http://aworldwithoutpolice.org) - Online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
