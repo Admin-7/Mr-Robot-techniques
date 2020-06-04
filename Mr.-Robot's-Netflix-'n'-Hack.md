@@ -638,6 +638,8 @@ During post-show discussion, we brought up:
 
 # Week 16 (S02E06)
 
+* Signal is used to make an encrypted VoIP call.
+
 # Week 17 (S02E07)
 
 # Week 18 (S02E08)
