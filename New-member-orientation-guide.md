@@ -23,7 +23,7 @@ If you're reading this, you're already here! GitHub is a Web-based collaboration
 1. Tell someone at the meeting or event you're at what your GitHub username is. That person will add you to the AnarchoTechNYC "organization" on GitHub.
 1. You will get an email asking you accept your invitation to join the GitHub organization. Confirm this, and you're in.
 
-# [[Signal]]
+# [[Signal|Signal Private Messenger]]
 
 To stay in touch when we're not meeting face-to-face, we use [[Signal Private Messenger]], a privacy-enhanced mobile messenger app built for Android and iOS devices. Signal is also useful for communicating with your friends and in some cases can (and maybe should) completely replace your existing txting (SMS) app or other mobile messengers. You'll learn more about why we like it as you get more involved but, for now, just know that Signal is how we broadcast up-to-the-minute updates about meeting locations, times, and other logistical details.
 
