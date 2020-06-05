@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[Throwaway account providers]] ▸ **Disposable SMS services**
 
-This page lists throwaway SMS inbox providers you can use instead of your own mobile phone number in order to receive text messages for account validation and other specialized purposes.
+This page lists throwaway SMS inbox providers you can use instead of your own mobile phone number in order to receive text messages for account validation and other specialized purposes. One common use of such services is to reserve a pseudonymous [[Signal Private Messenger]] account number, since the Signal service uses an SMS verification loop loop to register new accounts, but does not use SMS messages for any other purpose.
 
 > 💡 Where even more anonymity is desired, consider accessing the services below using the [Tor Browser](https://torproject.org/) instead of using your day-to-day regular Web browser.
 
