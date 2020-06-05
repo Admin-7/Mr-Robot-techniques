@@ -1,6 +1,6 @@
 > [[Wiki|Home]] ▸ [[Guides and advice]] ▸ **New member orientation guide**
 
-Welcome, new Anarcho-Tech NYC members! As a first-timer to one of our events, you're probably getting a lot of information (mostly by people talking at you?) both welcoming you to the meeting space, and asking you if you have accounts on this or that service or collaboration tool. Maybe you're already familiar with some of these systems, but maybe you're not. Moreover, our collective itself created some custom software and, on top of that, tech antifa folks often create new tools or apps that you might find useful, but aren't well-known.
+**Welcome, potential Anarcho-Tech NYC members!** As a first-timer to one of our events, you're probably getting a lot of information (mostly by people talking at you?) both welcoming you to the meeting space, and asking you if you have accounts on this or that service or collaboration tool. Maybe you're already familiar with some of these systems, but maybe you're not. Moreover, our collective itself created some custom software and, on top of that, tech antifa folks often create new tools or apps that you might find useful, but aren't well-known.
 
 The following page hopes to familiarize you with these tools and provide a self-paced (but guided!) tour of them. Follow the links to dive into whatever rabbit hole looks like it would be a fun adventure to go on. :) Additionally, please read our [[Social rules]], which will help you become a valuable and valued participant in our spaces.
 
