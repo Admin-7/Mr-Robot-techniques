@@ -16,6 +16,10 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
 # Computer Systems
 
+* [You Don't Know Jack About .bash_history - SANS DFIR Summit 2016](https://www.youtube.com/watch?v=wv1xqOV2RyE)
+
+  The .bash_history file tracks a user’s command history and is an important artifact in Linux and Mac forensics. But many investigators don’t understand the rules for how and when they are written and can make wrong investigative assumptions. Suspects may attempt anti-forensic techniques to corrupt or remove .bash_history content. In other words, “It’s complicated.” Using both disk and memory based forensics, Hal Pomeranz will shine a little light on some of the darker corners of bash behavior. What does “normal” look like? What artifacts besides the .bash_history itself can we use to achieve certainty about user behavior? How does a combination of disk and memory forensics help us when interpreting a user’s command history?
+
 * [The Tragedy of systemd - linux.conf.au 2019](https://www.youtube.com/watch?v=o_AIw9bGogo)
 
   A January, 2019 presentation by [FreeBSD](https://www.freebsd.org/) developer [Benno Rice](https://twitter.com/jeamland) discussing the origins of [systemd](https://freedesktop.org/wiki/Software/systemd/), and its role in providing a set of "system layer" functions that conceptually sit between the traditional notions of kernelspace and userspace. He also discusses the contention around the use and adoption of systemd, how contempt culture stifles progress, and how the systemd project ought to be looked at as a source of ideas rather than a problematic piece of software.
