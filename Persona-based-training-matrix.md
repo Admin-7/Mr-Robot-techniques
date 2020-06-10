@@ -20,8 +20,6 @@ There are two types of personas consisting of three broad groupings. These two t
 1. [Triage](#triage)
 
 > 📝 Editor's note: Please read about [the process we're using to create this material](#triage).
-> 
-> 🚧 TK-TODO: This matrix was used in [the Better Angels's "Practical digital security" workshop](https://github.com/betterangels/better-angels/wiki/Practical-digital-security); figure out the best way to consolidate/contribute to this or that resource in tandem.
 
 # Motivation
 
