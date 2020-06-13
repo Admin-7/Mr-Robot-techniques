@@ -4,6 +4,5 @@ As there is no calendar or schedule for events maintained on this wiki, this pag
 
 * [Anarchism.NYC](http://anarchism.nyc/) - Public events of New York anarchist and anarchist-ish groups.
 * [New York CryptoParty Network](https://www.meetup.com/New-York-Cryptoparty-Network/events/) - Meetups to answer questions and instruct people on technology and privacy.
-* [Take Action NYC - Event Calendar](http://takeactionnyc.com/nyc-protest-event-calendar/) - Centralized, comprehensive protest and political action calendar.
 * [Tech Learning Collective - Events](https://techlearningcollective.com/events/) - Satellite events such as workshops, skillshares, and demonstrations in collaboration with hackerspaces and other venues across New York City.
     * [Tech Learning Collective - Calendars](https://techlearningcollective.com/calendars/) - The folks at Tech Learning Collective maintain a similar collection of event calendars worth checking out, as well.
