@@ -6,6 +6,8 @@ An authenticated Onion service is a certain kind of [Tor "hidden service"](https
 
 > 💡 🌐 [See the Tor project's own site for instructions on configuring unauthenticated Onion services](https://www.torproject.org/docs/tor-onion-service).
 
+> 🔰 🎓 For more education and training about Tor or its Onion service features, we recommend [Tech Learning Collective's "Tor: What is it Good For? (Absolutely Everything!)" workshop](https://techlearningcollective.com/workshops/Tor-What-is-it-Good-For-%28Absolutely-Everything%21%29).
+
 # Contents
 
 1. [Identifying the Onion service version](#identifying-the-onion-service-version)
