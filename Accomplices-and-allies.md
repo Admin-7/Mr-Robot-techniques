@@ -8,12 +8,10 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [A World Without Police](http://aworldwithoutpolice.org) - Online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
 * [Better Angels Collective](https://betterangels.github.io/) - Wholly virtual "anarchist collective creating liberatory software."
 * [Between the lines](http://betweenthelines.github.io/) - Small collective with a focus on creating tools/notes on privacy and protest.
-* [CMU Tech4Society](https://tech4society.slack.com/) - Student-run organizing committee at Carnegie Mellon University hosting cybersecurity clinics.
 * [Crypto Harlem](http://rdewald.com/cryptoharlem/) - Group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
 * [CryptoParty NYC](https://www.cryptoparty.in/nyc) - Decentralized movement with the goal of passing on knowledge about protecting yourself in digital spaces.
 * [Edgeryders](https://edgeryders.eu/) - Umbrella organization offering specific initiatives infrastructure support (like funding, etc.) that doubles as a social network for local activists to connect with one another.
 * [Hex90](https://hexninety.github.io/) - A queer hacker salon in NYC.
-* [Justice Duckling](http://justiceduckling.com/) - New York City’s protest calendar.
 * [MACC's CyPurr Collective/CryptoSquad NYC](https://cypurr.nyc/) - Group devoted to sharing information with cybersecurity-minded folks at workshops and socials.
 * [NYC DSA Tech Action WG](https://techaction.nyc/) - Democratic Socialists of America, NYC chapter working group developing a socialist perspective on technology and society.
 * [NYC Mesh](https://nycmesh.net/) - New York residents who decided to set up our own network to bypass the cable cartel and connect directly to the Internet backbone.
@@ -22,10 +20,8 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 * [Rethink LinkNYC](http://rethinklink.nyc/) - Anti-surveillance advocacy group in New York City.
 * [Shift-CTRL Space](https://shiftctrl.space/) - Amalgamation of Autonomist and Anarchist activists organizing technology-centered projects to cultivate autonomy and connect grassroots organizers with free technology resources.
 * [Signalboost](https://signalboost.info/) - Development team of a free service that lets activists use the [[Signal Private Messenger]] app to send text blasts and receive hotline tips without revealing their identity or spending money. ([[List of Signalboost channels|Signal Private Messenger#List of Signalboost channels]].)
-* [Starr Bar](https://starrbar.com/) - Nightlife venue in Bushwick, Brooklyn that celebrates and supports movements for social justice.
 * [subMedia](https://sub.media/) - Grassroots, independent media collective making educational and documentary video in support of the people's struggles against oppression.
 * [T4Tech](https://t4tech-nyc.github.io/) - Group for transgender and allied people to learn about web development and related fields.
 * [Tech Learning Collective](https://techlearningcollective.com/) - Educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged.
 * [The Tech Autonomists](https://tech-autonomy.com/) - Tech Autonomy is the reanimation of technomagical empowerment as a part of reclaiming freedom from capitalist control and coercion.
 * [Twin Cities General Defense Committee](https://twincitiesgdc.org/) - Industrial Workers of the World (IWW) chapter focused on prisoner support and community self defense in the Twin Cities region.
-* [Woodbine Autonomy Collective](http://woodbine.nyc/) - Nexus of several autonomously organizing groups uniting against the end of the world.
