@@ -14,3 +14,10 @@ This page lists throwaway SMS inbox providers you can use instead of your own mo
 * [Receive-SMSs.com](https://receive-smss.com/)
 * [SMSReceiveFree.com](https://smsreceivefree.com/) - Requires free account signup with an email address.
 * [TempoPhone.com](https://tempophone.com/)
+
+# Additional services
+
+While not "disposable" in the same way as the list above, the services listed in this section can also provide alternate SMS-capable phone numbers.
+
+* [Google Voice](https://voice.google.com/)
+* [MySudo.com](https://MySudo.com/)
