@@ -3,7 +3,7 @@
 As there is no calendar or schedule for events maintained on this wiki, this page provides direct links to the event calendars of affiliated groups that may (or may not) list specific instances of events we help make happen.
 
 * [Anarchism.NYC](http://anarchism.nyc/) - Public events of New York anarchist and anarchist-ish groups.
-* [Bluestockings](https://bluestockings.com/events/calendar/) - Public events of an volunteer-powered and collectively-owned radical bookstore, fair trade cafe, and activist center in the Lower East Side of Manhattan.
+* [Bluestockings](https://bluestockings.com/events/calendar/) - Public events of a volunteer-powered and collectively-owned radical bookstore, fair trade cafe, and activist center in the Lower East Side of Manhattan.
 * [MACC Events](https://macc.nyc/events) - Events facilitated or posted by the Metropolitan Anarchist Coordinating Council.
 * [MoRUS Event Calendar](https://www.morusnyc.org/event-calendar-one/) - Museum of Reclaimed Urban Space's regular events calendar.
 * [New York CryptoParty Network](https://www.meetup.com/New-York-Cryptoparty-Network/events/) - Meetups to answer questions and instruct people on technology and privacy.
