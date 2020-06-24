@@ -12,7 +12,7 @@ The following outline is a brief guide you can follow to help ensure a successfu
 
 ## Goals
 
-The general motivation behind this workshop/format is to meet the following challenge: "how do we teach threat modeling, without ever saying the word 'threat model' or using any other jargon, to people who don't want to have to care about digital/computer security, but know that they need to care anyway?"
+The general motivation behind this specific workshop format is to meet the following challenge: "how do we teach threat modeling, without ever saying the word 'threat model' or using any other jargon, to people who don't want to have to care about digital/computer security, but know that they need to care anyway?"
 
 To that end, here are some things that are *not* your goal:
 
