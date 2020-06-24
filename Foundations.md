@@ -2,7 +2,7 @@
 
 Our *Foundations* pages are designed to help you get up to speed quickly, or fill in gaps in fundamental knowledge areas. These explanations assume you have no prior knowledge or experience. Pair these pages with a [suggested learning path](#suggested-learning-path).
 
-> :beginner: :globe_with_meridians: Complete novices may also find [Tech Learning Collective's free "Foundations" course series](https://techlearningcollective.com/foundations/) of considerable value.
+> :beginner: :globe_with_meridians: Complete novices may also find [Tech Learning Collective's free "Foundations" course series :mortar_board:](https://techlearningcollective.com/foundations/) of considerable value.
 
 * [[BitTorrent]]
 * [[Bytes]]
@@ -48,6 +48,8 @@ See also: [[Glossary]].
     * [Information security](#information-security)
 
 # Suggested learning path
+
+> :beginner: :mortar_board: For those who want or need some additional structure for technical education, we recommend [Tech Learning Collective](https://techlearningcollective.com/); theirs is the only technical education initiative that meaningfully merges radical politics with quality education.
 
 If you don't know where to start *and* don't really know where to go in your studies next, consider starting here:
 
