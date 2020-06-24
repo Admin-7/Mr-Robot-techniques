@@ -182,6 +182,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [Southord](https://www.southord.com/) has good sets!
   * [LockWiki](http://lockwiki.com/) is a wiki all about compromising the security of lockd, safes, and keys.
   * This is part of "physical security," often abbreviated as [[PHYSEC|PhySec]].
+* Elliot's exploit against Fernando Vera uses C language code and references [Andersson (AA) trees](https://en.wikipedia.org/wiki/AA_tree).
+  ![Elliot uses some kind of HTTP attack vector to compromise Vera, :robot: screenshot 📷](https://web.archive.org/web/20200624052855if_/https://i.imgur.com/epkxKTo.png)
 * DeepSound (again)
 * "My album just dropped. … Check track 2 out!" - > social engineering to get Windows malware via autorun on CD
   * [Prevent viruses from using AutoRun to spread](https://support.symantec.com/en_US/article.TECH104447.html)
