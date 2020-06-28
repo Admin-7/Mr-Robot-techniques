@@ -214,7 +214,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [IPv6 address(?)](https://github.com/AnarchoTechNYC/meta/wiki/IP-address) in the URL bar
 * Onion site ("hidden service") used as an IRC server  
   ![Screenshot of a Chinese IRC channel, :robot: screenshot 📷](https://web.archive.org/web/20170317230419/https://i.imgur.com/V08jbFH.jpg)
-  * Use [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) to access such servers easily, if you know the `.onion` address
+  * The now-defunct [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) was a chat app that enabled access such servers easily, if you know the `.onion` address. (Nowawadays you should choose and configure an existing IRC and Tor client yourself. [Instructions for Freenode on Tor](https://freenode.net/news/tor-online). )
   * This technique was [used by Anonymous](https://nakedsecurity.sophos.com/2016/04/22/anonymous-launches-onionirc-a-school-for-hacktivists-on-the-dark-web/) for some of their chat services
 * "We should also monitor social media traffic, as well as IRC, Pastebin, and set up scripts to keep going, 24/7" - places where data dumps often first appear
   * [Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
