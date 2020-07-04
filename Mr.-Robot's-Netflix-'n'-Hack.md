@@ -212,6 +212,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * Webcam spying via RATs, read "[Meet the men who spy on women through their webcams](http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/)"  
   ![Ollie is observed via his laptop's hacked webcam, :robot: screenshot 📷](https://web.archive.org/web/20170317230630/https://i.imgur.com/SVDpCdq.jpg)
   * [IPv6 address(?)](https://github.com/AnarchoTechNYC/meta/wiki/IP-address) in the URL bar
+  * ["Hacking Europe" book](https://www.springer.com/gp/book/9781447154921) on the bookshelf is an academic work about famous European hacker communities
 * Onion site ("hidden service") used as an IRC server  
   ![Screenshot of a Chinese IRC channel, :robot: screenshot 📷](https://web.archive.org/web/20170317230419/https://i.imgur.com/V08jbFH.jpg)
   * The now-defunct [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) was a chat app that enabled access to such servers easily, if you know the `.onion` address. (Nowawadays you should choose and configure an existing IRC and Tor client yourself. [Instructions for Freenode on Tor](https://freenode.net/news/tor-online). )
