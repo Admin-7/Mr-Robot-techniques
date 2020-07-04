@@ -217,7 +217,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   ![Screenshot of a Chinese IRC channel, :robot: screenshot 📷](https://web.archive.org/web/20170317230419/https://i.imgur.com/V08jbFH.jpg)
   * The now-defunct [TorMessenger](https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily) was a chat app that enabled access to such servers easily, if you know the `.onion` address. (Nowawadays you should choose and configure an existing IRC and Tor client yourself. [Instructions for Freenode on Tor](https://freenode.net/news/tor-online). )
   * This technique was [used by Anonymous](https://nakedsecurity.sophos.com/2016/04/22/anonymous-launches-onionirc-a-school-for-hacktivists-on-the-dark-web/) for some of their chat services
-* "We should also monitor social media traffic, as well as IRC, Pastebin, and set up scripts to keep going, 24/7" - places where data dumps often first appear
+* "And it's not enough to just focus your attention on the logs. We should also monitor social media traffic, as well as IRC, Pastebin, and set up scripts to keep going, 24/7" - places where data dumps often first appear
+  * System logging, [NetFlow](https://en.wikipedia.org/wiki/NetFlow) logging, etc….
   * [Pastebin: Running the site where hackers publicise their attacks](http://www.bbc.com/news/technology-17524822)
   * [The Next Web: Pastebin: How a popular code-sharing site became the ultimate hacker hangout](http://thenextweb.com/socialmedia/2011/06/05/pastebin-how-a-popular-code-sharing-site-became-the-ultimate-hacker-hangout/)
 * "Never show them my [source code](https://en.wikipedia.org/wiki/Source_code)"
@@ -271,7 +272,10 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
   * [IdentityTheft.gov](https://www.identitytheft.gov/) - US government recommendations/resources to "recover from identity theft"
   * Read [Crash // Override's "Prevent Doxing" guide](http://www.crashoverridenetwork.com/preventingdoxing.html)
 * Incident response (IR), and digital forensic examination reports  
-  ![Gideon examines Elliot's forensic examiner report on the encrypted .dat file, :robot: screenshot 📷](https://web.archive.org/web/20170318002151/https://i.imgur.com/nSn0Y1o.jpg)
+  ![Gideon examines Elliot's forensic examiner report on the encrypted .dat file, :robot: screenshot 📷](https://web.archive.org/web/20170318002151/https://i.imgur.com/nSn0Y1o.jpg)  
+  ![Close up on the DFIR report, 1, :robot: screenshot 📷](https://web.archive.org/web/20200704054322if_/https://i.imgur.com/yZrG8yo.png)  
+  ![Close up on the DFIR report, 2, :robot: screenshot 📷](https://web.archive.org/web/20200704054325if_/https://i.imgur.com/7wkpDNc.png)  
+  ![Close up on the DFIR report, 3, :robot: screenshot 📷](https://web.archive.org/web/20200704054327if_/https://i.imgur.com/O19VwTZ.png)
   * [MD5 hashing algorithm](https://en.wikipedia.org/wiki/MD5)
     * hashes (also called digests) are [used in digital forensics extensively](http://forensicswiki.org/wiki/Hashing)
   * [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page) is a Wikipedia-like site for digital forensics tools and standards
