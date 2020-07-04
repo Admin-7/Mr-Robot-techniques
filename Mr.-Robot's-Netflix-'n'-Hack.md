@@ -280,6 +280,8 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
     * hashes (also called digests) are [used in digital forensics extensively](http://forensicswiki.org/wiki/Hashing)
   * [ForensicsWiki](http://forensicswiki.org/wiki/Main_Page) is a Wikipedia-like site for digital forensics tools and standards
   * [SANS Digital Forensics Blog](https://digital-forensics.sans.org/blog/), a regularly-updating industry blog
+* Gideon Goddard's phone shows location services are disabled, a better-than-average privacy practice:
+  ![Closeup of Gideon's Android smartphone, :robot: screenshot 📷](https://web.archive.org/web/20200704054618if_/https://i.imgur.com/UyIHJCO.png)
 
 During post-show discussion, we brought up:
 
