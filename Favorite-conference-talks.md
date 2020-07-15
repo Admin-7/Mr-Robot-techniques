@@ -26,7 +26,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
 * [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://vimeo.com/245778144/4d1d597c5e)
 
-  Understanding [Kubernetes](https://kubernetes.io/) as a whole can be daunting. With so many different components working together it can be hard to know how the pieces work together or where new products and features fit in. I will start at the highest level and then peel off the layers one at time to explain how some of the "magic" happens.
+  Understanding [Kubernetes](https://kubernetes.io/) as a whole can be daunting. With so many different components working together it can be hard to know how the pieces work together or where new products and features fit in. I will start at the highest level and then peel off the layers one at time to explain how some of the "magic" happens. ([Abridged version](https://www.youtube.com/watch?v=90kZRyPcRZw).)
 
 ## Phones
 
