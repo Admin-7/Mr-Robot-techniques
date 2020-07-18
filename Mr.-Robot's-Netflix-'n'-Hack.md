@@ -309,6 +309,7 @@ During post-show discussion, we brought up:
   * [Cyberwar: How a Cyber Attack Left Thousands of Ukrainians in the Dark](https://www.vice.com/en_us/article/tonight-on-viceland-cyberwar-ukraine-lights-out)
   * Read, [Hackers exploit SCADA holes to take full control of critical infrastructure](http://www.computerworld.com/article/2475789/cybercrime-hacking/hackers-exploit-scada-holes-to-take-full-control-of-critical-infrastructure.html)
   * [OWASP SCADA Security Project](https://www.owasp.org/index.php/OWASP_Scada_Security_Project)
+  * Internet recon sites like [Shodan](https://shodan.io/), [Censys](https://censys.io/) can find any Internet-connected device
 * "the distro," slang for "distribution," i.e., the file (payload) being distributed
 * [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) server, an older way of transferring files across a network
 * Unlocking a car door wirelessly  
@@ -338,6 +339,7 @@ During post-show discussion, we brought up:
 * "Error 404 Not Found", a well-known HTTP status code
   * See [IANA's HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
 * Getting rid of mobile phones to avoid being tracked by Law Enforcement Officers (LEOs) through [cell tower dumps](https://www.aclu.org/blog/cell-tower-dumps-another-surveillance-technique-another-set-unanswered-questions) or by an [IMSI-catcher](https://en.wikipedia.org/wiki/IMSI-catcher) (a "Stingray"), or other hackers via [VoLTE vulnerabilities](https://www.bleepingcomputer.com/news/security/hackers-can-spoof-phone-numbers-track-users-via-4g-volte-mobile-technology/)
+  * [Atlas of Surveillance](https://atlasofsurveillance.org/)
   * [Wired: Cops and Feds Routinely ‘Dump’ Cell Towers to Track Everyone Nearby](https://www.wired.com/2013/12/massive-domestic-monitorning/)
   * [ACLU: Stingray Tracking Devices, Who's Got Them?](https://www.aclu.org/map/stingray-tracking-devices-whos-got-them)
   * [PrivacySOS.org: How to Defeat FBI or Police Stingray Surveillance](https://privacysos.org/blog/how-to-defeat-fbi-or-police-stingray-surveillance/)
