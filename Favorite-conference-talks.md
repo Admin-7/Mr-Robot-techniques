@@ -13,6 +13,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
     1. [Hacking](#hacking)
         1. [Hacking demonstrations](#hacking-demonstrations)
         1. [Law and Politics](#law-and-politics)
+1. [Fun](#fun)
 
 # Computer Systems
 
@@ -99,6 +100,10 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 * [Don't Fuck It Up! by Zoz - DEF CON 22](https://www.youtube.com/watch?v=J1q4Ir2J8P8)
 
   Learn how not to fuck up covering your tracks on the Internet, using burner phones, collaborating with other dissidents and more. If you have anything to hide, and all of us do, pay attention and Don't. Fuck. It. Up! [Zoz introduces his idea of The 7 Deadly Fuckups, "what makes you a candidate for getting busted,"](https://www.youtube.com/watch?v=J1q4Ir2J8P8&t=11m56s) and urges anyone getting up to any kind of mischief to take their OPSEC seriously. Remember, "using a tool badly or stupidly can be worse than not using the tool at all. […] Two questions when it comes to tools: 'should I use it?' And, 'how should I use it?' […I]f your life or your freedom depend on it, don't trust one single element. This includes Tor and lots of other tools in your communication chain. Do your tradecraft analysis."
+
+# Fun
+
+* [Owning NFC toys I own: a case study by Vitorio Miliano](https://nfc.toys/) ([video](https://livestream.com/internetsociety3/hope/videos/178835170))
 
 # Triage
 
