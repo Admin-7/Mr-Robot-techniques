@@ -92,6 +92,10 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
   This is a series of games played over SSH. Each level corresponds to a user with a shell account on the game server. There's a set of binaries with their setuid flags set. The tasks are typically in the form of: exploit the binary, become the next user, repeat. Unlike micorcorruption, there's no nice webapp debugger, so you'll need to learn GDB, [radare2](http://radare.org) or something. I thought these were really fun, and because the environment is a lot less controlled than microcorruption, I learned a lot about how subtle factors can foil your exploit.
 
+* [Under the Wire](https://www.underthewire.tech/)
+
+  This series of challenges focuses on teaching the Windows PowerShell CLI and is inspired by the earlier *Over the Wire* challenges.
+
 * [io](http://io.netgarage.org), [io64](http://io.netgarage.org:8064), [ioarm](http://188.166.114.127)
   
   Like Over the Wire, the io games are played over SSH with the goal of escalating privileges to advance levels. Home to a great IRC channel too.
