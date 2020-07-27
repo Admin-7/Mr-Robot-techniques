@@ -29,6 +29,12 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
   Understanding [Kubernetes](https://kubernetes.io/) as a whole can be daunting. With so many different components working together it can be hard to know how the pieces work together or where new products and features fit in. I will start at the highest level and then peel off the layers one at time to explain how some of the "magic" happens. ([Abridged version](https://www.youtube.com/watch?v=90kZRyPcRZw).)
 
+* [Censorship Is No Longer Interpreted as Damage (And What We Can Do About It) - HOPE 2020](https://archive.org/details/hopeconf2020/20200727_1200_Censorship_Is_No_Longer_Interpreted_as_Damage.mp4)
+
+  In 2020, the Internet no longer interprets censorship as damage. Countrywide targeted web blocks are in effect everywhere from the Azerbaijan to Zimbabwe. TLS SNI-based blocking is deployed in places like Kazakhstan. And the only "solutions" seemingly on the table lead to further centralization via gatekeepers like CloudFlare. Many Internet censorship circumvention tools are available to users, but it's unreasonable to expect whole populations to switch to the Tor Browser or Psiphon in order to access a blocked site. At the same time, effective strategies that website admins can implement on their own seem few and far between. In this talk, based on years of experience running a high-profile site censored in several countries, Michal "rysiek" Wozniak will go through some of these strategies.
+
+  He'll start with moving to static content and enabling some decent caching on your own edge, through using Web Archive as a live backup, and focus on some funky p2p technologies (like IPFS or `dat://`) which, when deployed, could make censoring a website way, way harder. Browser vendors will not be let off the hook. Internet gatekeepers will receive dishonorable mentions. Blockchain will only be discussed sarcastically.
+
 ## Phones
 
 * [The Secret Life of SIM Cards - DEF CON 21](https://www.youtube.com/watch?v=31D94QOo2gY)
