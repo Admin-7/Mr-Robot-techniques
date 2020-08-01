@@ -496,7 +496,7 @@ During post-show discussion, we brought up:
 * "Shit. WPA2, borderline unhackable. Getting that [handshake](http://www.kalitutorials.net/2014/06/hack-wpa-2-psk-capturing-handshake.html), it could take days."
   ![Elliot's Android phone runs a version of Wifite to find nearby networks, :robot: screenshot 📷](https://web.archive.org/web/20170411230748/https://i.imgur.com/PkuQrDZ.jpg)
   * Wikipedia article: [Cracking of wireless networks](https://en.wikipedia.org/wiki/Cracking_of_wireless_networks)
-  * Elliot uses his phone to run [`wifite`](http://www.kalitutorials.net/2014/04/wifite-hacking-wifi-easy-way-kali-linux.html), an automated Wi-Fi cracking tool that uses [`aircrack-ng`](https://en.wikipedia.org/wiki/Aircrack-ng), [`reaver`](https://lifehacker.com/5873407/how-to-crack-a-wi-fi-networks-wpa-password-with-reaver), and other tools under the hood
+  * Elliot is using a [Pwn Phone](https://github.com/thehackingsage/pwnphone) to run [`wifite`](http://www.kalitutorials.net/2014/04/wifite-hacking-wifi-easy-way-kali-linux.html), an automated Wi-Fi cracking tool that uses [`aircrack-ng`](https://en.wikipedia.org/wiki/Aircrack-ng), [`reaver`](https://lifehacker.com/5873407/how-to-crack-a-wi-fi-networks-wpa-password-with-reaver), and other tools under the hood
 * "Discoverable" Bluetooth devices can reveal device names  
   ![Elliot looks for nearby Bluetooth devices that are discoverable, :robot: screenshot 📷](https://web.archive.org/web/20170411231559/https://i.imgur.com/6Gywvp5.jpg)
 * Cop cars use "dedicated 4G," which is a cell (mobile phone) technology, and Bluetooth-enabled endpoints in the cab
