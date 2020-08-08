@@ -595,10 +595,17 @@ During post-show discussion, we brought up:
   * Wikipedia maintains [a huge list](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems), of course
 * Elliot "hacks" himself -> people search sites, FamilyTreeNow, getting real estate deeds and other legal documents, basically "self-doxxing"
   * [Erasing oneself from the Internet](https://gizmodo.com/how-to-erase-yourself-from-the-internet-1456270634)
-* [ProtonMail](https://protonmail.com/)
-* Deepsound, but reading instead of writing data this time
+* [ProtonMail](https://protonmail.com/)  
+  ![Screenshot of ProtonMail's Account Access Log interface](https://web.archive.org/web/20200808041255if_/https://i.imgur.com/2ILUYmS.png)
+* Running Windows 8.1 in a virtual machine; VMs can be "suspended"/paused, then resumed later  
+  ![Screenshot of Elliot's Windows 8.1 virtual machine resuming](https://web.archive.org/web/20200808042004/https://i.imgur.com/7p6PBmf.png)
+* DeepSound, but reading instead of writing data this time  
+  ![First screenshot of DeepSound](https://web.archive.org/web/20200808042229if_/https://i.imgur.com/dfYVJ91.png)  
+  ![Second screenshot of DeepSound](https://web.archive.org/web/20200808042154/https://i.imgur.com/NKbawSZ.png)
 * Shared folders on a VM (`/home/VMShare`) http://virtuatopia.com/index.php/VirtualBox_Shared_Folders
   * Used extensively for development as part of [Vagrant](https://www.vagrantup.com/)
+* `gnome-open` is GNOME's graphical shell "open this file" command.  
+  ![Screenshot of Elliot's terminal running `gnome-open`](https://web.archive.org/web/20200808041856/https://i.imgur.com/J2Rz6zq.png)
 
 # Week 9 (S01E09)
 
