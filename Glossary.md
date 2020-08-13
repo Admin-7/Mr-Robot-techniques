@@ -277,6 +277,10 @@ Acronym for [digital-to-analog converter](#digital-to-analog-converter).
 
 ## [Device under test](https://en.wikipedia.org/wiki/Device_under_test)
 
+## DGA
+
+Initialism for [domain generation algorithm](#domain-generation-algorithm).
+
 ## [Digital signal processing](https://simple.wikipedia.org/wiki/Digital_signal_processing)
 
 ## [Digital Video Broadcast - Terrestrial](](https://en.wikipedia.org/wiki/DVB-T))
@@ -286,6 +290,8 @@ Acronym for [digital-to-analog converter](#digital-to-analog-converter).
 ## DHCP
 
 Initialism for [Dynamic Host Configuration Protocol](#dynamic-host-configuration-protocol).
+
+## [Domain generation algorithm](https://en.wikipedia.org/wiki/Domain_generation_algorithm)
 
 ## [Domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language)
 
