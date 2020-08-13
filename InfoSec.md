@@ -346,6 +346,7 @@ This section contains a curated, ordered list of supplementary educational conte
 
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [awesome-ai-security](https://github.com/RandomAdversary/Awesome-AI-Security)
+* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship)
 * [awesome-appsec](https://github.com/paragonie/awesome-appsec)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws)
 * [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
