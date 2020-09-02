@@ -144,7 +144,7 @@ This feature became available in Tor Browser version 9.5 (circa June 2020). For 
         1. From the menu bar, choose *File* &rarr; *Get Info*. The folder Info window will open.
         1. Click on the *General* section's disclosure triangle to expose the General Information panel.
         1. Select and copy the entire value of the *Where* line, as shown below, then paste it into your notes:  
-            ![Screenshot of the macOS Finder's "Get Info" window for a folder named "Onions" in a user's home folder.](https://i.imgur.com/vC8bNhl.png)
+            ![Screenshot of the macOS Finder's "Get Info" window for a folder named "Onions" in a user's home folder.](https://i.imgur.com/cuoHUj2.png)
         1. If the folder you chose was `Onions` in your home folder, your path will probably look something like `/Users/YOUR_USER_NAME/Onions`.
     * In *GNU/Linux*, first use the `cd` command to go to the folder itself, then use [the `pwd` command](https://explainshell.com/explain?cmd=pwd) to find the full filesystem path of the folder. If the folder you chose was `Onions` in your home folder, your path will probably look something like `/home/YOUR_USER_NAME/Onions`.
     * In *Windows*:
