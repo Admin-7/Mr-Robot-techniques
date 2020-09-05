@@ -72,57 +72,7 @@ Once generated, you can safely send the public portion of your keypair to the On
 
 > 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you already have an authentication credential and can skip this section.
 
-> ⚠️🔰 At the time of this writing, this procedure assumes the use of a POSIX computing environment, such as a macOS or GNU/Linux computer, and knowledge of a [[command line|Command line interface (CLI)]]. If you cannot access such an environment, or if using a command line interface ("terminal prompt") on your computer is unfamiliar to you, we recommend that you request your authenticated Version 3 Onion service access credential from your Onion service operator. We hope that the Tor community will make it easier to generate Version 3 Onion service authentication credentials soon.
-
-> 💡 As an alternative to the following CLI procedure, [this Python 3 script](https://web.archive.org/web/20200619085057/https://github.com/pastly/python-snippits/blob/master/src/tor/x25519-gen.py) uses [the PyNaCl library](https://pypi.org/project/PyNaCl/) to the same effect.
-
-**Do this** to generate a public/private keypair for use as an authenticated Version 3 Onion service access credential:
-
-1. On a laptop or desktop computer, ensure you have [OpenSSL](https://www.openssl.org/) 1.1 or later installed. [Links to ready-to-use OpenSSL distributions are available from the OpenSSL wiki](https://wiki.openssl.org/index.php/Binaries). Many GNU/Linux computers already have OpenSSL installed.
-1. On the same laptop or desktop computer, ensure you have [Base64](https://en.wikipedia.org/wiki/Base64) and [Base32](https://en.wikipedia.org/wiki/Base32) encoding and decoding utilities available, such as those provided by [the `basez` package](https://pkgs.org/download/basez) or an equivalent.
-1. Using OpenSSL 1.1 or later, generate a new X25519 private key. This will produce a [PEM](https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail)-encoded private key file, `private-key.pem`:
-    ```sh
-    openssl genpkey -algorithm x25519 -out private-key.pem
-    ```
-1. Using the newly generated private key file, generate a corresponding public key file, `public-key.pem`:
-    ```sh
-    openssl pkey -in private-key.pem -pubout -outform PEM -out public-key.pem
-    ```
-1. Now that you have both the private and public parts of your keypair, first convert the private part from its PEM-encoded format into a Base32 encoded string for use in your Tor client’s `.auth_private` file:
-    ```sh
-    cat private-key.pem | \
-        grep -v " PRIVATE KEY" | \
-        basez --base64pem --decode | \
-        tail --bytes 32 | \
-        basez --base32 | \
-        tr -d '=' > some-onion.auth_private # You can change `some-onion` to a name more meaningful to you.
-    ```
-1. At this point, the `some-onion.auth_private` file (which you can rename if you like) contains only the private key itself, so we need to prepend the Onion domain (without the `.onion` top-level domain), a colon (`:`), the keyword `descriptor`, another field-delimiting colon, and the key type keyword `x25519`, followed by a final colon. For example, if the Onion address for which this private key will be used to authenticate this client is `p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion`, the final `.auth_private` file could be constructed like this:
-    ```sh
-    echo -n "p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd:descriptor:x25519:" | \
-        cat - some-onion.auth_private
-    ```
-1. Finally, prepare the `.auth` public key file for the Onion service operator by performing a similar preparatory procedure. For the public key's `.auth` file, you should omit the Onion address itself and merely need to prepend the keyword `descriptor`, a field-delimiting colon (`:`), the key type keyword `x25519`, and a final field-delimiting colon:
-    ```sh
-    # Prepare the initial `.auth` file.
-    cat public-key.pem | \
-        grep -v " PUBLIC KEY" | \
-        basez --base64pem --decode | \
-        tail --bytes 32 | \
-        basez --base32 | \
-        tr -d '=' > some-client.auth
-    # Prepend the Tor descriptor fields to the base32-encoded bytes in the `.auth` file.
-    echo -n "descriptor:x25519:" | cat - some-client.auth
-    ```
-
-After this procedure is complete, you will have four files:
-
-1. `private-key.pem`, which can be deleted,
-1. `public-key.pem`, which can also be deleted,
-1. `some-onion.auth_private`, which you must take responsibility for protecting (it is like your password), and
-1. `some-client.auth`, which you should share with the operator of the Onion service by sending the file to them (over a secure channel such as in a [Signal Private Messenger](https://Signal.org/) message, if possible).
-
-Next, you will protect your `.auth_private` file and inform your Tor software where to find it.
+See [Onion Services: Advanced settings: Client Authorization](https://community.torproject.org/onion-services/advanced/client-auth/).
 
 ### Configuring Tor Browser for authenticated Version 3 Onion services
 
