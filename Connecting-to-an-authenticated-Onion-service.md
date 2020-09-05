@@ -74,6 +74,8 @@ Once generated, you can safely send the public portion of your keypair to the On
 
 > ⚠️🔰 At the time of this writing, this procedure assumes the use of a POSIX computing environment, such as a macOS or GNU/Linux computer, and knowledge of a [[command line|Command line interface (CLI)]]. If you cannot access such an environment, or if using a command line interface ("terminal prompt") on your computer is unfamiliar to you, we recommend that you request your authenticated Version 3 Onion service access credential from your Onion service operator. We hope that the Tor community will make it easier to generate Version 3 Onion service authentication credentials soon.
 
+> 💡 As an alternative to the following CLI procedure, [this Python 3 script](https://web.archive.org/web/20200619085057/https://github.com/pastly/python-snippits/blob/master/src/tor/x25519-gen.py) uses [the PyNaCl library](https://pypi.org/project/PyNaCl/) to the same effect.
+
 **Do this** to generate a public/private keypair for use as an authenticated Version 3 Onion service access credential:
 
 1. On a laptop or desktop computer, ensure you have [OpenSSL](https://www.openssl.org/) 1.1 or later installed. [Links to ready-to-use OpenSSL distributions are available from the OpenSSL wiki](https://wiki.openssl.org/index.php/Binaries). Many GNU/Linux computers already have OpenSSL installed.
