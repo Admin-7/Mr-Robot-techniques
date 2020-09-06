@@ -72,7 +72,7 @@ Once generated, you can safely send the public portion of your keypair to the On
 
 > 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you already have an authentication credential and can skip this section.
 
-The easiest way to generate a valid Tor v3 Onion credential is to use the [`tor-auth-x25519-gen.py` Python script we maintain](https://github.com/AnarchoTechNYC/ansible-role-tor/tree/master/molecule/default/scripts/tor-auth-x25519-gen.py). Run the script using the `-d` or `--onion-domain` option, passing in the `.onion` address of the site you'd like to generate an Onion credential for, and the `-f` or `--credential-file` option, passing in a file path where you'd like to write your new Tor credential files. For example:
+The easiest way to generate a valid Tor v3 Onion credential is to use the [`tor-auth-x25519-gen.py` Python script we maintain](https://github.com/AnarchoTechNYC/ansible-role-tor/tree/develop/molecule/default/scripts/tor-auth-x25519-gen.py). Run the script using the `-d` or `--onion-domain` option, passing in the `.onion` address of the site you'd like to generate an Onion credential for, and the `-f` or `--credential-file` option, passing in a file path where you'd like to write your new Tor credential files. For example:
 
 ```sh
 ./tor-auth-x25519-gen.py \
