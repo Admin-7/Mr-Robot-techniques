@@ -72,7 +72,20 @@ Once generated, you can safely send the public portion of your keypair to the On
 
 > 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you already have an authentication credential and can skip this section.
 
-See [Onion Services: Advanced settings: Client Authorization](https://community.torproject.org/onion-services/advanced/client-auth/).
+The easiest way to generate a valid Tor v3 Onion credential is to use the [`tor-auth-x25519-gen.py` Python script we maintain](https://github.com/AnarchoTechNYC/ansible-role-tor/tree/master/molecule/default/scripts/tor-auth-x25519-gen.py). Run the script using the `-d` or `--onion-domain` option, passing in the `.onion` address of the site you'd like to generate an Onion credential for, and the `-f` or `--credential-file` option, passing in a file path where you'd like to write your new Tor credential files. For example:
+
+```sh
+./tor-auth-x25519.py \
+  -d rh5d6reakhpvuxe2t3next6um6iiq4jf43m7gmdrphfhopfpnoglzcyd.onion \
+  -f my_onion
+```
+
+The above command will produce two files:
+
+* `my_onion.auth` - This the file you should share with the operator of the Onion service at the `rh5d6reakhpvuxe2t3next6um6iiq4jf43m7gmdrphfhopfpnoglzcyd.onion` domain.
+* `my_onion.auth_private` - This is the file you should keep secret and protect, because it is your key to access the Onion domain. Put this file wherever you [configured your Tor to look for your private keys via its `ClientOnionAuthDir` directive](#configuring-a-laptop-or-desktop-computer-for-authenticated-version-3-onion-services).
+
+Fuller instructions, for example if you don't have Python and so can't run the above script, are also available from the Tor Project at [Onion Services: Advanced settings § Client Authorization](https://community.torproject.org/onion-services/advanced/client-auth/).
 
 ### Configuring Tor Browser for authenticated Version 3 Onion services
 
