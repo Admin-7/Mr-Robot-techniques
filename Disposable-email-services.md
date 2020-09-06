@@ -20,6 +20,7 @@ Similar services, called *email relay services* or *email aliasing services* als
 * [Mailinator.com](https://www.mailinator.com/) (also provides [[Disposable SMS services]])
 * [NowMyMail.com](http://nowmymail.com/)
 * [Temp-Mail.org](https://temp-mail.org/)
+* [TempMail.ninja](https://tempmail.ninja/)
 * [ThrowAwayMail.com](https://www.throwawaymail.com/)
 
 # List of email aliasing services
