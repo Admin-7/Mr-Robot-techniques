@@ -220,6 +220,7 @@ Meanwhile, our friend has performed the exact same calculation as we just did, e
 | Private random number          | 15  | ?????? | ??????????? |
 | Our intermediary value         | 6   | 6      | 6           |
 | Friend's intermediary value    | 12  | 12     | 12          |
+| Shared secret key, not yet set | TBD | TBD    | ??????????? |
 
 Now comes the real math magic. Recall that when you multiply numbers together, it doesn't matter what order you do the multiplication in. We've already raised the base number by our own private number (3<sup>15</sup>) modulo the second shared number, seventeen (3<sup>15</sup> mod 17).
 
