@@ -257,10 +257,14 @@ How come we can be so sure that our friend has the same secret key as we have? L
 
 We have publicly agreed on the values of 3 as our base ("generator") and 17 as our specially-selected prime number (our "prime modulo"). Then our friend came up with a random private number of their own. Let's say it was 13. When they performed their side of the intermediary calculation (`$(( 3 ** 13 % 17 ))`), they sent us an intermediary result of 12, because 3<sup>13</sup> mod 17 equals 12. We then gave them our intermediary value of 6, so they performed 6<sup>13</sup> mod 17 (`$(( 6 ** 13 % 17 ))`), which, sure enough, equals 10.
 
-Notice that both you and your friend have actually performed mathematically equivalent calculations, just performed in an admittedly confusing way:
+When all is said and done, both you and your friend have actually performed mathematically identical calculations, just performed in an admittedly confusing way.
 
-* You privately performed 3<sup>15<sup>13</sup></sup> mod 17. That is, you first raised the base to the power of your secret number, resulting in 14,348,907, then took that result and raised it to the power of your friend's secret number, resulting in 2,001,000,972,120,411,419.
-* Meanwhile, your friend performed 3<sup>13<sup>15</sup></sup> mod 17. That is, your friend raised the base to the power of their own secret number first, resulting in 1,594,323 and then took that result and raised it to the power of your secret number, resulting in the same massive 2,001,000,972,120,411,419.
+* You privately performed 12<sup>15</sup> mod 17, but the 12 you received from your friend was calculated from 3<sup>13</sup> mod 17. So you performed 3<sup>15<sup>13</sup></sup> mod 17. That is, your combined base number was derived by first raising the original base to the power of your secret number, resulting in 14,348,907, and then raising that intermediary result to the power of your friend's secret number, resulting in 2,001,000,972,120,411,419.
+* On the other side, your friend privately performed 6<sup>13</sup> mod 17, but the 6 your friend received was calculated as 3<sup>15</sup> mod 17. So your friend performed 3<sup>13<sup>15</sup></sup> mod 17. That is, your friend raised the base to the power of their own secret number first, resulting in 1,594,323 and then raised that result to the power of your secret number, resulting in the same massive 2,001,000,972,120,411,419.
+
+Notice that the calculation you both did was the same, except with the order of the exponents reversed:
+
+* 3<sup>15<sup>13</sup></sup> mod 17 = 3<sup>13<sup>15</sup></sup> mod 17
 
 Again, in shell:
 
@@ -275,20 +279,20 @@ bash$ echo $(( 1594323 ** 15 ))  # They then take that result and raise it to th
 2001000972120411419
 ```
 
-Notice that the multiplications always result in the same result no matter the order in which they are performed. The "magic" is in the fact that choosing the second exponent didn't happen directly, but rather indirectly through passing the remainders of the first operation and using them as the next base number. Again, in shell:
+Notice that the multiplications always give us the same result no matter the order in which they are performed. The "magic" is in the fact that choosing the second exponent didn't happen directly, but rather indirectly through passing the remainders of the first operation and using them as the next base number:
 
 ```sh
 bash$ echo $(( 3 ** 15 ))       # Raise the base 3 to the power of your secret number.
 14348907
 bash$ echo $(( 14348907 % 17 )) # Now share this calculation with your friend by dividing modulo the shared prime.
 6
-bash$ echo $(( 6 ** 13 % 17 ))  # Your friend can now take this remainder as their new base.
+bash$ echo $(( 6 ** 13 % 17 ))  # Your friend can now take this remainder as their new base to obtain the shared secret.
 10
-bash$ echo $(( 3 ** 13 ))       # Meanwhile, your friend uses their secret to raise the base.
+bash$ echo $(( 3 ** 13 ))       # Meanwhile, your friend uses their own secret to raise the base.
 1594323
 bash$ echo $(( 1594323 % 17 ))  # Then they take this number and share it with you by way of dividing modulo the shared prime.
 12
-bash$ echo $(( 12 ** 15 % 17 )) # You can now take this as your new base, and get the same result that they did.
+bash$ echo $(( 12 ** 15 % 17 )) # You can now take this as your new base, to get the same shared secret that they did.
 10
 ```
 
