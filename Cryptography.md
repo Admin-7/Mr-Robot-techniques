@@ -296,9 +296,7 @@ bash$ echo $(( 12 ** 15 % 17 )) # You can now take this as your new base, to get
 10
 ```
 
-This mathematical slight of hand forms the start of every security protocol that needs to establish a secure connection, such as loading a bank website or logging in to a remote server via SSH, over an insecure and clearly wiretapped channel such as the Internet.
-
-Look closely and you'll notice that the only difference between your ultimate calculation and your friend's is the order in which you each performed the exponentiation. However, as shown earlier, changing the order of these multiplicative operations does not change the end result for either of you. What it *does* do is keep your private, randomly-chosen numbers, well, private, and also keeps the result of your calculations private. This means, try as they might, your teacher cannot deduce your encryption key, and thus cannot read any messages you now send to one another encrypted with this shared key, even though they were always and are still able to eavesdrop on everything you have been sending to one another.
+This mathematical slight of hand forms the start of every security protocol that needs to establish a secure connection, such as loading a bank website or logging in to a remote server via SSH because at no time were either of the private random numbers, 15 or 13, disclosed to anyone at all. Without one of these private numbers, and so long as no solution to the discrete logarithm problem is known to exist, no eavesdropper can determine the shared secret in a reasonable amount of time (assuming large enough values, of course; the numbers shown in the above example are far too small to be practically secure today).
 
 # Public-key cryptography
 
