@@ -205,13 +205,25 @@ Finally, we each have to pick one more number. However, it's very important that
 
 At this point, believe it or not, we have all the raw materials we need to perform this secret-concocting mathematical "magic trick" right in front of our teacher's very eyes.
 
-The first step we take is to raise the base number to the power of our private random number. "Raising to the power of" just means multiplying over and over again. So, privately (in our "head") we simply do 3 &times; 3, which gives us 9. Now we have 14 more multiplications to perform. So we take 9 and we multiply it by 3 again, giving us 27. We do this another 13 times. This can be more simply written as 3<sup>15</sup> (or, in most computer programming languages, as `3^15`). This gives us fourteen million three hundred forty eight thousand nine hundred seven (14,348,907).
+The first step we take is to raise the base number to the power of our private random number. "Raising to the power of" just means multiplying over and over again. So, privately (in our "head") we simply do 3 &times; 3, which gives us 9. Now we have 14 more multiplications to perform. So we take 9 and we multiply it by 3 again, giving us 27. We do this another 13 times. This can be more simply written as 3<sup>15</sup> (or, in most computer programming languages, as `3^15`, or `$(( 3 ** 15 ))` in a Bash shell). This gives us fourteen million three hundred forty eight thousand nine hundred seven (14,348,907).
 
-We're not done. Next, we take that very large number and divide it by the second number we publicly agreed on (17, in this example) looking for the *remainder*. This operation is known as modulo, and asks the question "what whole number is left over if we cannot evenly divide the first number by the second number?" In our case, the remainder is 6, because 14,348,907 does *not* evenly divide into 17, although it's close, as we only have a value of six that won't fit. That's intentional; we will have left over numbers. It's those numbers we care about. (In computer programming languages, this operations is usually written as `14348907 % 17`.)
+We're not done. Next, we take that very large number and divide it by the second number we publicly agreed on (17, in this example) looking for the *remainder*. This operation is known as *modulo*, and asks the question "what whole number is left over if we cannot evenly divide the first number by the second number?" In a POSIX shell, for instance, send the following script to the binary calculator utility `bc`'s standard math library (with the `-l` option):
 
-Now that we have this intermediate value of 6, we have to share it with our friend so they can use it to as part of the same calculation we just performed. Thankfully, this intermediate value is not at all sensitive, so we just send it along to them without fear that it will expose our private number to the teacher. And that's important to understand: by sharing the *result* of this calculation, we're not revealing our private secrets to anyone, but still sharing enough with our friend for them to perform the magic math in concert with us.
+```sh
+echo "l( $(( 3 ** 15)) )/l(17)" | bc -l
+```
 
-Meanwhile, our friend has performed the exact same calculation as we just did, except that they used their own random private number first. Like us, they came up with their own intermediate result and they send it to us just as we sent ours to them. Suppose they send us the number 12. Here's the situation so far:
+This returns `5.81642902557735113155`. Since the next whole number is `6`, that's our remainder. The same can be more simply accomplished directly with Bash's shell arithmetic feature like so:
+
+```sh
+echo $(( 3 ** 15 % 17 ))
+```
+
+So, in this case, the remainder is 6, because 14,348,907 does *not* perfectly divide into 17 distinct parts, but rather five and about eight tenths parts. Although it's close, it's not perfect, and we would therefore have five-and-then-some, or, six indivisible parts that won't fit. That's intentional; we will have left over numbers. It's those numbers we care about.
+
+Now that we have this intermediate remainder value of 6, we will share it with our friend so they can use it as part of the same calculation we just performed. Thankfully, this intermediate value is not at all sensitive, so we just send it along to them without fear that it will expose our private number to the teacher. And that's important to understand: by sharing the *result* of this calculation, we're not revealing our private secrets to anyone, but still sharing enough with our friend for them to perform the magic math in concert with us.
+
+Meanwhile, our friend has performed the exact same calculation as we just did, except that they used their own random private number first. Like us, they came up with their own intermediate remainder result and they send it to us just as we sent ours to them. Suppose they send us the number 12. Here's the situation seen from our perspective so far:
 
 |                                | You | Friend | Teacher saw |
 | -                              | --- | ------ | ----------- |
@@ -224,7 +236,13 @@ Meanwhile, our friend has performed the exact same calculation as we just did, e
 
 Now comes the real math magic. Recall that when you multiply numbers together, it doesn't matter what order you do the multiplication in. We've already raised the base number by our own private number (3<sup>15</sup>) modulo the second shared number, seventeen (3<sup>15</sup> mod 17).
 
-Let's perform this same calculation, but with our *friend's intermediary value* instead of the original base number: 12<sup>15</sup> mod 17. Our result is 10. This final value is now our shared secret, and we can use it as the key to our symmetric cipher because we can be 100% confident that our friend also got the same exact result as we did.
+Now we simply repeat this same calculation, but we'll replace the original base ("generator") number with our *friend's intermediate remainder value* instead: 12<sup>15</sup> mod 17. In a shell:
+
+```sh
+echo $(( 12 ** 15 % 17 ))
+```
+
+The result of this calculation is 10, and this final value is now our shared secret. We can use it as the key to our symmetric cipher because we can be 100% confident that our friend also got the same exact result as we did.
 
 |                                     | You | Friend | Teacher saw |
 | -                                   | --- | ------ | ----------- |
@@ -237,16 +255,46 @@ Let's perform this same calculation, but with our *friend's intermediary value* 
 
 How come we can be so sure that our friend has the same secret key as we have? Let's look at the same process from our friend's point of view this time.
 
-We have publicly agreed on the values of 3 and 17 as our base ("generator") and our special prime. Then our friend came up with a random private number of their own. We don't care what it is, but let's say it was 13. When they performed the intermediary calculation, they sent us an intermediary result of 12, because 3<sup>13</sup> mod 17 equals 12. We then gave them a value of 6, so they performed 6<sup>13</sup> mod 17, which, sure enough, equals 10.
+We have publicly agreed on the values of 3 as our base ("generator") and 17 as our specially-selected prime number (our "prime modulo"). Then our friend came up with a random private number of their own. Let's say it was 13. When they performed their side of the intermediary calculation (`$(( 3 ** 13 % 17 ))`), they sent us an intermediary result of 12, because 3<sup>13</sup> mod 17 equals 12. We then gave them our intermediary value of 6, so they performed 6<sup>13</sup> mod 17 (`$(( 6 ** 13 % 17 ))`), which, sure enough, equals 10.
 
-This works because of the commutative property of multiplication we assumed would be true earlier. Notice that both you and your friend have actually performed mathematically equivalent calculations, just performed in an admittedly confusing way.
+Notice that both you and your friend have actually performed mathematically equivalent calculations, just performed in an admittedly confusing way:
 
-* You privately performed 3<sup>15<sup>13</sup></sup> mod 17. This is because the second exponentiation (the 13) was chosen by your friend, not you, and delivered to you already "mixed in" to intermediary base number 12 as the *result* of your friend's original calculation. (12<sup>15</sup> mod 17, the calculation your friend indirectly chose for you, is the same as 6<sup>13</sup> mod 17, the calculation you indirectly chose for your friend.)
-* Meanwhile, your friend privately performed 3<sup>13<sup>15</sup></sup> mod 17. Their second exponentiation (the 15) was chosen by you, not your friend.
+* You privately performed 3<sup>15<sup>13</sup></sup> mod 17. That is, you first raised the base to the power of your secret number, resulting in 14,348,907, then took that result and raised it to the power of your friend's secret number, resulting in 2,001,000,972,120,411,419.
+* Meanwhile, your friend performed 3<sup>13<sup>15</sup></sup> mod 17. That is, your friend raised the base to the power of their own secret number first, resulting in 1,594,323 and then took that result and raised it to the power of your secret number, resulting in the same massive 2,001,000,972,120,411,419.
 
-Look closely and you'll notice that the only difference between your ultimate calculation and your friend's is the order in which you each performed the exponentiation. However, as shown earlier, changing the order of these multiplicative operations does not change the end result for either of you. What it *does* do is keep your private, randomly-chosen numbers, well, private, and also keeps the result of your calculations private. This means, try as they might, your teacher cannot deduce your encryption key, and thus cannot read any messages you now send to one another encrypted with this shared key, even though they were always and are still able to eavesdrop on everything you have been sending to one another.
+Again, in shell:
+
+```sh
+bash$ echo $(( 3 ** 15 ))        # Raise the base to the power of your secret number.
+14348907
+bash$ echo $(( 14348907 ** 13 )) # Take that result and raise it to the power of your friend's secret number.
+2001000972120411419
+bash$ echo $(( 3 ** 13 ))        # Your friend raises the base to the power of their own secret number.
+1594323
+bash$ echo $(( 1594323 ** 15 ))  # They then take that result and raise it to the power of your secret number.
+2001000972120411419
+```
+
+Notice that the multiplications always result in the same result no matter the order in which they are performed. The "magic" is in the fact that choosing the second exponent didn't happen directly, but rather indirectly through passing the remainders of the first operation and using them as the next base number. Again, in shell:
+
+```sh
+bash$ echo $(( 3 ** 15 ))       # Raise the base 3 to the power of your secret number.
+14348907
+bash$ echo $(( 14348907 % 17 )) # Now share this calculation with your friend by dividing modulo the shared prime.
+6
+bash$ echo $(( 6 ** 13 % 17 ))  # Your friend can now take this remainder as their new base.
+10
+bash$ echo $(( 3 ** 13 ))       # Meanwhile, your friend uses their secret to raise the base.
+1594323
+bash$ echo $(( 1594323 % 17 ))  # Then they take this number and share it with you by way of dividing modulo the shared prime.
+12
+bash$ echo $(( 12 ** 15 % 17 )) # You can now take this as your new base, and get the same result that they did.
+10
+```
 
 This mathematical slight of hand forms the start of every security protocol that needs to establish a secure connection, such as loading a bank website or logging in to a remote server via SSH, over an insecure and clearly wiretapped channel such as the Internet.
+
+Look closely and you'll notice that the only difference between your ultimate calculation and your friend's is the order in which you each performed the exponentiation. However, as shown earlier, changing the order of these multiplicative operations does not change the end result for either of you. What it *does* do is keep your private, randomly-chosen numbers, well, private, and also keeps the result of your calculations private. This means, try as they might, your teacher cannot deduce your encryption key, and thus cannot read any messages you now send to one another encrypted with this shared key, even though they were always and are still able to eavesdrop on everything you have been sending to one another.
 
 # Public-key cryptography
 
