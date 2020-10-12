@@ -6,7 +6,6 @@ The Anarcho-Tech NYC collective is but one of a number of affinity groups organi
 
 * [ActSecure](https://actsecure.github.io/) - Loose collection of technologists working to help activists secure themselves before, during, and after actions.
 * [A World Without Police](http://aworldwithoutpolice.org) - Online journal and organizer's resource inviting you "to think and act with other visionaries, and find ways to achieve a police-free world."
-* [Better Angels Collective](https://betterangels.github.io/) - Wholly virtual "anarchist collective creating liberatory software."
 * [Between the lines](http://betweenthelines.github.io/) - Small collective with a focus on creating tools/notes on privacy and protest.
 * [Critical Tech](https://criticaltech.se/) - Swedish group advocating for a responsible and ethical data-driven society.
 * [Crypto Harlem](http://rdewald.com/cryptoharlem/) - Group hosting regular (anti-)surveillance clinics, tech workshops, and digital self-defense trainings lead by people of color.
