@@ -666,6 +666,26 @@ During post-show discussion, we brought up:
 
 # Week 20 (S02E10)
 
+* Cantenna (an antenna made out of a can) to boost signal Wi-Fi range.  
+  ![](https://web.archive.org/web/20201024020557if_/https://i.imgur.com/J4RZ0oi.png)
+* "For impersonating an NYPD officer. All cell carriers have a law enforcement hotline. Instead of hacking the carrier, if the situation's urgent enough, you can just ask them to track a blocked call for you."  
+  ![](https://web.archive.org/web/20201024020154if_/https://i.imgur.com/TKXzGez.png)  
+  ![](https://web.archive.org/web/20201024020234if_/https://i.imgur.com/4bo8NVA.png)  
+  ![](https://web.archive.org/web/20201024020309if_/https://i.imgur.com/EaYd4zO.jpg)  
+  ![](https://web.archive.org/web/20201024020344if_/https://i.imgur.com/UzRSXFr.jpg)  
+  ![](https://web.archive.org/web/20201024020414if_/https://i.imgur.com/nTsQ7vA.png)  
+  ![](https://web.archive.org/web/20201024020647if_/https://i.imgur.com/shIRCg6.png)  
+  ![](https://web.archive.org/web/20201024020652if_/https://i.imgur.com/eiWoXb3.jpg)  
+  ![](https://web.archive.org/web/20201024020733if_/https://i.imgur.com/HgOrkKE.png)
+* "Can you ping that phone for a current location?" Probably referring to a so-called "SMS ping," one type of invisible-to-the-user Short Message Service (cell phone txt message) message more broadly known as "[silent SMS](https://en.wikipedia.org/wiki/SMS#Silent_SMS)".  
+  ![](https://web.archive.org/web/20201024020818if_/https://i.imgur.com/84Xahoi.jpg)  
+  ![](https://web.archive.org/web/20201024020953if_/https://i.imgur.com/lgpNWz6.png)  
+  ![](https://web.archive.org/web/20201024021036if_/https://i.imgur.com/1cWyM0i.jpg)  
+  ![](https://web.archive.org/web/20201024021042if_/https://i.imgur.com/Z31j6EG.jpg)  
+  ![](https://web.archive.org/web/20201024021048if_/https://i.imgur.com/uw7ABZt.jpg)  
+    * Reverse address search features provided by Spokeo and other free/freemium [data brokers](https://privacyrights.org/data-brokers)
+    * E
+
 # Week 21 (S02E11)
 
 # Week 22 (S02E12)
