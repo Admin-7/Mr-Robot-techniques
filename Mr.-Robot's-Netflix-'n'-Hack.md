@@ -677,6 +677,9 @@ During post-show discussion, we brought up:
   ![](https://web.archive.org/web/20201024020647if_/https://i.imgur.com/shIRCg6.png)  
   ![](https://web.archive.org/web/20201024020652if_/https://i.imgur.com/eiWoXb3.jpg)  
   ![](https://web.archive.org/web/20201024020733if_/https://i.imgur.com/HgOrkKE.png)
+  * Many companies offer a red carpet for data collection to government law enforcement agencies, including:
+    * [Facebook Records](https://facebook.com/records/) request; see [Netzpolitik's guide to the Facebook Records system compiled by and for activists](https://netzpolitik.org/wp-upload/2016/08/facebook-law-enforcement-portal-inofficial-manual.pdf)
+    * [Google Law Enforcement Request System (LERS)](https://lers.google.com/)
 * "Can you ping that phone for a current location?" Probably referring to a so-called "SMS ping," one type of invisible-to-the-user Short Message Service (cell phone txt message) message more broadly known as "[silent SMS](https://en.wikipedia.org/wiki/SMS#Silent_SMS)".  
   ![](https://web.archive.org/web/20201024020818if_/https://i.imgur.com/84Xahoi.jpg)  
   ![](https://web.archive.org/web/20201024020953if_/https://i.imgur.com/lgpNWz6.png)  
