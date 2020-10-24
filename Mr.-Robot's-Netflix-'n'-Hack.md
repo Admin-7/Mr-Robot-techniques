@@ -666,7 +666,7 @@ During post-show discussion, we brought up:
 
 # Week 20 (S02E10)
 
-* Cantenna (an antenna made out of a can) to boost signal Wi-Fi range.  
+* [Cantenna](https://en.wikipedia.org/wiki/Cantenna) (an antenna made out of a can) to boost radio signal (like Wi-Fi network) range.  
   ![](https://web.archive.org/web/20201024020557if_/https://i.imgur.com/J4RZ0oi.png)
 * "For impersonating an NYPD officer. All cell carriers have a law enforcement hotline. Instead of hacking the carrier, if the situation's urgent enough, you can just ask them to track a blocked call for you."  
   ![](https://web.archive.org/web/20201024020154if_/https://i.imgur.com/TKXzGez.png)  
