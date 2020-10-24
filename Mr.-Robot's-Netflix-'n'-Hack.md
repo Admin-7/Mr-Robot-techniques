@@ -684,7 +684,6 @@ During post-show discussion, we brought up:
   ![](https://web.archive.org/web/20201024021042if_/https://i.imgur.com/Z31j6EG.jpg)  
   ![](https://web.archive.org/web/20201024021048if_/https://i.imgur.com/uw7ABZt.jpg)  
     * Reverse address search features provided by Spokeo and other free/freemium [data brokers](https://privacyrights.org/data-brokers)
-    * E
 
 # Week 21 (S02E11)
 
