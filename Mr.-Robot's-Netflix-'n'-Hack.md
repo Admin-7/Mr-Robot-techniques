@@ -692,6 +692,10 @@ During post-show discussion, we brought up:
 
 # Week 22 (S02E12)
 
+* 33 Thomas Street in Manhattan, the site of the NSA's "Project X," aka Titanpointe, an illegal domestic spying hub  
+  ![](https://web.archive.org/web/20201107034624if_/https://i.imgur.com/X4k16O6.jpg)  
+  * [Field of Vision: Project X](https://fieldofvision.org/project-x), a documentary short narrated by Rami Malek and Michelle Williams produced by Loura Poitras and Henrik Moltke
+
 # Week 23 (S03E01)
 
 # Week 24 (S03E02)
