@@ -698,6 +698,34 @@ During post-show discussion, we brought up:
 
 # Week 23 (S03E01)
 
+* Elliot and Darlene visit "the only [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) with a fiber connection"
+* The number "1984" are painted on the wall, a common reference to George Orwell's 1949 novel of the same name warning about a dystopian future society where electronic surveillance controls people's lives and their thoughts; is this the name of the fictional hackerspace?  
+  ![](https://web.archive.org/web/20201114021504if_/https://i.imgur.com/9mmRsCK.png)
+  * [Hackerspaces.org](https://hackerspaces.org/) is a crowd-sourced directory of information about hackerspaces around the world.
+* At the hackerspace, they find "a CTF tournament. [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security), it's like the hacker olympics. [Teams](https://github.com/AnarchoTechNYC/meta/wiki/CTF-team) around the world compete to solve challenges: reverse engineering, protocol exploitation, forensics."  
+  ![]()
+  * Most CTFs happen virtually, not in large party venues like those depicted on the show.
+  * [CTFTime.org](https://ctftime.org/) is among the most prolific continually-updated directories of public CTF competitions.
+  * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) provides a listing of "awesome" tools and resources for CTF competitions and competitors.
+* Darlene learns that "we're fucked. All the machines are taken. They're in the middle of a final round of the qualifier for a CTF." A few moments later, we learn that the CTF they're competing is the famous [DEF CON](https://defcon.org/) CTF:  
+  * ![](https://web.archive.org/web/20201114022557if_/https://i.imgur.com/eivxsNr.png)
+* "The backdoor had a hardcoded C2 domain pointing to a listener on Tyrell's machine. All I have to do is hack the [registrar](https://en.wikipedia.org/wiki/Domain_name_registrar) and change the [name server](https://en.wikipedia.org/wiki/Name_server) configs. Once I hijack the domain, I can shut down their access before the dark army notices."
+  * C2 is an abbreviation for [Command and Control](https://en.wikipedia.org/wiki/Command_and_control), a generic term describing infrastructure used to send instructions and receive telemetry from targeted and/or compromised devices.
+  ![](https://web.archive.org/web/20201114021214if_/https://i.imgur.com/d52DzaL.png)  
+  ![](https://web.archive.org/web/20201114024515if_/https://i.imgur.com/gYaoDuB.png)
+  * A "registrar" refers to an organization, usually a company, responsible for reserving domain names with a given top-level domain registry, which is also usually a company.
+  * The registrar is responsible for asserting the correct IP addresses of the reserved domain's own name servers; if these are changed to attacker-controlled name servers, the attacker can direct any requests for the reserved Internet name to whatever IP addresses they like.
+  * [`rwwwshell`](https://github.com/vanhauser-thc/THC-Archive/blob/master/Tools/rwwwshell-2.0.pl.gz), the classic "reverse World Wide Web shell,"  
+    * [SANS Institute's Malware FAQ entry for rwww-shell](https://www.sans.org/security-resources/malwarefaq/rwww-shell)
+  * `shred` is a secure file deletion utility that helps prevent forensic recovery by overwriting the file data itself instead of simply unlinking the file from the filesystem like the simpler `rm` command does
+* Using the New York State Police (NYSP) [National Crime Information Center (NCIC)](https://en.wikipedia.org/wiki/National_Crime_Information_Center) portal to lookup the [vehicle identification number (VIN)](https://en.wikipedia.org/wiki/Vehicle_identification_number) of the FBI car:
+  ![](https://i.imgur.com/onCTaZH.png)
+  * [OnStar Emergeny Incidents](https://www.public-safety.onstar.com/emergency-situations/)
+* [Shodan.io](https://shodan.io/), "the search engine for Power Plants" and other connected devices
+  ![](https://web.archive.org/web/20201114025728if_/https://i.imgur.com/Kf6u7PH.png)
+  ![](https://web.archive.org/web/20201114025744if_/https://i.imgur.com/BtiMpQd.png)
+  * Another similar tool is [CenSys.io](https://censys.io/).
+
 # Week 24 (S03E02)
 
 * Elliot uses [Rootkit Hunter (`rkhunter`)](http://rkhunter.sourceforge.net/) via [Kali Linux](https://www.kali.org/) to search for a rootkit on his own ([Linux Mint](https://linuxmint.com/)) system when he suspects he's been compromised:  
