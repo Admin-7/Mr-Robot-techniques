@@ -717,7 +717,7 @@ During post-show discussion, we brought up:
   * The registrar is responsible for asserting the correct IP addresses of the reserved domain's own name servers; if these are changed to attacker-controlled name servers, the attacker can direct any requests for the reserved Internet name to whatever IP addresses they like.
   * [`rwwwshell`](https://github.com/vanhauser-thc/THC-Archive/blob/master/Tools/rwwwshell-2.0.pl.gz), the classic "reverse World Wide Web shell,"  
     * [SANS Institute's Malware FAQ entry for rwww-shell](https://www.sans.org/security-resources/malwarefaq/rwww-shell)
-  * `shred` is a secure file deletion utility that helps prevent forensic recovery by overwriting the file data itself instead of simply unlinking the file from the filesystem like the simpler `rm` command does
+  * [`shred`](https://explainshell.com/explain?cmd=shred+-f+-n+3+*) is a secure file deletion utility that helps prevent forensic recovery by overwriting the file data itself instead of simply unlinking the file from the filesystem like the simpler `rm` command does
 * Using the New York State Police (NYSP) [National Crime Information Center (NCIC)](https://en.wikipedia.org/wiki/National_Crime_Information_Center) portal to lookup the [vehicle identification number (VIN)](https://en.wikipedia.org/wiki/Vehicle_identification_number) of the FBI car:
   ![](https://i.imgur.com/onCTaZH.png)
   * [OnStar Emergeny Incidents](https://www.public-safety.onstar.com/emergency-situations/)
