@@ -214,15 +214,16 @@ Most CTF competitions and platforms are designed for very experienced computer s
 
 # Labs and practice VMs
 
-* [Penteseter Lab](https://PentesterLab.com)
-* [VulnHub](https://www.vulnhub.com)
-* [Malware Unicorn Workshops](https://securedorg.github.io/)
-* [Root Me](https://root-me.org/)
-* [Open Security Training](http://opensecuritytraining.info/)
 * [FuzzySecurity: Tutorials](https://www.fuzzysecurity.com/tutorials.html)
 * [Hacking Lab](https://www.hacking-lab.com)
-* [PentestIT Labs](https://lab.pentestit.ru/)
 * [Janos Gyerik's "Hacking contest on a Live CD"](http://www.janosgyerik.com/hacking-contest-on-a-live-cd/)
+* [Labtainers](https://github.com/mfthomps/Labtainers)
+* [Malware Unicorn Workshops](https://securedorg.github.io/)
+* [Open Security Training](http://opensecuritytraining.info/)
+* [Penteseter Lab](https://PentesterLab.com)
+* [PentestIT Labs](https://lab.pentestit.ru/)
+* [Root Me](https://root-me.org/)
+* [VulnHub](https://www.vulnhub.com)
 
 ## Deliberately vulnerable systems
 
