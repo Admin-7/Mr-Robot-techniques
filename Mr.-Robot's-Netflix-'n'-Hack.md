@@ -736,6 +736,11 @@ During post-show discussion, we brought up:
 
 # Week 26 (S03E04)
 
+* "The audio's useless. He's using a goddamn voice protector!" Also known as "speech protector," "noise generator," etc.
+  ![](https://web.archive.org/web/20201205030141if_/https://i.imgur.com/8lS7Ui3.png)
+  * Elliot looks like he's using [a Rabbler brand noise generator, model NG3000](https://www.kjbsecurity.com/products/detail/rabbler-noise-generator/857/)
+  
+
 # Week 27 (S03E05)
 
 # Week 28 (S03E06)
