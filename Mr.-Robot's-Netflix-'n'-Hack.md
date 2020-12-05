@@ -645,7 +645,7 @@ During post-show discussion, we brought up:
 
 # Week 14 (S02E04)
 
-* "Pirating" (illegally downloading) movies using a [BitTorrent](https://simple.wikipedia.org/wiki/BitTorrent) client ([uTorrent](https://www.utorrent.com/), in this case, but a "better" Free Software client is [Deluge](https://deluge-torrent.org/)):  
+* "Pirating" (illegally downloading) movies using a [BitTorrent](https://simple.wikipedia.org/wiki/BitTorrent) client ([uTorrent](https://www.utorrent.com/), in this case, but a "better" Free Software client is [Deluge](https://deluge-torrent.org/), shown in [S03E04](#week-14-s03e04)):  
   ![Elliot uses uTorrent to download a (fictional) movie.](https://torrentfreak.com/images/robotutorr.jpg)
   * [TorrentFreak.com](https://torrentfreak.com/mr-robot-plugs-utorrent-and-pirate-release-groups-160729/) - Popular, long-running BitTorrent news outlet.
 
@@ -739,7 +739,8 @@ During post-show discussion, we brought up:
 * "The audio's useless. He's using a goddamn voice protector!" Also known as "speech protector," "noise generator," etc.
   ![](https://web.archive.org/web/20201205030141if_/https://i.imgur.com/8lS7Ui3.png)
   * Elliot looks like he's using [a Rabbler brand noise generator, model NG3000](https://www.kjbsecurity.com/products/detail/rabbler-noise-generator/857/)
-  
+* Darlene entertains herself by downloading a pirated movie from BitTorrent using [Deluge](https://deluge-torrent.org/)  
+  ![](https://web.archive.org/web/20201205030639if_/https://i.imgur.com/R8tL0Ur.png)
 
 # Week 27 (S03E05)
 
