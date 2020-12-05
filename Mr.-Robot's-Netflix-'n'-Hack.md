@@ -741,6 +741,10 @@ During post-show discussion, we brought up:
   * Elliot looks like he's using [a Rabbler brand noise generator, model NG3000](https://www.kjbsecurity.com/products/detail/rabbler-noise-generator/857/)
 * Darlene entertains herself by downloading a pirated movie from BitTorrent using [Deluge](https://deluge-torrent.org/)  
   ![](https://web.archive.org/web/20201205030639if_/https://i.imgur.com/R8tL0Ur.png)
+* "We know you posted the F Society video — with a court order, we got the Vimeo connection logs for the account you used, which led us to your IP address and then your home address. That’s why you’re sitting here."
+  * Article: [The Mr. Robot Hack Report: Don’t Fear the Rabbler - The Verge](https://www.theverge.com/2017/11/2/16596214/the-mr-robot-hack-report-s3e4-metadata)  
+    > This is a really common way to find someone after they’ve done something illegal on the internet! Cops do it all the time[…].
+  * Court orders aren't even required in some cases. Many sites provide a metaphorical red carpet specifically for law enforcement requests as discussed in [S02E10](#week-20-s02e10).
 
 # Week 27 (S03E05)
 
