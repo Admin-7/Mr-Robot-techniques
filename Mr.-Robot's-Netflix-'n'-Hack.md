@@ -645,7 +645,7 @@ During post-show discussion, we brought up:
 
 # Week 14 (S02E04)
 
-* "Pirating" (illegally downloading) movies using a [BitTorrent](https://simple.wikipedia.org/wiki/BitTorrent) client ([uTorrent](https://www.utorrent.com/), in this case, but a "better" Free Software client is [Deluge](https://deluge-torrent.org/), shown in [S03E04](#week-14-s03e04)):  
+* "Pirating" (illegally downloading) movies using a [BitTorrent](https://simple.wikipedia.org/wiki/BitTorrent) client ([uTorrent](https://www.utorrent.com/), in this case, but a "better" Free Software client is [Deluge](https://deluge-torrent.org/), shown in [S03E04](#week-26-s03e04)):  
   ![Elliot uses uTorrent to download a (fictional) movie.](https://torrentfreak.com/images/robotutorr.jpg)
   * [TorrentFreak.com](https://torrentfreak.com/mr-robot-plugs-utorrent-and-pirate-release-groups-160729/) - Popular, long-running BitTorrent news outlet.
 
