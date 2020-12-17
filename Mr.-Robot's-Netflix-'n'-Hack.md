@@ -748,6 +748,38 @@ During post-show discussion, we brought up:
 
 # Week 27 (S03E05)
 
+* Elliot logs in to his to work PC running Windows at E-Corp.  
+  ![](https://web.archive.org/web/20201217022322if_/https://i.imgur.com/9oBwAOu.png)
+  * Notice the absurdly long (24 character) password; since we hear him typing, this is probably a [pass*phrase* rather than a pass*word*](https://www.useapassphrase.com/).
+  * This Windows PC is connected to a [Windows *domain*](https://en.wikipedia.org/wiki/Windows_domain) called `E Corp-USA`.
+* "I need to check my monitoring server." Elliot uses Kibana and Logstash, and accesses the raw logs over SSH via PuTTY:
+  ![Screenshot of a Kibana dashboard.](https://web.archive.org/web/20201217023139if_/https://i.imgur.com/lyo0ctN.png)  
+  ![Screenshot of PuTTY.](https://web.archive.org/web/20201217023627if_/https://i.imgur.com/ftTjIy2.png)
+  ![Screenshot of a terminal `cd`'ing to Logstash's directory.](https://web.archive.org/web/20201217023704if_/https://i.imgur.com/1c55x98.png)
+  * [Kibana](https://www.elastic.co/kibana) is a popular and open-source data visualization tool.
+  * [Logstash](https://www.elastic.co/logstash) is a popular and open-source data ingestion and processing utility.
+  * [PuTTY](http://www.putty.org/) is a popular SSH client for Windows.
+* Edie proves a difficult mark: "I've hardened my install, further than the standard configuration, including a restrictive host-based firewall ruleset and whitelisting to block unauthorized apps from running. I think I know your culprit, though. Fred over there uses GoToMyPC all the time." And then she locks her screen!
+  ![Edie contests Elliot's social engineering premise.](https://web.archive.org/web/20201217024533if_/https://i.imgur.com/DdN23jA.png)  
+  ![And then she locks her screen!](https://web.archive.org/web/20201217025746if_/https://i.imgur.com/UFUl7Mw.png)
+  * Since Windows XP, a [host-based firewall has shipped standard with Windows](https://en.wikipedia.org/wiki/Windows_Firewall), now called Windows Defender Firewall as of Windows 10. See [Computer Hope's article, "How to enable or disable the Microsoft Windows Firewall"](https://www.computerhope.com/issues/ch000551.htm) to learn how to enable or disable it.
+  * Whitelisting, also called allow-listing, prevents any application not pre-approved from running. In Windows, you can use the Local Security Policy Editor (by launching `secpol.msc`) to tweak the settings of Window's built-in application allow-listing features, [Windows Defender Application Control (WDAC) or AppLocker](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/wdac-and-applocker-overview).
+  * [GoToMyPC](https://gotomypc.com) is a popular Windows remote access tool; when installed by end-users in corporate environments it can pose a security risk because of the way it makes PCs behind corporate firewalls accessible to others over the Internet.
+  * As Edie gets up to walk Elliot over to Fred, she locks her PC screen immediately so that passersby cannot use her computer while she's gone, a pro move. Read [10 Ways to Lock Your Windows 10 PC](https://www.howtogeek.com/686827/10-ways-to-lock-your-windows-10-pc/).
+* "Log data from the Dark Army's backdoored machine. They're using this guy's account, Frank Bowman. He's a member of the [code signing](https://en.wikipedia.org/wiki/Code_signing) architecture team. This is what they're doing: they want to sign their own firmware and bypass my patch. If they do that, they'll blow up the downtown recovery buidling. My only chance to stop it is to get to the [hardware security modules](https://en.wikipedia.org/wiki/Hardware_security_module), the HSMs. They're on the 23rd floor."
+  * Read: [Hackers are selling legitimate code-signing certificates to evade malware detection](https://www.zdnet.com/article/hackers-are-selling-legitimate-code-signing-certificates-to-evade-malware-detection/) (February 2018)
+  * Read: [APTs, RATs and Code-Signing Attacks](https://securityboulevard.com/2020/04/apts-rats-and-code-signing-attacks/) (April 2020)
+* "I'll tailgate someone." Also known as [piggybacking](https://en.wikipedia.org/wiki/Piggybacking_%28security%29).
+* Angela accesses the code signing machine on floor 23 of the E-Corp building.  
+  ![](https://web.archive.org/web/20201217034046if_/https://i.imgur.com/WQTEnDT.png)  
+  ![](https://web.archive.org/web/20201217034114if_/https://i.imgur.com/4AnkkHR.png)
+* A sign reading "There's no place like 127.0.0.1" in the geeky code signing architecture team's office.  
+  ![](https://web.archive.org/web/20201217034409if_/https://i.imgur.com/7B7tz41.png)
+  * `127.0.0.1` is the conventional IPv4 address of "this computer," or "self," or "localhost, or, as Dorothy would say it, "home."
+* Irving and Angela use call-and-response code words to authenticate their audio calls: "Marlinspike." "Moxie."  
+  ![](https://web.archive.org/web/20201217033917if_/https://i.imgur.com/RVnROmM.png)
+  * [Moxie Marlinspike](https://en.wikipedia.org/wiki/Moxie_Marlinspike) is the famous hacker and programmer best known for creating the Signal Protocol (double-ratchet aglorithm) store-and-forward end-to-end encrypted messaging system.
+
 # Week 28 (S03E06)
 
 # Week 29 (S03E07)
