@@ -14,6 +14,7 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
         1. [Hacking demonstrations](#hacking-demonstrations)
         1. [Law and Politics](#law-and-politics)
 1. [Fun](#fun)
+    1. [Biotechnology](#biotechnology)
 
 # Computer Systems
 
@@ -110,6 +111,12 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 # Fun
 
 * [Owning NFC toys I own: a case study by Vitorio Miliano](https://nfc.toys/) ([video](https://livestream.com/internetsociety3/hope/videos/178835170))
+
+## Biotechnology
+
+* [DNA: The Code of Life (SHA2017) by Bert Hubert](https://www.youtube.com/watch?v=EcGM_cNzQmE)
+
+  DNA is the code of life. It encodes how we are built, how nature operates. Science learns more and more about this uniquely digital language. This talk will excite hackers and anyone who knows a little bit about computing, since it turns out DNA is better explained in terms of bits than in terms of classical biology. Prepare to be blown away! Continued in [DNA: More Greatest Hits (SHA2017)](https://www.youtube.com/watch?v=rCdhsN--Mdo).
 
 # Triage
 
