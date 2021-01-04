@@ -786,6 +786,10 @@ During post-show discussion, we brought up:
 
 # Week 30 (S03E08)
 
+* [ProtonMail](https://protonmail.com/), a popular web-based e-mail service with built-in support for OpenPGP.  
+  ![](https://web.archive.org/web/20210104033945if_/https://i.imgur.com/hPAA3G2.png)
+  * But see [[ProtonMail]].
+
 # Week 31 (S03E09)
 
 * Using the [Volatility](https://github.com/volatilityfoundation/volatility/) memory forensics framework:
