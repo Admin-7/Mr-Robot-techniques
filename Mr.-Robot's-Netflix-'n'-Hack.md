@@ -833,8 +833,10 @@ See also [Mr. Robot Disassembled: eps3.9_shutdown -r](https://medium.com/@ryanka
   ![](https://web.archive.org/web/20210116045753if_/https://i.imgur.com/0q2Jf9n.png)
 * [`cryptsetup`](https://en.wikipedia.org/wiki/Dm-crypt#cryptsetup) and the [Linux Unified Key Setup (LUKS)](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)  
   ![](https://web.archive.org/web/20210116050327if_/https://i.imgur.com/wrlXEdP.png)  
-  ![](https://web.archive.org/web/20210116050337if_/https://i.imgur.com/aLVtzzJ.png)  
+  ![](https://web.archive.org/web/20210116051434if_/https://i.imgur.com/hPdP9tb.png)
+  ![](https://web.archive.org/web/20210116051433if_/https://i.imgur.com/Tu4P7Al.png) 
   ![](https://web.archive.org/web/20210116050347if_/https://i.imgur.com/q31i8HY.png)
+  * Elliot uses [PyLyrics](https://github.com/geekpradd/PyLyrics) to [build a better password cracking wordlist](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john#better-wordlists) based on his personal knowledge of Romero.
   * [`bruteforce-luks`](https://github.com/glv2/bruteforce-luks)
   * [`lsblk`](https://www.man7.org/linux/man-pages/man8/lsblk.8.html), "list block devices" Linux command
 
