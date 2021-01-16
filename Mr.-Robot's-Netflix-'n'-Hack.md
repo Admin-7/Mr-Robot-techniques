@@ -830,6 +830,13 @@ See also [Mr. Robot Disassembled: eps3.9_shutdown -r](https://medium.com/@ryanka
 * [Bit.ly](https://bit.ly/), a popular [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) service  
   ![](https://web.archive.org/web/20210116045619if_/https://i.imgur.com/7TqCLvQ.png)
 * [Dropbox](https://dropbox.com/), a popular [online file storage service](https://simple.wikipedia.org/wiki/File_hosting_service)  
+  ![](https://web.archive.org/web/20210116045753if_/https://i.imgur.com/0q2Jf9n.png)
+* [`cryptsetup`](https://en.wikipedia.org/wiki/Dm-crypt#cryptsetup) and the [Linux Unified Key Setup (LUKS)](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)  
+  ![](https://web.archive.org/web/20210116050327if_/https://i.imgur.com/wrlXEdP.png)  
+  ![](https://web.archive.org/web/20210116050337if_/https://i.imgur.com/aLVtzzJ.png)  
+  ![](https://web.archive.org/web/20210116050347if_/https://i.imgur.com/q31i8HY.png)
+  * [`bruteforce-luks`](https://github.com/glv2/bruteforce-luks)
+  * [`lsblk`](https://www.man7.org/linux/man-pages/man8/lsblk.8.html), "list block devices" Linux command
 
 # Week 33 (S04E01)
 
