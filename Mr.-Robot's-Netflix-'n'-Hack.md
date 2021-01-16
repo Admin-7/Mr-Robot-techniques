@@ -698,6 +698,8 @@ During post-show discussion, we brought up:
 
 # Week 23 (S03E01)
 
+See also [Mr. Robot Disassembled: eps3.0_power-saver-mode.h](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-0-power-saver-mode-h-1f8a3ba101d6).
+
 * Elliot and Darlene visit "the only [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) with a fiber connection"
 * The number "1984" are painted on the wall, a common reference to George Orwell's 1949 novel of the same name warning about a dystopian future society where electronic surveillance controls people's lives and their thoughts; is this the name of the fictional hackerspace?  
   ![](https://web.archive.org/web/20201114021504if_/https://i.imgur.com/9mmRsCK.png)
@@ -728,13 +730,19 @@ During post-show discussion, we brought up:
 
 # Week 24 (S03E02)
 
+See also [Mr. Robot Disassembled: eps3.1_undo.gz](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-1-undo-gz-c9ae6080f574).
+
 * Elliot uses [Rootkit Hunter (`rkhunter`)](http://rkhunter.sourceforge.net/) via [Kali Linux](https://www.kali.org/) to search for a rootkit on his own ([Linux Mint](https://linuxmint.com/)) system when he suspects he's been compromised:  
   ![Closeup of the rkhunter command line.](https://web.archive.org/web/20200329073616/https://i.imgur.com/grfMjYN.png)  
   ![Screenshot of rkhunter running on a Kali Linux system.](https://web.archive.org/web/20200329073855/https://i.imgur.com/dqCcxL7.png)
 
 # Week 25 (S03E03)
 
+See also [Mr. Robot Disassembled: eps3.2_legacy.so](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-2-legacy-so-a1e4bb153073).
+
 # Week 26 (S03E04)
+
+See also [Mr. Robot Disassembled: eps3.3_m3tadata.par2](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-3-m3tadata-par2-baa1e8486dd5).
 
 * "The audio's useless. He's using a goddamn voice protector!" Also known as "speech protector," "noise generator," etc.
   ![](https://web.archive.org/web/20201205030141if_/https://i.imgur.com/8lS7Ui3.png)
@@ -747,6 +755,8 @@ During post-show discussion, we brought up:
   * Court orders aren't even required in some cases. Many sites provide a metaphorical red carpet specifically for law enforcement requests as discussed in [S02E10](#week-20-s02e10).
 
 # Week 27 (S03E05)
+
+See also [Mr. Robot Disassembled: 3.4_Runtime-Error.R00](https://medium.com/@ryankazanciyan/mr-robot-disassembled-3-4-runtime-error-r00-9319c70c30f2).
 
 * Elliot logs in to his to work PC running Windows at E-Corp.  
   ![](https://web.archive.org/web/20201217022322if_/https://i.imgur.com/9oBwAOu.png)
@@ -782,7 +792,11 @@ During post-show discussion, we brought up:
 
 # Week 28 (S03E06)
 
+See also [Mr. Robot Disassembled: eps3.5_kill-process.inc](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-5-kill-process-inc-69deabb5013c).
+
 # Week 29 (S03E07)
+
+See also [Mr. Robot Disassembled: eps3.6_fredrick+tanya.chk](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-6-fredrick-tanya-chk-c05d900b46).
 
 # Week 30 (S03E08)
 
@@ -791,6 +805,8 @@ During post-show discussion, we brought up:
   * But see [[ProtonMail]].
 
 # Week 31 (S03E09)
+
+See also [Mr. Robot Disassembled: eps3.8_stage3.torrent](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-8-stage3-torrent-8b80e14fc6fb).
 
 * Using the [Volatility](https://github.com/volatilityfoundation/volatility/) memory forensics framework:
   ![Several terminal windows show the Volatility framework being used.](https://web.archive.org/web/20200328232610/https://i.imgur.com/5CdeunG.jpg)  
@@ -806,6 +822,14 @@ During post-show discussion, we brought up:
   ![The password of the Dark Army operator is revealed in a cleverly named file.](https://web.archive.org/web/20200328233606/https://i.imgur.com/AMXsiWL.jpg)
 
 # Week 32 (S03E10)
+
+See also [Mr. Robot Disassembled: eps3.9_shutdown -r](https://medium.com/@ryankazanciyan/mr-robot-disassembled-eps3-9-shutdown-r-e03d5fa0069a).
+
+* [Slackware](http://www.slackware.com/), a classic, minimalistic, and intentionally UNIX-like Linux distribution.  
+  ![](https://web.archive.org/web/20210116044214if_/https://i.imgur.com/yLkAH8x.png)
+* [Bit.ly](https://bit.ly/), a popular [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) service  
+  ![](https://web.archive.org/web/20210116045619if_/https://i.imgur.com/7TqCLvQ.png)
+* [Dropbox](https://dropbox.com/), a popular [online file storage service](https://simple.wikipedia.org/wiki/File_hosting_service)  
 
 # Week 33 (S04E01)
 
