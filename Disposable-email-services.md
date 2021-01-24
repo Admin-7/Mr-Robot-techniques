@@ -26,3 +26,4 @@ Similar services, called *email relay services* or *email aliasing services* als
 # List of email aliasing services
 
 * [Firefox Private Relay](https://relay.firefox.com/) - Mozilla Firefox Web browser extension that provides one-click alias generation and uses the Firefox Private Relay service linked to your Firefox account.
+* [RiseUp.net] - Long-running anarchist technology collective providing a suite of free hosted services, including free (by invitation) email hosting with support for unlimited email aliases.
