@@ -18,6 +18,10 @@ Sometimes, the best way to learn a thing is to just find someone willing to show
 
 # Computer Systems
 
+* [The Future of Computing - DBX 2013](https://www.youtube.com/watch?v=8pTEmbeENF4)
+
+  For his recent DBX Conference talk, Victor took attendees back to the year 1973, donning the uniform of an IBM systems engineer of the times, delivering his presentation on an overhead projector. The '60s and early '70s were a fertile time for CS ideas, reminds Victor, but even more importantly, it was a time of unfettered thinking, unconstrained by programming dogma, authority, and tradition. 'The most dangerous thought that you can have as a creative person is to think that you know what you're doing,' explains Victor. 'Because once you think you know what you're doing you stop looking around for other ways of doing things and you stop being able to see other ways of doing things. You become blind.' He concludes, 'I think you have to say: "We don't know what programming is. We don't know what computing is. We don't even know what a computer is." And once you truly understand that, and once you truly believe that, then you're free, and you can think anything.'"
+
 * [You Don't Know Jack About .bash_history - SANS DFIR Summit 2016](https://www.youtube.com/watch?v=wv1xqOV2RyE)
 
   The .bash_history file tracks a user’s command history and is an important artifact in Linux and Mac forensics. But many investigators don’t understand the rules for how and when they are written and can make wrong investigative assumptions. Suspects may attempt anti-forensic techniques to corrupt or remove .bash_history content. In other words, “It’s complicated.” Using both disk and memory based forensics, Hal Pomeranz will shine a little light on some of the darker corners of bash behavior. What does “normal” look like? What artifacts besides the .bash_history itself can we use to achieve certainty about user behavior? How does a combination of disk and memory forensics help us when interpreting a user’s command history?
