@@ -137,7 +137,26 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 
 ### Configuring an Android-based mobile device for authenticated Version 3 Onion services
 
-At the time of this writing, Android cannot connect to authenticated Version 3 Onion services. When available, [Orbot](https://www.torproject.org/docs/android.html) may make it possible to connect to authenticated Version 3 Onion services on Android-based mobile devices.
+**Do this** to connect to an authenticated Version 3 Onion service from your Android-based phone:
+
+1. Install [Orbot](https://guardianproject.info/apps/orbot/). You can acquire Orbot from the Google Play Store or, preferably, from [F-Droid](https://f-droid.org/), a [Free Software](https://www.gnu.org/philosophy/free-sw.html) app store that offers most of the same apps as the Google Play Store, but free of charge.
+1. Configure Orbot:
+    1. Tap the vertical ellipse menu at the top-right.
+    1. Tap the *Onion Services* menu.
+    1. Tap the *v3 Onion Service Client Authorization* menu item.
+    1. Tap the compose button on the bottom-right of the screen.
+    1. In the *v3 onion Domain* field enter the full 56 character Onion address (optionally including the `.onion` suffix) of your Onion Service
+    1. In the *x25519 Private Key in Base 32* field enter the hash of the private key you were given for this Onion Service
+    1. Tap *Save*
+    1. Tap the back button (&larr;) in the top-left corner of the screen to return to Orbot's main activity screen.
+1. Restart Orbot:
+    1. Tap the vertical ellipse menu at the top-right.
+    1. Tap the *Exit* menu item. This will fully close Orbot.
+    1. Launch Orbot again. This time, Orbot will be able to connect you to the Onion service.
+    
+> 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you can tap the verticle ellpises menu on the *v3 Onion Service Client Authorization* screen and select *import .auth_private* and load the file from your device's filesystem. Storing `.auth_private` files on an Android device's external storage can be dangerous though as you can potentially allow other apps to read your private key. 
+
+
 
 ### Configuring an Apple iOS device for authenticated Version 3 Onion services
 
@@ -198,10 +217,10 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 **Do this** to connect to an authenticated Version 2 Onion service from your Android-based phone:
 
 1. Install [Orbot](https://guardianproject.info/apps/orbot/). You can acquire Orbot from the Google Play Store or, preferably, from [F-Droid](https://f-droid.org/), a [Free Software](https://www.gnu.org/philosophy/free-sw.html) app store that offers most of the same apps as the Google Play Store, but free of charge.
-1. Install [Orfox](https://guardianproject.info/apps/orfox/). You can acquire Orfox from the Google Play Store or, preferably, from F-Droid.
 1. Configure Orbot:
     1. Tap the vertical ellipse menu at the top-right.
-    1. Tap the *Hidden Services* menu.
+    1. Tap the *Onion Services* menu.
+    1. Tap the *v2 Onion Servics (Deprecated)* menu.
     1. Tap the *Client cookies* menu item. The Client cookies activity screen will appear.
     1. Tap the compose button on the bottom-right of the screen.
     1. In the *.onion* field, enter the full Onion address (including the `.onion` suffix) of your Onion service.
@@ -212,11 +231,8 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
     1. Tap the vertical ellipse menu at the top-right.
     1. Tap the *Exit* menu item. This will fully close Orbot.
     1. Launch Orbot again. This time, Orbot will be able to connect you to the Onion service.
-1. Launch Orfox.
-    1. From Orbot's main screen, press the *Browse* button. This will launch Orfox if it is already installed.
-1. Type in the Onion service URL (including the `.onion` suffix) into Orfox's Web address bar, then press *Go* on your software keyboard.
 
-You should now be able to connect to the `.onion` address that you configured in Orbot's "Hidden Services" menu (assuming, of course, that the Onion service is a website).
+
 
 ### Configuring an Apple iOS device for authenticated Version 2 Onion services
 
