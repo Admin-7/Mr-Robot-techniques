@@ -141,22 +141,20 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 
 1. Install [Orbot](https://guardianproject.info/apps/orbot/). You can acquire Orbot from the Google Play Store or, preferably, from [F-Droid](https://f-droid.org/), a [Free Software](https://www.gnu.org/philosophy/free-sw.html) app store that offers most of the same apps as the Google Play Store, but free of charge.
 1. Configure Orbot:
-    1. Tap the vertical ellipse menu at the top-right.
-    1. Tap the *Onion Services* menu.
-    1. Tap the *v3 Onion Service Client Authorization* menu item.
+    1. Tap the vertical ellipse menu at the top-right of the screen.
+    1. Open the *Onion Services* menu.
+    1. Select the *v3 Onion Service Client Authorization* menu item.
     1. Tap the compose button on the bottom-right of the screen.
-    1. In the *v3 onion Domain* field enter the full 56 character Onion address (optionally including the `.onion` suffix) of your Onion Service
-    1. In the *x25519 Private Key in Base 32* field enter the hash of the private key you were given for this Onion Service
-    1. Tap *Save*
+    1. In the *v3 onion Domain* field, enter the full 56 character Onion address (optionally including the `.onion` suffix) of the Onion service.
+    1. In the *x25519 Private Key in Base 32* field, enter the hash of the private key for this Onion Service.
+    1. Tap the *Save* button.
     1. Tap the back button (&larr;) in the top-left corner of the screen to return to Orbot's main activity screen.
 1. Restart Orbot:
-    1. Tap the vertical ellipse menu at the top-right.
-    1. Tap the *Exit* menu item. This will fully close Orbot.
+    1. Tap the vertical ellipse menu at the top-right of the screen.
+    1. Select the *Exit* menu item. This will fully close Orbot.
     1. Launch Orbot again. This time, Orbot will be able to connect you to the Onion service.
-    
-> 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you can tap the verticle ellpises menu on the *v3 Onion Service Client Authorization* screen and select *import .auth_private* and load the file from your device's filesystem. Storing `.auth_private` files on an Android device's external storage can be dangerous though as you can potentially allow other apps to read your private key. 
 
-
+> 💡🔰 If you were given a `.auth_private` file by your Onion service operator, you can tap the verticle ellipse menu on the *v3 Onion Service Client Authorization* screen and select *Import .auth_private* to load the file from your device's filesystem. After confirming that you can now access the Onion service, you should consider deleting the `.auth_private` file from your device's filesystem because storing sensitive files on an Android device's external storage can be dangerous as other apps may be able to access them there.
 
 ### Configuring an Apple iOS device for authenticated Version 3 Onion services
 
@@ -195,7 +193,7 @@ The exact procedure for setting up your Tor client to connect to a Tor server's 
 **Do this** to connect to an authenticated Version 2 Onion service from your laptop or desktop computer. The procedure here assumes the use of the Tor client built-in to the Tor Browser, but the same procedure applies to a system Tor with appropriately modified filesystem paths:
 
 1. Install Tor Browser from [TorProject.org](https://www.torproject.org/download/download-easy.html).
-1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, poke them until they send you your access credentials. :) 
+1. Acquire the access credentials you need from the Onion service operator. I.e., get in touch with them and ask them for access. If they do not respond, poke them until they send you your access credentials. :)
 1. Locate the `torrc` file that you need to edit. The location of this file is slightly different depending on your computer's operating system:
     > 🔰 In the following file paths, the `~` character or the `%HOMEDRIVE%%HOMEPATH%` sequence refers to "wherever your home folder is."
     * In *macOS*, edit `~/Library/Application Support/TorBrowser-Data/Tor/torrc`.
@@ -220,7 +218,7 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
 1. Configure Orbot:
     1. Tap the vertical ellipse menu at the top-right.
     1. Tap the *Onion Services* menu.
-    1. Tap the *v2 Onion Servics (Deprecated)* menu.
+    1. Tap the *v2 Onion Services (Deprecated)* menu.
     1. Tap the *Client cookies* menu item. The Client cookies activity screen will appear.
     1. Tap the compose button on the bottom-right of the screen.
     1. In the *.onion* field, enter the full Onion address (including the `.onion` suffix) of your Onion service.
@@ -231,8 +229,6 @@ After re-opening Tor Browser, you should now be able to connect to the `.onion` 
     1. Tap the vertical ellipse menu at the top-right.
     1. Tap the *Exit* menu item. This will fully close Orbot.
     1. Launch Orbot again. This time, Orbot will be able to connect you to the Onion service.
-
-
 
 ### Configuring an Apple iOS device for authenticated Version 2 Onion services
 
