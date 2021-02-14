@@ -60,7 +60,7 @@ See also: [[Glossary]].
 
 Find a given practice environment such as a foundations lab, an attack exercise, or a detailed guide through the links in this section. These are listed in a (rough) suggested order based on topic.
 
-## [Practice labs](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/practice-labs/README.md#readme)
+## [Practice labs](https://github.com/AnarchoTechNYC/meta/blob/main/train-the-trainers/practice-labs/README.md#readme)
 
 1. [Introduction to Virtual Machine Management with Vagrant](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/introduction-to-virtual-machine-management-with-vagrant)
 1. [Securing a Shell Account on a Shared Server](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/securing-a-shell-account-on-a-shared-server)
@@ -73,7 +73,7 @@ Find a given practice environment such as a foundations lab, an attack exercise,
 1. [Configuration and Change Management with Ansible](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/configuration-and-change-management-with-ansible)
 1. [Container Construction and Management](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/container-construction-and-management)
 
-## [Mr. Robot's Netflix 'n' Hack](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/README.md#readme)
+## [Mr. Robot's Netflix 'n' Hack](https://github.com/AnarchoTechNYC/meta/blob/main/train-the-trainers/mr-robots-netflix-n-hack/README.md#readme)
 
 1. Week 1
     * [Secretly sharing files with OnionShare and Tor Browser](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser)
@@ -99,7 +99,7 @@ Find a given practice environment such as a foundations lab, an attack exercise,
 1. Week 16
     * [Using Signal to communicate with your team safely](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-16/using-signal-to-communicate-with-your-team-safely)
 
-## [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/black-hat-bash-back/README.md#readme)
+## [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/blob/main/train-the-trainers/black-hat-bash-back/README.md#readme)
 
 1. [Introduction to Exploiting Web Applications](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/introduction-to-exploiting-web-applications)
 1. [Performing and Detecting an ARP Cache Poisoning Attack](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/performing-and-detecting-an-arp-cache-poisoning-attack)
@@ -140,6 +140,6 @@ Nevertheless, the ubiquity of Web technologies such as HTML, CSS, and JavaScript
 
 ## Information security
 
-Information security ("[[InfoSec]]") is the practice of protecting (possibly very sensitive) information from unauthorized or unintentional access, modification, or outright destruction. Our collective's work is atypical in that we make every attempt to discuss security-related concepts and considerations inline at every opportunity, which supports our [Train the Trainers](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/README.md) project. Nevertheless, we also offer a learning path and study guide for those interested in developing their InfoSec skills, specifically.
+Information security ("[[InfoSec]]") is the practice of protecting (possibly very sensitive) information from unauthorized or unintentional access, modification, or outright destruction. Our collective's work is atypical in that we make every attempt to discuss security-related concepts and considerations inline at every opportunity, which supports our [Train the Trainers](https://github.com/AnarchoTechNYC/meta/blob/main/train-the-trainers/README.md) project. Nevertheless, we also offer a learning path and study guide for those interested in developing their InfoSec skills, specifically.
 
 See [[Getting started on InfoSec]] for InfoSec learning path recommendations.

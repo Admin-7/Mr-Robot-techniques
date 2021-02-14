@@ -1,6 +1,6 @@
 # Meta Wiki
 
-> 📝 This page exists to provide parity with a local clone of the `meta` repository. Treat this file like a `README.md` file as [described in the repository's own README itself](https://github.com/AnarchoTechNYC/meta/blob/master/README.md#repository-structure), rather than as a wiki page.
+> 📝 This page exists to provide parity with a local clone of the `meta` repository. Treat this file like a `README.md` file as [described in the repository's own README itself](https://github.com/AnarchoTechNYC/meta/blob/main/README.md#repository-structure), rather than as a wiki page.
 
 We make extensive use of our [`meta` repository](https://github.com/AnarchoTechNYC/meta)'s [associated wiki](https://github.com/AnarchoTechNYC/meta/wiki) to provide:
 
