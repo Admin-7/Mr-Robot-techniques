@@ -62,31 +62,31 @@ Find a given practice environment such as a foundations lab, an attack exercise,
 
 ## [Practice labs](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/practice-labs/README.md#readme)
 
-1. [Introduction to Virtual Machine Management with Vagrant](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/introduction-to-virtual-machine-management-with-vagrant)
-1. [Securing a Shell Account on a Shared Server](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/securing-a-shell-account-on-a-shared-server)
-1. [Introduction to Basic Network Administration](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/introduction-to-basic-network-administration)
-1. [Introduction to Securing (Virtualized) Secure Shell Servers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/introduction-to-securing-virtualized-secure-shell-servers)
-1. [Introduction to Network Sniffing and Scanning](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/introduction-to-network-sniffing-and-scanning)
-1. [Introduction to Anonymous Communications Using Tor](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/introduction-to-anonymous-communications-using-tor)
-1. [Domain Name System Server Administration](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/domain-name-system-server-administration)
-1. [Network Perimeter Defenses](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/network-perimeter-defenses)
-1. [Configuration and Change Management with Ansible](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/configuration-and-change-management-with-ansible)
-1. [Container Construction and Management](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/practice-labs/container-construction-and-management)
+1. [Introduction to Virtual Machine Management with Vagrant](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/introduction-to-virtual-machine-management-with-vagrant)
+1. [Securing a Shell Account on a Shared Server](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/securing-a-shell-account-on-a-shared-server)
+1. [Introduction to Basic Network Administration](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/introduction-to-basic-network-administration)
+1. [Introduction to Securing (Virtualized) Secure Shell Servers](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/introduction-to-securing-virtualized-secure-shell-servers)
+1. [Introduction to Network Sniffing and Scanning](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/introduction-to-network-sniffing-and-scanning)
+1. [Introduction to Anonymous Communications Using Tor](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/introduction-to-anonymous-communications-using-tor)
+1. [Domain Name System Server Administration](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/domain-name-system-server-administration)
+1. [Network Perimeter Defenses](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/network-perimeter-defenses)
+1. [Configuration and Change Management with Ansible](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/configuration-and-change-management-with-ansible)
+1. [Container Construction and Management](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/practice-labs/container-construction-and-management)
 
 ## [Mr. Robot's Netflix 'n' Hack](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/mr-robots-netflix-n-hack/README.md#readme)
 
 1. Week 1
-    * [Secretly sharing files with OnionShare and Tor Browser](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser)
+    * [Secretly sharing files with OnionShare and Tor Browser](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-1/secretly-sharing-files-with-onionshare-and-tor-browser)
 1. Week 2
-    * [Shellshock and the Importance of Patch Management](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/shellshock-and-the-importance-of-patch-management)
-    * [Strengthening Passwords to Defend Against John](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john)
+    * [Shellshock and the Importance of Patch Management](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-2/shellshock-and-the-importance-of-patch-management)
+    * [Strengthening Passwords to Defend Against John](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john)
 1. Week 3
-    * [Recognizing fake websites and phishing scams](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-3/recognizing-fake-websites-and-phishing-scams)
+    * [Recognizing fake websites and phishing scams](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-3/recognizing-fake-websites-and-phishing-scams)
 1. Week 4
 1. Week 5
 1. Week 6
-    * [Securing your Wi-Fi router from infiltrators](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-6/securing-your-wifi-router-from-infiltrators)
-    * See [Black Hat Bash Back](#black-hat-bash-back): [Using Metasploit to Find and Exploit Remote Vulnerabilities](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/black-hat-bash-back/using-metasploit-to-find-and-exploit-remote-vulnerabilities)
+    * [Securing your Wi-Fi router from infiltrators](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-6/securing-your-wifi-router-from-infiltrators)
+    * See [Black Hat Bash Back](#black-hat-bash-back): [Using Metasploit to Find and Exploit Remote Vulnerabilities](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/using-metasploit-to-find-and-exploit-remote-vulnerabilities)
 1. Week 7
 1. Week 8
 1. Week 9
@@ -97,13 +97,13 @@ Find a given practice environment such as a foundations lab, an attack exercise,
 1. Week 14
 1. Week 15
 1. Week 16
-    * [Using Signal to communicate with your team safely](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-16/using-signal-to-communicate-with-your-team-safely)
+    * [Using Signal to communicate with your team safely](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-16/using-signal-to-communicate-with-your-team-safely)
 
 ## [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/blob/master/train-the-trainers/black-hat-bash-back/README.md#readme)
 
-1. [Introduction to Exploiting Web Applications](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/black-hat-bash-back/introduction-to-exploiting-web-applications)
-1. [Performing and Detecting an ARP Cache Poisoning Attack](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/black-hat-bash-back/performing-and-detecting-an-arp-cache-poisoning-attack)
-1. [Using Metasploit to Find and Exploit Remote Vulnerabilities](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/black-hat-bash-back/using-metasploit-to-find-and-exploit-remote-vulnerabilities)
+1. [Introduction to Exploiting Web Applications](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/introduction-to-exploiting-web-applications)
+1. [Performing and Detecting an ARP Cache Poisoning Attack](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/performing-and-detecting-an-arp-cache-poisoning-attack)
+1. [Using Metasploit to Find and Exploit Remote Vulnerabilities](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/using-metasploit-to-find-and-exploit-remote-vulnerabilities)
 
 # Suggested learning path
 

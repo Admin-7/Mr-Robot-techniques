@@ -3,7 +3,7 @@
 * Tagline: Let Mr. Robot teach you how to hack—and how to stop hackers from hacking you!
 * Description: Watch an episode of "[Mr. Robot](https://www.themoviedb.org/tv/62560-mr-robot)," a TV show dramatizing the lives of rogue hackers in NYC with unparalleled technical accuracy, and then get an introduction to how the tools, techniques, and procedures ("[TTPs](https://forensicswiki.xyz/wiki/index.php?title=Cyber_Threat_Intelligence#TTP)") shown in the episode work in real life. After we watch an episode of the show, we'll discuss the tools used, get them installed on our laptops, and try them out. When we meet next, we'll show one another what we've learned, and continue with the next episode. By the end of the 10 week first season, you'll have gotten a hands-on tour of various tools in the [Kali Linux](https://www.kali.org/) penetration testing distro, and a better sense of how to separate fiction from reality in contemporary hacking dramas in pop culture. We'll finish by tackling [a Mr. Robot themed hacking challenge](https://www.vulnhub.com/entry/mr-robot-1,151/) so you can practice what you've learned, and maybe even join a [[hacking team|CTF team]].
 * Facilitating: [[How to facilitate Mr. Robot's Netflix 'n' Hack]]
-* See also: [[InfoSec]], [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/#readme), [🌐 GeekWire's "Mr. Robot Rewind" series](http://www.geekwire.com/tag/mr-robot/) (*contains spoilers*), [Manisso/fsociety](https://github.com/Manisso/fsociety), [[Glossary]].
+* See also: [[InfoSec]], [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/#readme), [🌐 GeekWire's "Mr. Robot Rewind" series](http://www.geekwire.com/tag/mr-robot/) (*contains spoilers*), [Manisso/fsociety](https://github.com/Manisso/fsociety), [[Glossary]].
 
 Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see if this is a show you might enjoy watching and learning from:
 
@@ -157,7 +157,7 @@ Watch the [Mr. Robot trailer](http://www.youtube.com/watch?v=U94litUpZuc) to see
 * "Who knows how deep these data dumps will get?"
   * "Data dump" is data acquired from a breach; read [Troy Hunt on how he verifies data breaches](https://www.troyhunt.com/heres-how-i-verify-data-breaches/)
   * Also sign up for https://HaveIBeenPwned.org
-  * DO. NOT. RE. USE. PASSWORDS. Do [use password managers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john#using-a-password-manager) like [LastPass](http://lastpass.com/), [KeePass](http://keepass.info/), [etc](https://prism-break.org/en/all/#password-managers).
+  * DO. NOT. RE. USE. PASSWORDS. Do [use password managers](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john#using-a-password-manager) like [LastPass](http://lastpass.com/), [KeePass](http://keepass.info/), [etc](https://prism-break.org/en/all/#password-managers).
 * Darlene is a "malware coder," writes exploits:
   * [McAffee's malware search database](http://www.mcafee.com/threat-intelligence/malware/latest.aspx)
   * [Blog post listing malware sources](https://zeltser.com/malware-sample-sources/)
@@ -836,7 +836,7 @@ See also [Mr. Robot Disassembled: eps3.9_shutdown -r](https://medium.com/@ryanka
   ![](https://web.archive.org/web/20210116051434if_/https://i.imgur.com/hPdP9tb.png)
   ![](https://web.archive.org/web/20210116051433if_/https://i.imgur.com/Tu4P7Al.png) 
   ![](https://web.archive.org/web/20210116050347if_/https://i.imgur.com/q31i8HY.png)
-  * Elliot uses [PyLyrics](https://github.com/geekpradd/PyLyrics) to [build a better password cracking wordlist](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john#better-wordlists) based on his personal knowledge of Romero.
+  * Elliot uses [PyLyrics](https://github.com/geekpradd/PyLyrics) to [build a better password cracking wordlist](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/week-2/strengthening-passwords-to-defend-against-john#better-wordlists) based on his personal knowledge of Romero.
   * [`bruteforce-luks`](https://github.com/glv2/bruteforce-luks)
   * [`lsblk`](https://www.man7.org/linux/man-pages/man8/lsblk.8.html), "list block devices" Linux command
 

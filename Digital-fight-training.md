@@ -1,10 +1,10 @@
 > [[Wiki|Home]] ▸ [[Activities and events]] ▸ **Digital fight training**
 
-> ⚠️ This has been superseded by [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/black-hat-bash-back/).
+> ⚠️ This has been superseded by [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/).
 
 * Tagline: Duel in cyberspace by both defending and attacking networks and devices with "live fire" (but simulated) tools and techniques.
 * Description: Practice defending against and executing a specific real-world threat in a live (but simulated) duel against your sparring partners. If you can set up a new email account, you can learn how to set up a network, service, or device as well as how to hack into it. In each session, we'll demystify a specific threat (network monitoring, password recovery, web app compromise, etc) by pairing off into groups and switching between one of two roles: "attacker" or "defender." Defenders are tasked with configuring one or more services, devices, or networks to withstand cyber attacks, while attackers will be tasked with breaching and/or exfiltrating data from those services, devices, or networks. After a short time, attackers become defenders and defenders become attackers, and the duels repeat, so everyone gets a chance to be both an attacker and defender. This is not about winning or losing, but rather sparring in a digital arena to better understand the terrain, expand your capabilities in it, and become an expert at both offensive and defensive techniques.
-* See also: [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/black-hat-bash-back/)
+* See also: [Black Hat Bash Back](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/black-hat-bash-back/)
 
 > 🚧 TK-WORK IN PROGRESS: I'm not certain how this format should go, yet. There are many [[CTFs|InfoSec#ctfs-and-hacking-games]] that we could join, but those don't typically require us to *set up* our own infrastructure. The point of *defense* against the dark arts is to do exactly that: learn how to harden and protect our own communities, not just how to go on the offense. So, I'm of two minds. Either:
 > 

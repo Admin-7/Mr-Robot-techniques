@@ -34,7 +34,7 @@ If TV shows are your thing, and you don't mind using them to study instead of ju
 1. Download and optionally print out the [Hacker Highschool PDFs](http://www.hackerhighschool.org/lessons.html) (these are also listed in [[InfoSec § Lesson plans and guidance|InfoSec#lesson-plans-and-guidance]], and start reading. (Ignore the bullshit American exceptionalism and capitalist propaganda. In fact, find someone to make fun of it with. Trust us, it helps.)
 1. Do the exercises in the Hacker Highschool course, and incrementally work your way through Mr. Robot Season 1 as you read more of the course. Focus on whichever thing feels more fruitful to you.
 1. As you get more curious/comfortable, read the rest of the [[InfoSec]] page and follow links to the various other things there. Especially the [[§ For defenders|InfoSec#for-defenders]] parts.
-1. Try out the [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/master/train-the-trainers/mr-robots-netflix-n-hack/) exercises at whatever pace you want to. Help us make more of them!
+1. Try out the [Mr. Robot Trains the Trainers](https://github.com/AnarchoTechNYC/meta/tree/main/train-the-trainers/mr-robots-netflix-n-hack/) exercises at whatever pace you want to. Help us make more of them!
 
 # "Start with a few PicoCTF challenges, then follow up with Hacker Highschool."
 
