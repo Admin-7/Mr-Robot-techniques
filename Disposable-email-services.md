@@ -17,6 +17,7 @@ Similar services, called *email relay services* or *email aliasing services* als
 
 * [FakeMailGenerator.com](http://www.fakemailgenerator.com/)
 * [GuerrillaMail.com](https://www.guerrillamail.com/) - Temporary addresses for anti-spam purposes; [do not use GuerrillaMail for "anonymous email."](https://web.archive.org/web/20151029140147/https://www.guerrillamail.com/blog/statement-on-harvard-incident/)
+* [Maildrop](https://maildrop.cc/)
 * [Mailinator.com](https://www.mailinator.com/) (also provides [[Disposable SMS services]])
 * [NowMyMail.com](http://nowmymail.com/)
 * [Temp-Mail.org](https://temp-mail.org/)
